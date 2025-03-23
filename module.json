@@ -1,7 +1,7 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "fist-of-the-ruby-phoenix-addons",
+  "title": "Fist of the Ruby Phoenix: Addons",
+  "description": "Small addons of actors , animations, maps and tips for Fists of the Ruby Phoenix",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -34,6 +34,20 @@
       "lang": "en",
       "name": "English",
       "path": "languages/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "fist-of-the-ruby-phoenix-addons",
+      "label": "Fist of the Ruby Phoenix: Addons",
+      "path": "packs/fist-of-the-ruby-phoenix-addons",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
     }
   ],
   "url": "#{URL}#",
