@@ -1,8 +1,31 @@
+## 0.2.0
+
+- `New`
+  - `Actors`
+    - More balance patches from (@ShyGuy32) for the following teams
+      - `Nightmares`
+    - and actors:
+      - `Tyrannosaur Imperator`
+      - `Grave Spinosaurus`
+      - `Caustic Monitor`
+      - `Dread Wraith`
+      - `Watchtower Wraith`
+      - `Tamikan`
+      - `Jaiban`
+      - `Manananggal`
+      - `Berberoka`
+      - `Gomwai`
+      - `Elder Cauthooj`
+      - `Hana's Hundreds`
+      - `Planar Terra-cotta Soldier`
+      - `Planar Terra-cotta Squadron`
+
 ## 0.1.0
+
 - `New`
   - `Actors`
     - `Agile Warrior`, `Archery Specialist`, `Ki Adept`, `Mage of Many Styles`, and `Weapon Master` (Rebalanced)
       - Applied changes recommended by (@ShyGuy32)
     - Added `Ahmoza Twins` with those changes as well as actual functionality for their `Channel Elements` ability
-    - Added base changes to  `Golarian's Finest`
+    - Added base changes to `Golarian's Finest`
     - Applied changes to `Lightning Callers`
