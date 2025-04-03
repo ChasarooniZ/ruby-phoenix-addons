@@ -1,3 +1,8 @@
+## 0.2.1
+
+- Fixed imagepath for `Mage of Many Styles` (🐛 @Ghostflame)
+- Updated spells to **Remaster** equivalent (🐛 @Ghostflame)
+
 ## 0.2.0
 
 - `New`
