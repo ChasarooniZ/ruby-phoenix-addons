@@ -1,3 +1,10 @@
+## 0.3.0
+
+- `New`
+  - `Actors`
+    - `Koto Zekora` - Matched similar art, updated spells to remaster
+    - `Nai Yen Fei` - Added art from NPC pack
+
 ## 0.2.1
 
 - Fixed imagepath for `Mage of Many Styles` (🐛 @Ghostflame)
