@@ -1,3 +1,18 @@
+## 0.4.0
+
+- `New`
+  - `Actors`
+    - `Ran-To` - rebalance stats and damage (💡 @ShyGuy32)
+    - `Shino Hakusa` - rebalance stats and damage (💡 @ShyGuy32)
+    - `Blue Viper` - rebalance stats and damage, (updated item list to match FotRP Expanded) (💡 @ShyGuy32)
+    - `Syu Tak-Nwa` - Updated witch type, updated spells to match FotRP:E and updated to remaster, rebalance stats and damage (💡 @ShyGuy32)
+      - `Yon-so` - Added a good enough version of `Syu Tak-Nwa`'s familiar
+    - `Butterfly Blade Warrior` - rebalance stats and damage, added relevant skill feats to them, (_Twin Distraction, and Debilitating Strike_) (💡 @ShyGuy32)
+- `Updated`
+  - `Actors`
+    - `Koto Zekora` - rebalance stats and damage (💡 @ShyGuy32)
+    - `Gomwi` - rebalance stats and damage (💡 @ShyGuy32)
+
 ## 0.3.0
 
 - `New`
