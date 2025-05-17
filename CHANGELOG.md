@@ -31,7 +31,7 @@
 - `Updated`
   - `Actors`
     - `Koto Zekora` - rebalance stats and damage (💡 @ShyGuy32)
-    - `Gomwi` - rebalance stats and damage (💡 @ShyGuy32)
+    - `Gomwai` - rebalance stats and damage (💡 @ShyGuy32)
 
 ## 0.3.0
 
