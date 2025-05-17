@@ -1,0 +1,93 @@
+#timeTrackerWrapper {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 98vw;
+  max-width: 98vw;
+  display: flex;
+  justify-content: center;
+  z-index: 1000;
+  pointer-events: none;
+}
+#timeSegmentsRow {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  pointer-events: auto;
+  width: 100%;
+  max-width: 1800px;
+  min-width: 320px;
+  box-sizing: border-box;
+  overflow-x: auto;
+  background: none;
+}
+.segment {
+  width: 35px;
+  height: 100px;
+  border: 1.5px solid #333;
+  margin: 0 2px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  background-color: rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+  font-size: 0.95em;
+}
+.segment.colored {
+  background-color: #e53935;
+}
+.segment-label {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  letter-spacing: 0.5px;
+  color: #222;
+  text-shadow: 0 1px 2px #fff, 0 0 2px #fff;
+  pointer-events: none;
+  user-select: none;
+}
+.sun-icon {
+  font-size: 1.5em;
+  color: #ffb300;
+  margin-bottom: 2px;
+  text-shadow: 0 0 8px #fffbe7, 0 0 2px #fffbe7, 0 0 0 2px #fff,
+    /* white border effect */ 0 0 4px #fff;
+  pointer-events: none;
+  user-select: none;
+  border-radius: 50%;
+}
+#timeTrackerToggleBtn {
+  align-self: stretch;
+  width: 38px;
+  min-width: 38px;
+  max-width: 38px;
+  height: auto;
+  background: linear-gradient(135deg, #e53935 60%, #222 100%);
+  border: 2px solid #fff;
+  border-left: none;
+  border-radius: 0 8px 8px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 2em;
+  color: #fff;
+  margin-left: 4px;
+  pointer-events: auto;
+  user-select: none;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.25);
+  font-weight: bold;
+  transition: background 0.2s, box-shadow 0.2s, color 0.2s;
+  outline: 2px solid #fff;
+  outline-offset: -2px;
+}
+#timeTrackerToggleBtn:hover {
+  background: linear-gradient(135deg, #ff5252 60%, #444 100%);
+  color: #fff700;
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.35);
+  filter: brightness(1.1);
+}

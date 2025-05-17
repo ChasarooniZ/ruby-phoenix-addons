@@ -1,3 +1,23 @@
+## 0.5.0
+
+- `New`
+  - `Time Tracker`
+    - Added a new time tracker function for the `Danger Island` chapter to track time
+    - It just consists of 32 half hour segments as in the AP
+    - It must be **Toggled on in the settings** and then every connected player must reload
+    - **Note:**
+      - As is, its a little scuffed (my knowledge of writing this type of code is pretty low, so styling etc. may be a bit rough)
+      - It does NOT interact with the time of day
+  - `Danger Island Hexcrawl`
+    - Added new Scene for Hexcrawl (Thanks to the lovely Pinewave for the excellent map)
+      - You can use either **Fog of War** or the module **World Explorer** (it is preconfigured for it) to reveal tiles
+    - Additionally there is a new support macro for it:
+      - `2. Hex Crawl Helper` - Which allows for easy toggling of the visibility of some locations as well as for visibility of the travel cost icons
+  - `Maps`
+    - `C1. Beach Site` - An actual beach site that matches the general description from the AP (@ChasarooniZ)
+    - `E. Stone Market` - Note, only contains one real "stall" but i felt it was a good enough representation for now (@ChasarooniZ)
+    - `G8. Dromornis Den` - (@ChasarooniZ)
+
 ## 0.4.0
 
 - `New`

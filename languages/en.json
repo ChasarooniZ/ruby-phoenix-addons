@@ -1,3 +1,35 @@
 {
-    "MODULE.hello": "hello"
+  "I18N.LANGUAGE": "English",
+  "fist-of-the-ruby-phoenix-addons": {
+    "module-settings": {
+      "time-tracker": {
+        "enabled": {
+          "name": "Enable Hexcrawl Time Tracker",
+          "hint": "Toggle this one to enable the time tracker for the Bonmu hex crawl tracker. (to interact with it left click and right click on it to increase or diminish it, NOTE: It does NOT interact with the time of day)"
+        }
+      }
+    },
+    "dialog": {
+      "hexcrawl-helper": {
+        "title": "Hexcrawl Content Manager",
+        "click-to-select": "Click a hex to select it.",
+        "nothing-found": "No content found",
+        "hex-content": "Hex Content ({col}, {row})",
+        "notes": "Notes",
+        "unnamed-location": "Unnamed Location",
+        "visible": "Visible",
+        "hidden": "hidden",
+        "cost-labels": "Cost Labels",
+        "movement-cost": "Movement Cost",
+        "reconnoiter-cost": "Reconnoiter Cost",
+        "buttons": {
+          "check-all": "Check All",
+          "uncheck-all": "Uncheck All",
+          "hide": "Hide Selected",
+          "reveal": "Reveal Selected",
+          "close": "Close"
+        }
+      }
+    }
+  }
 }

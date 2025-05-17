@@ -1,7 +1,7 @@
 {
   "id": "fist-of-the-ruby-phoenix-addons",
-  "title": "Fist of the Ruby Phoenix: Addons",
-  "description": "Small addons of actors , animations, maps and tips for Fists of the Ruby Phoenix",
+  "title": "Fists of the Ruby Phoenix: Addons",
+  "description": "Small addons of actors, animations, maps and tips for Fists of the Ruby Phoenix",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -48,6 +48,17 @@
       },
       "system": "pf2e",
       "flags": {}
+    },
+    {
+      "name": "fist-of-the-ruby-phoenix-addons-maps",
+      "label": "Fist of the Ruby Phoenix: Addons (Maps)",
+      "path": "packs/fist-of-the-ruby-phoenix-addons-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
     }
   ],
   "url": "#{URL}#",
