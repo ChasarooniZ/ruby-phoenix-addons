@@ -1,3 +1,7 @@
+## 0.5.1
+- `Fix`
+  - Actually included the assets
+
 ## 0.5.0
 
 - `New`
@@ -9,7 +13,7 @@
       - As is, its a little scuffed (my knowledge of writing this type of code is pretty low, so styling etc. may be a bit rough)
       - It does NOT interact with the time of day
   - `Danger Island Hexcrawl`
-    - Added new Scene for Hexcrawl (Thanks to the lovely Pinewave for the excellent map)
+    - Added new Scene for Hexcrawl (Thanks to the lovely @Pinewave for the excellent map)
       - You can use either **Fog of War** or the module **World Explorer** (it is preconfigured for it) to reveal tiles
     - Additionally there is a new support macro for it:
       - `2. Hex Crawl Helper` - Which allows for easy toggling of the visibility of some locations as well as for visibility of the travel cost icons
