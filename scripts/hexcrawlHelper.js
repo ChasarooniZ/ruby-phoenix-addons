@@ -52,7 +52,8 @@ export async function hexCrawlHelper() {
 
     // Build dialog content
     let content = `<div class="form-group"><h3>${
-      (localize("dialog.hexcrawl-helper.hex-content"), { col, row })
+      (localize("dialog.hexcrawl-helper.hex-content"),
+      { col: String(col), row: String(row) })
     }</h3>`;
 
     // Notes section
