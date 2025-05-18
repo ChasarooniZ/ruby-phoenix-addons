@@ -12,7 +12,7 @@ export async function timeTracker() {
   // Register setting if not present
   if (
     game.settings.settings.get(`${MODULE_ID}.${TIME_TRACKING_SETTING_KEY}`)
-      .length !== DEFAULT_SEGMENT_COUNT
+      ?.length !== DEFAULT_SEGMENT_COUNT
   ) {
     await game.settings.register(MODULE_ID, TIME_TRACKING_SETTING_KEY, {
       name: "Time Tracker State",
@@ -153,6 +153,14 @@ function createOrUpdateTracker(state) {
     row.appendChild(filler);
   }
   row.appendChild(toggleBtn);
+  if (!visible) {
+    // Make the whole row ignore pointer events except the toggle button
+    row.style.pointerEvents = "none";
+    toggleBtn.style.pointerEvents = "auto";
+  } else {
+    row.style.pointerEvents = "auto";
+    toggleBtn.style.pointerEvents = "auto";
+  }
 
   // Only GMs can interact (remove this check if you want all users to interact)
   if (game.user.isGM && visible) {

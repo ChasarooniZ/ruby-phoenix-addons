@@ -147,7 +147,8 @@ export async function hexCrawlHelper() {
           callback: async (html) => {
             // Hide notes
             const color = Color.fromString("#969696");
-            for (const checkbox of html.find("input[name=note]:checked")) {
+            const notes = html.find("input[name=note]:checked");
+            for (const checkbox of notes) {
               const note = notes.find((n) => n.id === checkbox.value);
               if (note?.document?.page)
                 await setJournalPermission(
@@ -157,12 +158,16 @@ export async function hexCrawlHelper() {
               await note.document.update({ texture: { tint: color } });
             }
             // Hide speed drawings
-            for (const checkbox of html.find("input[name=speed]:checked")) {
+            const labels = html.find("input[name=speed]:checked");
+            for (const checkbox of labels) {
               const obj =
                 speedDrawings.find((d) => d.drawing.id === checkbox.value) ??
                 reconDrawings.find((d) => d.drawing.id === checkbox.value);
               if (obj) await obj.drawing.document.update({ hidden: true });
             }
+            ui.notifications.info(
+              `${localize("dialog.hexcrawl-helper.hid")} ${notes.join(", ")}`
+            );
           },
         },
         reveal: {
@@ -171,7 +176,8 @@ export async function hexCrawlHelper() {
           callback: async (html) => {
             // Reveal only checked items
             const color = Color.fromString("#ffffff");
-            for (const checkbox of html.find("input[name=note]:checked")) {
+            const notes = html.find("input[name=note]:checked");
+            for (const checkbox of notes) {
               const note = notes.find((n) => n.id === checkbox.value);
               if (note?.document?.entry)
                 await setJournalPermission(
@@ -180,12 +186,18 @@ export async function hexCrawlHelper() {
                 );
               await note.document.update({ texture: { tint: color } });
             }
-            for (const checkbox of html.find("input[name=speed]:checked")) {
+            const labels = html.find("input[name=speed]:checked");
+            for (const checkbox of labels) {
               const obj =
                 speedDrawings.find((d) => d.drawing.id === checkbox.value) ??
                 reconDrawings.find((d) => d.drawing.id === checkbox.value);
               if (obj) await obj.drawing.document.update({ hidden: false });
             }
+            ui.notifications.info(
+              `${localize("dialog.hexcrawl-helper.revealed")} ${notes.join(
+                ", "
+              )}`
+            );
           },
         },
         close: {
