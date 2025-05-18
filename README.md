@@ -11,10 +11,19 @@
 Small addons of actors, animations, maps and tips for Fists of the Ruby Phoenix
 
 ## Table of Contents
-- [Changelog](#changelog)
-- [Contributors](#contributors)
+- [Fists of the Ruby Phoenix: Addons](#fists-of-the-ruby-phoenix-addons)
+  - [Table of Contents](#table-of-contents)
+  - [Changelog](#changelog)
+  - [Contributors](#contributors)
+  - [Maps](#maps)
 
 ## Changelog
 You can access the changelog [here](/CHANGELOG.md).
 ## Contributors
 You can see everyone else who contributed to the module [here](CONTRIBUTORS.md)
+
+
+## Maps
+- Bonmu Island Paper Handout Map (@Pinewave)
+- All other maps made by @Chasarooni
+  - Made with assets from 2-Minute Tabletop
