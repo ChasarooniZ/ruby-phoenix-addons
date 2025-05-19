@@ -1,4 +1,10 @@
+## 0.5.2
+
+- `Fix`
+  - Fixed incorrectly named import causing module to no load scripts
+
 ## 0.5.1
+
 - `Fix`
   - Actually included the assets
 

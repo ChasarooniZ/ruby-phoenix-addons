@@ -1,5 +1,5 @@
 
-import { hexCrawlHelper } from "./HexCrawlHelper.js";
+import { hexCrawlHelper } from "./hexCrawlHelper.js";
 import { timeTracker } from "./timeTracker.js";
 
 export function registerAPI() {
