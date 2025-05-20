@@ -1,3 +1,9 @@
+## 0.7.0
+
+- `Update`
+  - Renamed compendiums to `FoTRP: Addons <X>`
+  - Added `FoTRP: Addons` pack folder
+
 ## 0.6.0
 
 - `New`
