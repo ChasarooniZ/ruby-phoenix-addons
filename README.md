@@ -5,25 +5,37 @@
 
 [![](https://img.shields.io/badge/ko--fi-donate-%23FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/Chasarooni)
 
-
 # Fists of the Ruby Phoenix: Addons
 
 Small addons of actors, animations, maps and tips for Fists of the Ruby Phoenix
 
-## Table of Contents
-- [Fists of the Ruby Phoenix: Addons](#fists-of-the-ruby-phoenix-addons)
-  - [Table of Contents](#table-of-contents)
-  - [Changelog](#changelog)
-  - [Contributors](#contributors)
-  - [Maps](#maps)
+## Features
+
+[See a list of all features here](/FEATURES.MD)
 
 ## Changelog
+
 You can access the changelog [here](/CHANGELOG.md).
-## Contributors
-You can see everyone else who contributed to the module [here](CONTRIBUTORS.md)
 
+## Credits
 
-## Maps
+### Maps
+
 - Bonmu Island Paper Handout Map (@Pinewave)
 - All other maps made by @Chasarooni
   - Made with assets from 2-Minute Tabletop
+
+### SFX
+
+- The following are from `Ovani Sounds`
+  - `Blazing Comet.ogg`
+  - `Fiery Burst Long Tail C.ogg`
+  - `Phoenix Burst.ogg`
+  - `Shadow Bolt Cast B.ogg`
+  - `Shadow Bolt Impact B.ogg`
+  - `Stuck in a Big Fire Loop.ogg`
+
+### Ambience
+
+- The following are from `Ovani Sounds`
+  - `Waves On Rocks Distant Loop A.ogg`

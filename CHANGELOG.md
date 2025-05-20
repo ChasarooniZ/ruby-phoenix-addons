@@ -1,5 +1,15 @@
+## 0.6.0
+
+- `New`
+  - **Animations**
+    - `Hao Jin Death` - Animation for Hao Jin's death (requires `Sequencer` & recommends `JB2a Patreon`)
+    - `Hao Jin Revival` - Animation for Hao Jin's Revival (requires `Sequencer` & recommends `JB2a Patreon` & `Pathfinder Bestiary Tokens`)
+  - **Maps**
+    - `H3. Jinya-Por Shrine` - Map with ambience (Ovani Sounds) and made using assets with assets from 2-Minute Tabletop
+
 ## 0.5.3
-- actual fix finally for module not working ;-; 
+
+- actual fix finally for module not working ;-;
 
 ## 0.5.2
 
