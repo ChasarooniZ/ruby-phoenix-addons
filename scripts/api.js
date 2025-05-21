@@ -2,7 +2,7 @@ import {
   haoJinDeath,
   haoJinReborn,
 } from "./animations/chapter_3/haoJinDeath.js";
-import { hexCrawlHelper } from "./hexCrawlHelper.js";
+import { hexCrawlHelper } from "./bonmuHexCrawlManager.js";
 import { timeTracker } from "./timeTracker.js";
 
 export function registerAPI() {

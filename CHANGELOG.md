@@ -1,3 +1,7 @@
+## 0.7.1
+
+- Fixed issue with API not properly registering
+
 ## 0.7.0
 
 - `Update`
