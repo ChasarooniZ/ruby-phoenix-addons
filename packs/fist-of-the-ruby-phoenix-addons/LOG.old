@@ -1,25 +1,8 @@
-2025/05/19-04:54:03.024241 ffff757fa160 Recovering log #356
-2025/05/19-04:54:03.028815 ffff757fa160 Delete type=0 #59
-2025/05/19-04:54:03.028946 ffff757fa160 Delete type=0 #339
-2025/05/19-04:54:03.028958 ffff757fa160 Delete type=3 #100
-2025/05/19-04:54:03.028974 ffff757fa160 Delete type=3 #269
-2025/05/19-04:54:03.028993 ffff757fa160 Delete type=2 #86
-2025/05/19-04:54:03.029048 ffff757fa160 Delete type=3 #354
-2025/05/19-04:54:03.029065 ffff757fa160 Delete type=0 #83
-2025/05/19-04:54:03.029201 ffff757fa160 Delete type=3 #338
-2025/05/19-04:54:03.029215 ffff757fa160 Delete type=0 #92
-2025/05/19-04:54:03.029373 ffff757fa160 Delete type=0 #101
-2025/05/19-04:54:03.029536 ffff757fa160 Delete type=3 #82
-2025/05/19-04:54:03.029552 ffff757fa160 Delete type=2 #95
-2025/05/19-04:54:03.029604 ffff757fa160 Delete type=2 #61
-2025/05/19-04:54:03.029642 ffff757fa160 Delete type=2 #273
-2025/05/19-04:54:03.029713 ffff757fa160 Delete type=0 #270
-2025/05/19-04:54:03.030088 ffff757fa160 Delete type=3 #58
-2025/05/19-04:54:03.030105 ffff757fa160 Delete type=3 #91
-2025/05/19-04:54:03.030125 ffff757fa160 Delete type=0 #356
-2025/05/19-04:54:03.030135 ffff757fa160 Delete type=2 #104
-2025/05/20-06:30:47.310923 ffff72af4160 Level-0 table #362: started
-2025/05/20-06:30:47.310949 ffff72af4160 Level-0 table #362: 0 bytes OK
-2025/05/20-06:30:47.312731 ffff72af4160 Delete type=0 #360
-2025/05/20-06:30:47.316151 ffff72af4160 Manual compaction at level-0 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!ubniEara6RTMcbjK' @ 0 : 0; will stop at (end)
-2025/05/20-06:30:47.316485 ffff72af4160 Manual compaction at level-1 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!ubniEara6RTMcbjK' @ 0 : 0; will stop at (end)
+2025/05/27-05:55:09.574642 ffff75ffb160 Recovering log #398
+2025/05/27-05:55:09.579887 ffff75ffb160 Delete type=3 #396
+2025/05/27-05:55:09.579911 ffff75ffb160 Delete type=0 #398
+2025/05/27-07:21:31.129006 fffd4e3a7160 Level-0 table #403: started
+2025/05/27-07:21:31.129025 fffd4e3a7160 Level-0 table #403: 0 bytes OK
+2025/05/27-07:21:31.130807 fffd4e3a7160 Delete type=0 #401
+2025/05/27-07:21:31.132844 fffd4e3a7160 Manual compaction at level-0 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!ubniEara6RTMcbjK' @ 0 : 0; will stop at (end)
+2025/05/27-07:21:31.134583 fffd4e3a7160 Manual compaction at level-1 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!ubniEara6RTMcbjK' @ 0 : 0; will stop at (end)

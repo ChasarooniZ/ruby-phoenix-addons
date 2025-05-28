@@ -14,4 +14,13 @@ export function registerSettings() {
     type: Boolean,
     requiresReload: true,
   });
+
+  // game.settings.register(MODULE_ID, `first-time.guide`, {
+  //   name: "",
+  //   hint: "",
+  //   scope: `world`,
+  //   config: false,
+  //   default: true,
+  //   type: Boolean,
+  // });
 }

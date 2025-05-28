@@ -1,3 +1,10 @@
+## 0.7.0
+
+- `Added`
+  - `Forest Site` - Forest site based on the module
+- `Updated`
+  - Added the `Disarm` action to `Agile Warrior` to make it more clear that it is intended to be taken
+
 ## 0.6.1
 
 - `Update`
