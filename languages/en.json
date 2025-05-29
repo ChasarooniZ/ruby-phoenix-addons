@@ -32,6 +32,33 @@
           "close": "Close"
         }
       }
+    },
+    "message": {
+      "first-time": {
+        "guide": {
+          "title": "Welcome to FotRP: Addons!"
+        }
+      }
+    },
+    "tours": {
+      "welcome": {
+        "title": "Welcome to FotRP: Addons!",
+        "desc": "This brief tour is designed just to point you towards where the content is, and how to interact with updates",
+        "steps": {
+          "compendiums": {
+            "title": "Head to Compendiums",
+            "content": "All content for this module is in the compendiums area"
+          },
+          "adventures": {
+            "title": "Main Resources",
+            "content": "The resources is mainly stored as adventures, to get updates you'll often need to reimport the adventures. As a note this will override those specific actors, journals, etc. that were imported originally so keep that in mind. Also some Resources such as the Bonmu map are split off into their own adventures in order to prevent overwriting them getting other stuff."
+          },
+          "maps": {
+            "title": "Map Resources",
+            "content": "Maps are stored seperately in a compendium to prevent accidental overwriting places on the map etc., To get updates to this you'll need to readd an delete the original one"
+          }
+        }
+      }
     }
   }
 }

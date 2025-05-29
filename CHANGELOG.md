@@ -1,3 +1,16 @@
+## 0.8.0
+
+- `New`
+  - **Actors**
+    - `Tino's Toughest (14)` - Rebalanced stats, damage, and added relevant helpful feats as well as levelled to 14 (💡 @ShyGuy)
+    - `Kas Xi Rai` - Rebalanced stats, damage, updated Spells (💡 @ShyGuy)
+    - `Sixth Pillar Student` - Rebalanced stats, damage (💡 @ShyGuy)
+    - `Angoyang` - Rebalanced stats, damage (💡 @ShyGuy)
+    - `Master Xun` - Rebalanced stats, damage, added Dirty Trick feat (💡 @ShyGuy)
+    - `Kun` - Rebalanced stats, damage (💡 @ShyGuy)
+  - **Tours**
+    - Added a welcome tour to give a basic overview of how to use the module
+
 ## 0.7.0
 
 - `Added`
