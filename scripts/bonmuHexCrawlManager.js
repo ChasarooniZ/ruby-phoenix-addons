@@ -148,9 +148,9 @@ export async function hexCrawlHelper() {
           callback: async (html) => {
             // Hide notes
             const color = Color.fromString("#969696");
-            const notes = html.find("input[name=note]:checked");
-            for (const checkbox of notes) {
-              const note = notes.find((n) => n.id === checkbox.value);
+            const checks = html.find("input[name=note]:checked");
+            for (const checkbox of checks) {
+              const note = canvas.notes.get(checkbox.value);
               if (note?.document?.page)
                 await setJournalPermission(
                   note.document.page,
@@ -167,7 +167,7 @@ export async function hexCrawlHelper() {
               if (obj) await obj.drawing.document.update({ hidden: true });
             }
             ui.notifications.info(
-              `${localize("dialog.hexcrawl-helper.hid")} ${notes.join(", ")}`
+              `${localize("dialog.hexcrawl-helper.hid")} ${checks.join(", ")}`
             );
           },
         },
@@ -177,9 +177,9 @@ export async function hexCrawlHelper() {
           callback: async (html) => {
             // Reveal only checked items
             const color = Color.fromString("#ffffff");
-            const notes = html.find("input[name=note]:checked");
-            for (const checkbox of notes) {
-              const note = notes.find((n) => n.id === checkbox.value);
+            const checks = html.find("input[name=note]:checked");
+            for (const checkbox of checks) {
+              const note = canvas.notes.get(checkbox.value);
               if (note?.document?.entry)
                 await setJournalPermission(
                   note.document.page,
@@ -195,7 +195,7 @@ export async function hexCrawlHelper() {
               if (obj) await obj.drawing.document.update({ hidden: false });
             }
             ui.notifications.info(
-              `${localize("dialog.hexcrawl-helper.revealed")} ${notes.join(
+              `${localize("dialog.hexcrawl-helper.revealed")} ${checks.join(
                 ", "
               )}`
             );

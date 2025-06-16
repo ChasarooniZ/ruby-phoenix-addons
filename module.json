@@ -59,6 +59,7 @@
     {
       "name": "FoTRP: Addons",
       "sorting": "m",
+      "color": "#a91919",
       "packs": [
         "fist-of-the-ruby-phoenix-addons",
         "fist-of-the-ruby-phoenix-addons-maps"

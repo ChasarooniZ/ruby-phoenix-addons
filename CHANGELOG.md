@@ -10,6 +10,8 @@
     - `Kun` - Rebalanced stats, damage (💡 @ShyGuy)
   - **Tours**
     - Added a welcome tour to give a basic overview of how to use the module
+- `Fixed`
+  - Fixed issue with `Hex Crawl Helper` macro
 
 ## 0.7.0
 
