@@ -1,3 +1,7 @@
+## 0.9.1
+
+- Fixed missing images from `Watchtower` map
+
 ## 0.9.0
 
 - `New`
