@@ -24,6 +24,7 @@ You can access the changelog [here](/CHANGELOG.md).
 - Bonmu Island Paper Handout Map (@Pinewave)
 - All other maps made by @Chasarooni
   - Made with assets from 2-Minute Tabletop
+  - Made with assets from Forgotten Adventures
 
 ### SFX
 
