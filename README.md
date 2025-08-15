@@ -39,3 +39,7 @@ You can access the changelog [here](/CHANGELOG.md).
 
 - The following are from `Ovani Sounds`
   - `Waves On Rocks Distant Loop A.ogg`
+  - `mountain-top-loop.ogg`
+- From pixabay under pixabay license
+  - [`Hot Tub Ambience`](https://pixabay.com/sound-effects/extended-hot-tub-ambience-218428/)
+  - `Wine Glass`
