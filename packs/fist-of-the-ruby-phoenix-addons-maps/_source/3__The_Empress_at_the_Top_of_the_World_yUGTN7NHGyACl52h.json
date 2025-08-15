@@ -1,0 +1,23 @@
+{
+  "type": "Scene",
+  "folder": null,
+  "name": "3. The Empress at the Top of the World",
+  "color": "#305688",
+  "sorting": "a",
+  "_id": "yUGTN7NHGyACl52h",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.347",
+    "systemId": "pf2e",
+    "systemVersion": "7.3.1",
+    "createdTime": 1755289947889,
+    "modifiedTime": 1755289947889,
+    "lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+  },
+  "_key": "!folders!yUGTN7NHGyACl52h"
+}

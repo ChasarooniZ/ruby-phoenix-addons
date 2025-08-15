@@ -1,0 +1,765 @@
+{
+  "folder": "X1TxW65GtkV5F8nl",
+  "name": "H3. Shrine of Jinya-Por",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "background": {
+    "src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Shrines/Jinya-Por/Shrine%20of%20Jinya-Por%20-%20Floor.webp",
+    "anchorX": 0,
+    "anchorY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "fit": "fill",
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": 20,
+  "thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/keeTAsAMwhNUbDjp-thumb.webp",
+  "width": 4000,
+  "height": 3000,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": 0.5
+  },
+  "backgroundColor": "#000000",
+  "grid": {
+    "type": 0,
+    "size": 100,
+    "style": "solidLines",
+    "thickness": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fog": {
+    "exploration": true,
+    "overlay": null,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "environment": {
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "globalLight": {
+      "enabled": false,
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "drawings": [
+    {
+      "author": "vj8VUT8j7Wtzy3Y2",
+      "shape": {
+        "type": "r",
+        "width": 600,
+        "height": 88,
+        "radius": null,
+        "points": []
+      },
+      "x": 4245.667318222806,
+      "y": 3824.2798160247157,
+      "elevation": 0,
+      "sort": 0,
+      "rotation": 0,
+      "bezierFactor": 0,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 8,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Created by Chasarooni",
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": true,
+      "locked": true,
+      "interface": false,
+      "flags": {
+        "tagger": {}
+      },
+      "_id": "NMXl2OiX0g2C0VzI",
+      "_key": "!scenes.drawings!r3bb3z857L0ydAVO.NMXl2OiX0g2C0VzI"
+    }
+  ],
+  "tokens": [
+    {
+      "displayName": 20,
+      "displayBars": 20,
+      "flags": {
+        "pf2e": {
+          "linkToActorSize": true,
+          "autoscale": true
+        },
+        "tagger": {},
+        "multi-token-edit": {
+          "autoFlipX": false,
+          "autoFlipY": false
+        },
+        "monks-combat-marker": {
+          "token-highlight-scale": 1.5,
+          "token-combat-animation": "",
+          "token-highlight": ""
+        },
+        "monks-combat-details": {
+          "displayBarsCombat": null
+        },
+        "Rideable": {
+          "issetRideableFlag": true,
+          "MaxRiderFlag": null,
+          "CustomRidingheightFlag": null,
+          "UseRidingHeightFlag": true,
+          "RidersScaleFlag": 1,
+          "RiderPositioningFlag": "RowPlacement",
+          "RiderOffsetFlag": [
+            0,
+            0
+          ],
+          "TokenFormFlag": "TokenFormCircle",
+          "InsideMovementFlag": false,
+          "SpawnRidersFlag": "",
+          "WorldMEffectOverrideFlag": false,
+          "MountingEffectsFlag": "",
+          "SelfApplyEffectsFlag": false,
+          "forMountEffectsFlag": "",
+          "CanbePilotedFlag": false,
+          "CheckPilotedCollisionFlag": false,
+          "PilotedbyDefaultFlag": false,
+          "MountonEnterFlag": false,
+          "AutoMountBlackListFlag": "",
+          "AutoMountWhiteListFlag": ""
+        },
+        "about-face": {
+          "indicatorDisabled": false,
+          "flipOrRotate": "global",
+          "facingDirection": "global",
+          "rotationOffset": 0,
+          "direction": 165.02855366566715,
+          "prevPos": {
+            "x": 4385,
+            "y": 2229
+          }
+        }
+      },
+      "height": 1,
+      "width": 1,
+      "actorLink": true,
+      "sight": {
+        "enabled": true,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "name": "Sharpnib",
+      "texture": {
+        "src": "tokenizer/pc-images/sharpnib.token.ecad3ddka9fl10ts.webp?1747163873681",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": -1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": true,
+        "colors": {
+          "ring": "#1c1c1c",
+          "background": "#d3ae6f"
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": "tokenizer/pc-images/sharpnib.token.ecad3ddka9fl10ts.webp?1747163873681"
+        }
+      },
+      "actorId": "2oF91Cmg60Zcwg4K",
+      "hidden": false,
+      "sort": 0,
+      "_id": "gJereYpvgy6uw0C7",
+      "delta": {
+        "_id": "GV7SS8HGiaK36d1N",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "ownership": null,
+        "_key": "!scenes.tokens.delta!r3bb3z857L0ydAVO.gJereYpvgy6uw0C7.GV7SS8HGiaK36d1N"
+      },
+      "x": 4276,
+      "y": 2258,
+      "elevation": 0,
+      "locked": false,
+      "_regions": [],
+      "shape": 4,
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "_movementHistory": [],
+      "_key": "!scenes.tokens!r3bb3z857L0ydAVO.gJereYpvgy6uw0C7"
+    }
+  ],
+  "lights": [
+    {
+      "_id": "Wo6hh7UYiExm1J9Q",
+      "x": 2290,
+      "y": 2218,
+      "elevation": 0,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.1,
+        "angle": 360,
+        "bright": 0,
+        "color": "#89d7ff",
+        "coloration": 1,
+        "dim": 200,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": "fog",
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {
+        "tagger": {}
+      },
+      "_key": "!scenes.lights!r3bb3z857L0ydAVO.Wo6hh7UYiExm1J9Q"
+    }
+  ],
+  "notes": [],
+  "sounds": [
+    {
+      "path": "modules/fist-of-the-ruby-phoenix-addons/assets/sfx/Ovani/Ambience/Waves%20On%20Rocks%20Distant%20Loop%20A.ogg",
+      "x": 2394,
+      "y": 2457,
+      "radius": 272.91,
+      "elevation": 0,
+      "volume": 0.6,
+      "easing": false,
+      "hidden": false,
+      "walls": false,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "effects": {
+        "base": {
+          "type": "",
+          "intensity": 5
+        },
+        "muffled": {
+          "intensity": 5,
+          "type": ""
+        }
+      },
+      "flags": {
+        "tagger": {}
+      },
+      "_id": "J6JroQKgp8bHgoHj",
+      "repeat": false,
+      "_key": "!scenes.sounds!r3bb3z857L0ydAVO.J6JroQKgp8bHgoHj"
+    }
+  ],
+  "regions": [],
+  "templates": [],
+  "tiles": [
+    {
+      "texture": {
+        "src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Shrines/Jinya-Por/Shrine%20of%20Jinya-Por%20-%20Upper.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 3550,
+      "y": 1850,
+      "width": 768,
+      "height": 896,
+      "elevation": 15,
+      "sort": 0,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "_id": "wECjIAI3JHBfZOST",
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": true,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "multiface-tiles": {
+          "originalImage": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Shrines/Shrine%20of%20Jinya-Por/shrine-of-jinya-por-upper.webp"
+        },
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "enter"
+          ],
+          "allowpaused": false,
+          "usealpha": false,
+          "pointer": false,
+          "vision": true,
+          "pertoken": false,
+          "minrequired": 0,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [],
+          "files": []
+        },
+        "tagger": {}
+      },
+      "_key": "!scenes.tiles!r3bb3z857L0ydAVO.wECjIAI3JHBfZOST"
+    },
+    {
+      "texture": {
+        "src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Shrines/Jinya-Por/Shrine%20of%20Jinya-Por%20-%20Above%20Water.webp",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "x": 3550,
+      "y": 1850,
+      "width": 768,
+      "height": 896,
+      "elevation": 0,
+      "sort": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "_id": "kScEyy1kFaVseDRD",
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": true,
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {
+        "multiface-tiles": {
+          "originalImage": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Shrines/Shrine%20of%20Jinya-Por/shrine-of-jinya-por-above-water.webp"
+        },
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "enter"
+          ],
+          "allowpaused": false,
+          "usealpha": false,
+          "pointer": false,
+          "vision": true,
+          "pertoken": false,
+          "minrequired": 0,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": -1,
+          "actions": [],
+          "files": []
+        },
+        "tagger": {}
+      },
+      "_key": "!scenes.tiles!r3bb3z857L0ydAVO.kScEyy1kFaVseDRD"
+    }
+  ],
+  "walls": [
+    {
+      "light": 0,
+      "sight": 0,
+      "sound": 0,
+      "move": 20,
+      "c": [
+        4025,
+        2113,
+        4025,
+        2075
+      ],
+      "_id": "FkBSs2Qy3jPIC7hi",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!r3bb3z857L0ydAVO.FkBSs2Qy3jPIC7hi"
+    },
+    {
+      "light": 0,
+      "sight": 0,
+      "sound": 0,
+      "move": 20,
+      "c": [
+        4025,
+        2075,
+        3975,
+        2075
+      ],
+      "_id": "5PfkwoymQA6adCEL",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!r3bb3z857L0ydAVO.5PfkwoymQA6adCEL"
+    },
+    {
+      "light": 0,
+      "sight": 0,
+      "sound": 0,
+      "move": 20,
+      "c": [
+        3975,
+        2075,
+        3975,
+        2113
+      ],
+      "_id": "xCvISBRzVdFkhUIc",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!r3bb3z857L0ydAVO.xCvISBRzVdFkhUIc"
+    },
+    {
+      "light": 0,
+      "sight": 0,
+      "sound": 0,
+      "move": 20,
+      "c": [
+        3975,
+        2113,
+        4025,
+        2113
+      ],
+      "_id": "2HdW1XBOJcQqhAv0",
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "animation": null,
+      "_key": "!scenes.walls!r3bb3z857L0ydAVO.2HdW1XBOJcQqhAv0"
+    },
+    {
+      "light": 0,
+      "sight": 0,
+      "sound": 0,
+      "move": 20,
+      "c": [
+        4019,
+        2467,
+        3969,
+        2467
+      ],
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "_id": "YK1Ztploontp4p64",
+      "animation": null,
+      "_key": "!scenes.walls!r3bb3z857L0ydAVO.YK1Ztploontp4p64"
+    },
+    {
+      "light": 0,
+      "sight": 0,
+      "sound": 0,
+      "move": 20,
+      "c": [
+        3969,
+        2467,
+        3969,
+        2505
+      ],
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "_id": "Tq2K1eqlQweUZJu5",
+      "animation": null,
+      "_key": "!scenes.walls!r3bb3z857L0ydAVO.Tq2K1eqlQweUZJu5"
+    },
+    {
+      "light": 0,
+      "sight": 0,
+      "sound": 0,
+      "move": 20,
+      "c": [
+        3969,
+        2505,
+        4019,
+        2505
+      ],
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "_id": "wwtamoy7Ohdi3exS",
+      "animation": null,
+      "_key": "!scenes.walls!r3bb3z857L0ydAVO.wwtamoy7Ohdi3exS"
+    },
+    {
+      "light": 0,
+      "sight": 0,
+      "sound": 0,
+      "move": 20,
+      "c": [
+        4019,
+        2505,
+        4019,
+        2467
+      ],
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "_id": "2m1xcX1u0N1ihlxc",
+      "animation": null,
+      "_key": "!scenes.walls!r3bb3z857L0ydAVO.2m1xcX1u0N1ihlxc"
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "ownership": {
+    "default": 0,
+    "vj8VUT8j7Wtzy3Y2": 3
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6f9b4fad1e98399ad5f776e62f6525ee36b62b54",
+      "sourceId": "Scene.keeTAsAMwhNUbDjp"
+    },
+    "pf2e-perception": {
+      "standard": true,
+      "npc-vision": false
+    },
+    "about-face": {
+      "sceneEnabled": true,
+      "lockRotation": false,
+      "lockArrowRotation": false
+    },
+    "pf2e": {
+      "rulesBasedVision": null,
+      "hearingRange": null,
+      "environmentTypes": []
+    },
+    "world-explorer": {
+      "enabled": false,
+      "color": "#000000",
+      "image": "",
+      "persistExploredAreas": false,
+      "position": "behindDrawings",
+      "revealRadius": "0",
+      "gridRevealRadius": "0",
+      "opacityGM": 0.7,
+      "opacityPlayer": 1
+    },
+    "token-attacher": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.345",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.1",
+    "createdTime": 1747763854293,
+    "modifiedTime": 1747763854293,
+    "lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+    "exportSource": null
+  },
+  "_id": "r3bb3z857L0ydAVO",
+  "active": false,
+  "sort": 0,
+  "_key": "!scenes!r3bb3z857L0ydAVO"
+}

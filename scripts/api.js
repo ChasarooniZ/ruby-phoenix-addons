@@ -13,6 +13,9 @@ export function registerAPI() {
       },
       hexCrawlHelper: hexCrawlHelper,
       animation: {
+        chapter_2: {
+          summonTerracotta
+        },
         chapter_3: {
           haoJinDeath,
           haoJinReborn,

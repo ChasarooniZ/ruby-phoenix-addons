@@ -1,0 +1,26 @@
+{
+  "name": "2. Survive",
+  "sorting": "a",
+  "folder": null,
+  "type": "Scene",
+  "_id": "JaOoGudpfOHnYsba",
+  "description": "",
+  "sort": 0,
+  "color": "#c7710f",
+  "flags": {
+    "scene-packer": {
+      "hash": "420ac867976c7f459010f9aaacf2db2a9c20eda2"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.1",
+    "createdTime": 1747523965782,
+    "modifiedTime": 1747524352282,
+    "lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+  },
+  "_key": "!folders!JaOoGudpfOHnYsba"
+}

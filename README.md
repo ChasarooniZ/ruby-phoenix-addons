@@ -34,6 +34,8 @@ You can access the changelog [here](/CHANGELOG.md).
   - `Shadow Bolt Cast B.ogg`
   - `Shadow Bolt Impact B.ogg`
   - `Stuck in a Big Fire Loop.ogg`
+- Pixabay
+  - `Wine Glass` - [Pixabay License](https://pixabay.com/sound-effects/wine-glass-74398/)
 
 ### Ambience
 

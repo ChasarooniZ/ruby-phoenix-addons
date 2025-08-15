@@ -1,3 +1,11 @@
+## 0.10.0
+
+- **Added**
+  - Map for the party's room in the `Ruby Palace`
+  - Animation for **Terra-cotta Summoning** in `Event 8: Attack on the Temple`
+- **Updated**
+  - Cleaned up the packs (@oWave)
+
 ## 0.9.1
 
 - Fixed missing images from `Watchtower` map

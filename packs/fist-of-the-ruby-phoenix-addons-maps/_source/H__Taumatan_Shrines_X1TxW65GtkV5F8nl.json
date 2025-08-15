@@ -1,0 +1,26 @@
+{
+  "name": "H. Taumatan Shrines",
+  "sorting": "a",
+  "folder": "JaOoGudpfOHnYsba",
+  "type": "Scene",
+  "_id": "X1TxW65GtkV5F8nl",
+  "description": "",
+  "sort": 0,
+  "color": "#876b9e",
+  "flags": {
+    "scene-packer": {
+      "hash": "53de095113c78a4443a8a83e185222394c2a1122"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.12.1",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!X1TxW65GtkV5F8nl"
+}
