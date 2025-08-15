@@ -24,6 +24,7 @@ You can access the changelog [here](/CHANGELOG.md).
 - Bonmu Island Paper Handout Map (@Pinewave)
 - All other maps made by @Chasarooni
   - Made with assets from 2-Minute Tabletop
+  - Made with assets from Forgotten Adventures
 
 ### SFX
 
@@ -41,3 +42,7 @@ You can access the changelog [here](/CHANGELOG.md).
 
 - The following are from `Ovani Sounds`
   - `Waves On Rocks Distant Loop A.ogg`
+  - `mountain-top-loop.ogg`
+- From pixabay under pixabay license
+  - [`Hot Tub Ambience`](https://pixabay.com/sound-effects/extended-hot-tub-ambience-218428/)
+  - `Wine Glass`
