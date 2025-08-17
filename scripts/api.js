@@ -1,3 +1,4 @@
+import { summonTerracotta } from "./animations/chapter_2/terracottaSummon.js";
 import {
   haoJinDeath,
   haoJinReborn,

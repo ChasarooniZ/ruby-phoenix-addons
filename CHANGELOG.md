@@ -1,3 +1,7 @@
+## 0.10.1
+
+- Fixed bug causing module not to run macros properly
+
 ## 0.10.0
 
 - **Added**
