@@ -1,3 +1,14 @@
+## 0.11.0
+
+- **Added**
+  - **Animations**
+    - `Whirlwind Toss` - Really feel the fury of Ran To
+    - `Pressure Point Attack` - Feel your mind disconnect from your body under Shino Hakusa precise strike
+- **Updated**
+  - Fixed warning appearing when module was installed (🐛 @GM The Gnome
+    )
+  - Added effects for `Shino Hakusa`'s `Pressure Point Attack`
+
 ## 0.10.1
 
 - Fixed bug causing module not to run macros properly

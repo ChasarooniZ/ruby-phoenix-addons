@@ -4,7 +4,6 @@
   "description": "Small addons of actors, animations, maps and tips for Fists of the Ruby Phoenix",
   "version": "#{VERSION}#",
   "library": "false",
-  "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 13,
     "verified": 13
