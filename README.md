@@ -11,7 +11,7 @@ Small addons of actors, animations, maps and tips for Fists of the Ruby Phoenix
 
 ## Features
 
-[See a list of all features here](/FEATURES.MD)
+~~[See a list of all features here](/FEATURES.MD)~~
 
 ## Changelog
 
