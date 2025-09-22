@@ -1,535 +1,535 @@
 {
-  "folder": "JaOoGudpfOHnYsba",
-  "name": "E. Stone Market",
-  "navigation": false,
-  "navOrder": 0,
-  "navName": "",
-  "background": {
-    "src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/stone_market_plains.webp",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
-  },
-  "foreground": null,
-  "foregroundElevation": 20,
-  "thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/WOO8BERN2ybhzzYE-thumb.webp",
-  "width": 1600,
-  "height": 1200,
-  "padding": 0.25,
-  "initial": {
-    "x": null,
-    "y": null,
-    "scale": 0.5
-  },
-  "backgroundColor": "#2e2e2e",
-  "grid": {
-    "type": 1,
-    "size": 100,
-    "style": "solidLines",
-    "thickness": 1,
-    "color": "#000000",
-    "alpha": 0.2,
-    "distance": 5,
-    "units": "ft"
-  },
-  "tokenVision": true,
-  "fog": {
-    "exploration": true,
-    "overlay": null,
-    "colors": {
-      "explored": null,
-      "unexplored": null
-    }
-  },
-  "environment": {
-    "darknessLevel": 0,
-    "darknessLock": false,
-    "globalLight": {
-      "enabled": false,
-      "alpha": 0.5,
-      "bright": false,
-      "color": null,
-      "coloration": 1,
-      "luminosity": 0,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "darkness": {
-        "min": 0,
-        "max": 1
-      }
-    },
-    "cycle": true,
-    "base": {
-      "hue": 0,
-      "intensity": 0,
-      "luminosity": 0,
-      "saturation": 0,
-      "shadows": 0
-    },
-    "dark": {
-      "hue": 0.7138888888888889,
-      "intensity": 0,
-      "luminosity": -0.25,
-      "saturation": 0,
-      "shadows": 0
-    }
-  },
-  "drawings": [
-    {
-      "author": "vj8VUT8j7Wtzy3Y2",
-      "shape": {
-        "type": "r",
-        "width": 600,
-        "height": 88,
-        "radius": null,
-        "points": []
-      },
-      "x": 1400,
-      "y": 1500,
-      "elevation": 0,
-      "sort": 0,
-      "rotation": 0,
-      "bezierFactor": 0,
-      "fillType": 0,
-      "fillColor": "#ffffff",
-      "fillAlpha": 0.1,
-      "strokeWidth": 8,
-      "strokeColor": "#ffffff",
-      "strokeAlpha": 1,
-      "texture": null,
-      "text": "Created by Chasarooni",
-      "fontFamily": "Signika",
-      "fontSize": 48,
-      "textColor": "#ffffff",
-      "textAlpha": 1,
-      "hidden": true,
-      "locked": true,
-      "interface": false,
-      "flags": {
-        "tagger": {}
-      },
-      "_id": "rgYukNkxbRavnPra",
-      "_key": "!scenes.drawings!Dl1kZRuS6nKeYVel.rgYukNkxbRavnPra"
-    }
-  ],
-  "tokens": [],
-  "lights": [
-    {
-      "_id": "YUMQBjbDqcG6vdOB",
-      "x": 1300,
-      "y": 850,
-      "elevation": 0,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "negative": false,
-        "priority": 0,
-        "alpha": 0.5,
-        "angle": 360,
-        "bright": 4.09,
-        "color": "#77c0c8",
-        "coloration": 1,
-        "dim": 8.18,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": "starlight",
-          "speed": 1,
-          "intensity": 2,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {
-        "tagger": {}
-      },
-      "_key": "!scenes.lights!Dl1kZRuS6nKeYVel.YUMQBjbDqcG6vdOB"
-    },
-    {
-      "x": 800,
-      "y": 850,
-      "elevation": 0,
-      "rotation": 90,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "negative": false,
-        "priority": 0,
-        "alpha": 0.2,
-        "angle": 181,
-        "bright": 20,
-        "color": "#e4b021",
-        "coloration": 1,
-        "dim": 40,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": "flame",
-          "speed": 2,
-          "intensity": 3,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0.8,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {
-        "tagger": {}
-      },
-      "_id": "YLRIykPtm6owb8Uv",
-      "_key": "!scenes.lights!Dl1kZRuS6nKeYVel.YLRIykPtm6owb8Uv"
-    },
-    {
-      "x": 1350,
-      "y": 650,
-      "elevation": 0,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "negative": false,
-        "priority": 0,
-        "alpha": 0.2,
-        "angle": 360,
-        "bright": 10,
-        "color": "#e4b021",
-        "coloration": 1,
-        "dim": 20,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": "flame",
-          "speed": 2,
-          "intensity": 3,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {
-        "tagger": {}
-      },
-      "_id": "t5oFRzJCGQenBbLy",
-      "_key": "!scenes.lights!Dl1kZRuS6nKeYVel.t5oFRzJCGQenBbLy"
-    },
-    {
-      "x": 1350,
-      "y": 1050,
-      "elevation": 0,
-      "rotation": 0,
-      "walls": true,
-      "vision": false,
-      "config": {
-        "negative": false,
-        "priority": 0,
-        "alpha": 0.2,
-        "angle": 360,
-        "bright": 10,
-        "color": "#e4b021",
-        "coloration": 1,
-        "dim": 20,
-        "attenuation": 0.5,
-        "luminosity": 0.5,
-        "saturation": 0,
-        "contrast": 0,
-        "shadows": 0,
-        "animation": {
-          "type": "flame",
-          "speed": 2,
-          "intensity": 3,
-          "reverse": false
-        },
-        "darkness": {
-          "min": 0,
-          "max": 1
-        }
-      },
-      "hidden": false,
-      "flags": {
-        "tagger": {}
-      },
-      "_id": "yEstMOuFbVecFLCh",
-      "_key": "!scenes.lights!Dl1kZRuS6nKeYVel.yEstMOuFbVecFLCh"
-    }
-  ],
-  "notes": [],
-  "sounds": [],
-  "regions": [],
-  "templates": [],
-  "tiles": [],
-  "walls": [
-    {
-      "light": 20,
-      "sight": 20,
-      "sound": 20,
-      "move": 20,
-      "c": [
-        800,
-        800,
-        800,
-        600
-      ],
-      "_id": "QcZaFrD4SWCKC5wP",
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "threshold": {
-        "light": null,
-        "sight": null,
-        "sound": null,
-        "attenuation": false
-      },
-      "flags": {},
-      "animation": null,
-      "_key": "!scenes.walls!Dl1kZRuS6nKeYVel.QcZaFrD4SWCKC5wP"
-    },
-    {
-      "light": 20,
-      "sight": 20,
-      "sound": 20,
-      "move": 20,
-      "c": [
-        800,
-        600,
-        1600,
-        600
-      ],
-      "_id": "Fmrzve4Z8ZIQlWC7",
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "threshold": {
-        "light": null,
-        "sight": null,
-        "sound": null,
-        "attenuation": false
-      },
-      "flags": {},
-      "animation": null,
-      "_key": "!scenes.walls!Dl1kZRuS6nKeYVel.Fmrzve4Z8ZIQlWC7"
-    },
-    {
-      "light": 20,
-      "sight": 20,
-      "sound": 20,
-      "move": 20,
-      "c": [
-        1600,
-        1100,
-        1600,
-        600
-      ],
-      "_id": "LCizHHxWHLcK0wvR",
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "threshold": {
-        "light": null,
-        "sight": null,
-        "sound": null,
-        "attenuation": false
-      },
-      "flags": {},
-      "animation": null,
-      "_key": "!scenes.walls!Dl1kZRuS6nKeYVel.LCizHHxWHLcK0wvR"
-    },
-    {
-      "light": 20,
-      "sight": 20,
-      "sound": 20,
-      "move": 20,
-      "c": [
-        800,
-        900,
-        800,
-        1100
-      ],
-      "_id": "ScsBr7ctYpar45hw",
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "threshold": {
-        "light": null,
-        "sight": null,
-        "sound": null,
-        "attenuation": false
-      },
-      "flags": {},
-      "animation": null,
-      "_key": "!scenes.walls!Dl1kZRuS6nKeYVel.ScsBr7ctYpar45hw"
-    },
-    {
-      "light": 20,
-      "sight": 20,
-      "sound": 20,
-      "move": 20,
-      "c": [
-        800,
-        1100,
-        1600,
-        1100
-      ],
-      "_id": "7genCAfiUtthhdfH",
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "threshold": {
-        "light": null,
-        "sight": null,
-        "sound": null,
-        "attenuation": false
-      },
-      "flags": {},
-      "animation": null,
-      "_key": "!scenes.walls!Dl1kZRuS6nKeYVel.7genCAfiUtthhdfH"
-    },
-    {
-      "light": 20,
-      "sight": 20,
-      "sound": 20,
-      "move": 20,
-      "c": [
-        1300,
-        900,
-        1300,
-        1100
-      ],
-      "_id": "9pV0I3V5Hgo6gTFx",
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "threshold": {
-        "light": null,
-        "sight": null,
-        "sound": null,
-        "attenuation": false
-      },
-      "flags": {},
-      "animation": null,
-      "_key": "!scenes.walls!Dl1kZRuS6nKeYVel.9pV0I3V5Hgo6gTFx"
-    },
-    {
-      "light": 20,
-      "sight": 20,
-      "sound": 20,
-      "move": 20,
-      "c": [
-        1300,
-        800,
-        1300,
-        600
-      ],
-      "_id": "L5mM8leG719gOafM",
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "threshold": {
-        "light": null,
-        "sight": null,
-        "sound": null,
-        "attenuation": false
-      },
-      "flags": {},
-      "animation": null,
-      "_key": "!scenes.walls!Dl1kZRuS6nKeYVel.L5mM8leG719gOafM"
-    },
-    {
-      "light": 0,
-      "sight": 0,
-      "sound": 0,
-      "move": 20,
-      "c": [
-        1300,
-        800,
-        1300,
-        900
-      ],
-      "_id": "jMrH6suhIx7gZ1R6",
-      "dir": 0,
-      "door": 0,
-      "ds": 0,
-      "threshold": {
-        "light": null,
-        "sight": null,
-        "sound": null,
-        "attenuation": false
-      },
-      "flags": {},
-      "animation": null,
-      "_key": "!scenes.walls!Dl1kZRuS6nKeYVel.jMrH6suhIx7gZ1R6"
-    }
-  ],
-  "playlist": null,
-  "playlistSound": null,
-  "journal": null,
-  "journalEntryPage": null,
-  "weather": "",
-  "ownership": {
-    "default": 0,
-    "vj8VUT8j7Wtzy3Y2": 3
-  },
-  "flags": {
-    "scene-packer": {
-      "hash": "2bae1a843abbde108e1123a594ecf359bcb22b69",
-      "sourceId": "Scene.WOO8BERN2ybhzzYE"
-    },
-    "pf2e-perception": {
-      "standard": true,
-      "npc-vision": false
-    },
-    "hexplorer": {
-      "enabled": false
-    },
-    "pf2e": {
-      "rulesBasedVision": null,
-      "hearingRange": null,
-      "environmentTypes": []
-    },
-    "token-attacher": {},
-    "about-face": {
-      "sceneEnabled": true
-    }
-  },
-  "_stats": {
-    "compendiumSource": null,
-    "duplicateSource": null,
-    "coreVersion": "13.345",
-    "systemId": "pf2e",
-    "systemVersion": "6.12.1",
-    "createdTime": 1747524278759,
-    "modifiedTime": 1747524278910,
-    "lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
-    "exportSource": null
-  },
-  "_id": "Dl1kZRuS6nKeYVel",
-  "active": false,
-  "sort": 200000,
-  "_key": "!scenes!Dl1kZRuS6nKeYVel"
+	"folder": "JaOoGudpfOHnYsba",
+	"name": "E. Stone Market",
+	"navigation": false,
+	"navOrder": 0,
+	"navName": "",
+	"background": {
+		"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/stone_market_plains.webp",
+		"anchorX": 0,
+		"anchorY": 0,
+		"offsetX": 0,
+		"offsetY": 0,
+		"fit": "fill",
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0,
+		"tint": "#ffffff",
+		"alphaThreshold": 0
+	},
+	"foreground": null,
+	"foregroundElevation": 20,
+	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/WOO8BERN2ybhzzYE-thumb.webp",
+	"width": 1600,
+	"height": 1200,
+	"padding": 0.25,
+	"initial": {
+		"x": null,
+		"y": null,
+		"scale": 0.5
+	},
+	"backgroundColor": "#2e2e2e",
+	"grid": {
+		"type": 1,
+		"size": 100,
+		"style": "solidLines",
+		"thickness": 1,
+		"color": "#000000",
+		"alpha": 0.2,
+		"distance": 5,
+		"units": "ft"
+	},
+	"tokenVision": true,
+	"fog": {
+		"exploration": true,
+		"overlay": null,
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		}
+	},
+	"environment": {
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"enabled": false,
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"luminosity": 0,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"cycle": true,
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"drawings": [
+		{
+			"author": "vj8VUT8j7Wtzy3Y2",
+			"shape": {
+				"type": "r",
+				"width": 600,
+				"height": 88,
+				"radius": null,
+				"points": []
+			},
+			"x": 1400,
+			"y": 1500,
+			"elevation": 0,
+			"sort": 0,
+			"rotation": 0,
+			"bezierFactor": 0,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 8,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "Created by Chasarooni",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": true,
+			"locked": true,
+			"interface": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "rgYukNkxbRavnPra",
+			"_key": "!scenes.drawings!Dl1kZRuS6nKeYVel.rgYukNkxbRavnPra"
+		}
+	],
+	"tokens": [],
+	"lights": [
+		{
+			"_id": "YUMQBjbDqcG6vdOB",
+			"x": 1300,
+			"y": 850,
+			"elevation": 0,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 4.09,
+				"color": "#77c0c8",
+				"coloration": 1,
+				"dim": 8.18,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": "starlight",
+					"speed": 1,
+					"intensity": 2,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"hidden": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_key": "!scenes.lights!Dl1kZRuS6nKeYVel.YUMQBjbDqcG6vdOB"
+		},
+		{
+			"x": 800,
+			"y": 850,
+			"elevation": 0,
+			"rotation": 90,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.2,
+				"angle": 181,
+				"bright": 20,
+				"color": "#e4b021",
+				"coloration": 1,
+				"dim": 40,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": "flame",
+					"speed": 2,
+					"intensity": 3,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0.8,
+					"max": 1
+				}
+			},
+			"hidden": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "YLRIykPtm6owb8Uv",
+			"_key": "!scenes.lights!Dl1kZRuS6nKeYVel.YLRIykPtm6owb8Uv"
+		},
+		{
+			"x": 1350,
+			"y": 650,
+			"elevation": 0,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.2,
+				"angle": 360,
+				"bright": 10,
+				"color": "#e4b021",
+				"coloration": 1,
+				"dim": 20,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": "flame",
+					"speed": 2,
+					"intensity": 3,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"hidden": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "t5oFRzJCGQenBbLy",
+			"_key": "!scenes.lights!Dl1kZRuS6nKeYVel.t5oFRzJCGQenBbLy"
+		},
+		{
+			"x": 1350,
+			"y": 1050,
+			"elevation": 0,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.2,
+				"angle": 360,
+				"bright": 10,
+				"color": "#e4b021",
+				"coloration": 1,
+				"dim": 20,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": "flame",
+					"speed": 2,
+					"intensity": 3,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"hidden": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "yEstMOuFbVecFLCh",
+			"_key": "!scenes.lights!Dl1kZRuS6nKeYVel.yEstMOuFbVecFLCh"
+		}
+	],
+	"notes": [],
+	"sounds": [],
+	"regions": [],
+	"templates": [],
+	"tiles": [],
+	"walls": [
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				800,
+				800,
+				800,
+				600
+			],
+			"_id": "QcZaFrD4SWCKC5wP",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"flags": {},
+			"animation": null,
+			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.QcZaFrD4SWCKC5wP"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				800,
+				600,
+				1600,
+				600
+			],
+			"_id": "Fmrzve4Z8ZIQlWC7",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"flags": {},
+			"animation": null,
+			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.Fmrzve4Z8ZIQlWC7"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				1600,
+				1100,
+				1600,
+				600
+			],
+			"_id": "LCizHHxWHLcK0wvR",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"flags": {},
+			"animation": null,
+			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.LCizHHxWHLcK0wvR"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				800,
+				900,
+				800,
+				1100
+			],
+			"_id": "ScsBr7ctYpar45hw",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"flags": {},
+			"animation": null,
+			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.ScsBr7ctYpar45hw"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				800,
+				1100,
+				1600,
+				1100
+			],
+			"_id": "7genCAfiUtthhdfH",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"flags": {},
+			"animation": null,
+			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.7genCAfiUtthhdfH"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				1300,
+				900,
+				1300,
+				1100
+			],
+			"_id": "9pV0I3V5Hgo6gTFx",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"flags": {},
+			"animation": null,
+			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.9pV0I3V5Hgo6gTFx"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				1300,
+				800,
+				1300,
+				600
+			],
+			"_id": "L5mM8leG719gOafM",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"flags": {},
+			"animation": null,
+			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.L5mM8leG719gOafM"
+		},
+		{
+			"light": 0,
+			"sight": 0,
+			"sound": 0,
+			"move": 20,
+			"c": [
+				1300,
+				800,
+				1300,
+				900
+			],
+			"_id": "jMrH6suhIx7gZ1R6",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"flags": {},
+			"animation": null,
+			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.jMrH6suhIx7gZ1R6"
+		}
+	],
+	"playlist": null,
+	"playlistSound": null,
+	"journal": null,
+	"journalEntryPage": null,
+	"weather": "",
+	"ownership": {
+		"default": 0,
+		"vj8VUT8j7Wtzy3Y2": 3
+	},
+	"flags": {
+		"scene-packer": {
+			"hash": "2bae1a843abbde108e1123a594ecf359bcb22b69",
+			"sourceId": "Scene.WOO8BERN2ybhzzYE"
+		},
+		"pf2e-perception": {
+			"standard": true,
+			"npc-vision": false
+		},
+		"hexplorer": {
+			"enabled": false
+		},
+		"pf2e": {
+			"rulesBasedVision": null,
+			"hearingRange": null,
+			"environmentTypes": []
+		},
+		"token-attacher": {},
+		"about-face": {
+			"sceneEnabled": true
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "13.345",
+		"systemId": "pf2e",
+		"systemVersion": "6.12.1",
+		"createdTime": 1747524278759,
+		"modifiedTime": 1747524278910,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"_id": "Dl1kZRuS6nKeYVel",
+	"active": false,
+	"sort": 200000,
+	"_key": "!scenes!Dl1kZRuS6nKeYVel"
 }

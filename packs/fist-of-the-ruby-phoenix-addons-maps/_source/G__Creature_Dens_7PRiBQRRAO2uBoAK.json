@@ -1,26 +1,26 @@
 {
-  "name": "G. Creature Dens",
-  "sorting": "a",
-  "folder": "JaOoGudpfOHnYsba",
-  "type": "Scene",
-  "_id": "7PRiBQRRAO2uBoAK",
-  "description": "",
-  "sort": 0,
-  "color": "#166a32",
-  "flags": {
-    "scene-packer": {
-      "hash": "a1fb06015c673cd468022ff36beee13b34f25a17"
-    }
-  },
-  "_stats": {
-    "compendiumSource": null,
-    "duplicateSource": null,
-    "coreVersion": "12.331",
-    "systemId": "pf2e",
-    "systemVersion": "6.12.1",
-    "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null
-  },
-  "_key": "!folders!7PRiBQRRAO2uBoAK"
+	"name": "G. Creature Dens",
+	"sorting": "a",
+	"folder": "JaOoGudpfOHnYsba",
+	"type": "Scene",
+	"_id": "7PRiBQRRAO2uBoAK",
+	"description": "",
+	"sort": 0,
+	"color": "#166a32",
+	"flags": {
+		"scene-packer": {
+			"hash": "a1fb06015c673cd468022ff36beee13b34f25a17"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "12.331",
+		"systemId": "pf2e",
+		"systemVersion": "6.12.1",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"_key": "!folders!7PRiBQRRAO2uBoAK"
 }

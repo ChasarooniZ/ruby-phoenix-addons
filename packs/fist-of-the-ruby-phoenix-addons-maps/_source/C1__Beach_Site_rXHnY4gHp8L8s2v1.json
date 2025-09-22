@@ -1,319 +1,319 @@
 {
-  "folder": "XHZVupwh64VC36Dy",
-  "name": "C1. Beach Site",
-  "navigation": false,
-  "navOrder": 0,
-  "navName": "",
-  "background": {
-    "src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/beach-site-(base).webp",
-    "anchorX": 0,
-    "anchorY": 0,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
-  },
-  "foreground": null,
-  "foregroundElevation": 20,
-  "thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/9XHjfyrXLaahThd3-thumb.webp",
-  "width": 4000,
-  "height": 4000,
-  "padding": 0.25,
-  "initial": {
-    "x": null,
-    "y": null,
-    "scale": 0.5
-  },
-  "backgroundColor": "#383838",
-  "grid": {
-    "type": 1,
-    "size": 100,
-    "style": "solidLines",
-    "thickness": 1,
-    "color": "#000000",
-    "alpha": 0.2,
-    "distance": 5,
-    "units": "ft"
-  },
-  "tokenVision": true,
-  "fog": {
-    "exploration": true,
-    "overlay": null,
-    "colors": {
-      "explored": null,
-      "unexplored": null
-    }
-  },
-  "environment": {
-    "darknessLevel": 0,
-    "darknessLock": false,
-    "globalLight": {
-      "enabled": false,
-      "alpha": 0.5,
-      "bright": false,
-      "color": null,
-      "coloration": 1,
-      "luminosity": 0,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "darkness": {
-        "min": 0,
-        "max": 1
-      }
-    },
-    "cycle": true,
-    "base": {
-      "hue": 0,
-      "intensity": 0,
-      "luminosity": 0,
-      "saturation": 0,
-      "shadows": 0
-    },
-    "dark": {
-      "hue": 0.7138888888888889,
-      "intensity": 0,
-      "luminosity": -0.25,
-      "saturation": 0,
-      "shadows": 0
-    }
-  },
-  "drawings": [
-    {
-      "_id": "QJFmYtWsQ3gHWSoE",
-      "author": "vj8VUT8j7Wtzy3Y2",
-      "shape": {
-        "type": "r",
-        "width": 600,
-        "height": 88,
-        "radius": null,
-        "points": []
-      },
-      "x": 4388,
-      "y": 5025,
-      "elevation": 0,
-      "sort": 0,
-      "rotation": 0,
-      "bezierFactor": 0,
-      "fillType": 0,
-      "fillColor": "#ffffff",
-      "fillAlpha": 0.1,
-      "strokeWidth": 8,
-      "strokeColor": "#ffffff",
-      "strokeAlpha": 1,
-      "texture": null,
-      "text": "Created by Chasarooni",
-      "fontFamily": "Signika",
-      "fontSize": 48,
-      "textColor": "#ffffff",
-      "textAlpha": 1,
-      "hidden": true,
-      "locked": true,
-      "interface": false,
-      "flags": {
-        "tagger": {}
-      },
-      "_key": "!scenes.drawings!rXHnY4gHp8L8s2v1.QJFmYtWsQ3gHWSoE"
-    }
-  ],
-  "tokens": [],
-  "lights": [],
-  "notes": [],
-  "sounds": [],
-  "regions": [],
-  "templates": [],
-  "tiles": [
-    {
-      "texture": {
-        "src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/beach-site-bow-(overlay).webp",
-        "anchorX": 0.5,
-        "anchorY": 0.5,
-        "offsetX": 0,
-        "offsetY": 0,
-        "fit": "fill",
-        "scaleX": 1,
-        "scaleY": 1,
-        "rotation": 0,
-        "tint": "#ffffff",
-        "alphaThreshold": 0.75
-      },
-      "x": 2500,
-      "y": 2800,
-      "width": 700,
-      "height": 400,
-      "elevation": 10,
-      "sort": 0,
-      "occlusion": {
-        "mode": 0,
-        "alpha": 0
-      },
-      "_id": "02mRuBFEndXqJmEn",
-      "rotation": 0,
-      "alpha": 1,
-      "hidden": false,
-      "locked": false,
-      "restrictions": {
-        "light": false,
-        "weather": false
-      },
-      "video": {
-        "loop": true,
-        "autoplay": true,
-        "volume": 0
-      },
-      "flags": {
-        "monks-active-tiles": {
-          "name": "",
-          "active": true,
-          "record": false,
-          "restriction": "all",
-          "controlled": "all",
-          "trigger": [
-            "enter"
-          ],
-          "allowpaused": false,
-          "usealpha": false,
-          "pointer": false,
-          "vision": true,
-          "pertoken": false,
-          "minrequired": 0,
-          "cooldown": null,
-          "chance": 100,
-          "fileindex": -1,
-          "actions": [],
-          "files": []
-        },
-        "tagger": {}
-      },
-      "_key": "!scenes.tiles!rXHnY4gHp8L8s2v1.02mRuBFEndXqJmEn"
-    },
-    {
-      "texture": {
-        "src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/beach-site-(trees).webp",
-        "anchorX": 0.5,
-        "anchorY": 0.5,
-        "offsetX": 0,
-        "offsetY": 0,
-        "fit": "fill",
-        "scaleX": 1,
-        "scaleY": 1,
-        "rotation": 0,
-        "tint": "#ffffff",
-        "alphaThreshold": 0.75
-      },
-      "x": 1000,
-      "y": 1000,
-      "width": 1000,
-      "height": 2700,
-      "elevation": 20,
-      "sort": 1,
-      "occlusion": {
-        "mode": 0,
-        "alpha": 0
-      },
-      "_id": "yYEfESBxjVD1Iv27",
-      "rotation": 0,
-      "alpha": 1,
-      "hidden": false,
-      "locked": false,
-      "restrictions": {
-        "light": false,
-        "weather": false
-      },
-      "video": {
-        "loop": true,
-        "autoplay": true,
-        "volume": 0
-      },
-      "flags": {
-        "monks-active-tiles": {
-          "name": "",
-          "active": true,
-          "record": false,
-          "restriction": "all",
-          "controlled": "all",
-          "trigger": [
-            "enter"
-          ],
-          "allowpaused": false,
-          "usealpha": false,
-          "pointer": false,
-          "vision": true,
-          "pertoken": false,
-          "minrequired": 0,
-          "cooldown": null,
-          "chance": 100,
-          "fileindex": -1,
-          "actions": [],
-          "files": []
-        },
-        "tagger": {}
-      },
-      "_key": "!scenes.tiles!rXHnY4gHp8L8s2v1.yYEfESBxjVD1Iv27"
-    }
-  ],
-  "walls": [],
-  "playlist": null,
-  "playlistSound": null,
-  "journal": "wunZCEWMpEEqSb50",
-  "journalEntryPage": "EQthSFCHarUCCvYy",
-  "weather": "",
-  "ownership": {
-    "default": 0,
-    "vj8VUT8j7Wtzy3Y2": 3
-  },
-  "flags": {
-    "pf2e-perception": {
-      "standard": true,
-      "npc-vision": false
-    },
-    "pf2e": {
-      "rulesBasedVision": null,
-      "hearingRange": null,
-      "environmentTypes": []
-    },
-    "token-attacher": {},
-    "scene-packer": {
-      "hash": "08356349977c1573bc06d82d103ff2f39478f3d8",
-      "sourceId": "Scene.9XHjfyrXLaahThd3"
-    },
-    "hexplorer": {
-      "enabled": false
-    },
-    "about-face": {
-      "sceneEnabled": true,
-      "lockRotation": false,
-      "lockArrowRotation": false
-    },
-    "world-explorer": {
-      "enabled": false,
-      "color": "#000000",
-      "image": "",
-      "persistExploredAreas": false,
-      "position": "behindDrawings",
-      "revealRadius": "0",
-      "gridRevealRadius": "0",
-      "opacityGM": 0.7,
-      "opacityPlayer": 1
-    }
-  },
-  "_stats": {
-    "compendiumSource": null,
-    "duplicateSource": null,
-    "coreVersion": "13.345",
-    "systemId": "pf2e",
-    "systemVersion": "6.12.1",
-    "createdTime": 1747524344290,
-    "modifiedTime": 1747763804449,
-    "lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
-    "exportSource": null
-  },
-  "_id": "rXHnY4gHp8L8s2v1",
-  "active": false,
-  "sort": 100000,
-  "_key": "!scenes!rXHnY4gHp8L8s2v1"
+	"folder": "XHZVupwh64VC36Dy",
+	"name": "C1. Beach Site",
+	"navigation": false,
+	"navOrder": 0,
+	"navName": "",
+	"background": {
+		"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/beach-site-(base).webp",
+		"anchorX": 0,
+		"anchorY": 0,
+		"offsetX": 0,
+		"offsetY": 0,
+		"fit": "fill",
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0,
+		"tint": "#ffffff",
+		"alphaThreshold": 0
+	},
+	"foreground": null,
+	"foregroundElevation": 20,
+	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/9XHjfyrXLaahThd3-thumb.webp",
+	"width": 4000,
+	"height": 4000,
+	"padding": 0.25,
+	"initial": {
+		"x": null,
+		"y": null,
+		"scale": 0.5
+	},
+	"backgroundColor": "#383838",
+	"grid": {
+		"type": 1,
+		"size": 100,
+		"style": "solidLines",
+		"thickness": 1,
+		"color": "#000000",
+		"alpha": 0.2,
+		"distance": 5,
+		"units": "ft"
+	},
+	"tokenVision": true,
+	"fog": {
+		"exploration": true,
+		"overlay": null,
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		}
+	},
+	"environment": {
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"enabled": false,
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"luminosity": 0,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"cycle": true,
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"drawings": [
+		{
+			"_id": "QJFmYtWsQ3gHWSoE",
+			"author": "vj8VUT8j7Wtzy3Y2",
+			"shape": {
+				"type": "r",
+				"width": 600,
+				"height": 88,
+				"radius": null,
+				"points": []
+			},
+			"x": 4388,
+			"y": 5025,
+			"elevation": 0,
+			"sort": 0,
+			"rotation": 0,
+			"bezierFactor": 0,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 8,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "Created by Chasarooni",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": true,
+			"locked": true,
+			"interface": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_key": "!scenes.drawings!rXHnY4gHp8L8s2v1.QJFmYtWsQ3gHWSoE"
+		}
+	],
+	"tokens": [],
+	"lights": [],
+	"notes": [],
+	"sounds": [],
+	"regions": [],
+	"templates": [],
+	"tiles": [
+		{
+			"texture": {
+				"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/beach-site-bow-(overlay).webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "fill",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"x": 2500,
+			"y": 2800,
+			"width": 700,
+			"height": 400,
+			"elevation": 10,
+			"sort": 0,
+			"occlusion": {
+				"mode": 0,
+				"alpha": 0
+			},
+			"_id": "02mRuBFEndXqJmEn",
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"restrictions": {
+				"light": false,
+				"weather": false
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"monks-active-tiles": {
+					"name": "",
+					"active": true,
+					"record": false,
+					"restriction": "all",
+					"controlled": "all",
+					"trigger": [
+						"enter"
+					],
+					"allowpaused": false,
+					"usealpha": false,
+					"pointer": false,
+					"vision": true,
+					"pertoken": false,
+					"minrequired": 0,
+					"cooldown": null,
+					"chance": 100,
+					"fileindex": -1,
+					"actions": [],
+					"files": []
+				},
+				"tagger": {}
+			},
+			"_key": "!scenes.tiles!rXHnY4gHp8L8s2v1.02mRuBFEndXqJmEn"
+		},
+		{
+			"texture": {
+				"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/beach-site-(trees).webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "fill",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"x": 1000,
+			"y": 1000,
+			"width": 1000,
+			"height": 2700,
+			"elevation": 20,
+			"sort": 1,
+			"occlusion": {
+				"mode": 0,
+				"alpha": 0
+			},
+			"_id": "yYEfESBxjVD1Iv27",
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"restrictions": {
+				"light": false,
+				"weather": false
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"monks-active-tiles": {
+					"name": "",
+					"active": true,
+					"record": false,
+					"restriction": "all",
+					"controlled": "all",
+					"trigger": [
+						"enter"
+					],
+					"allowpaused": false,
+					"usealpha": false,
+					"pointer": false,
+					"vision": true,
+					"pertoken": false,
+					"minrequired": 0,
+					"cooldown": null,
+					"chance": 100,
+					"fileindex": -1,
+					"actions": [],
+					"files": []
+				},
+				"tagger": {}
+			},
+			"_key": "!scenes.tiles!rXHnY4gHp8L8s2v1.yYEfESBxjVD1Iv27"
+		}
+	],
+	"walls": [],
+	"playlist": null,
+	"playlistSound": null,
+	"journal": "wunZCEWMpEEqSb50",
+	"journalEntryPage": "EQthSFCHarUCCvYy",
+	"weather": "",
+	"ownership": {
+		"default": 0,
+		"vj8VUT8j7Wtzy3Y2": 3
+	},
+	"flags": {
+		"pf2e-perception": {
+			"standard": true,
+			"npc-vision": false
+		},
+		"pf2e": {
+			"rulesBasedVision": null,
+			"hearingRange": null,
+			"environmentTypes": []
+		},
+		"token-attacher": {},
+		"scene-packer": {
+			"hash": "08356349977c1573bc06d82d103ff2f39478f3d8",
+			"sourceId": "Scene.9XHjfyrXLaahThd3"
+		},
+		"hexplorer": {
+			"enabled": false
+		},
+		"about-face": {
+			"sceneEnabled": true,
+			"lockRotation": false,
+			"lockArrowRotation": false
+		},
+		"world-explorer": {
+			"enabled": false,
+			"color": "#000000",
+			"image": "",
+			"persistExploredAreas": false,
+			"position": "behindDrawings",
+			"revealRadius": "0",
+			"gridRevealRadius": "0",
+			"opacityGM": 0.7,
+			"opacityPlayer": 1
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "13.345",
+		"systemId": "pf2e",
+		"systemVersion": "6.12.1",
+		"createdTime": 1747524344290,
+		"modifiedTime": 1747763804449,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"_id": "rXHnY4gHp8L8s2v1",
+	"active": false,
+	"sort": 100000,
+	"_key": "!scenes!rXHnY4gHp8L8s2v1"
 }
