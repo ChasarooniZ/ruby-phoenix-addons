@@ -59,6 +59,18 @@
           }
         }
       }
+    },
+    "notes": {
+      "tak-nwa": {
+        "empowered-hair": {
+          "title": "Deliver Hex",
+          "text": "Whenever Tak-nwa successfully casts a hex focus spell that requires 2 or more actions to cast and that doesn't require a spell attack roll, if her target is within reach, as part of the spellcasting activity she can make a hair Strike against the foe before applying any effects of the hex. If this Strike misses, the hex has no effect."
+        },
+        "ongoing-misery": {
+          "title": "Ongoing Misery",
+          "text": "When you Cast or Sustain a hex, your familiar can curse a creature within 15 feet of it, prolonging the duration of any negative conditions affecting it by 1 round. This is a curse effect. This prolongs only conditions with a timed duration (such as \"1 round\" or \"until the end of your next turn\") and doesn't prevent conditions from being removed by other means."
+        }
+      }
     }
   }
 }

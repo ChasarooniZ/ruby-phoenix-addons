@@ -1,3 +1,53 @@
+## 0.12.0
+
+- `New`
+  - **Actors**
+    - `Arms of Balance`
+      - Rebalanced stats & damage (💡 @ShyGuy)
+      - Gave them `Wild Wind's Gust` (💡 @ShyGuy)
+      - Actually gave them +2 AC vs Ranged Attacks
+    - `Biting Roses`
+      - `Yarrika Mulandez`
+        - Rebalanced stats & damage (💡 @ShyGuy)
+        - Updated spells to use `FotRP Expanded` list (💡 @ShyGuy)
+      - `Grandfather Mantis`
+        - Rebalanced stats (💡 @ShyGuy)
+        - Changed weakness from `vitality` -> `spirit` (💡 @ShyGuy)
+        - Added a passive `Reactive Spirit` to give it access to a reaction for its unique ability
+      - `Artus Rodrivan`
+        - Rebalanced stats & damage to be in line with the `Sniper` roadmap (💡 @ShyGuy)
+        - Gave him Point Blank Shot from the Archery Specialist to make his special reaction more useful (💡 @ShyGuy)
+        - Actually linked his `Soul Arrow` to his longbow attacks
+      - `Lantondo` (💡 @ShyGuy)
+    - `Lightkeepers (Level 16)`
+      - `Syu Tak-nwa`
+        - Added athletics modifier so her escape DC isn't 0 (💡 @ShyGuy)
+        - Added `Effortless Concentration` (💡 @ShyGuy)
+        - Rebalanced stats & damage (💡 @ShyGuy)
+        - Updated spells to use `FotRP Expanded` list (💡 @ShyGuy)
+      - `Shin Hakusa`
+        - Rebalanced stats & damage (💡 @ShyGuy)
+        - Added `Debilitating Strike`, `Double Debillitation`, `Swift Sneak`, `Surpise Attack` and `Quick Draw` (💡 @ShyGuy)
+      - `Blue Viper`
+        - Rebalanced stats & damage (💡 @ShyGuy)
+        - Updated items to use `FotRP Expanded` list (💡 @ShyGuy)
+        - Added RE to `Potent Poisoner`
+      - `Ran To`
+        - Rebalanced stats & damage (💡 @ShyGuy)
+- `Updated`
+  - **Actors**
+    - `Lightkeepers (Level 14)`
+      - `Syu Tak-nwa`
+        - Added a rule element to add a note to spells that trigger `Familiar of Ongoing Misery`
+        - Added a rule element to add a note to spells that trigger `Empowered Hair`
+        - Fixed grab to be premaster version so that is actually does something for her
+        - Added athletics modifier so her escape DC isn't 0 (💡 @ShyGuy)
+      - `Shin Hakusa`
+        - Added `Debilitating Strike`, `Surpise Attack` and `Quick Draw` (💡 @ShyGuy)
+        - Added Note to Disorienting Tumble
+      - `Blue Viper`
+        - Added RE to `Potent Poisoner`
+
 ## 0.11.0
 
 - **Added**
