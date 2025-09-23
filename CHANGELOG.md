@@ -1,3 +1,29 @@
+## 0.12.1
+
+- `Updated`
+  - **Actors**
+    - `Lightkeepers (Level 14)`
+      - `Ran-to`
+        - `Whirlwind Toss` has been updated to put it better in line with other Area Damage abilities and make it more impactful
+          - Action Cost. `3` -> `2`
+          - **Success**
+            - Damage. ~~`6d6`~~ -> `7d6`
+            - Distance Tossed. ~~`5 ft.`~~ -> ~~`30 ft.` ((Str. Mod / 2) \* 5)
+          - **Critical Success**
+            - Damage. ~~`10d6`~~ -> `14d6`
+            - Distance Tossed. ~~`10 ft.`~~ -> ~~`15 ft.` (Str. Mod \* 5)
+    - `Lightkeepers (Level 16)`
+      - `Ran-to`
+        - Added `Inescapable Grasp` feat
+        - `Whirlwind Toss` has been updated to put it better in line with other Area Damage abilities and make it more impactful
+          - Action Cost. `3` -> `2`
+          - **Success**
+            - Damage. `8d6` (Unchanged)
+            - Distance Tossed. ~~`5 ft.`~~ -> ~~`35 ft.` ((Str. Mod / 2) \* 5)
+          - **Critical Success**
+            - Damage. ~~`12d6`~~ -> `16d6`
+            - Distance Tossed. ~~`10 ft.`~~ -> ~~`15 ft.` (Str. Mod \* 5)
+
 ## 0.12.0
 
 - `New`

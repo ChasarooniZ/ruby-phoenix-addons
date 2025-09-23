@@ -70775,11 +70775,11 @@
 							"value": "action"
 						},
 						"actions": {
-							"value": 3
+							"value": 2
 						},
 						"category": "offensive",
 						"description": {
-							"value": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirements</strong> Ran-to has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}</p>\n<hr />\n<p><strong>Effect</strong> Ran-to spins the creature he's holding, smashing them against any creatures within his reach, and then throws the creature aside. Ran-to attempts an @Check[athletics|defense:fortitude] check against the grabbed creature's Fortitude DC.</p>\n<hr />\n<p><strong>Critical Success</strong> Ran-to tosses his foe a great distance. The grab ends. The grabbed creature is thrown into a space within 10 feet, takes @Damage[10d6[bludgeoning]] damage, and falls @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. All creatures adjacent to Ran-to take the same amount of bludgeoning damage (@Check[reflex|dc:34|basic] save).</p>\n<p><strong>Success</strong> As critical success, except the grabbed creatures is thrown into a space within 5 feet, and creatures take @Damage[6d6[bludgeoning]] damage.</p>\n<p><strong>Failure</strong> Ran-to tosses his foe aside. The grab ends. The grabbed creature falls prone.</p>\n<p><strong>Critical Failure</strong> Ran-to loses hold of his foe, causing the grapple to end.</p>",
+							"value": "<p><strong>Frequency</strong> once per round</p><p><strong>Requirements</strong> Ran-to has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}</p><hr /><p><strong>Effect</strong> Ran-to spins the creature he's holding, smashing them against any creatures within his reach, and then throws the creature aside. Ran-to attempts an @Check[athletics|defense:fortitude] check against the grabbed creature's Fortitude DC.</p><hr /><p><strong>Critical Success</strong> Ran-to tosses his foe a great distance. The grab ends. The grabbed creature is thrown into a space within 30 feet, takes @Damage[14d6[bludgeoning]] damage, and falls @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. All creatures adjacent to Ran-to take the same amount of bludgeoning damage (@Check[reflex|dc:34|basic] save).</p><p><strong>Success</strong> As critical success, except the grabbed creatures is thrown into a space within 15 feet, and creatures take @Damage[7d6[bludgeoning]] damage.</p><p><strong>Failure</strong> Ran-to tosses his foe aside. The grab ends. The grabbed creature falls prone.</p><p><strong>Critical Failure</strong> Ran-to loses hold of his foe, causing the grapple to end.</p>",
 							"gm": ""
 						},
 						"frequency": {
@@ -70806,18 +70806,19 @@
 								"foundry": "13.348",
 								"system": "7.5.0"
 							}
-						}
+						},
+						"deathNote": false
 					},
 					"type": "action",
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "13.348",
 						"systemId": "pf2e",
-						"systemVersion": "6.11.1",
+						"systemVersion": "7.5.1",
 						"createdTime": null,
-						"modifiedTime": null,
-						"lastModifiedBy": null,
+						"modifiedTime": 1758652563362,
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 						"exportSource": null
 					},
 					"effects": [],
@@ -74719,7 +74720,7 @@
 				}
 			},
 			"_stats": {
-				"compendiumSource": "Folder.ybgUqF4nqK4bxKjW",
+				"compendiumSource": null,
 				"duplicateSource": null,
 				"coreVersion": "13.345",
 				"systemId": "pf2e",
@@ -74875,7 +74876,7 @@
 				}
 			},
 			"_stats": {
-				"compendiumSource": "Folder.jR9cW9Fe3MMgqKBZ",
+				"compendiumSource": null,
 				"duplicateSource": null,
 				"coreVersion": "13.348",
 				"systemId": "pf2e",
@@ -75019,7 +75020,7 @@
 		"systemId": "pf2e",
 		"systemVersion": "6.10.2",
 		"createdTime": 1742696644960,
-		"modifiedTime": 1758574663094,
+		"modifiedTime": 1758653330731,
 		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 		"exportSource": null
 	},
