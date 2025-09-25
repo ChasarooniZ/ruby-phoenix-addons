@@ -1,3 +1,9 @@
+## 0.13.0
+
+- **Added**
+  - **Items**
+    - The divine blessings of all of the Taumatan gods on Bonmu Island (💻 @ShyGuy)
+
 ## 0.12.2
 
 - `Added`

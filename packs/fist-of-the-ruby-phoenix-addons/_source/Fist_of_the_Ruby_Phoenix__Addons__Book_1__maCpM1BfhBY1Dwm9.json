@@ -74509,6 +74509,603 @@
 			"ownership": {
 				"default": 0
 			}
+		},
+		{
+			"folder": "BgN6BAJYJVSKiQC8",
+			"name": "Blessing of Ahngonar",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.943,
+					"previous": {
+						"schema": 0.942,
+						"foundry": "13.348",
+						"system": "7.5.2"
+					}
+				},
+				"description": {
+					"value": "<p><em>Granted by </em><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\"><em>Ahngonar for honoring him by performing a love song at his shrine, for Ahngonar was the Taumatan god of messengers, music, and love.</em></span></span></p><hr /><p><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\">Each character can cast <em>@UUID[Compendium.pf2e.spells-srd.SwUiVavHKMWG7t5K]{Truespeech}</em> as a divine innate spell once during their stay on Bonmu.</span></span></p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": "ahngonars-blessing",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": -1,
+					"unit": "unlimited",
+					"expiry": null,
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": false
+				},
+				"unidentified": false,
+				"start": {
+					"value": 0,
+					"initiative": null
+				},
+				"badge": null,
+				"fromSpell": false,
+				"context": null
+			},
+			"_id": "z9oaNFBC05Y1Mu2P",
+			"img": "icons/tools/instruments/harp-yellow-teal.webp",
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758837929065,
+				"modifiedTime": 1758838545721,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "BgN6BAJYJVSKiQC8",
+			"name": "Blessing of Ni-Sa-Yei",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.943,
+					"previous": {
+						"schema": 0.942,
+						"foundry": "13.348",
+						"system": "7.5.2"
+					}
+				},
+				"description": {
+					"value": "<p><em>Granted by Ni-Sa-Yei for honoring him by marking his shrine on your map of Bonmu, for Ni-Sa-Yei was the Taumatan god of maps, exploration, and foragers.</em></p><hr /><p>You always know the location of any sites you've already visited for the duration of your stay on Bonmu, even if you lose your map, get lost, or have your memories altered.</p>",
+					"gm": "<p>Consider changing this ability to \"Reduce the @UUID[Compendium.pf2e.actionspf2e.QIrJJ1pl4H6DctaQ]{Reconnoiter} cost of all hexes by 1 while on Bonmu Island\"</p>"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": -1,
+					"unit": "unlimited",
+					"expiry": null,
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": false
+				},
+				"unidentified": false,
+				"start": {
+					"value": 0,
+					"initiative": null
+				},
+				"badge": null,
+				"fromSpell": false,
+				"context": null
+			},
+			"img": "icons/tools/navigation/compass-plain-blue.webp",
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "Item.z9oaNFBC05Y1Mu2P",
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758837934950,
+				"modifiedTime": 1758838524474,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			},
+			"_id": "YMgvOh3nRozWbLTq",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "BgN6BAJYJVSKiQC8",
+			"name": "Blessing of Umantar",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.943,
+					"previous": {
+						"schema": 0.942,
+						"foundry": "13.348",
+						"system": "7.5.2"
+					}
+				},
+				"description": {
+					"value": "<p><em>Granted by Umantar for dancing at their shrine, for Umantar was the Taumatan god of dance, revelry, and animal friendship.</em></p><hr /><p>For the duration of your stay on Bonmu, you have lighter feet. You may @UUID[Compendium.pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step} into non-magical difficult terrain.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": "blessing-of-umantar",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": -1,
+					"unit": "unlimited",
+					"expiry": null,
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": false
+				},
+				"unidentified": false,
+				"start": {
+					"value": 0,
+					"initiative": null
+				},
+				"badge": null,
+				"fromSpell": false,
+				"context": null
+			},
+			"img": "icons/skills/movement/feet-winged-boots-brown.webp",
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "Item.z9oaNFBC05Y1Mu2P",
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758837936409,
+				"modifiedTime": 1758838309968,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			},
+			"_id": "94wcFxQCxHL9lopT",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "BgN6BAJYJVSKiQC8",
+			"name": "Blessing of Jinya-Por",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.943,
+					"previous": {
+						"schema": 0.942,
+						"foundry": "13.348",
+						"system": "7.5.2"
+					}
+				},
+				"description": {
+					"value": "<p><em>Granted by </em><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\"><em>Jinya-Por for honoring them by swimming in the waters beside her shrine for at least ten minutes, for Jinya-Por was the Taumatan god of sailing, swimming, and the wind.</em></span></span></p><hr /><p><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\">For the duration of their stay on Bonmu, whenever you roll a success at an Athletics check to @UUID[Compendium.pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swim}, you get a critical success instead.</span></span></p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"key": "AdjustDegreeOfSuccess",
+						"selector": "athletics",
+						"adjustment": {
+							"success": "one-degree-better"
+						},
+						"predicate": [
+							"action:swim"
+						]
+					}
+				],
+				"slug": "jinya-pors-blessing",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": -1,
+					"unit": "unlimited",
+					"expiry": null,
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": false
+				},
+				"unidentified": false,
+				"start": {
+					"value": 0,
+					"initiative": null
+				},
+				"badge": null,
+				"fromSpell": false,
+				"context": null
+			},
+			"img": "icons/magic/water/water-drop-swirl-blue.webp",
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "Item.YMgvOh3nRozWbLTq",
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758837987566,
+				"modifiedTime": 1758838486489,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			},
+			"_id": "R2BK8foJp7aZMBl5",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "BgN6BAJYJVSKiQC8",
+			"name": "Blessing of Babbunabi",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.943,
+					"previous": {
+						"schema": 0.942,
+						"foundry": "13.348",
+						"system": "7.5.2"
+					}
+				},
+				"description": {
+					"value": "<p><em>Granted by </em><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\"><em>Babbunabi for honoring them by spending 10 minutes reading aloud at her shrine, for Babbunabi was the Taumatan god of scripture, storytellers, and travelers.</em></span></span></p><hr /><p><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\">For the duration of their stay on Bonmu, gain a +2 circumstance bonus to saving throws to prevent the blinded or dazzled conditions during your stay on Bonmu.</span></span></p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"selector": "saving-throw",
+						"value": 2,
+						"type": "circumstance",
+						"predicate": [
+							{
+								"or": [
+									"item:slug:blindness",
+									"item:slug:dazzled"
+								]
+							}
+						]
+					}
+				],
+				"slug": "babbunabis-blessing",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": -1,
+					"unit": "unlimited",
+					"expiry": null,
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": false
+				},
+				"unidentified": false,
+				"start": {
+					"value": 0,
+					"initiative": null
+				},
+				"badge": null,
+				"fromSpell": false,
+				"context": null
+			},
+			"img": "icons/sundries/books/book-open-purple.webp",
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "Item.YMgvOh3nRozWbLTq",
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758837988901,
+				"modifiedTime": 1758838550348,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			},
+			"_id": "vMJwrIluxzRVaucX",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "BgN6BAJYJVSKiQC8",
+			"name": "Blessing of Kantiyani",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.943,
+					"previous": {
+						"schema": 0.942,
+						"foundry": "13.348",
+						"system": "7.5.2"
+					}
+				},
+				"description": {
+					"value": "<p><span style=\"\\'font-family:Signika,\"><span style=\"font-family:Signika,\"><em>Granted by Kantiyani, the Taumatan god of charity, feasts, and cooks, for honoring them by preparing and consuming a meal at their shrine.</em></span></span></p><hr /><p><span style=\"\\'font-family:Signika,\"><span style=\"font-family:Signika,\">For the duration of your stay on Bonmu, you only have to eat a single meal per day to receive a full day’s worth of nourishment.</span></span></p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": -1,
+					"unit": "unlimited",
+					"expiry": null,
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": false
+				},
+				"unidentified": false,
+				"start": {
+					"value": 0,
+					"initiative": null
+				},
+				"badge": null,
+				"fromSpell": false,
+				"context": null
+			},
+			"img": "icons/tools/cooking/mortar-black.webp",
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "Item.YMgvOh3nRozWbLTq",
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758837990268,
+				"modifiedTime": 1758838555825,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			},
+			"_id": "nWcd3TI8ra21WZt5",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "BgN6BAJYJVSKiQC8",
+			"name": "Blessing of Ramijav",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.943,
+					"previous": {
+						"schema": 0.942,
+						"foundry": "13.348",
+						"system": "7.5.2"
+					}
+				},
+				"description": {
+					"value": "<p><em>Granted by Ramijav for honoring them by resting for at least ten minutes at their shrine, for Ramijav was the Taumatan god of relaxation, self-care, and comedy.</em></p><hr /><p>You have been granted restful sleep for the duration of your stay at Bonmu. You can recover from the @UUID[Compendium.pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} condition by resting for only 1 hour.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": "blessing-of-ramijav",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": -1,
+					"unit": "unlimited",
+					"expiry": null,
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": false
+				},
+				"unidentified": false,
+				"start": {
+					"value": 0,
+					"initiative": null
+				},
+				"badge": null,
+				"fromSpell": false,
+				"context": null
+			},
+			"img": "icons/sundries/survival/bedroll-blue-red.webp",
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "Item.YMgvOh3nRozWbLTq",
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758838144747,
+				"modifiedTime": 1758838534196,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			},
+			"_id": "NZZzKKokpUbFXZ46",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "BgN6BAJYJVSKiQC8",
+			"name": "Blessing of Shihandivara",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.943,
+					"previous": {
+						"schema": 0.942,
+						"foundry": "13.348",
+						"system": "7.5.2"
+					}
+				},
+				"description": {
+					"value": "<p><em>Granted by Shihandivara for earnestly playing a game at her shrine, for Shihandivara was the Taumatan goddess of games, competition, and boasting.</em></p><hr /><p>For the duration of your stay on Bonmu, you gain a +1 circumstance bonus to all skill checks rolled during a non-combat competition. This bonus does not apply during matches against other teams for silver feathers.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"selector": "skill-check",
+						"value": 1,
+						"type": "circumstance",
+						"predicate": [
+							"non-combat-competition"
+						],
+						"label": "Blessing of Shihandivara (Non-combat Competition)"
+					}
+				],
+				"slug": "shihandivaras-blessing",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": -1,
+					"unit": "unlimited",
+					"expiry": null,
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": false
+				},
+				"unidentified": false,
+				"start": {
+					"value": 0,
+					"initiative": null
+				},
+				"badge": null,
+				"fromSpell": false,
+				"context": null
+			},
+			"img": "icons/sundries/gaming/dice-pair-white-green.webp",
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "Item.94wcFxQCxHL9lopT",
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758838216885,
+				"modifiedTime": 1758838360731,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			},
+			"_id": "Ogza3BqS7HsoT3fH",
+			"ownership": {
+				"default": 0
+			}
 		}
 	],
 	"journal": [],
@@ -74985,7 +75582,7 @@
 			"sort": 0,
 			"flags": {},
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.Z5GNZV74pFBxbDWT",
 				"duplicateSource": null,
 				"exportSource": null,
 				"coreVersion": "13.348",
@@ -75017,6 +75614,28 @@
 				"modifiedTime": 1758088004165,
 				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
 			}
+		},
+		{
+			"type": "Item",
+			"folder": "MdPAOhC1LVlRLkcD",
+			"name": "Blessings",
+			"color": "#328154",
+			"sorting": "a",
+			"_id": "BgN6BAJYJVSKiQC8",
+			"description": "",
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758837831991,
+				"modifiedTime": 1758837831991,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			}
 		}
 	],
 	"_id": "maCpM1BfhBY1Dwm9",
@@ -75029,7 +75648,7 @@
 		"systemId": "pf2e",
 		"systemVersion": "6.10.2",
 		"createdTime": 1742696644960,
-		"modifiedTime": 1758822615783,
+		"modifiedTime": 1758838630432,
 		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 		"exportSource": null
 	},
