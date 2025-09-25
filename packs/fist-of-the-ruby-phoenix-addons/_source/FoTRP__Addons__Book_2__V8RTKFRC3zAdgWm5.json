@@ -43556,6 +43556,388 @@
 			"ownership": {
 				"default": 0
 			}
+		},
+		{
+			"prototypeToken": {
+				"displayName": 30,
+				"displayBars": 20,
+				"prependAdjective": true,
+				"flags": {
+					"tagger": {
+						"tags": ""
+					},
+					"Rideable": {
+						"issetRideableFlag": true,
+						"MaxRiderFlag": null,
+						"CustomRidingheightFlag": null,
+						"UseRidingHeightFlag": true,
+						"RidersScaleFlag": 1,
+						"RiderPositioningFlag": "RowPlacement",
+						"RiderOffsetFlag": [
+							0,
+							0
+						],
+						"TokenFormFlag": "TokenFormCircle",
+						"InsideMovementFlag": false,
+						"SpawnRidersFlag": "",
+						"WorldMEffectOverrideFlag": false,
+						"MountingEffectsFlag": "",
+						"SelfApplyEffectsFlag": false,
+						"forMountEffectsFlag": "",
+						"CanbePilotedFlag": false,
+						"CheckPilotedCollisionFlag": false,
+						"PilotedbyDefaultFlag": false
+					},
+					"pf2e": {
+						"linkToActorSize": true,
+						"autoscale": false
+					}
+				},
+				"height": 0.5,
+				"width": 0.5,
+				"name": "Yon-so",
+				"actorLink": false,
+				"appendNumber": false,
+				"texture": {
+					"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/xiuh-couatl.webp",
+					"anchorX": 0.5,
+					"anchorY": 0.5,
+					"offsetX": 0,
+					"offsetY": 0,
+					"fit": "contain",
+					"scaleX": 2,
+					"scaleY": 2,
+					"rotation": 0,
+					"tint": "#ffffff",
+					"alphaThreshold": 0.75
+				},
+				"lockRotation": false,
+				"rotation": 0,
+				"alpha": 1,
+				"disposition": -1,
+				"bar1": {
+					"attribute": "attributes.hp"
+				},
+				"bar2": {
+					"attribute": null
+				},
+				"light": {
+					"negative": false,
+					"priority": 0,
+					"alpha": 0.5,
+					"angle": 360,
+					"bright": 0,
+					"color": null,
+					"coloration": 1,
+					"dim": 0,
+					"attenuation": 0.5,
+					"luminosity": 0.5,
+					"saturation": 0,
+					"contrast": 0,
+					"shadows": 0,
+					"animation": {
+						"type": null,
+						"speed": 5,
+						"intensity": 5,
+						"reverse": false
+					},
+					"darkness": {
+						"min": 0,
+						"max": 1
+					}
+				},
+				"sight": {
+					"enabled": true,
+					"range": 0,
+					"angle": 360,
+					"visionMode": "basic",
+					"color": null,
+					"attenuation": 0.1,
+					"brightness": 0,
+					"saturation": 0,
+					"contrast": 0
+				},
+				"detectionModes": [],
+				"occludable": {
+					"radius": 0
+				},
+				"ring": {
+					"enabled": true,
+					"colors": {
+						"ring": null,
+						"background": null
+					},
+					"effects": 1,
+					"subject": {
+						"scale": 2,
+						"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/mythological/xiuh-couatl.webp"
+					}
+				},
+				"randomImg": false,
+				"turnMarker": {
+					"mode": 1,
+					"animation": null,
+					"src": null,
+					"disposition": false
+				},
+				"movementAction": null
+			},
+			"folder": "2yjrXRbXhzCiumeW",
+			"name": "Yon-so (Level 16)",
+			"type": "npc",
+			"effects": [],
+			"system": {
+				"attributes": {
+					"hp": {
+						"value": 80,
+						"temp": 0,
+						"max": 80,
+						"details": ""
+					},
+					"ac": {
+						"value": 37,
+						"details": ""
+					},
+					"allSaves": {
+						"value": ""
+					},
+					"speed": {
+						"value": 40,
+						"otherSpeeds": [],
+						"details": ""
+					}
+				},
+				"initiative": {
+					"statistic": "perception"
+				},
+				"details": {
+					"languages": {
+						"value": [],
+						"details": ""
+					},
+					"level": {
+						"value": 16
+					},
+					"blurb": "",
+					"publicNotes": "",
+					"privateNotes": "",
+					"publication": {
+						"title": "",
+						"authors": "",
+						"license": "OGL",
+						"remaster": false
+					}
+				},
+				"resources": {},
+				"_migration": {
+					"version": 0.943,
+					"previous": {
+						"schema": 0.943,
+						"foundry": "13.348",
+						"system": "7.5.0"
+					}
+				},
+				"abilities": {
+					"str": {
+						"mod": 0
+					},
+					"dex": {
+						"mod": 0
+					},
+					"con": {
+						"mod": 0
+					},
+					"int": {
+						"mod": 0
+					},
+					"wis": {
+						"mod": 0
+					},
+					"cha": {
+						"mod": 0
+					}
+				},
+				"perception": {
+					"details": "Darkvision, Scent 30 ft. (imprecise)",
+					"mod": 21,
+					"senses": [],
+					"vision": true
+				},
+				"saves": {
+					"fortitude": {
+						"value": 26,
+						"saveDetail": ""
+					},
+					"reflex": {
+						"value": 29,
+						"saveDetail": ""
+					},
+					"will": {
+						"value": 28,
+						"saveDetail": ""
+					}
+				},
+				"skills": {
+					"acrobatics": {
+						"base": 21,
+						"special": []
+					},
+					"stealth": {
+						"base": 19,
+						"special": []
+					}
+				},
+				"traits": {
+					"value": [],
+					"rarity": "common",
+					"size": {
+						"value": "tiny"
+					}
+				}
+			},
+			"img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/xiuh-couatl.webp",
+			"items": [
+				{
+					"img": "systems/pf2e/icons/actions/Passive.webp",
+					"name": "Scent 30 ft.",
+					"system": {
+						"actionType": {
+							"value": "passive"
+						},
+						"actions": {
+							"value": null
+						},
+						"category": "interaction",
+						"description": {
+							"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>",
+							"gm": ""
+						},
+						"publication": {
+							"license": "ORC",
+							"remaster": true,
+							"title": "Pathfinder Monster Core",
+							"authors": ""
+						},
+						"rules": [],
+						"traits": {
+							"value": [],
+							"otherTags": []
+						},
+						"slug": "scent",
+						"_migration": {
+							"version": 0.943,
+							"previous": {
+								"schema": 0.943,
+								"foundry": "13.348",
+								"system": "7.5.0"
+							}
+						},
+						"deathNote": false
+					},
+					"type": "action",
+					"_stats": {
+						"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.rqfnQ5VHT5hxm25r",
+						"duplicateSource": null,
+						"exportSource": null,
+						"coreVersion": "13.348",
+						"systemId": "pf2e",
+						"systemVersion": "7.5.2",
+						"lastModifiedBy": null
+					},
+					"effects": [],
+					"folder": null,
+					"sort": 0,
+					"flags": {
+						"scene-packer": {
+							"hash": "5b41429f9a4e6ab61fde71b241879caae42491b2"
+						}
+					},
+					"_id": "OhNnrvONosMVDVfl",
+					"ownership": {
+						"default": 0
+					}
+				},
+				{
+					"img": "systems/pf2e/icons/actions/Passive.webp",
+					"name": "Darkvision",
+					"system": {
+						"actionType": {
+							"value": "passive"
+						},
+						"actions": {
+							"value": null
+						},
+						"category": "interaction",
+						"description": {
+							"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>",
+							"gm": ""
+						},
+						"publication": {
+							"license": "ORC",
+							"remaster": true,
+							"title": "Pathfinder Monster Core",
+							"authors": ""
+						},
+						"rules": [],
+						"traits": {
+							"value": [],
+							"otherTags": []
+						},
+						"slug": "darkvision",
+						"_migration": {
+							"version": 0.943,
+							"previous": {
+								"schema": 0.943,
+								"foundry": "13.348",
+								"system": "7.5.0"
+							}
+						}
+					},
+					"type": "action",
+					"_stats": {
+						"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.qCCLZhnp2HhP3Ex6",
+						"duplicateSource": null,
+						"exportSource": null,
+						"coreVersion": "13.348",
+						"systemId": "pf2e",
+						"systemVersion": "7.5.2",
+						"lastModifiedBy": null
+					},
+					"effects": [],
+					"folder": null,
+					"sort": 0,
+					"flags": {
+						"scene-packer": {
+							"hash": "a345778b749090c22082fa9ce51cc93ef9b6a26a"
+						}
+					},
+					"_id": "oRjKK42hQsvjbrke",
+					"ownership": {
+						"default": 0
+					}
+				}
+			],
+			"sort": 125000,
+			"flags": {
+				"scene-packer": {
+					"hash": "6934c0c1091c47327d7234c02e409f9d61e8b9f4"
+				}
+			},
+			"_stats": {
+				"compendiumSource": "Actor.wBjRsh3hQcxXtxnF",
+				"duplicateSource": "Actor.wBjRsh3hQcxXtxnF",
+				"exportSource": null,
+				"coreVersion": "13.348",
+				"systemId": "pf2e",
+				"systemVersion": "7.5.2",
+				"createdTime": 1758822502397,
+				"modifiedTime": 1758822698593,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+			},
+			"_id": "WucFyBB8C5cSFQu6",
+			"ownership": {
+				"default": 0
+			}
 		}
 	],
 	"combats": [],
@@ -43664,7 +44046,7 @@
 				}
 			},
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.ybgUqF4nqK4bxKjW",
 				"duplicateSource": null,
 				"coreVersion": "13.345",
 				"systemId": "pf2e",
@@ -43870,7 +44252,7 @@
 		"systemId": "pf2e",
 		"systemVersion": "6.12.4",
 		"createdTime": 1748535243823,
-		"modifiedTime": 1758653342123,
+		"modifiedTime": 1758822703249,
 		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 		"exportSource": null
 	},

@@ -1,10 +1,24 @@
+## 0.12.2
+
+- `Added`
+  - **Actors**
+    - `Lightkeepers (Level 16)`
+      - `Yon-Soo` - with appropriate stats for a familiar on level
+
+- `Updated`
+  - **Actors**
+    - `Lightkeepers (Level 14)`
+      - `Yon-Soo`
+        - Rebalanced stats for a familiar on level
+        - Fixed size (💡 @ShyGuy)
+
 ## 0.12.1
 
 - `Updated`
   - **Actors**
     - `Lightkeepers (Level 14)`
       - `Ran-to`
-        - `Whirlwind Toss` has been updated to put it better in line with other Area Damage abilities and make it more impactful
+        - `Whirlwind Toss` has been updated to put it better in line with other Area Damage abilities and make it more impactful (💡 @ShyGuy)
           - Action Cost. `3` -> `2`
           - **Success**
             - Damage. ~~`6d6`~~ -> `7d6`
@@ -15,7 +29,7 @@
     - `Lightkeepers (Level 16)`
       - `Ran-to`
         - Added `Inescapable Grasp` feat
-        - `Whirlwind Toss` has been updated to put it better in line with other Area Damage abilities and make it more impactful
+        - `Whirlwind Toss` has been updated to put it better in line with other Area Damage abilities and make it more impactful (💡 @ShyGuy)
           - Action Cost. `3` -> `2`
           - **Success**
             - Damage. `8d6` (Unchanged)

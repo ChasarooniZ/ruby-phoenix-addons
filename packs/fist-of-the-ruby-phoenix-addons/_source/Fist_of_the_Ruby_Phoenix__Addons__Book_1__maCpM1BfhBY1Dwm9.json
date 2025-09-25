@@ -63423,8 +63423,8 @@
 						"autoscale": false
 					}
 				},
-				"height": 1,
-				"width": 1,
+				"height": 0.5,
+				"width": 0.5,
 				"name": "Yon-so",
 				"actorLink": false,
 				"appendNumber": false,
@@ -63519,13 +63519,13 @@
 			"system": {
 				"attributes": {
 					"hp": {
-						"value": 10,
+						"value": 70,
 						"temp": 0,
 						"max": 70,
 						"details": ""
 					},
 					"ac": {
-						"value": 30,
+						"value": 34,
 						"details": ""
 					},
 					"allSaves": {
@@ -63589,7 +63589,7 @@
 				},
 				"perception": {
 					"details": "Darkvision, Scent 30 ft. (imprecise)",
-					"mod": 0,
+					"mod": 19,
 					"senses": [],
 					"vision": true
 				},
@@ -63599,20 +63599,29 @@
 						"saveDetail": ""
 					},
 					"reflex": {
-						"value": 22,
+						"value": 27,
 						"saveDetail": ""
 					},
 					"will": {
-						"value": 21,
+						"value": 26,
 						"saveDetail": ""
 					}
 				},
-				"skills": {},
+				"skills": {
+					"acrobatics": {
+						"base": 19,
+						"special": []
+					},
+					"stealth": {
+						"base": 19,
+						"special": []
+					}
+				},
 				"traits": {
 					"value": [],
 					"rarity": "common",
 					"size": {
-						"value": "med"
+						"value": "tiny"
 					}
 				}
 			},
@@ -63753,9 +63762,9 @@
 				"duplicateSource": "Actor.wBjRsh3hQcxXtxnF",
 				"coreVersion": "13.348",
 				"systemId": "pf2e",
-				"systemVersion": "7.5.0",
+				"systemVersion": "7.5.2",
 				"createdTime": 1745740464074,
-				"modifiedTime": 1758351172244,
+				"modifiedTime": 1758821672331,
 				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 				"exportSource": null
 			},
@@ -75020,7 +75029,7 @@
 		"systemId": "pf2e",
 		"systemVersion": "6.10.2",
 		"createdTime": 1742696644960,
-		"modifiedTime": 1758653330731,
+		"modifiedTime": 1758822615783,
 		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 		"exportSource": null
 	},
