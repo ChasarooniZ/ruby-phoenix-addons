@@ -9,6 +9,8 @@
 
 Small addons of actors, animations, maps and tips for Fists of the Ruby Phoenix
 
+_Shoutout to @ShyGuy32 who was responsible for a lot of the balance passes, and really inspired a lot of other changes made, truly an excellent person!_
+
 ## Features
 
 ~~[See a list of all features here](/FEATURES.MD)~~
