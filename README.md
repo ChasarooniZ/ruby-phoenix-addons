@@ -9,6 +9,8 @@
 
 Small addons of actors, animations, maps and tips for Fists of the Ruby Phoenix
 
+many of the stat block balance passes are either to fix mistakes in the blocks, putting them in line with paizo's Creature Building guidelines, or improve the feel to play, currently see the change for some details on the changes
+
 _Shoutout to @ShyGuy32 who was responsible for a lot of the balance passes, and really inspired a lot of other changes made, truly an excellent person!_
 
 ## Features
