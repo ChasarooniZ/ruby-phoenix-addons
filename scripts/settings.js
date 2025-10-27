@@ -30,6 +30,15 @@ export function registerSettings() {
   });
 
 
+  game.settings.register(MODULE_ID, 'object-info-backup', {
+    name: "",
+    hint: "",
+    scope: `world`,
+    config: false,
+    default: {},
+    type: Object,
+  });
+
   // game.settings.register(MODULE_ID, `first-time.guide`, {
   //   name: "",
   //   hint: "",

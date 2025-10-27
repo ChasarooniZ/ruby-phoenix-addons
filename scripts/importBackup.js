@@ -16,8 +16,10 @@ async function backupData(_adventure, _info, _misc, content) {
   const totalCount = actorIDs.length + itemIDs.length;
   let processedCount = 0;
 
+  const updates = {};
+
   // Batch actor updates
-  const actorUpdates = [];
+  const actorUpdates = {};
   for (const actorID of actorIDs) {
     const actor = game.actors.get(actorID);
     if (!actor) {
@@ -38,18 +40,15 @@ async function backupData(_adventure, _info, _misc, content) {
       "prototypeToken.turnMarker": actor?.prototypeToken?.turnMarker,
     };
 
-    actorUpdates.push(
-      actor.setFlag(MODULE_ID, "backupData", backupData).then(() => {
-        processedCount++;
-        updateProgress(processedCount, totalCount, actor.name, "actor");
-      })
-    );
+    actorUpdates[actorID] = backupData;
+    processedCount++;
+    updateProgress(processedCount, totalCount, actor.name, "actor");
   }
 
-  await Promise.all(actorUpdates);
+  updates.actors = actorUpdates;
 
   // Batch item updates
-  const itemUpdates = [];
+  const itemUpdates = {};
   for (const itemID of itemIDs) {
     const item = game.items.get(itemID);
     if (!item) {
@@ -63,15 +62,13 @@ async function backupData(_adventure, _info, _misc, content) {
       name: item.name,
     };
 
-    itemUpdates.push(
-      item.setFlag(MODULE_ID, "backupData", backupData).then(() => {
-        processedCount++;
-        updateProgress(processedCount, totalCount, item.name, "item");
-      })
-    );
+    itemUpdates[itemID] = backupData;
+    processedCount++;
+    updateProgress(processedCount, totalCount, item.name, "item");
   }
 
-  await Promise.all(itemUpdates);
+  updates.items = itemUpdates;
+  await game.settings.set(MODULE_ID, "object-info-backup", updates);
 }
 
 async function loadBackup(importer) {
@@ -83,34 +80,30 @@ async function loadBackup(importer) {
     return;
   window.rubyPhoenixAddonsImportStarted = false;
 
-  const actors = game.actors.contents;
-  const items = game.items.contents;
+  const updates = game.settings.get(MODULE_ID, "object-info-backup");
+
+  const actorIDs = Object.keys(updates.actors);
+  const itemIDs = Object.keys(updates.items);
+
+  const actors = game.actors.contents.filter((a) => actorIDs.includes(a.id));
+  const items = game.items.contents.filter((i) => itemIDs.includes(i.id));
   const totalCount = actors.length + items.length;
   let processedCount = 0;
 
   // Batch actor restoration
   const actorUpdates = [];
   for (const actor of actors) {
-    const backupData = actor.getFlag(MODULE_ID, "backupData");
+    const backupData = updates.actors[actor.id];
     if (!backupData) {
       processedCount++;
       continue;
     }
 
     actorUpdates.push(
-      actor
-        .update(backupData)
-        .then(() => actor.unsetFlag(MODULE_ID, "backupData"))
-        .then(() => {
-          processedCount++;
-          updateProgress(
-            processedCount,
-            totalCount,
-            actor.name,
-            "actor",
-            false
-          );
-        })
+      actor.update(backupData).then(() => {
+        processedCount++;
+        updateProgress(processedCount, totalCount, actor.name, "actor", false);
+      })
     );
   }
 
@@ -119,24 +112,23 @@ async function loadBackup(importer) {
   // Batch item restoration
   const itemUpdates = [];
   for (const item of items) {
-    const backupData = item.getFlag(MODULE_ID, "backupData");
+    const backupData = updates.items[item.id];
     if (!backupData) {
       processedCount++;
       continue;
     }
 
     itemUpdates.push(
-      item
-        .update(backupData)
-        .then(() => item.unsetFlag(MODULE_ID, "backupData"))
-        .then(() => {
-          processedCount++;
-          updateProgress(processedCount, totalCount, item.name, "item", false);
-        })
+      item.update(backupData).then(() => {
+        processedCount++;
+        updateProgress(processedCount, totalCount, item.name, "item", false);
+      })
     );
   }
 
   await Promise.all(itemUpdates);
+
+  await game.settings.set(MODULE_ID, "object-info-backup", {});
 }
 
 function updateProgress(processed, total, name, type = "actor", backup = true) {
