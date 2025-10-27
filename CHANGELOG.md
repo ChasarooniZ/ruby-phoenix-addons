@@ -1,3 +1,10 @@
+## 0.14.0
+
+- **Added**
+  - `Statblock Only Import`
+    - Allows you to do an import that will only overwrite the statblock elements
+    - It does this by backing up (art, name, notes) before the import and then restoring those after the import
+
 ## 0.13.0
 
 - **Added**
