@@ -1,5 +1,6 @@
 import { registerAPI } from "./api.js";
 import { getSetting } from "./helpers.js";
+import { setupAdventureOnlyUpdateStatBlocks } from "./importBackup.js";
 import { registerSettings } from "./settings.js";
 import { timeTracker } from "./timeTracker.js";
 import { registerMyTours } from "./tours.js";
@@ -10,6 +11,7 @@ Hooks.once("init", async function () {
 
 Hooks.once("ready", async function () {
   registerAPI();
+  setupAdventureOnlyUpdateStatBlocks()
   if (getSetting("time-tracker.enabled")) {
     timeTracker();
   }
