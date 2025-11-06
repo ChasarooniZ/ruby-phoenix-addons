@@ -1,4 +1,4 @@
-## 0.14.0
+## 0.15.0
 
 - **Update**
   - _The following changes were mostly written by the lovely @ShyGuy32 and then implemented in fvtt by me_
@@ -226,6 +226,13 @@
       - `Floating Flamethrower`
         - **Disable** lower required thievery down to `Master` thievery
         - Buffed damage to 3d12 + 18
+
+## 0.14.0
+
+- **Added**
+  - `Statblock Only Import`
+    - Allows you to do an import that will only overwrite the statblock elements
+    - It does this by backing up (art, name, notes) before the import and then restoring those after the import
 
 ## 0.13.0
 

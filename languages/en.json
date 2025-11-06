@@ -7,6 +7,10 @@
           "name": "Enable Hexcrawl Time Tracker",
           "hint": "Toggle this one to enable the time tracker for the Bonmu hex crawl tracker. (to interact with it left click and right click on it to increase or diminish it, NOTE: It does NOT interact with the time of day)"
         }
+      },
+      "import-statblock-only": {
+        "name": "Import Statblock Only",
+        "hint": "When enabled this will cause the import to backup and then restore the following when you go to import the adventure (art, name, notes) This is to allow you to grab statblock updates but not have to redo the art"
       }
     },
     "dialog": {
