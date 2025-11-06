@@ -1,3 +1,232 @@
+## 0.14.0
+
+- **Update**
+  - _The following changes were mostly written by the lovely @ShyGuy32 and then implemented in fvtt by me_
+  - **Actors**
+    - `Winter's Roar`
+      - `Urnak Lostwind`
+        - **Ability Scores**: INT, CHA: +4; WIS, DEX: +5; STR, CON: +8
+        - **Skills**
+          - **Athletics** +28
+        - **Speed** 25 feet
+        - **Defenses**
+          - **Resistance** 13 cold
+          - **AC** 36
+          - **Fort** +28
+          - **Ref** +22
+        - **Feats** Slam Down, Crashing Slam (Combined into the action `Crashing Slam Down`)
+      - `Huldrin Skolsdottir`
+        - _Applying from Bastion archetype_
+        - **Ability Scores** CHA: +3; DEX: +4; INT, WIS: +5; CON, STR: +8
+        - **Skills**
+          - **Athletics** +28
+          - **Intimidation** +23
+        - **Speed** 25 feet
+        - **HP** 300
+        - **Items**
+          - `Greater Striking Rune` on trident and shield spikes
+          - `Greater Retaliation` rune on shield
+          - `Returning Rune` on trident
+        - **Defenses**
+          - **Resistance** cold 13
+          - **AC** 39
+          - **Fort** +30
+          - **Ref** +22
+          - **Will** +25
+        - **Strikes**
+          - **Trident** 3d10+18 piercing + 1d6 fire + 1d10 persistent on crit
+          - **Shield Spikes** 3d8+15
+          - **Trident (ranged)** 3d10+18 piercing + 1d6 fire + 1d10 persistent on crit
+          - **Feats** Warding Shift (from Knight _NPC Core_), Mirror Shield, Quick Shield Block, Reflexive Shield (added to `Shield Block` description renamed to `Shield Block (Special)`)
+      - `Juspix Rammel`
+        - _Applying from Witch template, using Silence in Snow patron_
+        - **Ability Scores** STR: +2; CHA, CON: +4; DEX, WIS: +5; INT: +8
+        - **Perception** +25
+        - **Skills**
+          - **Acrobatics**, **Stealth** +23
+          - **Arcana**, **Occultism** +25
+          - **Nature** +28
+          - **Items**
+            - `Greater Striking` on the filcher's fork
+            - Gave him `Wand of Snowfields (5th level)`
+          - **Defenses**
+            - **Resistance** cold 13
+            - **Ref** +25
+            - **Will** +28
+          - **Strikes** both filcher's fork 3d6+13 + 3d6 cold
+          - **Spells**
+            - **DC** 39
+            - **Attack** +31
+            - **Spell List** from FotRP Expanded
+          - Familiar of Freezing Rime (Created actor for his familiar Ontiok)
+      - `Troff Frostknuckles`
+        - _Apply from Monk template_
+        - **Ability Scores** CHA, INT: +4; WIS, CON: +5; DEX, STR: +8
+        - **Skills** all at +28
+        - **Items** `Greater Striking` on handwraps
+        - **Defenses**
+          - **Resistance** cold 13
+          - **Fort** +25
+          - **Ref** +28
+          - **Will** +22
+        - **Speed** 35 feet
+        - **Strikes**
+          - **Fist** +27, 3d10+18 + 1d6 cold
+          - **Icicle Gouge** +27, 3d10+18 + 1d6 cold
+          - **Feats** Flurry of Maneuvers, Stunning Blows
+    - `Steps of the Sun`
+      - `Amihan` and `Maalya`
+        - _Applying from Acrobat_
+        - **Ability Scores** INT, WIS: +4; CON, STR: +6; DEX, CHA: +8
+        - **Skills**
+          - **Performance** +33
+        - **Perception** +26
+        - **Items**
+          - `Greater Striking` on scimitars & shield boss
+          - `Greater Flaming` on scimitars
+          - `Bands of Force (Greater)`
+        - **Defenses**
+          - **Fort** +26
+          - **Ref** +29
+          - **Wis** +23
+        - **Strikes**
+          - **Scimitar** 3d12+14 slashing + 1d6 fire + 1d10 persistent fire (2d10 persistent fire on crit)
+          - **Shield Boss** 3d12+14 bludgeoning
+        - **Feats** Fascinating Dance (from Dancer in NPC Core), Tumbling Strike, Tumbling Opportunist
+      - `Halspin the Stung`
+        - _Applying from Bard template_
+        - **Ability Scores** WIS: +3; INT, STR: +4; CON, DEX: +6; CHA: +8
+        - **Skills**
+          - **Occultism**, **Diplomacy**, **Acrobatics** +27
+          - **Performance** +30
+        - **Items**
+          - Made `Morin Khuur` be a `Trickster's Mandolin (Greater)`
+          - `Greater Striking` to handwraps & longbow
+          - `Greater Corrosive` to longbow
+          - **Defenses**
+            - **Fort** +23
+            - **Ref** +26
+          - **Strikes**
+            - **Claw** +28, 3d6+14
+            - **Composite Longbow** +28, 3d10+14 piercing +1d6 acid (6d6 to armor/shield on crit)
+          - **Spells**
+            - **DC** 36
+            - **Attack** +28
+            - **Spell list** from FotRP Expanded
+      - `Joon-Seo`
+        - _Applying from Bard template_
+        - **Ability Scores** INT: +3; STR: +4; DEX, CON: +6; WIS, CHA: +8
+        - **Skills**
+          - **Performance** +30
+        - **Items**
+          - Added `Composer Staff (Major)`
+        - **Defenses** **Fort** +23, **Will** +29
+        - **Strikes**
+          - **Whip** +24, 3d10+14 slashing
+          - **Sound Blast** +28, 3d6+14 sonic
+        - **Spells**
+          - **DC** 38
+          - **Attack** +30
+          - **Spell list** from FotRP Expanded
+    - `Speakers to the Winds`
+      - _Adjusting them to more closely match their branches, using the rules from Strength of Thousands and from the Magaambyan Attendant and Halcyon Speaker archetypes._
+      - `Mafika Ayuwari`
+        - _Applying from Sun-Tempest Mages and Halcyon Speaker_
+        - **Ability Modifiers** STR: +3; CON: +5; DEX, WIS, CHA: +6; INT: +10
+        - **Skills**
+          - **Arcana** +36
+          - **Performance** +33
+          - Remove **Stealth**
+          - Add **Intimidation** at +33
+        - **Item**
+          - replace +2 greater striking staff with `Staff of Nature's Cunning (Major)`
+        - **Defenses**
+          - **AC** 39
+          - **Fort** +26
+          - **Reflex** +29
+          - **Will** +32
+        - **HP** 270, to simulate having Toughness
+        - **Strikes**
+          - **Staff** 3d6+16 bludgeoning
+        - **Spells**
+          - **DC** 43
+          - **Attack** +35
+          - **Spell selection** from FotRP Expanded
+        - **Feats** Tempest-Sun Redirection, Dualistic Synergy, Fulminating Synergy
+      - `Akila Stormheel`
+        - _Applying from Emerald Boughs, although she's got more of a ruffian rogue setup and the EB feats aren't combat-focused_
+        - **Ability Modifiers** CHA: +2; INT: +4; WIS, CON: +5; STR, DEX: +8
+        - **Skills**
+          - **Deception** +27
+          - **Athletics**, **Acrobatics**, **Stealth** +26
+        - **Items**
+          - +2 Greater Handwraps of Mighty Blows
+        - **Defenses**
+          - **Fort** +23
+        - **Strikes**
+          - _The Leopard strikes don't have to-hit modifiers noted. I'll assume they should be high given her description and her STR score._
+          - **Katar** +25, 3d6+11
+          - **Composite Longbow** +29, 3d8+14
+          - **Leopard Jaws** +29, 3d8+14
+          - **Leopard Claws** +27, 3d6+14
+        - **Sneak Attack** 3d6
+      - `Hummingbird & Phuthi`
+        - _Applying from Cascade Bearer_
+        - **Ability Modifiers** CHA: +3; WIS: +4; CON, STR, DEX: +5; INT: +8
+        - **Perception** +26
+        - **Skills**
+          - **Arcana** 30
+          - **Athletics** 26
+        - **Items**
+          - Replace +2 greater striking staff with `Staff of Air (Major)`
+        - **Defense**
+          - **Fort**, **Ref** +23, equal to represent Canny Acumen.
+          - **Will** +26
+        - **Strikes**
+          - **Staff** +25, 3d6+11
+        - **Spells**
+          - Use the spell lists from FotRP Expanded
+          - _Note that it has different lists for Hummingbird and for Phuthi._
+        - **Feats** Cascade Bearer's Flexibility
+      - `Surjit Hamelan`
+        - _Applying from Rain-Scribe and Sniper template_
+        - **Ability Modifiers** INT, CHA: +3; STR, CON: +5; DEX, WIS: +8
+        - **Skills**
+          - Add **Medicine** +25
+          - **Stealth**, **Acrobatics** +27
+        - **Strikes**
+          - **Hook Sword** +25, 3d6+11
+          - **Composite Shortbow** +29, 3d10+16
+        - **Sneak Attack** 3d6
+      - `Umbasi`
+        - _Applying from Uzunjati and Bard template and Folklorist archetype_
+        - **Ability Scores** WIS, CON: +3; DEX, STR: +5; INT: +8; CHA: +9
+        - **Perception** +25, (high perception mod to emulate Incredible Initiative)
+        - **Skills**
+          - **Arcana**, **Bardic Lore** +24
+          - add **Crafting** +24
+          - **Diplomacy**, **Occultism** +27
+          - **Performance** +30
+        - **Defenses**
+          - **Reflex** +23
+          - **Will** +26
+        - **Strikes**
+          - **Fist** +21, 3d6+11
+          - **Composite Longbow** +23, 3d8+14
+        - **Spells**
+          - **DC** 37
+          - **Attack** +29
+          - **Spell list** from FotRP Expanded
+        - **Feats** Spin Tale, Narrative Conduit, Rule of Three
+    - `Hazards`
+      - `Freezing Floor Tiles`
+        - **Disable** lower required thievery down to `Master` thievery
+        - Change damage to 3d12+18
+        - Added a `Balance` check require in the `Slippery Surface` feat
+      - `Floating Flamethrower`
+        - **Disable** lower required thievery down to `Master` thievery
+        - Buffed damage to 3d12 + 18
+
 ## 0.13.0
 
 - **Added**
