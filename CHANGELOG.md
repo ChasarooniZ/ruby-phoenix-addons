@@ -1,3 +1,15 @@
+## To be Added
+
+- **Added**
+  - `Drake Courser`
+    - Added generic art
+  -
+
+## 0.15.1
+
+- **Update**
+  - Fix damage on `Butterfly Blade Warrior` statblock (@LilithGelmont)
+
 ## 0.15.0
 
 - **Update**
