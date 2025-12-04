@@ -1,14 +1,15 @@
-2025/12/02-09:58:07.544 6284 Recovering log #1226
-2025/12/02-09:58:07.835 6284 Delete type=0 #1226
-2025/12/02-09:58:07.835 6284 Delete type=3 #1224
-2025/12/02-09:58:08.043 d310 Level-0 table #1232: started
-2025/12/02-09:58:08.192 d310 Level-0 table #1232: 892705 bytes OK
-2025/12/02-09:58:08.266 d310 Delete type=0 #1230
-2025/12/02-09:58:08.266 d310 Manual compaction at level-0 from '!adventures!V8RTKFRC3zAdgWm5' @ 72057594037927935 : 1 .. '!adventures!ubniEara6RTMcbjK' @ 0 : 0; will stop at '!adventures!ubniEara6RTMcbjK' @ 38 : 1
-2025/12/02-09:58:08.266 d310 Compacting 1@0 + 1@1 files
-2025/12/02-09:58:08.457 d310 Generated table #1233@0: 3 keys, 892705 bytes
-2025/12/02-09:58:08.457 d310 Compacted 1@0 + 1@1 files => 892705 bytes
-2025/12/02-09:58:08.551 d310 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/12/02-09:58:08.551 d310 Delete type=2 #1228
-2025/12/02-09:58:08.552 d310 Delete type=2 #1232
-2025/12/02-09:58:08.552 d310 Manual compaction at level-0 from '!adventures!ubniEara6RTMcbjK' @ 38 : 1 .. '!adventures!ubniEara6RTMcbjK' @ 0 : 0; will stop at (end)
+2025/12/04-12:57:24.627 8404 Recovering log #1255
+2025/12/04-12:57:24.943 8404 Delete type=0 #1255
+2025/12/04-12:57:24.943 8404 Delete type=3 #1253
+2025/12/04-12:57:25.142 a188 Level-0 table #1259: started
+2025/12/04-12:57:25.248 a188 Level-0 table #1259: 934878 bytes OK
+2025/12/04-12:57:25.307 a188 Delete type=0 #1257
+2025/12/04-12:57:25.308 a188 Manual compaction at level-0 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at '!adventures!z3GYI07psMjahmLe' @ 45 : 1
+2025/12/04-12:57:25.308 a188 Compacting 2@0 + 1@1 files
+2025/12/04-12:57:25.437 a188 Generated table #1260@0: 3 keys, 934878 bytes
+2025/12/04-12:57:25.437 a188 Compacted 2@0 + 1@1 files => 934878 bytes
+2025/12/04-12:57:25.506 a188 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/12/04-12:57:25.506 a188 Delete type=2 #1242
+2025/12/04-12:57:25.507 a188 Delete type=2 #1254
+2025/12/04-12:57:25.507 a188 Delete type=2 #1259
+2025/12/04-12:57:25.507 a188 Manual compaction at level-0 from '!adventures!z3GYI07psMjahmLe' @ 45 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at (end)

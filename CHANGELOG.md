@@ -1,9 +1,13 @@
 ## To be Added
 
+## 0.15.2
+
 - **Added**
   - `Drake Courser`
-    - Added generic art
-  -
+    - Added generic art - `Huldrin Skolsdottir`
+    - Added version of her statblock that reworks her a Guardian (🧠 @ShyGuy32)
+- **Updated**
+  - Fixed issue where `Tino's Toughest` were accidentally listed as level `14` not `13` (🐛 @pyroglyph)
 
 ## 0.15.1
 
