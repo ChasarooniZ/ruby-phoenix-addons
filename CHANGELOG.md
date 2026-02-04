@@ -1,5 +1,11 @@
 ## To be Added
 
+## 0.16.0
+
+- **Added**
+  - `Boar & Tiger Polymorph` - for the Boar and Tiger Exhibition match
+  - Roll table for the `Scale River` panning for gems and jewels
+
 ## 0.15.2
 
 - **Added**
