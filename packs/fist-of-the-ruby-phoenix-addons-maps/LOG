@@ -1,14 +1,14 @@
-2026/02/04-13:49:03.261 f3f0 Recovering log #999
-2026/02/04-13:49:03.396 f3f0 Delete type=0 #999
-2026/02/04-13:49:03.396 f3f0 Delete type=3 #998
-2026/02/04-13:49:03.462 bb80 Level-0 table #1003: started
-2026/02/04-13:49:03.522 bb80 Level-0 table #1003: 43359 bytes OK
-2026/02/04-13:49:03.585 bb80 Delete type=0 #1001
-2026/02/04-13:49:03.585 bb80 Manual compaction at level-0 from '!folders!7PRiBQRRAO2uBoAK' @ 72057594037927935 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 1482 : 1
-2026/02/04-13:49:03.585 bb80 Compacting 1@0 + 1@1 files
-2026/02/04-13:49:03.643 bb80 Generated table #1004@0: 315 keys, 43359 bytes
-2026/02/04-13:49:03.643 bb80 Compacted 1@0 + 1@1 files => 43359 bytes
-2026/02/04-13:49:03.718 bb80 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/04-13:49:03.718 bb80 Delete type=2 #819
-2026/02/04-13:49:03.718 bb80 Delete type=2 #1003
-2026/02/04-13:49:03.719 bb80 Manual compaction at level-0 from '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 1482 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at (end)
+2026/03/03-16:59:22.648 18468 Recovering log #1157
+2026/03/03-16:59:22.773 18468 Delete type=0 #1157
+2026/03/03-16:59:22.773 18468 Delete type=3 #1156
+2026/03/03-16:59:22.815 15044 Level-0 table #1161: started
+2026/03/03-16:59:22.873 15044 Level-0 table #1161: 43290 bytes OK
+2026/03/03-16:59:22.937 15044 Delete type=0 #1159
+2026/03/03-16:59:22.937 15044 Manual compaction at level-0 from '!folders!7PRiBQRRAO2uBoAK' @ 72057594037927935 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 1797 : 1
+2026/03/03-16:59:22.937 15044 Compacting 1@0 + 1@1 files
+2026/03/03-16:59:22.972 15044 Generated table #1162@0: 315 keys, 43290 bytes
+2026/03/03-16:59:22.973 15044 Compacted 1@0 + 1@1 files => 43290 bytes
+2026/03/03-16:59:23.047 15044 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/03-16:59:23.047 15044 Delete type=2 #1009
+2026/03/03-16:59:23.048 15044 Delete type=2 #1161
+2026/03/03-16:59:23.048 15044 Manual compaction at level-0 from '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 1797 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at (end)

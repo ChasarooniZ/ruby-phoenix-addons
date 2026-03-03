@@ -1,15 +1,15 @@
-2026/02/04-13:49:01.801 f3f0 Recovering log #1446
-2026/02/04-13:49:02.688 f3f0 Delete type=0 #1446
-2026/02/04-13:49:02.688 f3f0 Delete type=3 #1444
-2026/02/04-13:49:02.876 bb80 Level-0 table #1450: started
-2026/02/04-13:49:02.964 bb80 Level-0 table #1450: 946754 bytes OK
-2026/02/04-13:49:03.022 bb80 Delete type=0 #1448
-2026/02/04-13:49:03.022 bb80 Manual compaction at level-0 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at '!adventures!z3GYI07psMjahmLe' @ 47 : 1
-2026/02/04-13:49:03.022 bb80 Compacting 2@0 + 1@1 files
-2026/02/04-13:49:03.121 bb80 Generated table #1451@0: 3 keys, 946754 bytes
-2026/02/04-13:49:03.121 bb80 Compacted 2@0 + 1@1 files => 946754 bytes
-2026/02/04-13:49:03.198 bb80 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/02/04-13:49:03.198 bb80 Delete type=2 #1265
-2026/02/04-13:49:03.199 bb80 Delete type=2 #1445
-2026/02/04-13:49:03.199 bb80 Delete type=2 #1450
-2026/02/04-13:49:03.199 bb80 Manual compaction at level-0 from '!adventures!z3GYI07psMjahmLe' @ 47 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at (end)
+2026/03/03-16:59:22.005 18468 Recovering log #1605
+2026/03/03-16:59:22.131 18468 Delete type=0 #1605
+2026/03/03-16:59:22.131 18468 Delete type=3 #1603
+2026/03/03-16:59:22.285 15044 Level-0 table #1609: started
+2026/03/03-16:59:22.371 15044 Level-0 table #1609: 957443 bytes OK
+2026/03/03-16:59:22.428 15044 Delete type=0 #1607
+2026/03/03-16:59:22.429 15044 Manual compaction at level-0 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at '!adventures!z3GYI07psMjahmLe' @ 52 : 1
+2026/03/03-16:59:22.429 15044 Compacting 2@0 + 1@1 files
+2026/03/03-16:59:22.514 15044 Generated table #1610@0: 3 keys, 957443 bytes
+2026/03/03-16:59:22.514 15044 Compacted 2@0 + 1@1 files => 957443 bytes
+2026/03/03-16:59:22.572 15044 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/03-16:59:22.572 15044 Delete type=2 #1456
+2026/03/03-16:59:22.572 15044 Delete type=2 #1604
+2026/03/03-16:59:22.572 15044 Delete type=2 #1609
+2026/03/03-16:59:22.573 15044 Manual compaction at level-0 from '!adventures!z3GYI07psMjahmLe' @ 52 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at (end)

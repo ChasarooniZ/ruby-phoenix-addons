@@ -1,5 +1,12 @@
 ## To be Added
 
+## 0.17.0
+
+- **Added**
+  - `Drake Race` obstacles and art for the the competing teams
+    - To make one for your team you would need to edit the `base.webp` in the same file pat has the other 3 tokens
+    - Turn on `Token Rotation` base setting to have them rotate in the direction of where they should go
+
 ## 0.16.0
 
 - **Added**

@@ -23,6 +23,10 @@ You can access the changelog [here](/CHANGELOG.md).
 
 ## Credits
 
+## Token Art
+
+- Uses art from 2MinuteTabletop (specifically their token editor)
+
 ### Maps
 
 - Bonmu Island Paper Handout Map (@Pinewave)
