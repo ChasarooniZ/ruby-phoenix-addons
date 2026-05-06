@@ -1,5 +1,18 @@
 ## To be Added
 
+## 1.0.0
+
+- **New**
+  - Supports fvtt `v14`
+  - Added scene for `A5. Lantern Lodge Gallery`
+  - Added naive implementation of the `Dynamic Performance Combat` from FotRP: Expanded as a token
+  - Added Generic Art + Stat rebalance for the following: (🧠 @ShyGuy32)
+    - `Melodic Squall`
+    - `Portal Eater`
+    - `Razu`
+    - `Rivka`
+    - `Shadow Yai`
+
 ## 0.17.0
 
 - **Added**

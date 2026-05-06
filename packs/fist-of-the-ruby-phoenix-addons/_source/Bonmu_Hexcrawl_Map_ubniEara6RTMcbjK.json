@@ -3,7 +3,7 @@
 	"img": "modules/fist-of-the-ruby-phoenix-addons/assets/bonmu_map.webp",
 	"caption": "",
 	"sort": 0,
-	"description": "<p>This includes the following:<br /></p><ul><li><p>Bonmu Island Hexcrawl Map (@Pinewave for the Fog of war map)</p><ul><li><p>Highly recommend using the <strong>World Explorer</strong> module with this, alternatively you can use Fog of War</p></li></ul></li><li><p>Bonmu Island Hexcrawl Map Markers Journal</p></li></ul><p></p><p>Note any related Macros etc. are within the <strong>Fists of the Ruby Phoenix: Addons</strong> adventure (these are separate so that you don't have to erase the whole map progress if you reimport the adventure)</p>",
+	"description": "<p>This includes the following:<br></p><ul><li><p>Bonmu Island Hexcrawl Map (@Pinewave for the Fog of war map)</p><ul><li><p>Highly recommend using the <strong>World Explorer</strong> module with this, alternatively you can use Fog of War</p></li></ul></li><li><p>Bonmu Island Hexcrawl Map Markers Journal</p></li></ul><p></p><p>Note any related Macros etc. are within the <strong>Fists of the Ruby Phoenix: Addons</strong> adventure (these are separate so that you don't have to erase the whole map progress if you reimport the adventure)</p>",
 	"actors": [],
 	"combats": [],
 	"items": [],
@@ -40,7 +40,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -78,7 +78,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -116,7 +116,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -154,7 +154,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -192,7 +192,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -230,7 +230,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -268,7 +268,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -306,7 +306,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -344,7 +344,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -382,7 +382,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -420,7 +420,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -458,7 +458,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -496,7 +496,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -534,7 +534,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -571,7 +571,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.11.1",
 						"createdTime": null,
@@ -610,7 +610,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747013584990,
@@ -648,7 +648,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747013596103,
@@ -686,7 +686,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747013601958,
@@ -724,7 +724,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747013606751,
@@ -762,7 +762,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021592782,
@@ -800,7 +800,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021598672,
@@ -838,7 +838,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021626753,
@@ -876,7 +876,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021630979,
@@ -914,7 +914,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021635006,
@@ -952,7 +952,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021638308,
@@ -990,7 +990,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021656756,
@@ -1028,7 +1028,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021661323,
@@ -1066,7 +1066,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021664575,
@@ -1104,7 +1104,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021668553,
@@ -1142,7 +1142,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021705986,
@@ -1180,7 +1180,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021711437,
@@ -1218,7 +1218,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021716841,
@@ -1256,7 +1256,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021721446,
@@ -1294,7 +1294,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021858432,
@@ -1332,7 +1332,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021865043,
@@ -1370,7 +1370,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021868803,
@@ -1408,7 +1408,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021872527,
@@ -1446,7 +1446,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021875760,
@@ -1484,7 +1484,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021881302,
@@ -1522,7 +1522,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021885103,
@@ -1560,7 +1560,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021889025,
@@ -1598,7 +1598,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021892687,
@@ -1636,7 +1636,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021896296,
@@ -1674,7 +1674,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021900315,
@@ -1712,7 +1712,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021904550,
@@ -1750,7 +1750,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021908820,
@@ -1788,7 +1788,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021919662,
@@ -1826,7 +1826,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021922585,
@@ -1864,7 +1864,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021925659,
@@ -1902,7 +1902,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021928502,
@@ -1940,7 +1940,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021931962,
@@ -1978,7 +1978,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021935154,
@@ -2016,7 +2016,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021939229,
@@ -2054,7 +2054,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021946263,
@@ -2092,7 +2092,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021968902,
@@ -2130,7 +2130,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021974528,
@@ -2168,7 +2168,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021992684,
@@ -2206,7 +2206,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021996150,
@@ -2244,7 +2244,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747021999518,
@@ -2282,7 +2282,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022003715,
@@ -2320,7 +2320,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022007091,
@@ -2358,7 +2358,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022010408,
@@ -2396,7 +2396,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022013266,
@@ -2434,7 +2434,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022016362,
@@ -2472,7 +2472,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022019411,
@@ -2510,7 +2510,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022022344,
@@ -2548,7 +2548,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022025053,
@@ -2586,7 +2586,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022028287,
@@ -2624,7 +2624,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022031363,
@@ -2662,7 +2662,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022034396,
@@ -2700,7 +2700,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022037118,
@@ -2738,7 +2738,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022042102,
@@ -2776,7 +2776,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022132949,
@@ -2814,7 +2814,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022137295,
@@ -2852,7 +2852,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022143350,
@@ -2890,7 +2890,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022146264,
@@ -2928,7 +2928,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022149718,
@@ -2966,7 +2966,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022152507,
@@ -3004,7 +3004,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022155666,
@@ -3042,7 +3042,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022158325,
@@ -3080,7 +3080,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022161170,
@@ -3118,7 +3118,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022164207,
@@ -3156,7 +3156,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022167169,
@@ -3194,7 +3194,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022169783,
@@ -3232,7 +3232,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022172505,
@@ -3270,7 +3270,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747022175632,
@@ -3308,7 +3308,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": null,
@@ -3345,7 +3345,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.BCIoPSOM9vo5dHv2",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422622630,
@@ -3383,7 +3383,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.BCIoPSOM9vo5dHv2",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422624186,
@@ -3421,7 +3421,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.BCIoPSOM9vo5dHv2",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422626041,
@@ -3459,7 +3459,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.BCIoPSOM9vo5dHv2",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422627499,
@@ -3497,7 +3497,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.EQthSFCHarUCCvYy",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422695145,
@@ -3535,7 +3535,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.EQthSFCHarUCCvYy",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422696556,
@@ -3573,7 +3573,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.EQthSFCHarUCCvYy",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422697917,
@@ -3611,7 +3611,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.EQthSFCHarUCCvYy",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422701106,
@@ -3649,7 +3649,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.gOvGWNs19HgNIBlZ",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422744431,
@@ -3687,7 +3687,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.gOvGWNs19HgNIBlZ",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422745712,
@@ -3725,7 +3725,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.gOvGWNs19HgNIBlZ",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422746993,
@@ -3763,7 +3763,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.ND9R5eA77INEwxsT",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422750416,
@@ -3801,7 +3801,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.ND9R5eA77INEwxsT",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422751621,
@@ -3839,7 +3839,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.ND9R5eA77INEwxsT",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422752828,
@@ -3877,7 +3877,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.Tut3Tk3MPH2AitRH",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422754583,
@@ -3915,7 +3915,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.Tut3Tk3MPH2AitRH",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422755828,
@@ -3953,7 +3953,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.HeeK6VFJW1fStnnH",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422758540,
@@ -3991,7 +3991,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.HeeK6VFJW1fStnnH",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747422760058,
@@ -4029,7 +4029,7 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.D61GkOWJetyUObf2",
-						"coreVersion": "13.345",
+						"coreVersion": "14.360",
 						"systemId": "pf2e",
 						"systemVersion": "6.12.1",
 						"createdTime": 1747424728156,
@@ -4054,7 +4054,7 @@
 			"_stats": {
 				"compendiumSource": null,
 				"duplicateSource": null,
-				"coreVersion": "13.345",
+				"coreVersion": "14.360",
 				"systemId": "pf2e",
 				"systemVersion": "6.11.1",
 				"createdTime": 1744687180062,
@@ -4079,21 +4079,6 @@
 			"navigation": true,
 			"navOrder": 0,
 			"navName": "",
-			"background": {
-				"src": "modules/fist-of-the-ruby-phoenix-addons/assets/bonmu_map.webp",
-				"anchorX": 0,
-				"anchorY": 0,
-				"offsetX": -400,
-				"offsetY": 28,
-				"fit": "fill",
-				"scaleX": 1,
-				"scaleY": 1,
-				"rotation": 0,
-				"tint": "#ffffff",
-				"alphaThreshold": 0
-			},
-			"foreground": null,
-			"foregroundElevation": 20,
 			"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/xAbkfy2ghyODbHqn-thumb.webp",
 			"width": 2560,
 			"height": 3309,
@@ -4103,7 +4088,6 @@
 				"y": null,
 				"scale": 0.5
 			},
-			"backgroundColor": "#000000",
 			"grid": {
 				"type": 2,
 				"size": 322,
@@ -4116,12 +4100,11 @@
 			},
 			"tokenVision": false,
 			"fog": {
-				"exploration": false,
-				"overlay": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Pinewave%20Maps/pinewave_maps_bonmu_island_map.webp",
 				"colors": {
 					"explored": "#a9a7a7",
 					"unexplored": null
-				}
+				},
+				"mode": 0
 			},
 			"environment": {
 				"darknessLevel": 0,
@@ -4189,7 +4172,8 @@
 					"hidden": true,
 					"locked": false,
 					"interface": true,
-					"flags": {}
+					"flags": {},
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4222,7 +4206,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "jAgJgJyBQutNCOHV"
+					"_id": "jAgJgJyBQutNCOHV",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4255,7 +4240,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "EqnhOpJXvSTbF8kp"
+					"_id": "EqnhOpJXvSTbF8kp",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4288,7 +4274,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "MF00OEzP830wS6x8"
+					"_id": "MF00OEzP830wS6x8",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4321,7 +4308,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "YGxj1CFJajMbq22T"
+					"_id": "YGxj1CFJajMbq22T",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4354,7 +4342,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "VUJy2qywceSkySaE"
+					"_id": "VUJy2qywceSkySaE",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4387,7 +4376,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "GZLxkXA2zDfA8XtK"
+					"_id": "GZLxkXA2zDfA8XtK",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4420,7 +4410,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "nnSbQf6UZzq5aByk"
+					"_id": "nnSbQf6UZzq5aByk",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4453,7 +4444,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "bVvz4XA3MGDMyhAn"
+					"_id": "bVvz4XA3MGDMyhAn",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4486,7 +4478,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "0NsKFP8Ls1tpljo3"
+					"_id": "0NsKFP8Ls1tpljo3",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4519,7 +4512,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "YlzKEnj6aolfgICf"
+					"_id": "YlzKEnj6aolfgICf",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4552,7 +4546,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "Opr8arjwsGv720xD"
+					"_id": "Opr8arjwsGv720xD",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4585,7 +4580,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "jvILuT3nOOaYmfXj"
+					"_id": "jvILuT3nOOaYmfXj",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4618,7 +4614,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "wYgijmaFyfdhi8Of"
+					"_id": "wYgijmaFyfdhi8Of",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4651,7 +4648,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "h0qLd55eOYnQovUe"
+					"_id": "h0qLd55eOYnQovUe",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4684,7 +4682,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "tpxFTAbYG5YnbVir"
+					"_id": "tpxFTAbYG5YnbVir",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4717,7 +4716,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "JHYqn5h0pY9z0NFw"
+					"_id": "JHYqn5h0pY9z0NFw",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4750,7 +4750,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "g2fk5YYK51FvRKaP"
+					"_id": "g2fk5YYK51FvRKaP",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4783,7 +4784,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "NEgSjAjpQWyoAcbv"
+					"_id": "NEgSjAjpQWyoAcbv",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4816,7 +4818,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "xjuXyluoY8buVQco"
+					"_id": "xjuXyluoY8buVQco",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4849,7 +4852,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "IrvfGi4eJ3LahuKE"
+					"_id": "IrvfGi4eJ3LahuKE",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4882,7 +4886,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "dCa1vAlmhp5YrxCr"
+					"_id": "dCa1vAlmhp5YrxCr",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4915,7 +4920,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "aX8aw2XD9syq8htF"
+					"_id": "aX8aw2XD9syq8htF",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4948,7 +4954,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "RvHQEh9zSbPMIMCg"
+					"_id": "RvHQEh9zSbPMIMCg",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -4981,7 +4988,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "g5wpv34Hj7DtYEsd"
+					"_id": "g5wpv34Hj7DtYEsd",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5014,7 +5022,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "JRZms5AlYYLktVE9"
+					"_id": "JRZms5AlYYLktVE9",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5047,7 +5056,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "WN3b5oNs5jclCClW"
+					"_id": "WN3b5oNs5jclCClW",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5080,7 +5090,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "7CdCDWhLfOrUY5Ka"
+					"_id": "7CdCDWhLfOrUY5Ka",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5113,7 +5124,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "mPo25Pn9q0mZQkyd"
+					"_id": "mPo25Pn9q0mZQkyd",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5146,7 +5158,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "EB23jBgCtuEeNgov"
+					"_id": "EB23jBgCtuEeNgov",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5179,7 +5192,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "2WCDH5yQ2g7jbZC9"
+					"_id": "2WCDH5yQ2g7jbZC9",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5212,7 +5226,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "JvpDjr0Mil9xIdc5"
+					"_id": "JvpDjr0Mil9xIdc5",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5245,7 +5260,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "QN5wWZqx39zkMxTK"
+					"_id": "QN5wWZqx39zkMxTK",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5278,7 +5294,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "okMp5iLFzfDgqhQJ"
+					"_id": "okMp5iLFzfDgqhQJ",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5311,7 +5328,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "GIvOQnOhgXbZ5Taq"
+					"_id": "GIvOQnOhgXbZ5Taq",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5344,7 +5362,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "5jqw8B73qJP0PWG5"
+					"_id": "5jqw8B73qJP0PWG5",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5377,7 +5396,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "VubF0BV9I8z0zOt3"
+					"_id": "VubF0BV9I8z0zOt3",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5410,7 +5430,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "kJD7UomhXiUEM8E9"
+					"_id": "kJD7UomhXiUEM8E9",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5443,7 +5464,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "3leiIHPOyGzk7Sua"
+					"_id": "3leiIHPOyGzk7Sua",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5476,7 +5498,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "Yx7VmUaG9rksRgWT"
+					"_id": "Yx7VmUaG9rksRgWT",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5509,7 +5532,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "pweq0ONsw02N3N7x"
+					"_id": "pweq0ONsw02N3N7x",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5542,7 +5566,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "y0vSHHD2m3LG9ARs"
+					"_id": "y0vSHHD2m3LG9ARs",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5575,7 +5600,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "pABr8Tw8ZHbogr5g"
+					"_id": "pABr8Tw8ZHbogr5g",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5608,7 +5634,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "JDopRbtfF1WMKZ9X"
+					"_id": "JDopRbtfF1WMKZ9X",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5641,7 +5668,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "QQDzt4RW7U9Oewc2"
+					"_id": "QQDzt4RW7U9Oewc2",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5674,7 +5702,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "Pdwv2rLiBWVKM6yx"
+					"_id": "Pdwv2rLiBWVKM6yx",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5707,7 +5736,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "KRtT5nRFDIG3Oe7H"
+					"_id": "KRtT5nRFDIG3Oe7H",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5740,7 +5770,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "mAGSD6eaJyX4Twdr"
+					"_id": "mAGSD6eaJyX4Twdr",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5773,7 +5804,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "wu93v1SAq2Kcp2NE"
+					"_id": "wu93v1SAq2Kcp2NE",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5806,7 +5838,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "Z9pmwLJ0VjlYH8Hu"
+					"_id": "Z9pmwLJ0VjlYH8Hu",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5839,7 +5872,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "sWISCdz0lD0mi2pY"
+					"_id": "sWISCdz0lD0mi2pY",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5872,7 +5906,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "HaO4OViyWGrXrnBo"
+					"_id": "HaO4OViyWGrXrnBo",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5905,7 +5940,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "1Y16dxdletDZ49bL"
+					"_id": "1Y16dxdletDZ49bL",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5938,7 +5974,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "hj7WA8hhKkMVvMcH"
+					"_id": "hj7WA8hhKkMVvMcH",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -5971,7 +6008,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "5bOW4oMcd5QkwhZx"
+					"_id": "5bOW4oMcd5QkwhZx",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6004,7 +6042,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "vXiKlLkQc7RdhBid"
+					"_id": "vXiKlLkQc7RdhBid",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6037,7 +6076,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "4AfdDCqJ5QfhLBE4"
+					"_id": "4AfdDCqJ5QfhLBE4",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6070,7 +6110,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "fChNah04CpoRHGLW"
+					"_id": "fChNah04CpoRHGLW",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6103,7 +6144,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "eZ27cTfYSMMIP5hM"
+					"_id": "eZ27cTfYSMMIP5hM",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6136,7 +6178,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "BzIQwJwKYImMTlbI"
+					"_id": "BzIQwJwKYImMTlbI",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6169,7 +6212,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "6qYJmdV6omRlpg2Z"
+					"_id": "6qYJmdV6omRlpg2Z",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6202,7 +6246,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "7jb0oqHxfDpa0qMz"
+					"_id": "7jb0oqHxfDpa0qMz",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6235,7 +6280,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "ljcm0BEpASX8NzDO"
+					"_id": "ljcm0BEpASX8NzDO",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6268,7 +6314,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "NQ8icTr7RTf9mt9g"
+					"_id": "NQ8icTr7RTf9mt9g",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6301,7 +6348,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "mfl3UXzSoHoaETvH"
+					"_id": "mfl3UXzSoHoaETvH",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6334,7 +6382,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "EluzGRMw392pjqan"
+					"_id": "EluzGRMw392pjqan",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6367,7 +6416,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "KK4qwHdWn4LJNZry"
+					"_id": "KK4qwHdWn4LJNZry",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6400,7 +6450,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "Rp3jhcKgWXKzhEW6"
+					"_id": "Rp3jhcKgWXKzhEW6",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6433,7 +6484,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "4zkLUvc87EDRArqb"
+					"_id": "4zkLUvc87EDRArqb",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6466,7 +6518,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "suCAtS1DmuDLNpmI"
+					"_id": "suCAtS1DmuDLNpmI",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6499,7 +6552,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "EEI4ipV0Bz5LkpR6"
+					"_id": "EEI4ipV0Bz5LkpR6",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6532,7 +6586,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "fxcLD1Qx9MliLfSO"
+					"_id": "fxcLD1Qx9MliLfSO",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6565,7 +6620,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "CgSOzkRvGkXkwSnw"
+					"_id": "CgSOzkRvGkXkwSnw",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6598,7 +6654,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "s5z4C40EYklz2GSG"
+					"_id": "s5z4C40EYklz2GSG",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6631,7 +6688,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "39aMSXut70apewhc"
+					"_id": "39aMSXut70apewhc",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6664,7 +6722,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "yopXQ7SopD7oYBVg"
+					"_id": "yopXQ7SopD7oYBVg",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6697,7 +6756,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "YTf3BSPK05Onl9Sl"
+					"_id": "YTf3BSPK05Onl9Sl",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6730,7 +6790,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "ngMp6WItDgWwN7jX"
+					"_id": "ngMp6WItDgWwN7jX",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6763,7 +6824,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "nGT1YIxQwLqFTlMm"
+					"_id": "nGT1YIxQwLqFTlMm",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6796,7 +6858,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "iZHNduD9DXQb5opR"
+					"_id": "iZHNduD9DXQb5opR",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6829,7 +6892,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "UMsSLtIfiVZt82VE"
+					"_id": "UMsSLtIfiVZt82VE",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6862,7 +6926,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "4thGhKVa1nUVMG0g"
+					"_id": "4thGhKVa1nUVMG0g",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6895,7 +6960,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "X8d3R1k40U4mc8wK"
+					"_id": "X8d3R1k40U4mc8wK",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6928,7 +6994,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "Ma6du1fpgoZa8wgy"
+					"_id": "Ma6du1fpgoZa8wgy",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6961,7 +7028,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "VPPk8NTdkmJrr6J6"
+					"_id": "VPPk8NTdkmJrr6J6",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -6994,7 +7062,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "lW5hf8g31RWGRcEd"
+					"_id": "lW5hf8g31RWGRcEd",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7027,7 +7096,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "k5UUcuxkne9GtlvD"
+					"_id": "k5UUcuxkne9GtlvD",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7060,7 +7130,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "EjPsX1KmWyPGzJI3"
+					"_id": "EjPsX1KmWyPGzJI3",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7093,7 +7164,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "S2Hig40cGRTtHrVj"
+					"_id": "S2Hig40cGRTtHrVj",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7126,7 +7198,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "D7iSF0sZIYfWa3MQ"
+					"_id": "D7iSF0sZIYfWa3MQ",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7159,7 +7232,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "Nipx2JA3DaODwcgC"
+					"_id": "Nipx2JA3DaODwcgC",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7192,7 +7266,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "nOmsTCwhcBchY6rd"
+					"_id": "nOmsTCwhcBchY6rd",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7225,7 +7300,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "cW14Z8E3BGY2m5bu"
+					"_id": "cW14Z8E3BGY2m5bu",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7258,7 +7334,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "6714sSslDtj9DCQp"
+					"_id": "6714sSslDtj9DCQp",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7291,7 +7368,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "iiwZJmvcfsoY35fO"
+					"_id": "iiwZJmvcfsoY35fO",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7324,7 +7402,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "8LyQp5T0YrugtRAv"
+					"_id": "8LyQp5T0YrugtRAv",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7357,7 +7436,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "wpzNxb9zzSvVXEMC"
+					"_id": "wpzNxb9zzSvVXEMC",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7390,7 +7470,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "l2qdjuK9cbDaDn3W"
+					"_id": "l2qdjuK9cbDaDn3W",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7423,7 +7504,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "6sP49IE3ha2ds1BQ"
+					"_id": "6sP49IE3ha2ds1BQ",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7456,7 +7538,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "f4nb66V5UkX6XD9I"
+					"_id": "f4nb66V5UkX6XD9I",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7489,7 +7572,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "WB1lYhTpbVdroBJF"
+					"_id": "WB1lYhTpbVdroBJF",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7522,7 +7606,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "4qpBrs6lYI6Mrpr4"
+					"_id": "4qpBrs6lYI6Mrpr4",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7555,7 +7640,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "Hh3I6iQG0mTMEXNq"
+					"_id": "Hh3I6iQG0mTMEXNq",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7588,7 +7674,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "ym7UwuJRbFUlUWrp"
+					"_id": "ym7UwuJRbFUlUWrp",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7621,7 +7708,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "QVHjC9LeF1QgTmVC"
+					"_id": "QVHjC9LeF1QgTmVC",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7654,7 +7742,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "vKfHgbNMyr9hRQTk"
+					"_id": "vKfHgbNMyr9hRQTk",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7687,7 +7776,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "OV7jpddWTMbiaIXs"
+					"_id": "OV7jpddWTMbiaIXs",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7720,7 +7810,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "gqHEzTB1qpZmsVaT"
+					"_id": "gqHEzTB1qpZmsVaT",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7753,7 +7844,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "8qfifivpIOCS6pgi"
+					"_id": "8qfifivpIOCS6pgi",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7786,7 +7878,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "lPya95q2R6rDx0Ci"
+					"_id": "lPya95q2R6rDx0Ci",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7819,7 +7912,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "XVDNDR8HfLTNsULD"
+					"_id": "XVDNDR8HfLTNsULD",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7852,7 +7946,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "Wblau7OIa2WZNvuf"
+					"_id": "Wblau7OIa2WZNvuf",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7885,7 +7980,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "sx4Drena2ciacIW5"
+					"_id": "sx4Drena2ciacIW5",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7918,7 +8014,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "I5AFCSWPHQhFsBe4"
+					"_id": "I5AFCSWPHQhFsBe4",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7951,7 +8048,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "cpYMDJeCkMHcK8jU"
+					"_id": "cpYMDJeCkMHcK8jU",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -7984,7 +8082,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "pnYxNcF8muy674Pf"
+					"_id": "pnYxNcF8muy674Pf",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8017,7 +8116,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "ANHl2QB8t4dUWDtF"
+					"_id": "ANHl2QB8t4dUWDtF",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8050,7 +8150,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "VCvjfvFp34csvQFf"
+					"_id": "VCvjfvFp34csvQFf",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8083,7 +8184,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "7v3XpQMu4L4qJd56"
+					"_id": "7v3XpQMu4L4qJd56",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8116,7 +8218,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "sJgoNMUEUrk7TTmR"
+					"_id": "sJgoNMUEUrk7TTmR",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8149,7 +8252,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "xjxcBeEGzrrjUNY6"
+					"_id": "xjxcBeEGzrrjUNY6",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8182,7 +8286,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "rDlklA5YGvyhRIpq"
+					"_id": "rDlklA5YGvyhRIpq",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8215,7 +8320,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "A3rAIyyXm1tLjXqe"
+					"_id": "A3rAIyyXm1tLjXqe",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8248,7 +8354,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "1PsS0bouy8RcMdtk"
+					"_id": "1PsS0bouy8RcMdtk",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8281,7 +8388,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "fUFfAe0IstiNuJen"
+					"_id": "fUFfAe0IstiNuJen",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8314,7 +8422,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "ZZmZdQbHdhnz7HAU"
+					"_id": "ZZmZdQbHdhnz7HAU",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8347,7 +8456,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "s7GnWhIhL3pqGizM"
+					"_id": "s7GnWhIhL3pqGizM",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8380,7 +8490,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "BTpCjRycPPAfCVq4"
+					"_id": "BTpCjRycPPAfCVq4",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8413,7 +8524,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "txYFVfGFmb58xbVY"
+					"_id": "txYFVfGFmb58xbVY",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8446,7 +8558,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "LQTmg4aaevDO5Eys"
+					"_id": "LQTmg4aaevDO5Eys",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8479,7 +8592,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "4imjigB8g9rcdeqq"
+					"_id": "4imjigB8g9rcdeqq",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8512,7 +8626,8 @@
 					"locked": false,
 					"interface": true,
 					"flags": {},
-					"_id": "o6rpTPMLvMZQXmgG"
+					"_id": "o6rpTPMLvMZQXmgG",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8600,7 +8715,8 @@
 					"interface": true,
 					"flags": {},
 					"text": "",
-					"_id": "UChpn2cKcAs0BLfv"
+					"_id": "UChpn2cKcAs0BLfv",
+					"levels": []
 				},
 				{
 					"author": "vj8VUT8j7Wtzy3Y2",
@@ -8640,7 +8756,8 @@
 					"interface": false,
 					"flags": {},
 					"text": "",
-					"_id": "esh4WJmzg2o3XMPp"
+					"_id": "esh4WJmzg2o3XMPp",
+					"levels": []
 				}
 			],
 			"tokens": [],
@@ -8661,12 +8778,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/A.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8678,7 +8792,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "1VLkBe1O8F3qT0kr"
+					"_id": "1VLkBe1O8F3qT0kr",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8695,12 +8812,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/B1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8712,7 +8826,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "YggQNjZ3Ol9SKtYw"
+					"_id": "YggQNjZ3Ol9SKtYw",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8729,12 +8846,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8744,7 +8858,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "ASgg3hcDLdCGl8Nh"
+					"_id": "ASgg3hcDLdCGl8Nh",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8761,12 +8878,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F8.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8778,7 +8892,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "QigA8zHIXsG0W7Dx"
+					"_id": "QigA8zHIXsG0W7Dx",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8795,12 +8912,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/D1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8812,7 +8926,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "ko7igyqbK8PHKlCo"
+					"_id": "ko7igyqbK8PHKlCo",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8829,12 +8946,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/E.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8844,7 +8958,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "lIE12BGigoKlaesf"
+					"_id": "lIE12BGigoKlaesf",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8861,12 +8978,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C5.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8876,7 +8990,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "VvevRe8hvAIkAhho"
+					"_id": "VvevRe8hvAIkAhho",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8893,12 +9010,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/I1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8910,7 +9024,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "HK4JQ6dFMzLUAWMi"
+					"_id": "HK4JQ6dFMzLUAWMi",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8927,12 +9044,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8944,7 +9058,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "New2DHnIDAWggc3b"
+					"_id": "New2DHnIDAWggc3b",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8961,12 +9078,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -8978,7 +9092,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "aMDSnqSDumf1bvpE"
+					"_id": "aMDSnqSDumf1bvpE",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -8995,12 +9112,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/H1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9012,7 +9126,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "EyX2lCW7GAOPU6w2"
+					"_id": "EyX2lCW7GAOPU6w2",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9029,12 +9146,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9044,7 +9158,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "rYIs7QokeqJUv2AL"
+					"_id": "rYIs7QokeqJUv2AL",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9061,12 +9178,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9078,7 +9192,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "1xlxTsJcX0oK0R8H"
+					"_id": "1xlxTsJcX0oK0R8H",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9095,12 +9212,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/H3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9112,7 +9226,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "4sNRA9JyKg72z1vH"
+					"_id": "4sNRA9JyKg72z1vH",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9129,12 +9246,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G5.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9146,7 +9260,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "4yB1nvKDWMZCaGC8"
+					"_id": "4yB1nvKDWMZCaGC8",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9163,12 +9280,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/H4.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9180,7 +9294,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "wmQk52HqLLaKOa6b"
+					"_id": "wmQk52HqLLaKOa6b",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9197,12 +9314,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F13.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9214,7 +9328,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "2Cm3kRrFXM4W891V"
+					"_id": "2Cm3kRrFXM4W891V",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9231,12 +9348,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G7.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9248,7 +9362,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "BocIt9WfwDbugwNm"
+					"_id": "BocIt9WfwDbugwNm",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9265,12 +9382,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J6.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9282,7 +9396,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "KO5sJ3BDwbGxIDD5"
+					"_id": "KO5sJ3BDwbGxIDD5",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9299,12 +9416,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F17.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9316,7 +9430,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "85BpqmhU9J6YiWps"
+					"_id": "85BpqmhU9J6YiWps",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9333,12 +9450,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/Q.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9350,7 +9464,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "k9SpqcETWV5gM5AY"
+					"_id": "k9SpqcETWV5gM5AY",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9367,12 +9484,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/N.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9384,7 +9498,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "HwnTKYYsMMqVO2hQ"
+					"_id": "HwnTKYYsMMqVO2hQ",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9401,12 +9518,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F12.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9418,7 +9532,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "YnLCBOc8iBKoiUmS"
+					"_id": "YnLCBOc8iBKoiUmS",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9435,12 +9552,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/R.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9452,7 +9566,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "PzPi4cYwYheBqZfI"
+					"_id": "PzPi4cYwYheBqZfI",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9469,12 +9586,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/E.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9484,7 +9598,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "hRMmReHIvMxj5ljq"
+					"_id": "hRMmReHIvMxj5ljq",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9501,12 +9618,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F15.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9518,7 +9632,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "EJdHN28ljn6tXEfG"
+					"_id": "EJdHN28ljn6tXEfG",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9535,12 +9652,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/D3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9552,7 +9666,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "UQMyEwrSOF2EQ3DI"
+					"_id": "UQMyEwrSOF2EQ3DI",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9569,12 +9686,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G8.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9586,7 +9700,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "pwyHpeiVi3TOUB0i"
+					"_id": "pwyHpeiVi3TOUB0i",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9603,12 +9720,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/O.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9620,7 +9734,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "KWpaOXIqd6LuGtOi"
+					"_id": "KWpaOXIqd6LuGtOi",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9637,12 +9754,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F21.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9654,7 +9768,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "Tph5M3peZjDgjAj9"
+					"_id": "Tph5M3peZjDgjAj9",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9671,12 +9788,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/L.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9688,7 +9802,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "sFiL9Mm3IQVBelZt"
+					"_id": "sFiL9Mm3IQVBelZt",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9705,12 +9822,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J7.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9722,7 +9836,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "kGUs07v0um6ERt9O"
+					"_id": "kGUs07v0um6ERt9O",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9739,12 +9856,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F18.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9756,7 +9870,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "Yd6i0bQKdw54dBL2"
+					"_id": "Yd6i0bQKdw54dBL2",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9773,12 +9890,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/D4.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9790,7 +9904,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "HaxTQmezXJRjCSx5"
+					"_id": "HaxTQmezXJRjCSx5",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9807,12 +9924,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/P.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9824,7 +9938,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "MXMldYnqlQjrC4IA"
+					"_id": "MXMldYnqlQjrC4IA",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9841,12 +9958,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/T.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9858,7 +9972,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "Yl2UCsv129gS0rbB"
+					"_id": "Yl2UCsv129gS0rbB",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9875,12 +9992,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F20.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9892,7 +10006,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "QaKNYIJCYtV4CPkB"
+					"_id": "QaKNYIJCYtV4CPkB",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9909,12 +10026,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/I3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9926,7 +10040,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "Qmxosw6cUaDP0s6h"
+					"_id": "Qmxosw6cUaDP0s6h",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9943,12 +10060,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J8.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9960,7 +10074,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "AR5Cq4wr51X3DUsn"
+					"_id": "AR5Cq4wr51X3DUsn",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -9977,12 +10094,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G9.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -9992,7 +10106,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "rM5wjFznPLww5KS8"
+					"_id": "rM5wjFznPLww5KS8",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10009,12 +10126,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/E.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10024,7 +10138,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "WibIxH1K6LXWYCeY"
+					"_id": "WibIxH1K6LXWYCeY",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10041,12 +10158,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/H8.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10058,7 +10172,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "gUcHIi4EItMQvaIR"
+					"_id": "gUcHIi4EItMQvaIR",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10075,12 +10192,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G10.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10092,7 +10206,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "YQ2rMTH78Ptllyrh"
+					"_id": "YQ2rMTH78Ptllyrh",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10109,12 +10226,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F25.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10126,7 +10240,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "R4DnStwhuuVohPGF"
+					"_id": "R4DnStwhuuVohPGF",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10143,12 +10260,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F28.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10160,7 +10274,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "Qhh5djZ45iNAb1mn"
+					"_id": "Qhh5djZ45iNAb1mn",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10177,12 +10294,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F29.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10194,7 +10308,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "kgwvOcmXmAQxe77t"
+					"_id": "kgwvOcmXmAQxe77t",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10211,12 +10328,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/S.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10228,7 +10342,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "syj4wrsXLTUQ01r1"
+					"_id": "syj4wrsXLTUQ01r1",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10245,12 +10362,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J9.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10262,7 +10376,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "DuSfTseoa5VfiiFW"
+					"_id": "DuSfTseoa5VfiiFW",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10279,12 +10396,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/D5.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10296,7 +10410,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "EFasTQFZt1MuTeK9"
+					"_id": "EFasTQFZt1MuTeK9",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10313,12 +10430,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J10.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10330,7 +10444,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "omFr8EoudjRjL2wa"
+					"_id": "omFr8EoudjRjL2wa",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10347,12 +10464,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F30.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10364,7 +10478,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "sDRjCsXCcFEgiyhh"
+					"_id": "sDRjCsXCcFEgiyhh",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10381,12 +10498,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/E.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10398,7 +10512,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "rg4H1ruT0I2JqXfe"
+					"_id": "rg4H1ruT0I2JqXfe",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10415,12 +10532,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/B3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10432,7 +10546,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "YGKwZQdGxRPwXBqo"
+					"_id": "YGKwZQdGxRPwXBqo",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10449,12 +10566,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10464,7 +10578,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "EXRy4wEWAERGJKXV"
+					"_id": "EXRy4wEWAERGJKXV",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10481,12 +10598,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F26.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10498,7 +10612,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "rtNZ7NTsclQxXseu"
+					"_id": "rtNZ7NTsclQxXseu",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10515,12 +10632,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F27.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10532,7 +10646,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "FQH3GbaZz2A1VQlV"
+					"_id": "FQH3GbaZz2A1VQlV",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10549,12 +10666,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F24.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10566,7 +10680,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "5HcHTdlQ8JfiW0hb"
+					"_id": "5HcHTdlQ8JfiW0hb",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10583,12 +10700,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/I4.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10600,7 +10714,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "Lsyy4IGIhBfVb5rh"
+					"_id": "Lsyy4IGIhBfVb5rh",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10617,12 +10734,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/H7.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10634,7 +10748,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "gGkIpERXwxnTiBeF"
+					"_id": "gGkIpERXwxnTiBeF",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10651,12 +10768,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F23.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10668,7 +10782,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "5pcFDUzaMuFrfgML"
+					"_id": "5pcFDUzaMuFrfgML",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10685,12 +10802,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/H6.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10702,7 +10816,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "MdbNouxQQNdCJfSE"
+					"_id": "MdbNouxQQNdCJfSE",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10719,12 +10836,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F16.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10736,7 +10850,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "I56bBNhcdtTKLcpB"
+					"_id": "I56bBNhcdtTKLcpB",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10753,12 +10870,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J5.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10770,7 +10884,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "MUy0JxkjuEVE8Q46"
+					"_id": "MUy0JxkjuEVE8Q46",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10787,12 +10904,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/H5.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10804,7 +10918,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "QiQHeva0SJeiFGKV"
+					"_id": "QiQHeva0SJeiFGKV",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10821,12 +10938,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G6.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10838,7 +10952,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "nKYXbez3ncpYv1vr"
+					"_id": "nKYXbez3ncpYv1vr",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10855,12 +10972,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/D2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10870,7 +10984,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "aRG0c6yNgDaAYpRh"
+					"_id": "aRG0c6yNgDaAYpRh",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10887,12 +11004,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F9.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10904,7 +11018,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "tPi9lL9MoHr8T0Dd"
+					"_id": "tPi9lL9MoHr8T0Dd",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10921,12 +11038,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F10.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10938,7 +11052,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "c4g0GVTVWQRtGmoH"
+					"_id": "c4g0GVTVWQRtGmoH",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10955,12 +11072,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F11.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -10972,7 +11086,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "i6Xypxg28An18ffh"
+					"_id": "i6Xypxg28An18ffh",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -10989,12 +11106,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/E.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11004,7 +11118,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "WrbRsrILo4Rz7zMu"
+					"_id": "WrbRsrILo4Rz7zMu",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11021,12 +11138,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F7.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11038,7 +11152,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "RntGfkCxEBphc2M0"
+					"_id": "RntGfkCxEBphc2M0",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11055,12 +11172,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11072,7 +11186,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "sy4hT4jo37a6Ei4f"
+					"_id": "sy4hT4jo37a6Ei4f",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11089,12 +11206,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G4.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11106,7 +11220,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "Mws5XeEjF7qCplmY"
+					"_id": "Mws5XeEjF7qCplmY",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11123,12 +11240,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F4.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11140,7 +11254,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "NKgg3R4x7m96wZt9"
+					"_id": "NKgg3R4x7m96wZt9",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11157,12 +11274,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F5.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11174,7 +11288,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "NLQNlzGREEVgFg9e"
+					"_id": "NLQNlzGREEVgFg9e",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11191,12 +11308,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/I2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11208,7 +11322,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "Y2kXD6BiZgVLr4UG"
+					"_id": "Y2kXD6BiZgVLr4UG",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11225,12 +11342,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11242,7 +11356,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "siXVwuX5gvbV6y8V"
+					"_id": "siXVwuX5gvbV6y8V",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11259,12 +11376,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F6.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11276,7 +11390,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "32ozO9CTeE5wFuGg"
+					"_id": "32ozO9CTeE5wFuGg",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11293,12 +11410,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/K.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11310,7 +11424,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "IoAYP3jZZLhhUxRx"
+					"_id": "IoAYP3jZZLhhUxRx",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11327,12 +11444,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/M.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11344,7 +11458,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "55NvGLxO97TGQkbT"
+					"_id": "55NvGLxO97TGQkbT",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11361,12 +11478,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11376,7 +11490,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "h78YTHz2v7gQhcC0"
+					"_id": "h78YTHz2v7gQhcC0",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11393,12 +11510,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11410,7 +11524,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "CC6chjIomg5NufFe"
+					"_id": "CC6chjIomg5NufFe",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11427,12 +11544,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/G3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11444,7 +11558,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "tML8kwnNpORRLnYC"
+					"_id": "tML8kwnNpORRLnYC",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11461,12 +11578,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/B2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11478,7 +11592,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "IW9AXqAh3GgPl1H7"
+					"_id": "IW9AXqAh3GgPl1H7",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11495,12 +11612,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/H2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11512,7 +11626,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "pKxt52ZyZM9bLRgx"
+					"_id": "pKxt52ZyZM9bLRgx",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11529,12 +11646,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11546,7 +11660,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "vGf3Wirynn9ZydRn"
+					"_id": "vGf3Wirynn9ZydRn",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11563,12 +11680,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11580,7 +11694,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "GVlBE0y1habcmbpA"
+					"_id": "GVlBE0y1habcmbpA",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11597,12 +11714,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C4.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11612,7 +11726,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "RaI0CWMpVkbzbWyC"
+					"_id": "RaI0CWMpVkbzbWyC",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11629,12 +11746,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11644,7 +11758,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "SkkmV6NgJj3drneK"
+					"_id": "SkkmV6NgJj3drneK",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11661,12 +11778,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C5.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11678,7 +11792,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "IEkQz1VXDyLbzdBi"
+					"_id": "IEkQz1VXDyLbzdBi",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11695,12 +11812,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11710,7 +11824,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "b5ipeLytGTXENQEd"
+					"_id": "b5ipeLytGTXENQEd",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11727,12 +11844,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C4.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11742,7 +11856,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "ZYfVdmcUhGqo7BVC"
+					"_id": "ZYfVdmcUhGqo7BVC",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11759,12 +11876,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11774,7 +11888,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "7pj5LT3U4QzYdLwt"
+					"_id": "7pj5LT3U4QzYdLwt",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11791,12 +11908,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C5.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11806,7 +11920,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "eIQqelxaOqnAoQPR"
+					"_id": "eIQqelxaOqnAoQPR",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11823,12 +11940,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/J4.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11840,7 +11954,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "nqMOdvhkAyFpuRC8"
+					"_id": "nqMOdvhkAyFpuRC8",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11857,12 +11974,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F14.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11874,7 +11988,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "7L9Iwhid3Ym6qWcf"
+					"_id": "7L9Iwhid3Ym6qWcf",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11891,12 +12008,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C5.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11906,7 +12020,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "ssvsv2vyjeVSaVt9"
+					"_id": "ssvsv2vyjeVSaVt9",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11923,12 +12040,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F22.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11940,7 +12054,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "1iWRekbFzETUflDK"
+					"_id": "1iWRekbFzETUflDK",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11957,12 +12074,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -11974,7 +12088,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "jfp0h3IJZyNtPeEu"
+					"_id": "jfp0h3IJZyNtPeEu",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -11991,12 +12108,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -12008,7 +12122,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "eLKP14WN3ESsxt08"
+					"_id": "eLKP14WN3ESsxt08",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -12025,12 +12142,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -12042,7 +12156,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "t11oz9KbOi93tSHy"
+					"_id": "t11oz9KbOi93tSHy",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -12059,12 +12176,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/F19.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -12076,7 +12190,10 @@
 							"tags": ""
 						}
 					},
-					"_id": "1BSXZlqtznPsbE75"
+					"_id": "1BSXZlqtznPsbE75",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -12093,12 +12210,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C1.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -12108,7 +12222,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "onwUHgRE78FdL6zV"
+					"_id": "onwUHgRE78FdL6zV",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -12125,12 +12242,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C2.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -12140,7 +12254,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "wpshrR7gt4q6mT4f"
+					"_id": "wpshrR7gt4q6mT4f",
+					"author": null,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"entryId": "TrjZoy1tMwZuOZyc",
@@ -12157,12 +12274,9 @@
 						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/icons/C3.svg",
 						"anchorX": 0.5,
 						"anchorY": 0.5,
-						"offsetX": 0,
-						"offsetY": 0,
 						"fit": "contain",
 						"scaleX": 1,
 						"scaleY": 1,
-						"rotation": 0,
 						"alphaThreshold": 0
 					},
 					"fontFamily": "Signika",
@@ -12172,7 +12286,10 @@
 					"flags": {
 						"tagger": {}
 					},
-					"_id": "25mBU0TwCqQ6KnVS"
+					"_id": "25mBU0TwCqQ6KnVS",
+					"author": null,
+					"levels": [],
+					"locked": false
 				}
 			],
 			"sounds": [
@@ -12203,7 +12320,9 @@
 						"tagger": {}
 					},
 					"_id": "sr8d9KzyMjEufsy5",
-					"repeat": false
+					"repeat": false,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12234,7 +12353,9 @@
 						}
 					},
 					"_id": "6UO8wi8lAMX0eBP4",
-					"repeat": false
+					"repeat": false,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12265,7 +12386,9 @@
 						}
 					},
 					"repeat": false,
-					"_id": "L7m4CKPZACaWWD8N"
+					"_id": "L7m4CKPZACaWWD8N",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12294,7 +12417,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "ZdHdDuuNVx4PNSeV"
+					"_id": "ZdHdDuuNVx4PNSeV",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12323,7 +12448,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "4DpKSEvVOkwyaorB"
+					"_id": "4DpKSEvVOkwyaorB",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12352,7 +12479,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "sqbxBdvIRtTOhx4q"
+					"_id": "sqbxBdvIRtTOhx4q",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12381,7 +12510,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "OArPiwSOc0s0Uxq0"
+					"_id": "OArPiwSOc0s0Uxq0",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12410,7 +12541,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "q5eOjYOPSSEpn4FT"
+					"_id": "q5eOjYOPSSEpn4FT",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12439,7 +12572,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "NdYQ2ukzhJWDweby"
+					"_id": "NdYQ2ukzhJWDweby",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12468,7 +12603,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "PxXEwOcQa0B5Hp3d"
+					"_id": "PxXEwOcQa0B5Hp3d",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12497,7 +12634,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "X61BNez6nLebG9sK"
+					"_id": "X61BNez6nLebG9sK",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12526,7 +12665,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "AHB89qmRbNxZ1GFg"
+					"_id": "AHB89qmRbNxZ1GFg",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12555,7 +12696,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "dR9oKsKs69sonwBj"
+					"_id": "dR9oKsKs69sonwBj",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/waves-beach-medium-waves-near.ogg",
@@ -12584,7 +12727,9 @@
 						"tagger": {}
 					},
 					"repeat": false,
-					"_id": "oOqCdoP01GekMDXY"
+					"_id": "oOqCdoP01GekMDXY",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/38-wind-in-grass-velebit-mountain.ogg",
@@ -12615,7 +12760,9 @@
 						}
 					},
 					"_id": "LwWyM29IIzVsNaBt",
-					"repeat": false
+					"repeat": false,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/38-wind-in-grass-velebit-mountain.ogg",
@@ -12646,7 +12793,9 @@
 						}
 					},
 					"_id": "5aVJVuKzQDwmeVgf",
-					"repeat": false
+					"repeat": false,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/38-wind-in-grass-velebit-mountain.ogg",
@@ -12677,7 +12826,9 @@
 						}
 					},
 					"repeat": false,
-					"_id": "RwHdeyCk17XR2W2r"
+					"_id": "RwHdeyCk17XR2W2r",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/38-wind-in-grass-velebit-mountain.ogg",
@@ -12708,7 +12859,9 @@
 						}
 					},
 					"repeat": false,
-					"_id": "S0r5XLFABb7ZbnJM"
+					"_id": "S0r5XLFABb7ZbnJM",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/38-wind-in-grass-velebit-mountain.ogg",
@@ -12739,7 +12892,9 @@
 						}
 					},
 					"repeat": false,
-					"_id": "JiQc1kyQW8H4mzmv"
+					"_id": "JiQc1kyQW8H4mzmv",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/38-wind-in-grass-velebit-mountain.ogg",
@@ -12770,7 +12925,9 @@
 						}
 					},
 					"repeat": false,
-					"_id": "was7sUEGKFiINH2H"
+					"_id": "was7sUEGKFiINH2H",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/38-wind-in-grass-velebit-mountain.ogg",
@@ -12801,7 +12958,9 @@
 						}
 					},
 					"repeat": false,
-					"_id": "rjdN2yjtgKnyfbHW"
+					"_id": "rjdN2yjtgKnyfbHW",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/bolivia-coroico-jungle-amb-ext-05-st.ogg",
@@ -12830,7 +12989,9 @@
 						"tagger": {}
 					},
 					"_id": "hCvtq74QXYMC2lgO",
-					"repeat": false
+					"repeat": false,
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/bolivia-coroico-jungle-amb-ext-05-st.ogg",
@@ -12861,7 +13022,9 @@
 						}
 					},
 					"repeat": false,
-					"_id": "zbXsA6YvIbvsB3k1"
+					"_id": "zbXsA6YvIbvsB3k1",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/bolivia-coroico-jungle-amb-ext-05-st.ogg",
@@ -12892,7 +13055,9 @@
 						}
 					},
 					"repeat": false,
-					"_id": "3XISccIFHmcu2Uwv"
+					"_id": "3XISccIFHmcu2Uwv",
+					"levels": [],
+					"locked": false
 				},
 				{
 					"path": "modules/fvtt-sonniss-gdc-audio/assets/audio/bolivia-coroico-jungle-amb-ext-05-st.ogg",
@@ -12923,11 +13088,12 @@
 						}
 					},
 					"repeat": false,
-					"_id": "Xpfa87OteuxXIiVV"
+					"_id": "Xpfa87OteuxXIiVV",
+					"levels": [],
+					"locked": false
 				}
 			],
 			"regions": [],
-			"templates": [],
 			"tiles": [],
 			"walls": [],
 			"playlist": null,
@@ -21504,7 +21670,7 @@
 			"_stats": {
 				"compendiumSource": "Scene.xAbkfy2ghyODbHqn",
 				"duplicateSource": "Scene.9Ux12Ddy4qSoHMDk",
-				"coreVersion": "13.345",
+				"coreVersion": "14.360",
 				"systemId": "pf2e",
 				"systemVersion": "6.12.1",
 				"createdTime": 1747012665298,
@@ -21512,7 +21678,55 @@
 				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 				"exportSource": null
 			},
-			"_id": "xAbkfy2ghyODbHqn"
+			"_id": "xAbkfy2ghyODbHqn",
+			"shiftX": -400,
+			"shiftY": 28,
+			"levels": [
+				{
+					"_id": "defaultLevel0000",
+					"name": "Danger Island Map",
+					"background": {
+						"color": "#000000",
+						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/bonmu_map.webp",
+						"tint": "#ffffff",
+						"alphaThreshold": 0.75
+					},
+					"elevation": {
+						"top": 20,
+						"bottom": 0
+					},
+					"fog": {
+						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Pinewave%20Maps/pinewave_maps_bonmu_island_map.webp",
+						"tint": "#ffffff"
+					},
+					"foreground": {
+						"src": null,
+						"tint": "#ffffff",
+						"alphaThreshold": 0.75
+					},
+					"textures": {
+						"anchorX": 0.5,
+						"anchorY": 0.5,
+						"offsetX": 0,
+						"offsetY": 0,
+						"fit": "fill",
+						"scaleX": 1,
+						"scaleY": 1,
+						"rotation": 0
+					},
+					"visibility": {
+						"levels": []
+					},
+					"sort": 0,
+					"flags": {}
+				}
+			],
+			"initialLevel": "defaultLevel0000",
+			"transition": {
+				"type": null,
+				"duration": 1500,
+				"activeOnly": false
+			}
 		}
 	],
 	"tables": [],
@@ -21537,7 +21751,7 @@
 			"_stats": {
 				"compendiumSource": null,
 				"duplicateSource": null,
-				"coreVersion": "13.345",
+				"coreVersion": "14.360",
 				"systemId": "pf2e",
 				"systemVersion": "6.11.1",
 				"createdTime": 1743480588625,
@@ -21563,7 +21777,7 @@
 			"_stats": {
 				"compendiumSource": "Folder.czsakXJxcA53urLA",
 				"duplicateSource": null,
-				"coreVersion": "13.345",
+				"coreVersion": "14.360",
 				"systemId": "pf2e",
 				"systemVersion": "6.11.1",
 				"createdTime": 1743480556413,
@@ -21589,7 +21803,7 @@
 			"_stats": {
 				"compendiumSource": "Folder.MjY3pFH54gjTLA7v",
 				"duplicateSource": null,
-				"coreVersion": "13.345",
+				"coreVersion": "14.360",
 				"systemId": "pf2e",
 				"systemVersion": "6.11.1",
 				"createdTime": 1744687212166,
@@ -21615,7 +21829,7 @@
 			"_stats": {
 				"compendiumSource": null,
 				"duplicateSource": null,
-				"coreVersion": "13.345",
+				"coreVersion": "14.360",
 				"systemId": "pf2e",
 				"systemVersion": "6.11.1",
 				"createdTime": 1744687239083,
@@ -21631,7 +21845,7 @@
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
-		"coreVersion": "13.345",
+		"coreVersion": "14.360",
 		"systemId": "pf2e",
 		"systemVersion": "6.12.1",
 		"createdTime": 1747522665896,

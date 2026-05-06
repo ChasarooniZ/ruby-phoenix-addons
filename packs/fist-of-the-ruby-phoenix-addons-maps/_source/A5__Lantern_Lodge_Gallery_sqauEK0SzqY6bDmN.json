@@ -1,0 +1,5266 @@
+{
+	"name": "A5. Lantern Lodge Gallery",
+	"_id": "sqauEK0SzqY6bDmN",
+	"navigation": false,
+	"navOrder": 0,
+	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/sqauEK0SzqY6bDmN-thumb.webp",
+	"width": 4000,
+	"height": 2000,
+	"padding": 0.25,
+	"initial": {
+		"x": 2140,
+		"y": 1016,
+		"scale": 0.613
+	},
+	"grid": {
+		"type": 0,
+		"size": 150,
+		"style": "solidLines",
+		"thickness": 1,
+		"color": "#000000",
+		"alpha": 0.2,
+		"distance": 5,
+		"units": "ft"
+	},
+	"tokenVision": false,
+	"fog": {
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		},
+		"mode": 1
+	},
+	"environment": {
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"enabled": false,
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"luminosity": 0,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"cycle": true,
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"drawings": [],
+	"tokens": [
+		{
+			"displayName": 30,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false,
+					"MountonEnterFlag": false,
+					"AutoMountBlackListFlag": "",
+					"AutoMountWhiteListFlag": ""
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"monks-combat-marker": {
+					"token-highlight-scale": 1.5,
+					"token-combat-animation": "",
+					"token-highlight": ""
+				},
+				"monks-combat-details": {
+					"displayBarsCombat": null
+				},
+				"pf2e-visioner": {
+					"coverOverride": "auto",
+					"encounterMasterTokenId": "",
+					"visionMasterTokenId": ""
+				},
+				"barbrawl": {
+					"replaceBars": true,
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 50,
+							"ownerVisibility": 50,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "user",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"name": "Ji-yook",
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "tokenizer/npc-images/ji_yook_level_9_.Token.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/ji_yook_level_9_.Token.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "jYhk5qw6WVvpUe8l",
+			"hidden": false,
+			"sort": 0,
+			"shape": 4,
+			"_id": "m2HAhiZEik7Ivj1H",
+			"delta": {
+				"_id": "mGKubRkD3qD2qwj2",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.m2HAhiZEik7Ivj1H.mGKubRkD3qD2qwj2"
+			},
+			"x": 3484,
+			"y": 1759,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.m2HAhiZEik7Ivj1H"
+		},
+		{
+			"displayName": 30,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false,
+					"MountonEnterFlag": false,
+					"AutoMountBlackListFlag": "",
+					"AutoMountWhiteListFlag": ""
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"monks-combat-marker": {
+					"token-highlight-scale": 1.5,
+					"token-combat-animation": "",
+					"token-highlight": ""
+				},
+				"monks-combat-details": {
+					"displayBarsCombat": null
+				},
+				"pf2e-visioner": {
+					"coverOverride": "auto",
+					"encounterMasterTokenId": "",
+					"visionMasterTokenId": ""
+				},
+				"barbrawl": {
+					"replaceBars": true,
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 50,
+							"ownerVisibility": 50,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "user",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"name": "Yabin the Just",
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "tokenizer/npc-images/yabin_the_just_level_9_.Token.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/yabin_the_just_level_9_.Token.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "ntfHAUoH2r4siXjC",
+			"hidden": false,
+			"sort": 1,
+			"shape": 4,
+			"_id": "0Sl1A7RimPjVvcKr",
+			"delta": {
+				"_id": "fZAkC7ZEEf89n6Lt",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.0Sl1A7RimPjVvcKr.fZAkC7ZEEf89n6Lt"
+			},
+			"x": 3620,
+			"y": 1606,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.0Sl1A7RimPjVvcKr"
+		},
+		{
+			"displayName": 30,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": null,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": true,
+					"SpawnRidersFlag": ",,",
+					"WorldMEffectOverrideFlag": true,
+					"MountingEffectsFlag": ",,",
+					"SelfApplyEffectsFlag": true,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": true,
+					"CheckPilotedCollisionFlag": true,
+					"PilotedbyDefaultFlag": true,
+					"MountonEnterFlag": true,
+					"AutoMountBlackListFlag": ",,",
+					"AutoMountWhiteListFlag": ",,"
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				},
+				"monks-combat-marker": {
+					"token-highlight-scale": 1.5,
+					"token-combat-animation": "",
+					"token-highlight": ""
+				},
+				"monks-combat-details": {
+					"displayBarsCombat": null
+				},
+				"image-hover": {
+					"hideArt": false,
+					"specificArt": "path/image.png"
+				},
+				"pf2e-visioner": {
+					"coverOverride": "auto",
+					"encounterMasterTokenId": "",
+					"visionMasterTokenId": ""
+				},
+				"barbrawl": {
+					"replaceBars": true,
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 50,
+							"ownerVisibility": 50,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "user",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"name": "Takatorra",
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "tokenizer/npc-images/takatorra_level_9_.Token.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/takatorra_level_9_.Token.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "PLnYgzJPvS55nZ84",
+			"hidden": false,
+			"sort": 2,
+			"shape": 4,
+			"_id": "BXRoSq261ngn7H1s",
+			"delta": {
+				"_id": "RdQaYb8I5cWci6jx",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.BXRoSq261ngn7H1s.RdQaYb8I5cWci6jx"
+			},
+			"x": 3639,
+			"y": 1708,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.BXRoSq261ngn7H1s"
+		},
+		{
+			"displayName": 30,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false,
+					"MountonEnterFlag": false,
+					"AutoMountBlackListFlag": "",
+					"AutoMountWhiteListFlag": ""
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"monks-combat-marker": {
+					"token-highlight-scale": 1.5,
+					"token-combat-animation": "",
+					"token-highlight": ""
+				},
+				"monks-combat-details": {
+					"displayBarsCombat": null
+				},
+				"pf2e-visioner": {
+					"coverOverride": "auto",
+					"encounterMasterTokenId": "",
+					"visionMasterTokenId": ""
+				},
+				"barbrawl": {
+					"replaceBars": true,
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 50,
+							"ownerVisibility": 50,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "user",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"name": "Tino",
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "tokenizer/npc-images/tino_tung_level_9_.Token.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/tino_tung_level_9_.Token.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "Gc5jKqKxAgSVeHgL",
+			"hidden": false,
+			"sort": 3,
+			"shape": 4,
+			"_id": "kuP70ZMDPYhvuyOM",
+			"delta": {
+				"_id": "j6HRDHpzVmamnreO",
+				"system": {
+					"_migration": {
+						"previous": {
+							"schema": 0.959
+						}
+					}
+				},
+				"items": [
+					{
+						"img": "systems/pf2e/icons/actions/TwoActions.webp",
+						"type": "action",
+						"system": {
+							"description": {
+								"value": "<p>Granted by @UUID[Scene.sqauEK0SzqY6bDmN.Token.kuP70ZMDPYhvuyOM.Actor.Gc5jKqKxAgSVeHgL.Item.kyKFywK2AZ5Hgz4n]{+2 Greater Striking Handwraps of Mighty Blows}</p><p><strong>Activate—Extend</strong> <span class=\"action-glyph\">2</span> (manipulate)</p>\n<hr>\n<p><strong>Effect</strong> You extend your weapon, giving you an impossible reach. You Strike with the weapon, and you have reach 60 feet for the Strike.</p>",
+								"gm": ""
+							},
+							"traits": {
+								"value": [
+									"invested",
+									"manipulate"
+								],
+								"otherTags": []
+							},
+							"actions": {
+								"value": 2
+							},
+							"actionType": {
+								"value": "action"
+							},
+							"slug": "activation-extend",
+							"publication": {
+								"title": "",
+								"authors": "",
+								"license": "OGL",
+								"remaster": false
+							},
+							"rules": [],
+							"_migration": {
+								"version": 0.959,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"category": null
+						},
+						"name": "Activation: Extend",
+						"flags": {
+							"pf2e-item-activations": {
+								"grantedBy": {
+									"_id": "kyKFywK2AZ5Hgz4n",
+									"_stats": {
+										"compendiumSource": "Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO",
+										"duplicateSource": null,
+										"coreVersion": "13.351",
+										"systemId": "pf2e",
+										"systemVersion": "7.8.0",
+										"createdTime": null,
+										"modifiedTime": 1764875096828,
+										"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+										"exportSource": null
+									},
+									"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+									"name": "+2 Greater Striking Handwraps of Mighty Blows",
+									"sort": 600000,
+									"system": {
+										"description": {
+											"gm": "",
+											"value": "<p>As you invest these embroidered strips of cloth, you must meditate and slowly wrap them around your hands. These handwraps have weapon runes etched into them to give your unarmed attacks the benefits of those runes, making your unarmed attacks work like magic weapons. For example, <em>+1 striking handwraps of mighty blows</em> would give you a +1 item bonus to attack rolls with your unarmed attacks and increase the damage of your unarmed attacks from one weapon die to two (normally 2d4 instead of 1d4, but if your fists have a different weapon damage die or you have other unarmed attacks, use two of that die size instead).</p>\n<p>You can upgrade, add, and transfer runes to and from the handwraps just as you would for a weapon, and you can attach talismans to the handwraps. Treat the handwraps as melee weapons of the brawling group with light Bulk for these purposes. Property runes apply only when they would be applicable to the unarmed attack you're using. For example, a property that must be applied to a slashing weapon wouldn't function when you attacked with a fist, but you would gain its benefits if you attacked with a claw or some other slashing unarmed attack.</p>"
+										},
+										"rules": [],
+										"slug": "handwraps-of-mighty-blows",
+										"_migration": {
+											"version": 0.955,
+											"lastMigration": null,
+											"previous": {
+												"schema": 0.954,
+												"foundry": "13.351",
+												"system": "7.10.0"
+											}
+										},
+										"traits": {
+											"otherTags": [],
+											"value": [
+												"agile",
+												"finesse",
+												"invested",
+												"magical",
+												"nonlethal",
+												"unarmed"
+											],
+											"rarity": "common"
+										},
+										"publication": {
+											"title": "Pathfinder Core Rulebook",
+											"authors": "",
+											"license": "OGL",
+											"remaster": false
+										},
+										"level": {
+											"value": 2
+										},
+										"quantity": 1,
+										"baseItem": null,
+										"bulk": {
+											"value": 0
+										},
+										"hp": {
+											"value": 0,
+											"max": 0
+										},
+										"hardness": 0,
+										"price": {
+											"value": {
+												"gp": 35
+											}
+										},
+										"equipped": {
+											"carryType": "worn",
+											"invested": null,
+											"handsHeld": 0,
+											"inSlot": true
+										},
+										"containerId": null,
+										"size": "med",
+										"material": {
+											"type": null,
+											"grade": null
+										},
+										"identification": {
+											"status": "identified",
+											"unidentified": {
+												"name": "Unusual Brawling",
+												"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+												"data": {
+													"description": {
+														"value": ""
+													}
+												}
+											},
+											"misidentified": {}
+										},
+										"usage": {
+											"value": "worngloves"
+										},
+										"category": "unarmed",
+										"group": "brawling",
+										"bonus": {
+											"value": 1
+										},
+										"damage": {
+											"dice": 1,
+											"die": "d4",
+											"damageType": "bludgeoning",
+											"persistent": null
+										},
+										"splashDamage": {
+											"value": 0
+										},
+										"range": null,
+										"expend": null,
+										"ammo": null,
+										"reload": {
+											"value": null
+										},
+										"grade": null,
+										"runes": {
+											"potency": 2,
+											"striking": 2,
+											"property": [
+												"extending"
+											]
+										},
+										"specific": null,
+										"subitems": [],
+										"bonusDamage": {
+											"value": 0
+										},
+										"property1": {
+											"value": "",
+											"dice": 0,
+											"die": "",
+											"damageType": "",
+											"critDice": 0,
+											"critDie": "",
+											"critDamage": "",
+											"critDamageType": "",
+											"strikeConditionType": "",
+											"strikeConditionValue": null,
+											"criticalConditionType": "",
+											"criticalConditionValue": null
+										}
+									},
+									"type": "weapon",
+									"effects": [],
+									"folder": null,
+									"ownership": {
+										"default": 0
+									},
+									"flags": {}
+								},
+								"rune": "extending",
+								"enabled": true
+							}
+						},
+						"effects": [],
+						"_id": "54ZbHBQYCraOZcbF",
+						"folder": null,
+						"sort": 0,
+						"ownership": {
+							"default": 0,
+							"vj8VUT8j7Wtzy3Y2": 3
+						},
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.54ZbHBQYCraOZcbF"
+					},
+					{
+						"system": {
+							"description": {
+								"gm": "",
+								"value": ""
+							},
+							"rules": [],
+							"slug": null,
+							"_migration": {
+								"version": 0.959,
+								"lastMigration": null,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"traits": {
+								"otherTags": []
+							},
+							"publication": {
+								"title": "",
+								"authors": "",
+								"license": "OGL",
+								"remaster": false
+							},
+							"ability": {
+								"value": "cha"
+							},
+							"spelldc": {
+								"value": 16,
+								"dc": 24,
+								"mod": 0
+							},
+							"tradition": {
+								"value": "arcane"
+							},
+							"prepared": {
+								"value": "focus"
+							},
+							"showSlotlessLevels": {
+								"value": true
+							},
+							"proficiency": {
+								"value": 0
+							},
+							"slots": {
+								"slot0": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot1": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot2": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot3": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot4": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot5": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot6": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot7": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot8": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot9": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot10": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								},
+								"slot11": {
+									"prepared": [],
+									"value": 0,
+									"max": 0
+								}
+							},
+							"autoHeightenLevel": {
+								"value": null
+							}
+						},
+						"_id": "JwTHNda4LwzqStWL",
+						"img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+						"name": "Focus Spells",
+						"sort": 100000,
+						"type": "spellcastingEntry",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.JwTHNda4LwzqStWL"
+					},
+					{
+						"system": {
+							"description": {
+								"gm": "",
+								"value": "<p>You unleash your qi as a powerful blast that deals 2d6 force damage. If you use 2 actions to cast qi blast, increase the size of the cone to 30 feet and the damage to 3d6. If you use 3 actions to cast qi blast, increase the cone to 60 feet and the damage to 4d6. Each creature in the area must attempt a Fortitude save.</p><hr><p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is pushed 5 feet.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is pushed 10 feet.</p><hr><p><strong>Heightened (+1)</strong> The damage increases by 1d6, or by 2d6 if you use 2 or 3 actions.</p>"
+							},
+							"rules": [
+								{
+									"domain": "all",
+									"key": "RollOption",
+									"label": "PF2E.SpecificRule.Monk.QiSpells.HeavensThunder.RollOptionLabel",
+									"option": "heavens-thunder",
+									"placement": "spellcasting",
+									"predicate": [
+										"self:effect:heavens-thunder"
+									],
+									"suboptions": [
+										{
+											"label": "PF2E.TraitElectricity",
+											"value": "electricity"
+										},
+										{
+											"label": "PF2E.TraitSonic",
+											"value": "sonic"
+										}
+									],
+									"toggleable": true
+								},
+								{
+									"key": "DamageAlteration",
+									"mode": "override",
+									"predicate": [
+										"heavens-thunder"
+									],
+									"property": "damage-type",
+									"selectors": [
+										"{item|id}-damage"
+									],
+									"value": "{item|flags.pf2e.rulesSelections.heavensThunder}"
+								},
+								{
+									"itemId": "{item|id}",
+									"key": "ItemAlteration",
+									"mode": "remove",
+									"predicate": [
+										"heavens-thunder"
+									],
+									"property": "traits",
+									"value": "force"
+								},
+								{
+									"itemId": "{item|id}",
+									"key": "ItemAlteration",
+									"mode": "add",
+									"predicate": [
+										"heavens-thunder"
+									],
+									"property": "traits",
+									"value": "{item|flags.pf2e.rulesSelections.heavensThunder}"
+								}
+							],
+							"slug": "qi-blast",
+							"_migration": {
+								"version": 0.959,
+								"lastMigration": null,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"traits": {
+								"otherTags": [],
+								"value": [
+									"concentrate",
+									"focus",
+									"force",
+									"manipulate",
+									"monk"
+								],
+								"rarity": "uncommon",
+								"traditions": []
+							},
+							"publication": {
+								"title": "Pathfinder Player Core 2",
+								"authors": "",
+								"license": "ORC",
+								"remaster": true
+							},
+							"level": {
+								"value": 3
+							},
+							"requirements": "",
+							"target": {
+								"value": ""
+							},
+							"range": {
+								"value": ""
+							},
+							"area": {
+								"type": "cone",
+								"value": 15
+							},
+							"time": {
+								"value": "1 to 3"
+							},
+							"duration": {
+								"value": "",
+								"sustained": false
+							},
+							"damage": {
+								"0": {
+									"applyMod": false,
+									"category": null,
+									"formula": "2d6",
+									"kinds": [
+										"damage"
+									],
+									"materials": [],
+									"type": "force"
+								}
+							},
+							"defense": {
+								"save": {
+									"basic": false,
+									"statistic": "fortitude"
+								}
+							},
+							"cost": {
+								"value": ""
+							},
+							"location": {
+								"value": "JwTHNda4LwzqStWL"
+							},
+							"counteraction": false,
+							"heightening": {
+								"area": 0,
+								"damage": {
+									"0": "1d6"
+								},
+								"interval": 1,
+								"type": "interval"
+							},
+							"overlays": {
+								"6wf5l1kiwcdtnx6s": {
+									"overlayType": "override",
+									"sort": 3,
+									"system": {
+										"area": {
+											"value": 60
+										},
+										"damage": {
+											"0": {
+												"category": null,
+												"formula": "4d6"
+											}
+										},
+										"heightening": {
+											"damage": {
+												"0": "2d6"
+											}
+										},
+										"target": {
+											"value": "All creatures"
+										},
+										"time": {
+											"value": "3"
+										}
+									}
+								},
+								"ah0wlzxg5wb7q038": {
+									"overlayType": "override",
+									"sort": 2,
+									"system": {
+										"area": {
+											"value": 30
+										},
+										"damage": {
+											"0": {
+												"category": null,
+												"formula": "3d6"
+											}
+										},
+										"heightening": {
+											"damage": {
+												"0": "2d6"
+											}
+										},
+										"target": {
+											"value": "All creatures"
+										},
+										"time": {
+											"value": "2"
+										}
+									}
+								},
+								"weox8ze9kgj6nz0h": {
+									"_id": "weox8ze9kgj6nz0h",
+									"overlayType": "override",
+									"sort": 1,
+									"system": {
+										"target": {
+											"value": "All creatures"
+										},
+										"time": {
+											"value": "1"
+										}
+									}
+								}
+							}
+						},
+						"_id": "wWq7ugtLA6Ce3ARn",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"img": "systems/pf2e/icons/spells/ki-blast.webp",
+						"name": "Qi Blast",
+						"sort": 200000,
+						"type": "spell",
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.wWq7ugtLA6Ce3ARn"
+					},
+					{
+						"system": {
+							"description": {
+								"gm": "",
+								"value": "<p>You focus your qi into devastating magical attacks. Make an unarmed Strike or @UUID[Compendium.pf2e.classfeatures.Item.NLHHHiAcdnZ5ohc2]{Flurry of Blows} (this doesn't change the limit on using only one flourish per turn). You gain a +1 status bonus to your attack rolls with the Strikes, and the Strikes deal 1d6 extra damage. This damage can be any of the following types of your choice, chosen each time you Strike: force, spirit, vitality, or void.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.8olfnTmWh0GGPDqX]{Spell Effect: Inner Upheaval}</p><hr><p><strong>Heightened (+4)</strong> The extra damage increases by 1d6</p>"
+							},
+							"rules": [],
+							"slug": "inner-upheaval",
+							"_migration": {
+								"version": 0.959,
+								"lastMigration": null,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"traits": {
+								"otherTags": [],
+								"value": [
+									"concentrate",
+									"focus",
+									"monk"
+								],
+								"rarity": "uncommon",
+								"traditions": []
+							},
+							"publication": {
+								"title": "Pathfinder Player Core 2",
+								"authors": "",
+								"license": "ORC",
+								"remaster": true
+							},
+							"level": {
+								"value": 1
+							},
+							"requirements": "",
+							"target": {
+								"value": ""
+							},
+							"range": {
+								"value": ""
+							},
+							"area": null,
+							"time": {
+								"value": "1"
+							},
+							"duration": {
+								"value": "",
+								"sustained": false
+							},
+							"damage": {
+								"0": {
+									"applyMod": false,
+									"category": null,
+									"formula": "1d6",
+									"kinds": [
+										"damage"
+									],
+									"materials": [],
+									"type": "untyped"
+								}
+							},
+							"defense": null,
+							"cost": {
+								"value": ""
+							},
+							"location": {
+								"value": "JwTHNda4LwzqStWL"
+							},
+							"counteraction": false,
+							"heightening": {
+								"damage": {
+									"0": "1d6"
+								},
+								"interval": 4,
+								"type": "interval"
+							}
+						},
+						"_id": "Uu2I5xP3gn9WtnBd",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"img": "systems/pf2e/icons/spells/ki-strike.webp",
+						"name": "Inner Upheaval",
+						"sort": 300000,
+						"type": "spell",
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.Uu2I5xP3gn9WtnBd"
+					},
+					{
+						"system": {
+							"description": {
+								"gm": "",
+								"value": "<p>Your hands become infused with powerful vitality, capable of healing a living creature or damaging an undead creature with a touch.</p><ul><li><strong>Willing Living Creature</strong> The target regains 6 Hit Points. If the target is someone other than yourself, it also gains a +2 status bonus to AC for 1 round.</li><li><strong>Undead Creature</strong> The target takes 1d6 vitality damage with a basic Fortitude save; on a failure, the target also takes a –2 status penalty to AC for 1 round.</li></ul><hr><p><strong>Heightened (+1)</strong> The amount of healing increases by 6, and the damage to an undead target increases by 1d6.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.lyLMiauxIVUM3oF1]{Spell Effect: Lay on Hands}</p>"
+							},
+							"rules": [],
+							"slug": "lay-on-hands",
+							"_migration": {
+								"version": 0.959,
+								"lastMigration": null,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"traits": {
+								"otherTags": [],
+								"value": [
+									"champion",
+									"focus",
+									"healing",
+									"manipulate",
+									"vitality"
+								],
+								"rarity": "uncommon",
+								"traditions": []
+							},
+							"publication": {
+								"title": "Pathfinder Player Core 2",
+								"authors": "",
+								"license": "ORC",
+								"remaster": true
+							},
+							"level": {
+								"value": 1
+							},
+							"requirements": "",
+							"target": {
+								"value": "1 willing living creature or 1 undead creature"
+							},
+							"range": {
+								"value": "touch"
+							},
+							"area": null,
+							"time": {
+								"value": "1"
+							},
+							"duration": {
+								"value": "",
+								"sustained": false
+							},
+							"damage": {},
+							"defense": null,
+							"cost": {
+								"value": ""
+							},
+							"location": {
+								"value": "JwTHNda4LwzqStWL"
+							},
+							"counteraction": false,
+							"overlays": {
+								"a33QUFoKgoOprovO": {
+									"name": "Lay on Hands (Vs. Undead)",
+									"overlayType": "override",
+									"sort": 2,
+									"system": {
+										"damage": {
+											"37YW4ZGhxx7Y2mdI": {
+												"applyMod": false,
+												"category": null,
+												"formula": "1d6",
+												"kinds": [
+													"damage"
+												],
+												"materials": [],
+												"type": "vitality"
+											}
+										},
+										"defense": {
+											"save": {
+												"basic": true,
+												"statistic": "fortitude"
+											}
+										},
+										"heightening": {
+											"damage": {
+												"37YW4ZGhxx7Y2mdI": "1d6"
+											},
+											"interval": 1,
+											"type": "interval"
+										}
+									}
+								},
+								"uLuOg62dVyxvbW66": {
+									"name": "Lay on Hands (Healing)",
+									"overlayType": "override",
+									"sort": 1,
+									"system": {
+										"damage": {
+											"b39tbePoPlJSzLku": {
+												"applyMod": false,
+												"category": null,
+												"formula": "6",
+												"kinds": [
+													"healing"
+												],
+												"materials": [],
+												"type": "vitality"
+											}
+										},
+										"defense": null,
+										"heightening": {
+											"damage": {
+												"b39tbePoPlJSzLku": "6"
+											},
+											"interval": 1,
+											"type": "interval"
+										}
+									}
+								}
+							}
+						},
+						"_id": "3TgnxTHSbzmsRKBu",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"img": "systems/pf2e/icons/spells/lay-on-hands.webp",
+						"name": "Lay on Hands",
+						"sort": 400000,
+						"type": "spell",
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.3TgnxTHSbzmsRKBu"
+					},
+					{
+						"system": {
+							"description": {
+								"gm": "",
+								"value": "<p>This heavy blade is favored by guardians of religious sites. It has a distinctive, crescent-shaped blade that seems to be a mix of a sickle and sword. It often has holes drilled into the blade or the pommel so that bells or other holy trinkets can be affixed to the weapon as an aid for prayer or mediation.</p>"
+							},
+							"rules": [],
+							"slug": "temple-sword",
+							"_migration": {
+								"version": 0.959,
+								"lastMigration": null,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"traits": {
+								"otherTags": [],
+								"value": [
+									"monk",
+									"trip"
+								],
+								"rarity": "uncommon"
+							},
+							"publication": {
+								"title": "",
+								"authors": "",
+								"license": "OGL",
+								"remaster": false
+							},
+							"level": {
+								"value": 0
+							},
+							"quantity": 1,
+							"baseItem": "temple-sword",
+							"bulk": {
+								"value": 1
+							},
+							"hp": {
+								"value": 0,
+								"max": 0
+							},
+							"hardness": 0,
+							"price": {
+								"value": {
+									"gp": 2
+								}
+							},
+							"equipped": {
+								"carryType": "worn",
+								"invested": null,
+								"handsHeld": 0
+							},
+							"containerId": null,
+							"size": "med",
+							"material": {
+								"type": null,
+								"grade": null
+							},
+							"identification": {
+								"status": "identified",
+								"unidentified": {
+									"name": "Unusual Temple Sword",
+									"img": "systems/pf2e/icons/equipment/weapons/temple-sword.webp",
+									"data": {
+										"description": {
+											"value": ""
+										}
+									}
+								},
+								"misidentified": {}
+							},
+							"usage": {
+								"value": "held-in-one-hand"
+							},
+							"category": "martial",
+							"group": "sword",
+							"bonus": {
+								"value": 0
+							},
+							"damage": {
+								"dice": 1,
+								"die": "d8",
+								"damageType": "slashing",
+								"persistent": null
+							},
+							"splashDamage": {
+								"value": 0
+							},
+							"range": null,
+							"expend": null,
+							"ammo": null,
+							"reload": {
+								"value": null
+							},
+							"grade": null,
+							"runes": {
+								"potency": 1,
+								"striking": 1,
+								"property": [
+									"flaming"
+								]
+							},
+							"specific": null,
+							"subitems": [],
+							"bonusDamage": {
+								"value": 0
+							},
+							"property1": {
+								"value": "",
+								"dice": 0,
+								"die": "",
+								"damageType": "",
+								"critDice": 0,
+								"critDie": "",
+								"critDamage": "",
+								"critDamageType": "",
+								"strikeConditionType": "",
+								"strikeConditionValue": null,
+								"criticalConditionType": "",
+								"criticalConditionValue": null
+							}
+						},
+						"_id": "HxcA5bb0pw4MLCP6",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"img": "systems/pf2e/icons/equipment/weapons/temple-sword.webp",
+						"name": "Temple Sword",
+						"sort": 500000,
+						"type": "weapon",
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.HxcA5bb0pw4MLCP6"
+					},
+					{
+						"system": {
+							"description": {
+								"gm": "",
+								"value": "<p>As you invest these embroidered strips of cloth, you must meditate and slowly wrap them around your hands. These handwraps have weapon runes etched into them to give your unarmed attacks the benefits of those runes, making your unarmed attacks work like magic weapons. For example, <em>+1 striking handwraps of mighty blows</em> would give you a +1 item bonus to attack rolls with your unarmed attacks and increase the damage of your unarmed attacks from one weapon die to two (normally 2d4 instead of 1d4, but if your fists have a different weapon damage die or you have other unarmed attacks, use two of that die size instead).</p>\n<p>You can upgrade, add, and transfer runes to and from the handwraps just as you would for a weapon, and you can attach talismans to the handwraps. Treat the handwraps as melee weapons of the brawling group with light Bulk for these purposes. Property runes apply only when they would be applicable to the unarmed attack you're using. For example, a property that must be applied to a slashing weapon wouldn't function when you attacked with a fist, but you would gain its benefits if you attacked with a claw or some other slashing unarmed attack.</p>"
+							},
+							"rules": [],
+							"slug": "handwraps-of-mighty-blows",
+							"_migration": {
+								"version": 0.959,
+								"lastMigration": null,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"traits": {
+								"otherTags": [],
+								"value": [
+									"agile",
+									"finesse",
+									"invested",
+									"magical",
+									"nonlethal",
+									"unarmed"
+								],
+								"rarity": "common"
+							},
+							"publication": {
+								"title": "Pathfinder Core Rulebook",
+								"authors": "",
+								"license": "OGL",
+								"remaster": false
+							},
+							"level": {
+								"value": 2
+							},
+							"quantity": 1,
+							"baseItem": null,
+							"bulk": {
+								"value": 0
+							},
+							"hp": {
+								"value": 0,
+								"max": 0
+							},
+							"hardness": 0,
+							"price": {
+								"value": {
+									"gp": 35
+								}
+							},
+							"equipped": {
+								"carryType": "worn",
+								"invested": null,
+								"handsHeld": 0,
+								"inSlot": true
+							},
+							"containerId": null,
+							"size": "med",
+							"material": {
+								"type": null,
+								"grade": null
+							},
+							"identification": {
+								"status": "identified",
+								"unidentified": {
+									"name": "Unusual Brawling",
+									"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+									"data": {
+										"description": {
+											"value": ""
+										}
+									}
+								},
+								"misidentified": {}
+							},
+							"usage": {
+								"value": "worngloves"
+							},
+							"category": "unarmed",
+							"group": "brawling",
+							"bonus": {
+								"value": 1
+							},
+							"damage": {
+								"dice": 1,
+								"die": "d4",
+								"damageType": "bludgeoning",
+								"persistent": null
+							},
+							"splashDamage": {
+								"value": 0
+							},
+							"range": null,
+							"expend": null,
+							"ammo": null,
+							"reload": {
+								"value": null
+							},
+							"grade": null,
+							"runes": {
+								"potency": 2,
+								"striking": 2,
+								"property": [
+									"extending"
+								]
+							},
+							"specific": null,
+							"subitems": [],
+							"bonusDamage": {
+								"value": 0
+							},
+							"property1": {
+								"value": "",
+								"dice": 0,
+								"die": "",
+								"damageType": "",
+								"critDice": 0,
+								"critDie": "",
+								"critDamage": "",
+								"critDamageType": "",
+								"strikeConditionType": "",
+								"strikeConditionValue": null,
+								"criticalConditionType": "",
+								"criticalConditionValue": null
+							}
+						},
+						"_id": "kyKFywK2AZ5Hgz4n",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+						"name": "+2 Greater Striking Handwraps of Mighty Blows",
+						"sort": 600000,
+						"type": "weapon",
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.kyKFywK2AZ5Hgz4n"
+					},
+					{
+						"system": {
+							"description": {
+								"gm": "",
+								"value": "<p>Adventurers who don't wear armor travel in durable clothing. Though it's not armor and uses your unarmored defense proficiency, it still has a Dex Cap and can grant an item bonus to AC if etched with potency runes.</p>"
+							},
+							"rules": [],
+							"slug": "explorers-clothing",
+							"_migration": {
+								"version": 0.959,
+								"lastMigration": null,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"traits": {
+								"otherTags": [],
+								"value": [
+									"comfort"
+								],
+								"rarity": "common"
+							},
+							"publication": {
+								"title": "Pathfinder Player Core",
+								"authors": "",
+								"license": "ORC",
+								"remaster": true
+							},
+							"level": {
+								"value": 0
+							},
+							"quantity": 1,
+							"baseItem": "explorers-clothing",
+							"bulk": {
+								"value": 0.1
+							},
+							"hp": {
+								"value": 0,
+								"max": 0
+							},
+							"hardness": 0,
+							"price": {
+								"value": {
+									"sp": 1
+								}
+							},
+							"equipped": {
+								"carryType": "worn",
+								"invested": false,
+								"handsHeld": 0,
+								"inSlot": true
+							},
+							"containerId": null,
+							"size": "med",
+							"material": {
+								"type": null,
+								"grade": null
+							},
+							"identification": {
+								"status": "identified",
+								"unidentified": {
+									"name": "",
+									"img": "",
+									"data": {
+										"description": {
+											"value": ""
+										}
+									}
+								},
+								"misidentified": {}
+							},
+							"category": "unarmored",
+							"group": "cloth",
+							"acBonus": 0,
+							"strength": null,
+							"dexCap": 5,
+							"checkPenalty": 0,
+							"speedPenalty": 0,
+							"grade": null,
+							"runes": {
+								"potency": 1,
+								"resilient": 1,
+								"property": []
+							},
+							"subitems": []
+						},
+						"_id": "bUsIg74aMMuMt5gH",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"img": "icons/equipment/chest/shirt-collared-pink.webp",
+						"name": "Explorer's Clothing",
+						"sort": 700000,
+						"type": "armor",
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.bUsIg74aMMuMt5gH"
+					},
+					{
+						"system": {
+							"_migration": {
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								},
+								"version": 0.959
+							},
+							"attackEffects": {
+								"value": []
+							},
+							"bonus": {
+								"value": 27
+							},
+							"damageRolls": {
+								"hpnszm1stdeyt8x8z9my": {
+									"damage": "3d10+16",
+									"damageType": "bludgeoning",
+									"category": null
+								}
+							},
+							"description": {
+								"value": "",
+								"gm": ""
+							},
+							"publication": {
+								"license": "OGL",
+								"remaster": false,
+								"title": "",
+								"authors": ""
+							},
+							"rules": [],
+							"slug": null,
+							"traits": {
+								"value": [
+									"agile",
+									"finesse",
+									"magical",
+									"nonlethal",
+									"unarmed"
+								],
+								"otherTags": [],
+								"config": {}
+							},
+							"action": "strike",
+							"area": null,
+							"range": null,
+							"subjectToMAP": true
+						},
+						"_id": "DA0g18MTNxa62W0h",
+						"img": "systems/pf2e/icons/default-icons/melee.svg",
+						"name": "Fist",
+						"sort": 800000,
+						"type": "melee",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.DA0g18MTNxa62W0h"
+					},
+					{
+						"system": {
+							"_migration": {
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								},
+								"version": 0.959
+							},
+							"attackEffects": {
+								"value": []
+							},
+							"bonus": {
+								"value": 25
+							},
+							"damageRolls": {
+								"ud3vapbc7w84cwsn28hy": {
+									"damage": "3d8+14",
+									"damageType": "slashing",
+									"category": null
+								},
+								"irqj8sdac9nx678lcx7i": {
+									"damage": "1d6",
+									"damageType": "fire",
+									"category": null
+								}
+							},
+							"description": {
+								"value": "",
+								"gm": ""
+							},
+							"publication": {
+								"license": "OGL",
+								"remaster": false,
+								"title": "",
+								"authors": ""
+							},
+							"rules": [],
+							"slug": null,
+							"traits": {
+								"value": [
+									"trip"
+								],
+								"otherTags": [],
+								"config": {}
+							},
+							"action": "strike",
+							"area": null,
+							"range": null,
+							"subjectToMAP": true
+						},
+						"_id": "skwpTeVjy3QpP9U2",
+						"flags": {
+							"pf2e": {
+								"linkedWeapon": "HxcA5bb0pw4MLCP6"
+							}
+						},
+						"img": "systems/pf2e/icons/default-icons/melee.svg",
+						"name": "Temple Sword",
+						"sort": 900000,
+						"type": "melee",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.skwpTeVjy3QpP9U2"
+					},
+					{
+						"system": {
+							"_migration": {
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								},
+								"version": 0.959
+							},
+							"actionType": {
+								"value": "passive"
+							},
+							"actions": {
+								"value": null
+							},
+							"category": "defensive",
+							"description": {
+								"value": "",
+								"gm": ""
+							},
+							"publication": {
+								"license": "OGL",
+								"remaster": false,
+								"title": "",
+								"authors": ""
+							},
+							"rules": [
+								{
+									"key": "FlatModifier",
+									"predicate": [
+										"disease"
+									],
+									"selector": "saving-throw",
+									"type": "status",
+									"value": 1
+								}
+							],
+							"slug": null,
+							"traits": {
+								"value": [],
+								"otherTags": []
+							}
+						},
+						"_id": "CGlyzaCHtp5W7oSc",
+						"img": "systems/pf2e/icons/actions/Passive.webp",
+						"name": "+1 status to all saves vs. disease",
+						"sort": 1000000,
+						"type": "action",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.CGlyzaCHtp5W7oSc"
+					},
+					{
+						"system": {
+							"_migration": {
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								},
+								"version": 0.959
+							},
+							"actionType": {
+								"value": "action"
+							},
+							"actions": {
+								"value": 1
+							},
+							"category": "offensive",
+							"description": {
+								"value": "<p><strong>Requirements</strong> Tino used Retributive Strike on a creature since the start of his previous turn, attempted the Strike it permitted, and didn't critically miss</p>\n<hr>\n<p><strong>Effect</strong> Tino throws his whole body into a powerful push. He moves the target 5 feet in any direction and can then attempt to @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} that creature. This is forced movement.</p>",
+								"gm": ""
+							},
+							"publication": {
+								"license": "OGL",
+								"remaster": false,
+								"title": "",
+								"authors": ""
+							},
+							"rules": [],
+							"slug": null,
+							"traits": {
+								"value": [],
+								"otherTags": []
+							}
+						},
+						"_id": "TkCINz21LRgFP4yR",
+						"img": "systems/pf2e/icons/actions/OneAction.webp",
+						"name": "Defiant Shove",
+						"sort": 1100000,
+						"type": "action",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.TkCINz21LRgFP4yR"
+					},
+					{
+						"system": {
+							"_migration": {
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								},
+								"version": 0.959
+							},
+							"actionType": {
+								"value": "passive"
+							},
+							"actions": {
+								"value": null
+							},
+							"category": "offensive",
+							"description": {
+								"value": "<p>If Tino hits with his Retributive Strike, the target takes @Damage[3[persistent,spirit]] damage.</p>",
+								"gm": ""
+							},
+							"publication": {
+								"license": "OGL",
+								"remaster": false,
+								"title": "",
+								"authors": ""
+							},
+							"rules": [],
+							"slug": null,
+							"traits": {
+								"value": [],
+								"otherTags": []
+							},
+							"deathNote": false
+						},
+						"_id": "lKnBoH1cX5JdlSYZ",
+						"img": "systems/pf2e/icons/actions/Passive.webp",
+						"name": "Divine Smite",
+						"sort": 1200000,
+						"type": "action",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.lKnBoH1cX5JdlSYZ"
+					},
+					{
+						"system": {
+							"_migration": {
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								},
+								"version": 0.959
+							},
+							"actionType": {
+								"value": "action"
+							},
+							"actions": {
+								"value": 1
+							},
+							"category": "offensive",
+							"description": {
+								"value": "<p>Tino makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.</p>",
+								"gm": ""
+							},
+							"publication": {
+								"license": "OGL",
+								"remaster": false,
+								"title": "",
+								"authors": ""
+							},
+							"rules": [],
+							"slug": null,
+							"traits": {
+								"value": [
+									"flourish"
+								],
+								"otherTags": []
+							}
+						},
+						"_id": "3NCrq1TQRwoMap2o",
+						"img": "systems/pf2e/icons/actions/OneAction.webp",
+						"name": "Flurry of Blows",
+						"sort": 1300000,
+						"type": "action",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.3NCrq1TQRwoMap2o"
+					},
+					{
+						"system": {
+							"_migration": {
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								},
+								"version": 0.959
+							},
+							"actionType": {
+								"value": "passive"
+							},
+							"actions": {
+								"value": null
+							},
+							"category": "offensive",
+							"description": {
+								"value": "<p>Tino's fist Strikes don't take penalties when making lethal attacks.</p>",
+								"gm": ""
+							},
+							"publication": {
+								"license": "OGL",
+								"remaster": false,
+								"title": "",
+								"authors": ""
+							},
+							"rules": [],
+							"slug": null,
+							"traits": {
+								"value": [],
+								"otherTags": []
+							}
+						},
+						"_id": "h5dXFeWPRXvEeW6c",
+						"img": "systems/pf2e/icons/actions/Passive.webp",
+						"name": "Powerful Fists",
+						"sort": 1400000,
+						"type": "action",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.h5dXFeWPRXvEeW6c"
+					},
+					{
+						"system": {
+							"_migration": {
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								},
+								"version": 0.959
+							},
+							"actionType": {
+								"value": "reaction"
+							},
+							"actions": {
+								"value": null
+							},
+							"category": "offensive",
+							"description": {
+								"value": "<p>Tino can use Extend as part of his retributive strike.</p><hr><p><strong>Trigger</strong> An enemy damages your ally, and both are within 15 feet of you</p><hr><p>You protect your ally and strike your foe. The ally gains resistance to all damage against the triggering damage equal to 2 + your level. If the foe is within reach, make a melee Strike against it.</p><p>If Tino hits with his Retributive Strike, the target takes @Damage[3[persistent,spirit]] damage.</p><p>If Tino's Retributive Strike against the triggering creature doesn't critically miss, that creature meets the requirements for Tino to use Defiant Shove until the end of his next turn.</p>",
+								"gm": ""
+							},
+							"publication": {
+								"license": "OGL",
+								"remaster": false,
+								"title": "",
+								"authors": ""
+							},
+							"rules": [
+								{
+									"domain": "damage",
+									"key": "RollOption",
+									"option": "retributive-strike",
+									"toggleable": true
+								},
+								{
+									"damageCategory": "persistent",
+									"damageType": "spirit",
+									"key": "FlatModifier",
+									"predicate": [
+										"retributive-strike"
+									],
+									"selector": "melee-strike-damage",
+									"value": 3
+								}
+							],
+							"slug": "retributive-strike",
+							"traits": {
+								"value": [],
+								"otherTags": []
+							},
+							"deathNote": false
+						},
+						"_id": "4AV9ZEHJScDbUsud",
+						"img": "systems/pf2e/icons/actions/Reaction.webp",
+						"name": "Retributive Strike (Special)",
+						"sort": 1500000,
+						"type": "action",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.4AV9ZEHJScDbUsud"
+					},
+					{
+						"system": {
+							"description": {
+								"gm": "",
+								"value": ""
+							},
+							"rules": [],
+							"slug": null,
+							"_migration": {
+								"version": 0.959,
+								"lastMigration": null,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"traits": {
+								"otherTags": []
+							},
+							"publication": {
+								"title": "",
+								"authors": "",
+								"license": "OGL",
+								"remaster": false
+							},
+							"mod": {
+								"value": 19
+							},
+							"proficient": {
+								"value": 0
+							}
+						},
+						"_id": "T4nEUVeNILhnok6G",
+						"img": "systems/pf2e/icons/default-icons/lore.svg",
+						"name": "Irori Lore",
+						"sort": 1600000,
+						"type": "lore",
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.T4nEUVeNILhnok6G"
+					},
+					{
+						"system": {
+							"_migration": {
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								},
+								"version": 0.959
+							},
+							"description": {
+								"value": "<p>Granted by @UUID[Actor.Gc5jKqKxAgSVeHgL.Item.kyKFywK2AZ5Hgz4n]{+2 Greater Striking Handwraps of Mighty Blows}</p><p><strong>Activate—Extend</strong> <span class=\"action-glyph\">2</span> (manipulate)</p>\n<hr>\n<p><strong>Effect</strong> You extend your weapon, giving you an impossible reach. You Strike with the weapon, and you have reach 60 feet for the Strike.</p>",
+								"gm": ""
+							},
+							"traits": {
+								"value": [
+									"invested",
+									"manipulate"
+								],
+								"otherTags": []
+							},
+							"actions": {
+								"value": 2
+							},
+							"actionType": {
+								"value": "action"
+							},
+							"slug": "activation-extend",
+							"publication": {
+								"title": "",
+								"authors": "",
+								"license": "OGL",
+								"remaster": false
+							},
+							"rules": [],
+							"category": null
+						},
+						"_id": "b7JI7qWiKSj9s7LV",
+						"img": "systems/pf2e/icons/actions/TwoActions.webp",
+						"type": "action",
+						"name": "Activation: Extend",
+						"flags": {
+							"pf2e-item-activations": {
+								"grantedBy": {
+									"_id": "kyKFywK2AZ5Hgz4n",
+									"_stats": {
+										"compendiumSource": "Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO",
+										"duplicateSource": null,
+										"coreVersion": "13.351",
+										"systemId": "pf2e",
+										"systemVersion": "7.8.0",
+										"createdTime": null,
+										"modifiedTime": 1764875096828,
+										"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+										"exportSource": null
+									},
+									"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+									"name": "+2 Greater Striking Handwraps of Mighty Blows",
+									"sort": 600000,
+									"system": {
+										"description": {
+											"gm": "",
+											"value": "<p>As you invest these embroidered strips of cloth, you must meditate and slowly wrap them around your hands. These handwraps have weapon runes etched into them to give your unarmed attacks the benefits of those runes, making your unarmed attacks work like magic weapons. For example, <em>+1 striking handwraps of mighty blows</em> would give you a +1 item bonus to attack rolls with your unarmed attacks and increase the damage of your unarmed attacks from one weapon die to two (normally 2d4 instead of 1d4, but if your fists have a different weapon damage die or you have other unarmed attacks, use two of that die size instead).</p>\n<p>You can upgrade, add, and transfer runes to and from the handwraps just as you would for a weapon, and you can attach talismans to the handwraps. Treat the handwraps as melee weapons of the brawling group with light Bulk for these purposes. Property runes apply only when they would be applicable to the unarmed attack you're using. For example, a property that must be applied to a slashing weapon wouldn't function when you attacked with a fist, but you would gain its benefits if you attacked with a claw or some other slashing unarmed attack.</p>"
+										},
+										"rules": [],
+										"slug": "handwraps-of-mighty-blows",
+										"_migration": {
+											"version": 0.953,
+											"lastMigration": null,
+											"previous": {
+												"schema": 0.952,
+												"foundry": "13.351",
+												"system": "7.7.4"
+											}
+										},
+										"traits": {
+											"otherTags": [],
+											"value": [
+												"agile",
+												"finesse",
+												"invested",
+												"magical",
+												"nonlethal",
+												"unarmed"
+											],
+											"rarity": "common"
+										},
+										"publication": {
+											"title": "Pathfinder Core Rulebook",
+											"authors": "",
+											"license": "OGL",
+											"remaster": false
+										},
+										"level": {
+											"value": 2
+										},
+										"quantity": 1,
+										"baseItem": null,
+										"bulk": {
+											"value": 0
+										},
+										"hp": {
+											"value": 0,
+											"max": 0
+										},
+										"hardness": 0,
+										"price": {
+											"value": {
+												"gp": 35
+											}
+										},
+										"equipped": {
+											"carryType": "worn",
+											"invested": null,
+											"handsHeld": 0,
+											"inSlot": true
+										},
+										"containerId": null,
+										"size": "med",
+										"material": {
+											"type": null,
+											"grade": null
+										},
+										"identification": {
+											"status": "identified",
+											"unidentified": {
+												"name": "Unusual Brawling",
+												"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+												"data": {
+													"description": {
+														"value": ""
+													}
+												}
+											},
+											"misidentified": {}
+										},
+										"usage": {
+											"value": "worngloves"
+										},
+										"category": "unarmed",
+										"group": "brawling",
+										"bonus": {
+											"value": 1
+										},
+										"damage": {
+											"dice": 1,
+											"die": "d4",
+											"damageType": "bludgeoning",
+											"persistent": null
+										},
+										"splashDamage": {
+											"value": 0
+										},
+										"range": null,
+										"expend": null,
+										"ammo": null,
+										"reload": {
+											"value": null
+										},
+										"grade": null,
+										"runes": {
+											"potency": 2,
+											"striking": 2,
+											"property": [
+												"extending"
+											]
+										},
+										"specific": null,
+										"subitems": [],
+										"bonusDamage": {
+											"value": 0
+										},
+										"property1": {
+											"value": "",
+											"dice": 0,
+											"die": "",
+											"damageType": "",
+											"critDice": 0,
+											"critDie": "",
+											"critDamage": "",
+											"critDamageType": "",
+											"strikeConditionType": "",
+											"strikeConditionValue": null,
+											"criticalConditionType": "",
+											"criticalConditionValue": null
+										}
+									},
+									"type": "weapon",
+									"effects": [],
+									"folder": null,
+									"ownership": {
+										"default": 0
+									},
+									"flags": {}
+								},
+								"rune": "extending",
+								"enabled": true
+							}
+						},
+						"effects": [],
+						"folder": null,
+						"sort": 0,
+						"ownership": {
+							"default": 0,
+							"vj8VUT8j7Wtzy3Y2": 3
+						},
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO.b7JI7qWiKSj9s7LV"
+					}
+				],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM.j6HRDHpzVmamnreO"
+			},
+			"x": 3433,
+			"y": 1572,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.kuP70ZMDPYhvuyOM"
+		},
+		{
+			"displayName": 20,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false,
+					"MountonEnterFlag": false,
+					"AutoMountBlackListFlag": "",
+					"AutoMountWhiteListFlag": ""
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				},
+				"monks-combat-marker": {
+					"token-highlight-scale": 1.5,
+					"token-combat-animation": "",
+					"token-highlight": ""
+				},
+				"monks-combat-details": {
+					"displayBarsCombat": null
+				},
+				"about-face": {
+					"indicatorDisabled": false,
+					"flipOrRotate": "global",
+					"facingDirection": "global",
+					"rotationOffset": 0
+				},
+				"barbrawl": {
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 30,
+							"ownerVisibility": 30,
+							"gmVisibility": -1,
+							"hideFull": true,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "left-outer",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": 5,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						},
+						"bar2": {
+							"order": 1,
+							"id": "bar2",
+							"attribute": "resources.heroPoints",
+							"mincolor": "#000080",
+							"maxcolor": "#80B3FF",
+							"otherVisibility": 0,
+							"ownerVisibility": 35,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": 60,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": true,
+							"fgImage": "pics/icons/UI/stars-left-right.webp",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"height": 2,
+			"width": 2,
+			"actorLink": true,
+			"sight": {
+				"enabled": true,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"name": "Windgrace",
+			"texture": {
+				"src": "tokenizer/pc-images/windgrace.2.base.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": "#3196c9",
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/pc-images/windgrace.2.base.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "pO0wjNIzhiqIO70O",
+			"x": 2942,
+			"y": 1460,
+			"shape": 4,
+			"_id": "CoFy71ZzsdY4f749",
+			"delta": null,
+			"elevation": 0,
+			"sort": 0,
+			"locked": false,
+			"hidden": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 2,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.CoFy71ZzsdY4f749"
+		},
+		{
+			"displayName": 20,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {},
+				"pf2e-rpg-numbers": {
+					"rotationOffset": 0,
+					"fireEmblemImg": "",
+					"personaImg": "",
+					"critOffsetX": 0,
+					"critOffsetY": 0,
+					"critScale": 100,
+					"critRotation": 0,
+					"critSFX": ""
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": null,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": true,
+					"SpawnRidersFlag": ",,,,,",
+					"WorldMEffectOverrideFlag": true,
+					"MountingEffectsFlag": ",,,,,",
+					"SelfApplyEffectsFlag": true,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": true,
+					"CheckPilotedCollisionFlag": true,
+					"PilotedbyDefaultFlag": true,
+					"MountonEnterFlag": true,
+					"AutoMountBlackListFlag": ",,,,,",
+					"AutoMountWhiteListFlag": ",,,,,"
+				},
+				"multi-token-edit": {
+					"autoFlipX": false,
+					"autoFlipY": false
+				},
+				"monks-combat-marker": {
+					"token-highlight-scale": 1.5,
+					"token-combat-animation": "",
+					"token-highlight": ""
+				},
+				"monks-combat-details": {
+					"displayBarsCombat": null
+				},
+				"about-face": {
+					"indicatorDisabled": false,
+					"flipOrRotate": "global",
+					"facingDirection": "left",
+					"rotationOffset": 0
+				},
+				"pf2e-visioner": {
+					"coverOverride": "auto",
+					"encounterMasterTokenId": ""
+				},
+				"barbrawl": {
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 30,
+							"ownerVisibility": 30,
+							"gmVisibility": -1,
+							"hideFull": true,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "left-outer",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": 5,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						},
+						"bar2": {
+							"order": 1,
+							"id": "bar2",
+							"attribute": "resources.heroPoints",
+							"mincolor": "#000080",
+							"maxcolor": "#80B3FF",
+							"otherVisibility": 0,
+							"ownerVisibility": 35,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": 60,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": true,
+							"fgImage": "pics/icons/UI/stars-left-right.webp",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"actorLink": true,
+			"sight": {
+				"enabled": true,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"name": "Froot",
+			"texture": {
+				"src": "tokenizer/pc-images/froot3.base2.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": -1.4,
+				"scaleY": 1.4,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": "#57cb65",
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1.5,
+					"texture": "tokenizer/pc-images/froot3.base2.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "ZSus70TYBj7FpYbA",
+			"x": 3212,
+			"y": 1526,
+			"shape": 4,
+			"_id": "MZTuA9PtaVPShAYD",
+			"delta": null,
+			"elevation": 0,
+			"sort": 0,
+			"locked": false,
+			"hidden": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.MZTuA9PtaVPShAYD"
+		},
+		{
+			"displayName": 20,
+			"displayBars": 50,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"tagger": {},
+				"multi-token-edit": {
+					"autoFlipX": false,
+					"autoFlipY": false
+				},
+				"monks-combat-marker": {
+					"token-highlight-scale": 1.5,
+					"token-combat-animation": "",
+					"token-highlight": ""
+				},
+				"monks-combat-details": {
+					"displayBarsCombat": null
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false,
+					"MountonEnterFlag": false,
+					"AutoMountBlackListFlag": "",
+					"AutoMountWhiteListFlag": ""
+				},
+				"about-face": {
+					"indicatorDisabled": false,
+					"flipOrRotate": "global",
+					"facingDirection": "global",
+					"rotationOffset": 0
+				},
+				"barbrawl": {
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 30,
+							"ownerVisibility": 30,
+							"gmVisibility": -1,
+							"hideFull": true,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "left-outer",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": 5,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						},
+						"bar2": {
+							"order": 1,
+							"id": "bar2",
+							"attribute": "resources.heroPoints",
+							"mincolor": "#000080",
+							"maxcolor": "#80B3FF",
+							"otherVisibility": 0,
+							"ownerVisibility": 35,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": 60,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": true,
+							"fgImage": "pics/icons/UI/stars-left-right.webp",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"actorLink": true,
+			"sight": {
+				"enabled": true,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"name": "Gleba",
+			"texture": {
+				"src": "tokenizer/pc-images/gleba.token.he3vwz793zurjz0z.webp?1744146270812",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1.5,
+				"scaleY": 1.5,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 180,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": "#7a4e00",
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1.5,
+					"texture": "tokenizer/pc-images/gleba.token.he3vwz793zurjz0z.webp?1744146270812"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "ZNWtk89t3qaj1ZxT",
+			"x": 3267,
+			"y": 685,
+			"shape": 4,
+			"_id": "WCwMAJnziJ6ExlHa",
+			"delta": null,
+			"elevation": 0,
+			"sort": 0,
+			"locked": false,
+			"hidden": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.WCwMAJnziJ6ExlHa"
+		},
+		{
+			"displayName": 20,
+			"displayBars": 50,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				},
+				"tagger": {},
+				"multi-token-edit": {
+					"autoFlipX": false,
+					"autoFlipY": false
+				},
+				"monks-combat-marker": {
+					"token-highlight-scale": 1.5,
+					"token-combat-animation": "",
+					"token-highlight": ""
+				},
+				"monks-combat-details": {
+					"displayBarsCombat": null
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false,
+					"MountonEnterFlag": false,
+					"AutoMountBlackListFlag": "",
+					"AutoMountWhiteListFlag": ""
+				},
+				"about-face": {
+					"indicatorDisabled": false,
+					"flipOrRotate": "global",
+					"facingDirection": "global",
+					"rotationOffset": 0
+				},
+				"barbrawl": {
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 30,
+							"ownerVisibility": 30,
+							"gmVisibility": -1,
+							"hideFull": true,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "left-outer",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": 5,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						},
+						"bar2": {
+							"order": 1,
+							"id": "bar2",
+							"attribute": "resources.heroPoints",
+							"mincolor": "#000080",
+							"maxcolor": "#80B3FF",
+							"otherVisibility": 0,
+							"ownerVisibility": 35,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": 60,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": true,
+							"fgImage": "pics/icons/UI/stars-left-right.webp",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"actorLink": true,
+			"sight": {
+				"enabled": true,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"name": "Sharpnib",
+			"texture": {
+				"src": "tokenizer/pc-images/sharpnib.token.ecad3ddka9fl10ts.webp?1747163873681",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": -1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": "#1c1c1c",
+					"background": "#d3ae6f"
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/pc-images/sharpnib.token.ecad3ddka9fl10ts.webp?1747163873681"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "2oF91Cmg60Zcwg4K",
+			"x": 2828,
+			"y": 1676,
+			"shape": 4,
+			"_id": "whqGv77YI9oo5LgB",
+			"delta": null,
+			"elevation": 0,
+			"sort": 0,
+			"locked": false,
+			"hidden": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.whqGv77YI9oo5LgB"
+		},
+		{
+			"displayName": 30,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				},
+				"smarttarget": {
+					"gmtargetimg": "tokenizer/pc-images/windgrace.avatar.webp?1751870409112"
+				},
+				"pf2e-reactive-token-ring": {
+					"tokenHealthLevel": 1
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"name": "Puzzled General Kaso Hida",
+			"actorLink": false,
+			"texture": {
+				"src": "tokenizer/npc-images/general_kaso_hida.token.webp?1748443533735",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/general_kaso_hida.token.webp?1748443533735"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "vIXQ2Ua8eAOjyeuh",
+			"hidden": false,
+			"sort": 4,
+			"shape": 4,
+			"_id": "H0UyMBeNgTgs4xPP",
+			"delta": {
+				"_id": "938MKcvB818l13WJ",
+				"system": {
+					"attributes": {
+						"hp": {
+							"value": 12
+						}
+					},
+					"_migration": {
+						"previous": {
+							"schema": 0.959
+						}
+					}
+				},
+				"items": [
+					{
+						"name": "Effect: 5 Player Adjustment",
+						"type": "effect",
+						"effects": [],
+						"system": {
+							"_migration": {
+								"version": 0.959,
+								"previous": {
+									"schema": 0.958,
+									"foundry": "14.360",
+									"system": "8.1.1"
+								}
+							},
+							"description": {
+								"value": "",
+								"gm": ""
+							},
+							"publication": {
+								"title": "",
+								"authors": "",
+								"license": "OGL",
+								"remaster": false
+							},
+							"rules": [
+								{
+									"key": "FlatModifier",
+									"selector": "hp",
+									"value": "floor(@actor.system.attributes.hp.max / 5)"
+								}
+							],
+							"slug": "effect-5-player-adjustment",
+							"traits": {
+								"otherTags": [],
+								"value": []
+							},
+							"level": {
+								"value": 1
+							},
+							"duration": {
+								"value": -1,
+								"unit": "unlimited",
+								"expiry": null,
+								"sustained": false
+							},
+							"tokenIcon": {
+								"show": false
+							},
+							"unidentified": true,
+							"start": {
+								"value": 1129480,
+								"initiative": null
+							},
+							"badge": null,
+							"fromSpell": false,
+							"context": null
+						},
+						"_id": "744frenFfGdhN5uY",
+						"img": "systems/pf2e/icons/default-icons/effect.svg",
+						"folder": null,
+						"sort": 2500000,
+						"ownership": {
+							"default": 0,
+							"vj8VUT8j7Wtzy3Y2": 3
+						},
+						"flags": {},
+						"_stats": {
+							"coreVersion": "14.361",
+							"systemId": "pf2e",
+							"systemVersion": "8.1.1",
+							"createdTime": 1778082579673,
+							"modifiedTime": 1778082579673,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"exportSource": null,
+							"compendiumSource": null,
+							"duplicateSource": null
+						},
+						"_key": "!scenes.tokens.delta.items!sqauEK0SzqY6bDmN.H0UyMBeNgTgs4xPP.938MKcvB818l13WJ.744frenFfGdhN5uY"
+					}
+				],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.H0UyMBeNgTgs4xPP.938MKcvB818l13WJ"
+			},
+			"x": 1595,
+			"y": 1270,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.H0UyMBeNgTgs4xPP"
+		},
+		{
+			"displayName": 30,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": [
+						true,
+						true
+					],
+					"MaxRiderFlag": [
+						null,
+						null
+					],
+					"CustomRidingheightFlag": [
+						null,
+						null
+					],
+					"UseRidingHeightFlag": [
+						true,
+						true
+					],
+					"RidersScaleFlag": [
+						1,
+						1
+					],
+					"RiderPositioningFlag": [
+						"RowPlacement",
+						"RowPlacement"
+					],
+					"RiderOffsetFlag": [
+						0,
+						0,
+						0,
+						0
+					],
+					"TokenFormFlag": [
+						"TokenFormCircle",
+						"TokenFormCircle"
+					],
+					"InsideMovementFlag": [
+						false,
+						false
+					],
+					"SpawnRidersFlag": [
+						"",
+						""
+					],
+					"WorldMEffectOverrideFlag": [
+						false,
+						false
+					],
+					"MountingEffectsFlag": [
+						"",
+						""
+					],
+					"SelfApplyEffectsFlag": [
+						false,
+						false
+					],
+					"forMountEffectsFlag": [
+						"",
+						""
+					],
+					"CanbePilotedFlag": [
+						false,
+						false
+					],
+					"CheckPilotedCollisionFlag": [
+						false,
+						false
+					],
+					"PilotedbyDefaultFlag": [
+						false,
+						false
+					],
+					"MountonEnterFlag": [
+						false,
+						false
+					],
+					"AutoMountBlackListFlag": [
+						"",
+						""
+					],
+					"AutoMountWhiteListFlag": [
+						"",
+						""
+					]
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				},
+				"smarttarget": {
+					"gmtargetimg": "tokenizer/npc-images/lady_qui_may_shai.avatar.webp?1748444102926"
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"name": "Insecure Lady Qiu May Shai",
+			"actorLink": false,
+			"texture": {
+				"src": "tokenizer/npc-images/lady_qui_may_shai.token.webp?1748444102926",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/lady_qui_may_shai.token.webp?1748444102926"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "nnWK8MnIbV8qi9P5",
+			"hidden": false,
+			"sort": 5,
+			"shape": 4,
+			"_id": "WmLkQsCwWLALHJuY",
+			"delta": {
+				"_id": "TJuw6c4kIu9dzUp7",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.WmLkQsCwWLALHJuY.TJuw6c4kIu9dzUp7"
+			},
+			"x": 2892,
+			"y": 1404,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.WmLkQsCwWLALHJuY"
+		},
+		{
+			"displayName": 30,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": [
+						true,
+						true
+					],
+					"MaxRiderFlag": [
+						null,
+						null
+					],
+					"CustomRidingheightFlag": [
+						null,
+						null
+					],
+					"UseRidingHeightFlag": [
+						true,
+						true
+					],
+					"RidersScaleFlag": [
+						1,
+						1
+					],
+					"RiderPositioningFlag": [
+						"RowPlacement",
+						"RowPlacement"
+					],
+					"RiderOffsetFlag": [
+						0,
+						0,
+						0,
+						0
+					],
+					"TokenFormFlag": [
+						"TokenFormCircle",
+						"TokenFormCircle"
+					],
+					"InsideMovementFlag": [
+						false,
+						false
+					],
+					"SpawnRidersFlag": [
+						"",
+						""
+					],
+					"WorldMEffectOverrideFlag": [
+						false,
+						false
+					],
+					"MountingEffectsFlag": [
+						"",
+						""
+					],
+					"SelfApplyEffectsFlag": [
+						false,
+						false
+					],
+					"forMountEffectsFlag": [
+						"",
+						""
+					],
+					"CanbePilotedFlag": [
+						false,
+						false
+					],
+					"CheckPilotedCollisionFlag": [
+						false,
+						false
+					],
+					"PilotedbyDefaultFlag": [
+						false,
+						false
+					],
+					"MountonEnterFlag": [
+						false,
+						false
+					],
+					"AutoMountBlackListFlag": [
+						"",
+						""
+					],
+					"AutoMountWhiteListFlag": [
+						"",
+						""
+					]
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				},
+				"smarttarget": {
+					"gmtargetimg": "tokenizer/npc-images/lady_xhia_zhia.avatar.webp?1748445081856"
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"name": "Pensive Lady Xhai Zhia",
+			"actorLink": false,
+			"texture": {
+				"src": "tokenizer/npc-images/lady_xhia_zhia.token.webp?1748445081856",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/lady_xhia_zhia.token.webp?1748445081856"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "IqMe0fhQ9KK0QhMt",
+			"hidden": false,
+			"sort": 6,
+			"shape": 4,
+			"_id": "9utbRfpnHcEw4Y0p",
+			"delta": {
+				"_id": "9tulJ6HkfCiDzA5h",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.9utbRfpnHcEw4Y0p.9tulJ6HkfCiDzA5h"
+			},
+			"x": 3714,
+			"y": 1290,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.9utbRfpnHcEw4Y0p"
+		},
+		{
+			"displayName": 30,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false,
+					"MountonEnterFlag": false,
+					"AutoMountBlackListFlag": "",
+					"AutoMountWhiteListFlag": ""
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"name": "Ecstatic Lord Aldunar Unmar",
+			"actorLink": false,
+			"texture": {
+				"src": "tokenizer/npc-images/lord_aldanar_unmar.token.webp?1761613834579",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/lord_aldanar_unmar.token.webp?1761613834579"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "w1sczEudCbrNN4Yt",
+			"hidden": false,
+			"sort": 7,
+			"shape": 4,
+			"_id": "GzXnxTXxANYOGauf",
+			"delta": {
+				"_id": "vQmFor8fyv8bgG1d",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.GzXnxTXxANYOGauf.vQmFor8fyv8bgG1d"
+			},
+			"x": 4746,
+			"y": 1371,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.GzXnxTXxANYOGauf"
+		},
+		{
+			"displayName": 30,
+			"displayBars": 50,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false,
+					"MountonEnterFlag": false,
+					"AutoMountBlackListFlag": "",
+					"AutoMountWhiteListFlag": ""
+				},
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"smarttarget": {
+					"gmtargetimg": "tokenizer/npc-images/lady_xhia_zhia.avatar.webp?1748445081856"
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"name": "Thoughtful Malaika Tao",
+			"actorLink": false,
+			"texture": {
+				"src": "tokenizer/npc-images/malakai_tao.token.webp?1761678013748",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/malakai_tao.token.webp?1761678013748"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "YR4Rd5rcml2e3pEx",
+			"hidden": false,
+			"sort": 8,
+			"shape": 4,
+			"_id": "piQzv1Wt0F17XnXg",
+			"delta": {
+				"_id": "CPCsvV20BzLTFJay",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.piQzv1Wt0F17XnXg.CPCsvV20BzLTFJay"
+			},
+			"x": 4361,
+			"y": 2188,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.piQzv1Wt0F17XnXg"
+		},
+		{
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"image-hover": {
+					"hideArt": false,
+					"specificArt": "path/image.png"
+				},
+				"Rideable": {
+					"issetRideableFlag": true,
+					"MountonEnterFlag": false,
+					"AutoMountBlackListFlag": "",
+					"AutoMountWhiteListFlag": "",
+					"MaxRiderFlag": null,
+					"CustomRidingheightFlag": null,
+					"UseRidingHeightFlag": true,
+					"RidersScaleFlag": 1,
+					"RiderPositioningFlag": "RowPlacement",
+					"RiderOffsetFlag": [
+						0,
+						0
+					],
+					"TokenFormFlag": "TokenFormCircle",
+					"InsideMovementFlag": false,
+					"SpawnRidersFlag": "",
+					"WorldMEffectOverrideFlag": false,
+					"MountingEffectsFlag": "",
+					"SelfApplyEffectsFlag": false,
+					"forMountEffectsFlag": "",
+					"CanbePilotedFlag": false,
+					"CheckPilotedCollisionFlag": false,
+					"PilotedbyDefaultFlag": false
+				},
+				"smarttarget": {
+					"gmtargetimg": "tokenizer/npc-images/yabin_the_just_level_9_.avatar.webp?1748529279059"
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"name": "Lord Buken Tegora",
+			"displayName": 30,
+			"actorLink": false,
+			"texture": {
+				"src": "modules/pf2e-tokens-characters/assets/tokens/tian-shu-human.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": true,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 50,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-characters/assets/subjects/tian-shu-human.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "M3mcvFusqJXYJR1V",
+			"hidden": false,
+			"sort": 9,
+			"shape": 4,
+			"_id": "OTwj1PlPljWRBOYv",
+			"delta": {
+				"_id": "Lhk3KmSytojmW7i8",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.OTwj1PlPljWRBOYv.Lhk3KmSytojmW7i8"
+			},
+			"x": 2778,
+			"y": 2176,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.OTwj1PlPljWRBOYv"
+		},
+		{
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				},
+				"image-hover": {
+					"hideArt": false,
+					"specificArt": "path/image.png"
+				},
+				"pf2e-visioner": {
+					"coverOverride": "auto",
+					"encounterMasterTokenId": ""
+				},
+				"Rideable": {
+					"issetRideableFlag": [
+						true,
+						true
+					],
+					"MountonEnterFlag": [
+						false,
+						false
+					],
+					"AutoMountBlackListFlag": [
+						"",
+						""
+					],
+					"AutoMountWhiteListFlag": [
+						"",
+						""
+					],
+					"MaxRiderFlag": [
+						null,
+						null
+					],
+					"CustomRidingheightFlag": [
+						null,
+						null
+					],
+					"UseRidingHeightFlag": [
+						true,
+						true
+					],
+					"RidersScaleFlag": [
+						1,
+						1
+					],
+					"RiderPositioningFlag": [
+						"RowPlacement",
+						"RowPlacement"
+					],
+					"RiderOffsetFlag": [
+						0,
+						0,
+						0,
+						0
+					],
+					"TokenFormFlag": [
+						"TokenFormCircle",
+						"TokenFormCircle"
+					],
+					"InsideMovementFlag": [
+						false,
+						false
+					],
+					"SpawnRidersFlag": [
+						"",
+						""
+					],
+					"WorldMEffectOverrideFlag": [
+						false,
+						false
+					],
+					"MountingEffectsFlag": [
+						"",
+						""
+					],
+					"SelfApplyEffectsFlag": [
+						false,
+						false
+					],
+					"forMountEffectsFlag": [
+						"",
+						""
+					],
+					"CanbePilotedFlag": [
+						false,
+						false
+					],
+					"CheckPilotedCollisionFlag": [
+						false,
+						false
+					],
+					"PilotedbyDefaultFlag": [
+						false,
+						false
+					]
+				}
+			},
+			"height": 1,
+			"width": 1,
+			"name": "Lady Yen Tsing Jurai",
+			"displayName": 30,
+			"actorLink": false,
+			"texture": {
+				"src": "tokenizer/npc-images/lady_narswani_vangarath.token.webp?1769333753596",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": true,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 50,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "tokenizer/npc-images/lady_narswani_vangarath.token.webp?1769333753596"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"actorId": "ZUCjVaXyylgd6GrN",
+			"hidden": false,
+			"sort": 10,
+			"shape": 4,
+			"_id": "ySO7VlALygFYZcTs",
+			"delta": {
+				"_id": "Uxj0nmeSlnX2sd0F",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!sqauEK0SzqY6bDmN.ySO7VlALygFYZcTs.Uxj0nmeSlnX2sd0F"
+			},
+			"x": 3631,
+			"y": 2218,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
+			"_key": "!scenes.tokens!sqauEK0SzqY6bDmN.ySO7VlALygFYZcTs"
+		}
+	],
+	"lights": [],
+	"notes": [
+		{
+			"entryId": "KGo0miRPMsFQ6wrF",
+			"pageId": "FK87adR8DO72s3wb",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"global": true,
+			"x": 2900,
+			"y": 1068,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 40,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/book.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"alphaThreshold": 0
+			},
+			"text": "A5. Lantern Lodge Gallery",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "wreZuESy41Df3IFH",
+			"author": null,
+			"levels": [],
+			"locked": false,
+			"_key": "!scenes.notes!sqauEK0SzqY6bDmN.wreZuESy41Df3IFH"
+		}
+	],
+	"sounds": [],
+	"regions": [],
+	"tiles": [],
+	"walls": [],
+	"playlist": null,
+	"playlistSound": null,
+	"journal": null,
+	"journalEntryPage": null,
+	"weather": "",
+	"folder": null,
+	"ownership": {
+		"default": 0,
+		"vj8VUT8j7Wtzy3Y2": 3
+	},
+	"flags": {
+		"multi-token-edit": {
+			"blackBars": false
+		},
+		"pf2e-visioner": {
+			"disableAVS": false,
+			"hiddenIndicatorHalf": 10,
+			"dimThreshold": 0.25,
+			"partyTokenStateCache": {
+				"8666b823-ebfc-52ca-8f4b-baeb84223fd3": {
+					"tokenId": "8rdyWfsvDIaj5cUa",
+					"actorId": "ZNWtk89t3qaj1ZxT",
+					"actorSignature": "8666b823-ebfc-52ca-8f4b-baeb84223fd3",
+					"name": "Gleba",
+					"savedAt": 1774769329145,
+					"visibility": {},
+					"cover": {},
+					"effects": [],
+					"observerStates": {}
+				},
+				"b97487f3-40d4-573f-b2a3-8d1a45c7effb": {
+					"tokenId": "tqfJ0WrM8xFW4SIU",
+					"actorId": "2oF91Cmg60Zcwg4K",
+					"actorSignature": "b97487f3-40d4-573f-b2a3-8d1a45c7effb",
+					"name": "Sharpnib",
+					"savedAt": 1774769354078,
+					"visibility": {},
+					"cover": {},
+					"effects": [],
+					"observerStates": {}
+				},
+				"bbc95fb5-b140-5357-89b4-ec7fa819d38a": {
+					"tokenId": "Nu8XKylm0liewIAS",
+					"actorId": "ZSus70TYBj7FpYbA",
+					"actorSignature": "bbc95fb5-b140-5357-89b4-ec7fa819d38a",
+					"name": "Froot",
+					"savedAt": 1774769354079,
+					"visibility": {},
+					"cover": {},
+					"effects": [],
+					"observerStates": {}
+				},
+				"1a46d50f-6863-5dd1-bb06-0ae51d1889d9": {
+					"tokenId": "5fiW75YvktNpqaJO",
+					"actorId": "pO0wjNIzhiqIO70O",
+					"actorSignature": "1a46d50f-6863-5dd1-bb06-0ae51d1889d9",
+					"name": "Windgrace",
+					"savedAt": 1774769354080,
+					"visibility": {},
+					"cover": {},
+					"effects": [],
+					"observerStates": {}
+				}
+			},
+			"deletedEntryCache": {
+				"L0dRJ6mcWl6KttV8": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"MO60grosZCyxruCg": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"vkRNwBz8D0T7xID8": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				}
+			}
+		},
+		"real-fow": {
+			"enableRealFog": false
+		},
+		"pf2e": {
+			"rulesBasedVision": null,
+			"hearingRange": null,
+			"environmentTypes": [],
+			"syncDarkness": "default"
+		}
+	},
+	"_stats": {
+		"coreVersion": "14.361",
+		"systemId": "pf2e",
+		"systemVersion": "8.1.1",
+		"createdTime": 1778082579673,
+		"modifiedTime": 1778082579673,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null,
+		"compendiumSource": null,
+		"duplicateSource": null
+	},
+	"navName": "",
+	"levels": [
+		"defaultLevel0000"
+	],
+	"shiftX": 0,
+	"shiftY": 0,
+	"initialLevel": "defaultLevel0000",
+	"transition": {
+		"type": null,
+		"duration": 1500,
+		"activeOnly": false
+	},
+	"active": false,
+	"sort": 0,
+	"_key": "!scenes!sqauEK0SzqY6bDmN",
+	"templates": []
+}

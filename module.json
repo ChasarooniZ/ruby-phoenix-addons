@@ -6,7 +6,7 @@
   "library": "false",
   "compatibility": {
     "minimum": 13,
-    "verified": 13
+    "verified": 14
   },
   "authors": [
     {
@@ -17,7 +17,30 @@
   ],
   "relationships": {
     "systems": [],
-    "requires": []
+    "requires": [],
+    "recommends": [
+      {
+        "id": "more-dynamic-token-rings",
+        "name": "SETT: Some Extra Token (ring) Types",
+        "type": "module",
+        "reason": "This module adds a FotRP specific token ring",
+        "compatibility": {}
+      },
+      {
+        "id": "sequencer",
+        "name": "Sequencer",
+        "type": "module",
+        "reason": "This is needed for any of the animations within this module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-rpg-numbers",
+        "name": "PF2e RPG Numbers & More",
+        "type": "module",
+        "reason": "The 'VS Animation' and 'Finishing Moves' features under 'Text' are nice animation flourishes for this AP",
+        "compatibility": {}
+      }
+    ]
   },
   "esmodules": ["scripts/module.js"],
   "scripts": ["scripts/lib/lib.js"],

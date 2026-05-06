@@ -222,3 +222,53 @@
   - `Floating Flamethrower`
     - **Disable** lower required thievery down to `Master` thievery
     - Buffed damage to 3d12 + 18
+## 6. Rage of Magaru
+- `Shadow Yai`
+  - **Skills**
+    - **Deception** +35
+    - **Performance** +35
+  - **Strikes**
+    - The "evil" traits should be replaced with "unholy"
+  - **Spells**
+    - Spell Attack is unspecified, should be +29
+    - These guys aren't listed in FotRP Expanded so I can't steal spell list revisions from there :(
+    - Replace `Sound Burst` with a rank 8 `Penumbral Disguise`
+    - Add `Shadow Raid` and 2x rank 7 `Shadow Blast`
+- `Rivka`
+  - Bump resistance up to 12
+- `Portal Eater`
+  - **Skills** Athletics +38
+  - **Defenses**
+    - **AC** to 41-42
+- `Melodic Squall`
+  - **Attributes** Dex, Cha + 9, Con +5
+  - **Skills**
+    - **Athletics** +28
+  - **Defenses**
+    - **Fort** +25
+    - **Reflex** +33
+  - **Retune** use a Performance check for the counteract like with Melody on the Wind
+  - **Mesmerizing Melody** set failure condition to static 4 rounds like with Melody on the Wind
+- `Razu`
+  - **Attributes**
+    - **Str** +5
+    - **Dex** +9
+    - **Con** +5
+    - **Int** +6
+    - **Wis** +6
+    - **Cha** +10
+  - **Skills**
+    - **Occultism** +31
+    - **Performance** +38
+  - **Defenses**
+    - **Reflex** +30
+    - **Will** +33
+    - **HP** 300 (buffing since he's the final encounter of the book)
+  - **Strikes** why did they stat out his erhu's bow like a javelin why would he throw it he needs it to play his instrument
+    - maybe give it the returning rune?
+  - **Spells**
+    - **DC** 44
+    - **Spell Attack** +36
+    - Use the FotRP Expanded spell list
+      - FotRP Expanded gives two spell lists, one completely combat-oriented and one with out-of-combat spells for narrative flair during the chase. The two lists are identical above 5th-rank so it shouldn't matter too much. I plan on using the first list.
+      - Replace 7th-rank `Shadow Blast` with 7th-rank `Phantom Orchestra` because c'mon

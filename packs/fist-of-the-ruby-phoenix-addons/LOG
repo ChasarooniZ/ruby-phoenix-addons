@@ -1,15 +1,15 @@
-2026/03/03-16:59:22.005 18468 Recovering log #1605
-2026/03/03-16:59:22.131 18468 Delete type=0 #1605
-2026/03/03-16:59:22.131 18468 Delete type=3 #1603
-2026/03/03-16:59:22.285 15044 Level-0 table #1609: started
-2026/03/03-16:59:22.371 15044 Level-0 table #1609: 957443 bytes OK
-2026/03/03-16:59:22.428 15044 Delete type=0 #1607
-2026/03/03-16:59:22.429 15044 Manual compaction at level-0 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at '!adventures!z3GYI07psMjahmLe' @ 52 : 1
-2026/03/03-16:59:22.429 15044 Compacting 2@0 + 1@1 files
-2026/03/03-16:59:22.514 15044 Generated table #1610@0: 3 keys, 957443 bytes
-2026/03/03-16:59:22.514 15044 Compacted 2@0 + 1@1 files => 957443 bytes
-2026/03/03-16:59:22.572 15044 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/03/03-16:59:22.572 15044 Delete type=2 #1456
-2026/03/03-16:59:22.572 15044 Delete type=2 #1604
-2026/03/03-16:59:22.572 15044 Delete type=2 #1609
-2026/03/03-16:59:22.573 15044 Manual compaction at level-0 from '!adventures!z3GYI07psMjahmLe' @ 52 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at (end)
+2026/05/06-10:58:27.793 e458 Recovering log #1915
+2026/05/06-10:58:27.930 e458 Delete type=0 #1915
+2026/05/06-10:58:27.930 e458 Delete type=3 #1913
+2026/05/06-10:58:28.162 4af8 Level-0 table #1919: started
+2026/05/06-10:58:28.279 4af8 Level-0 table #1919: 1584832 bytes OK
+2026/05/06-10:58:28.339 4af8 Delete type=0 #1917
+2026/05/06-10:58:28.339 4af8 Manual compaction at level-0 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at '!adventures!sjSY0llgD7IuXSCd' @ 59 : 1
+2026/05/06-10:58:28.339 4af8 Compacting 2@0 + 1@1 files
+2026/05/06-10:58:28.489 4af8 Generated table #1920@0: 4 keys, 1584832 bytes
+2026/05/06-10:58:28.489 4af8 Compacted 2@0 + 1@1 files => 1584832 bytes
+2026/05/06-10:58:28.559 4af8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/06-10:58:28.559 4af8 Delete type=2 #1798
+2026/05/06-10:58:28.560 4af8 Delete type=2 #1914
+2026/05/06-10:58:28.560 4af8 Delete type=2 #1919
+2026/05/06-10:58:28.560 4af8 Manual compaction at level-0 from '!adventures!sjSY0llgD7IuXSCd' @ 59 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at (end)

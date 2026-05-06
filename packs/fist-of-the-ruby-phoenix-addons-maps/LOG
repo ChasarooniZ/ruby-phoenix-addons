@@ -1,14 +1,15 @@
-2026/03/03-16:59:22.648 18468 Recovering log #1157
-2026/03/03-16:59:22.773 18468 Delete type=0 #1157
-2026/03/03-16:59:22.773 18468 Delete type=3 #1156
-2026/03/03-16:59:22.815 15044 Level-0 table #1161: started
-2026/03/03-16:59:22.873 15044 Level-0 table #1161: 43290 bytes OK
-2026/03/03-16:59:22.937 15044 Delete type=0 #1159
-2026/03/03-16:59:22.937 15044 Manual compaction at level-0 from '!folders!7PRiBQRRAO2uBoAK' @ 72057594037927935 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 1797 : 1
-2026/03/03-16:59:22.937 15044 Compacting 1@0 + 1@1 files
-2026/03/03-16:59:22.972 15044 Generated table #1162@0: 315 keys, 43290 bytes
-2026/03/03-16:59:22.973 15044 Compacted 1@0 + 1@1 files => 43290 bytes
-2026/03/03-16:59:23.047 15044 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/03/03-16:59:23.047 15044 Delete type=2 #1009
-2026/03/03-16:59:23.048 15044 Delete type=2 #1161
-2026/03/03-16:59:23.048 15044 Manual compaction at level-0 from '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 1797 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at (end)
+2026/05/06-10:58:28.635 e458 Recovering log #1468
+2026/05/06-10:58:28.760 e458 Delete type=0 #1468
+2026/05/06-10:58:28.760 e458 Delete type=3 #1466
+2026/05/06-10:58:28.946 4af8 Level-0 table #1472: started
+2026/05/06-10:58:29.004 4af8 Level-0 table #1472: 88599 bytes OK
+2026/05/06-10:58:29.068 4af8 Delete type=0 #1470
+2026/05/06-10:58:29.068 4af8 Manual compaction at level-0 from '!folders!0mTw3XUT46MfpqFg' @ 72057594037927935 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at '!scenes.walls!8AYc1Hooegvl6Jd6.zhklMZ5IuFtlUKjP' @ 2609 : 1
+2026/05/06-10:58:29.068 4af8 Compacting 2@0 + 1@1 files
+2026/05/06-10:58:29.126 4af8 Generated table #1473@0: 363 keys, 88428 bytes
+2026/05/06-10:58:29.126 4af8 Compacted 2@0 + 1@1 files => 88428 bytes
+2026/05/06-10:58:29.201 4af8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/06-10:58:29.201 4af8 Delete type=2 #1447
+2026/05/06-10:58:29.201 4af8 Delete type=2 #1467
+2026/05/06-10:58:29.201 4af8 Delete type=2 #1472
+2026/05/06-10:58:29.201 4af8 Manual compaction at level-0 from '!scenes.walls!8AYc1Hooegvl6Jd6.zhklMZ5IuFtlUKjP' @ 2609 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at (end)

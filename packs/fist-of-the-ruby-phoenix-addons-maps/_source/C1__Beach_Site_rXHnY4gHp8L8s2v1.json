@@ -4,21 +4,6 @@
 	"navigation": false,
 	"navOrder": 0,
 	"navName": "",
-	"background": {
-		"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/beach-site-(base).webp",
-		"anchorX": 0,
-		"anchorY": 0,
-		"offsetX": 0,
-		"offsetY": 0,
-		"fit": "fill",
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0,
-		"tint": "#ffffff",
-		"alphaThreshold": 0
-	},
-	"foreground": null,
-	"foregroundElevation": 20,
 	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/9XHjfyrXLaahThd3-thumb.webp",
 	"width": 4000,
 	"height": 4000,
@@ -28,7 +13,6 @@
 		"y": null,
 		"scale": 0.5
 	},
-	"backgroundColor": "#383838",
 	"grid": {
 		"type": 1,
 		"size": 100,
@@ -41,12 +25,11 @@
 	},
 	"tokenVision": true,
 	"fog": {
-		"exploration": true,
-		"overlay": null,
 		"colors": {
 			"explored": null,
 			"unexplored": null
-		}
+		},
+		"mode": 1
 	},
 	"environment": {
 		"darknessLevel": 0,
@@ -117,6 +100,7 @@
 			"flags": {
 				"tagger": {}
 			},
+			"levels": [],
 			"_key": "!scenes.drawings!rXHnY4gHp8L8s2v1.QJFmYtWsQ3gHWSoE"
 		}
 	],
@@ -125,19 +109,15 @@
 	"notes": [],
 	"sounds": [],
 	"regions": [],
-	"templates": [],
 	"tiles": [
 		{
 			"texture": {
 				"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/beach-site-bow-(overlay).webp",
-				"anchorX": 0.5,
-				"anchorY": 0.5,
-				"offsetX": 0,
-				"offsetY": 0,
+				"anchorX": 0,
+				"anchorY": 0,
 				"fit": "fill",
 				"scaleX": 1,
 				"scaleY": 1,
-				"rotation": 0,
 				"tint": "#ffffff",
 				"alphaThreshold": 0.75
 			},
@@ -148,8 +128,8 @@
 			"elevation": 10,
 			"sort": 0,
 			"occlusion": {
-				"mode": 0,
-				"alpha": 0
+				"alpha": 0,
+				"modes": []
 			},
 			"_id": "02mRuBFEndXqJmEn",
 			"rotation": 0,
@@ -189,19 +169,17 @@
 				},
 				"tagger": {}
 			},
+			"levels": [],
 			"_key": "!scenes.tiles!rXHnY4gHp8L8s2v1.02mRuBFEndXqJmEn"
 		},
 		{
 			"texture": {
 				"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/beach-site-(trees).webp",
-				"anchorX": 0.5,
-				"anchorY": 0.5,
-				"offsetX": 0,
-				"offsetY": 0,
+				"anchorX": 0,
+				"anchorY": 0,
 				"fit": "fill",
 				"scaleX": 1,
 				"scaleY": 1,
-				"rotation": 0,
 				"tint": "#ffffff",
 				"alphaThreshold": 0.75
 			},
@@ -212,8 +190,8 @@
 			"elevation": 20,
 			"sort": 1,
 			"occlusion": {
-				"mode": 0,
-				"alpha": 0
+				"alpha": 0,
+				"modes": []
 			},
 			"_id": "yYEfESBxjVD1Iv27",
 			"rotation": 0,
@@ -253,6 +231,7 @@
 				},
 				"tagger": {}
 			},
+			"levels": [],
 			"_key": "!scenes.tiles!rXHnY4gHp8L8s2v1.yYEfESBxjVD1Iv27"
 		}
 	],
@@ -304,7 +283,7 @@
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
-		"coreVersion": "13.345",
+		"coreVersion": "14.360",
 		"systemId": "pf2e",
 		"systemVersion": "6.12.1",
 		"createdTime": 1747524344290,
@@ -315,5 +294,17 @@
 	"_id": "rXHnY4gHp8L8s2v1",
 	"active": false,
 	"sort": 100000,
-	"_key": "!scenes!rXHnY4gHp8L8s2v1"
+	"levels": [
+		"defaultLevel0000"
+	],
+	"shiftX": 0,
+	"shiftY": 0,
+	"initialLevel": "defaultLevel0000",
+	"transition": {
+		"type": null,
+		"duration": 1500,
+		"activeOnly": false
+	},
+	"_key": "!scenes!rXHnY4gHp8L8s2v1",
+	"templates": []
 }

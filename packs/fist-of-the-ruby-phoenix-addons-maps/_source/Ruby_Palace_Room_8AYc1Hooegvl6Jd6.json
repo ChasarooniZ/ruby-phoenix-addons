@@ -3,22 +3,7 @@
 	"name": "Ruby Palace Room",
 	"navigation": false,
 	"navOrder": 0,
-	"background": {
-		"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Ruby%20Palace%20Room/ruby_palace_room.webp",
-		"anchorX": 0,
-		"anchorY": 0,
-		"offsetX": 0,
-		"offsetY": 0,
-		"fit": "fill",
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0,
-		"tint": "#ffffff",
-		"alphaThreshold": 0
-	},
-	"foreground": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Ruby%20Palace%20Room/ruby_palace_steam.webp",
-	"foregroundElevation": null,
-	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/WFYUWM56lWk3hi4O-thumb.webp",
+	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/thumb-onG1E2eSiak0VZt6xWd46Q.webp",
 	"width": 4500,
 	"height": 3000,
 	"padding": 0.25,
@@ -27,7 +12,6 @@
 		"y": null,
 		"scale": null
 	},
-	"backgroundColor": "#999999",
 	"grid": {
 		"type": 1,
 		"size": 150,
@@ -40,12 +24,11 @@
 	},
 	"tokenVision": true,
 	"fog": {
-		"exploration": true,
-		"overlay": null,
 		"colors": {
 			"explored": null,
 			"unexplored": null
-		}
+		},
+		"mode": 1
 	},
 	"environment": {
 		"darknessLevel": 0,
@@ -155,12 +138,9 @@
 				"src": "tokenizer/pc-images/sharpnib.token.ecad3ddka9fl10ts.webp?1747163873681",
 				"anchorX": 0.5,
 				"anchorY": 0.5,
-				"offsetX": 0,
-				"offsetY": 0,
 				"fit": "contain",
 				"scaleX": -1,
 				"scaleY": 1,
-				"rotation": 0,
 				"tint": "#ffffff",
 				"alphaThreshold": 0.75
 			},
@@ -199,7 +179,7 @@
 					"max": 1
 				}
 			},
-			"detectionModes": [],
+			"detectionModes": {},
 			"occludable": {
 				"radius": 0
 			},
@@ -245,6 +225,8 @@
 			"locked": false,
 			"_movementHistory": [],
 			"_regions": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
 			"_key": "!scenes.tokens!8AYc1Hooegvl6Jd6.Vca5htYk7TO7sXaM"
 		}
 	],
@@ -278,6 +260,8 @@
 			"_id": "8k9u8cVrwkheIHB5",
 			"repeat": false,
 			"flags": {},
+			"levels": [],
+			"locked": false,
 			"_key": "!scenes.sounds!8AYc1Hooegvl6Jd6.8k9u8cVrwkheIHB5"
 		},
 		{
@@ -307,11 +291,12 @@
 			"_id": "0V3BMyFv6daMkkS5",
 			"repeat": false,
 			"flags": {},
+			"levels": [],
+			"locked": false,
 			"_key": "!scenes.sounds!8AYc1Hooegvl6Jd6.0V3BMyFv6daMkkS5"
 		}
 	],
 	"regions": [],
-	"templates": [],
 	"tiles": [],
 	"walls": [
 		{
@@ -337,6 +322,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.TJiFcPyHa3nzpRGL"
 		},
 		{
@@ -362,6 +348,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.5Y92Rs0BtxXmFavD"
 		},
 		{
@@ -387,6 +374,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.uqHKrsk6i4cHyc0M"
 		},
 		{
@@ -412,6 +400,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.qdU4k07VElImJrPh"
 		},
 		{
@@ -437,6 +426,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.a5P81bO4B1jfjCqM"
 		},
 		{
@@ -462,6 +452,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.ELpLWhWzdtAFT2OL"
 		},
 		{
@@ -487,6 +478,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.IiimVoHlQ51utgb0"
 		},
 		{
@@ -512,6 +504,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.01noJx0cvWFfvTPJ"
 		},
 		{
@@ -537,6 +530,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.VHAPoe138qzhVNim"
 		},
 		{
@@ -562,6 +556,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.vKFQD2bChdUVjFjb"
 		},
 		{
@@ -587,6 +582,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.vRxP59B38OkO2biU"
 		},
 		{
@@ -612,6 +608,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.uJuAcqXZr34ileBQ"
 		},
 		{
@@ -637,6 +634,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.8PL9dRz8hmvD02DH"
 		},
 		{
@@ -662,6 +660,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.37FzcbO3rctYL1Bk"
 		},
 		{
@@ -687,6 +686,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.v03U9fDeZfA04TtV"
 		},
 		{
@@ -712,6 +712,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.izQB38vwUDrNpge6"
 		},
 		{
@@ -737,6 +738,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.wD3YMzxmSeeMfA4g"
 		},
 		{
@@ -762,6 +764,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.qwjdmHtYz9q52oRL"
 		},
 		{
@@ -787,6 +790,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.o95CEmwsBZuV7iPm"
 		},
 		{
@@ -812,6 +816,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.zhklMZ5IuFtlUKjP"
 		},
 		{
@@ -837,6 +842,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.9VUKwDKvv8N47ktN"
 		},
 		{
@@ -862,6 +868,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.ngyb8cNy4FxksRNy"
 		},
 		{
@@ -887,6 +894,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.tsFC1pwnYkLefveF"
 		},
 		{
@@ -912,6 +920,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.ZOfKCHSDISomKysx"
 		},
 		{
@@ -937,6 +946,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.4kkWhw3P2GfRSkgI"
 		},
 		{
@@ -962,6 +972,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.YCoWRr3b6fletpxP"
 		},
 		{
@@ -1000,6 +1011,7 @@
 				}
 			},
 			"doorSound": "slidingWood",
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.sYCjoEBEN3CbvNxW"
 		},
 		{
@@ -1038,6 +1050,7 @@
 				}
 			},
 			"doorSound": "slidingWood",
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.s0fOVSTEkcrEXdmd"
 		},
 		{
@@ -1076,6 +1089,7 @@
 				}
 			},
 			"doorSound": "slidingWood",
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.SpREp1vbL7N9gKEm"
 		},
 		{
@@ -1106,6 +1120,7 @@
 				}
 			},
 			"doorSound": "slidingWood",
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.0RJOGlgVCF7TVPNN"
 		},
 		{
@@ -1131,6 +1146,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.S9imdJvC0dcheIo6"
 		},
 		{
@@ -1156,6 +1172,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.IcxHWzapUpT9MMDt"
 		},
 		{
@@ -1181,6 +1198,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.BcDjzy0cVstdgaai"
 		},
 		{
@@ -1206,6 +1224,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.tbkddHCaD8Fll9qT"
 		},
 		{
@@ -1231,6 +1250,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.xRC6chNZBLlwkDdk"
 		},
 		{
@@ -1256,6 +1276,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.0R8VDEr9ARrErE3U"
 		},
 		{
@@ -1281,6 +1302,7 @@
 			},
 			"animation": null,
 			"flags": {},
+			"levels": [],
 			"_key": "!scenes.walls!8AYc1Hooegvl6Jd6.eu3Q6LqE4QOLancf"
 		}
 	],
@@ -1327,16 +1349,28 @@
 		"compendiumSource": null,
 		"duplicateSource": null,
 		"exportSource": null,
-		"coreVersion": "13.347",
+		"coreVersion": "14.361",
 		"systemId": "pf2e",
 		"systemVersion": "7.3.1",
 		"createdTime": 1755289963545,
-		"modifiedTime": 1755289963545,
+		"modifiedTime": 1778082497620,
 		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
 	},
 	"navName": "",
 	"_id": "8AYc1Hooegvl6Jd6",
 	"active": false,
 	"sort": 0,
-	"_key": "!scenes!8AYc1Hooegvl6Jd6"
+	"levels": [
+		"defaultLevel0000"
+	],
+	"shiftX": 0,
+	"shiftY": 0,
+	"initialLevel": "defaultLevel0000",
+	"transition": {
+		"type": null,
+		"duration": 1500,
+		"activeOnly": false
+	},
+	"_key": "!scenes!8AYc1Hooegvl6Jd6",
+	"templates": []
 }

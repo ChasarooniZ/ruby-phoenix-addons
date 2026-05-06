@@ -4,21 +4,6 @@
 	"navigation": false,
 	"navOrder": 0,
 	"navName": "",
-	"background": {
-		"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/stone_market_plains.webp",
-		"anchorX": 0,
-		"anchorY": 0,
-		"offsetX": 0,
-		"offsetY": 0,
-		"fit": "fill",
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0,
-		"tint": "#ffffff",
-		"alphaThreshold": 0
-	},
-	"foreground": null,
-	"foregroundElevation": 20,
 	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/WOO8BERN2ybhzzYE-thumb.webp",
 	"width": 1600,
 	"height": 1200,
@@ -28,7 +13,6 @@
 		"y": null,
 		"scale": 0.5
 	},
-	"backgroundColor": "#2e2e2e",
 	"grid": {
 		"type": 1,
 		"size": 100,
@@ -41,12 +25,11 @@
 	},
 	"tokenVision": true,
 	"fog": {
-		"exploration": true,
-		"overlay": null,
 		"colors": {
 			"explored": null,
 			"unexplored": null
-		}
+		},
+		"mode": 1
 	},
 	"environment": {
 		"darknessLevel": 0,
@@ -117,6 +100,7 @@
 				"tagger": {}
 			},
 			"_id": "rgYukNkxbRavnPra",
+			"levels": [],
 			"_key": "!scenes.drawings!Dl1kZRuS6nKeYVel.rgYukNkxbRavnPra"
 		}
 	],
@@ -159,6 +143,8 @@
 			"flags": {
 				"tagger": {}
 			},
+			"levels": [],
+			"locked": false,
 			"_key": "!scenes.lights!Dl1kZRuS6nKeYVel.YUMQBjbDqcG6vdOB"
 		},
 		{
@@ -198,6 +184,8 @@
 				"tagger": {}
 			},
 			"_id": "YLRIykPtm6owb8Uv",
+			"levels": [],
+			"locked": false,
 			"_key": "!scenes.lights!Dl1kZRuS6nKeYVel.YLRIykPtm6owb8Uv"
 		},
 		{
@@ -237,6 +225,8 @@
 				"tagger": {}
 			},
 			"_id": "t5oFRzJCGQenBbLy",
+			"levels": [],
+			"locked": false,
 			"_key": "!scenes.lights!Dl1kZRuS6nKeYVel.t5oFRzJCGQenBbLy"
 		},
 		{
@@ -276,13 +266,14 @@
 				"tagger": {}
 			},
 			"_id": "yEstMOuFbVecFLCh",
+			"levels": [],
+			"locked": false,
 			"_key": "!scenes.lights!Dl1kZRuS6nKeYVel.yEstMOuFbVecFLCh"
 		}
 	],
 	"notes": [],
 	"sounds": [],
 	"regions": [],
-	"templates": [],
 	"tiles": [],
 	"walls": [
 		{
@@ -308,6 +299,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.QcZaFrD4SWCKC5wP"
 		},
 		{
@@ -333,6 +325,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.Fmrzve4Z8ZIQlWC7"
 		},
 		{
@@ -358,6 +351,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.LCizHHxWHLcK0wvR"
 		},
 		{
@@ -383,6 +377,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.ScsBr7ctYpar45hw"
 		},
 		{
@@ -408,6 +403,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.7genCAfiUtthhdfH"
 		},
 		{
@@ -433,6 +429,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.9pV0I3V5Hgo6gTFx"
 		},
 		{
@@ -458,6 +455,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.L5mM8leG719gOafM"
 		},
 		{
@@ -483,6 +481,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!Dl1kZRuS6nKeYVel.jMrH6suhIx7gZ1R6"
 		}
 	],
@@ -520,7 +519,7 @@
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
-		"coreVersion": "13.345",
+		"coreVersion": "14.360",
 		"systemId": "pf2e",
 		"systemVersion": "6.12.1",
 		"createdTime": 1747524278759,
@@ -531,5 +530,17 @@
 	"_id": "Dl1kZRuS6nKeYVel",
 	"active": false,
 	"sort": 200000,
-	"_key": "!scenes!Dl1kZRuS6nKeYVel"
+	"levels": [
+		"defaultLevel0000"
+	],
+	"shiftX": 0,
+	"shiftY": 0,
+	"initialLevel": "defaultLevel0000",
+	"transition": {
+		"type": null,
+		"duration": 1500,
+		"activeOnly": false
+	},
+	"_key": "!scenes!Dl1kZRuS6nKeYVel",
+	"templates": []
 }

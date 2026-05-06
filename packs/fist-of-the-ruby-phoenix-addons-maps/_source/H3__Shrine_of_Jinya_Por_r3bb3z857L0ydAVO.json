@@ -4,21 +4,6 @@
 	"navigation": false,
 	"navOrder": 0,
 	"navName": "",
-	"background": {
-		"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Shrines/Jinya-Por/Shrine%20of%20Jinya-Por%20-%20Floor.webp",
-		"anchorX": 0,
-		"anchorY": 0,
-		"offsetX": 0,
-		"offsetY": 0,
-		"fit": "fill",
-		"scaleX": 1,
-		"scaleY": 1,
-		"rotation": 0,
-		"tint": "#ffffff",
-		"alphaThreshold": 0
-	},
-	"foreground": null,
-	"foregroundElevation": 20,
 	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/keeTAsAMwhNUbDjp-thumb.webp",
 	"width": 4000,
 	"height": 3000,
@@ -28,7 +13,6 @@
 		"y": null,
 		"scale": 0.5
 	},
-	"backgroundColor": "#000000",
 	"grid": {
 		"type": 0,
 		"size": 100,
@@ -41,12 +25,11 @@
 	},
 	"tokenVision": true,
 	"fog": {
-		"exploration": true,
-		"overlay": null,
 		"colors": {
 			"explored": null,
 			"unexplored": null
-		}
+		},
+		"mode": 1
 	},
 	"environment": {
 		"darknessLevel": 0,
@@ -117,6 +100,7 @@
 				"tagger": {}
 			},
 			"_id": "NMXl2OiX0g2C0VzI",
+			"levels": [],
 			"_key": "!scenes.drawings!r3bb3z857L0ydAVO.NMXl2OiX0g2C0VzI"
 		}
 	],
@@ -198,12 +182,9 @@
 				"src": "tokenizer/pc-images/sharpnib.token.ecad3ddka9fl10ts.webp?1747163873681",
 				"anchorX": 0.5,
 				"anchorY": 0.5,
-				"offsetX": 0,
-				"offsetY": 0,
 				"fit": "contain",
 				"scaleX": -1,
 				"scaleY": 1,
-				"rotation": 0,
 				"tint": "#ffffff",
 				"alphaThreshold": 0.75
 			},
@@ -242,7 +223,7 @@
 					"max": 1
 				}
 			},
-			"detectionModes": [],
+			"detectionModes": {},
 			"occludable": {
 				"radius": 0
 			},
@@ -288,6 +269,8 @@
 			},
 			"movementAction": null,
 			"_movementHistory": [],
+			"depth": 1,
+			"level": "defaultLevel0000",
 			"_key": "!scenes.tokens!r3bb3z857L0ydAVO.gJereYpvgy6uw0C7"
 		}
 	],
@@ -329,6 +312,8 @@
 			"flags": {
 				"tagger": {}
 			},
+			"levels": [],
+			"locked": false,
 			"_key": "!scenes.lights!r3bb3z857L0ydAVO.Wo6hh7UYiExm1J9Q"
 		}
 	],
@@ -363,23 +348,21 @@
 			},
 			"_id": "J6JroQKgp8bHgoHj",
 			"repeat": false,
+			"levels": [],
+			"locked": false,
 			"_key": "!scenes.sounds!r3bb3z857L0ydAVO.J6JroQKgp8bHgoHj"
 		}
 	],
 	"regions": [],
-	"templates": [],
 	"tiles": [
 		{
 			"texture": {
 				"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Shrines/Jinya-Por/Shrine%20of%20Jinya-Por%20-%20Upper.webp",
-				"anchorX": 0.5,
-				"anchorY": 0.5,
-				"offsetX": 0,
-				"offsetY": 0,
+				"anchorX": 0,
+				"anchorY": 0,
 				"fit": "fill",
 				"scaleX": 1,
 				"scaleY": 1,
-				"rotation": 0,
 				"tint": "#ffffff",
 				"alphaThreshold": 0.75
 			},
@@ -390,8 +373,8 @@
 			"elevation": 15,
 			"sort": 0,
 			"occlusion": {
-				"mode": 0,
-				"alpha": 0
+				"alpha": 0,
+				"modes": []
 			},
 			"_id": "wECjIAI3JHBfZOST",
 			"rotation": 0,
@@ -434,19 +417,17 @@
 				},
 				"tagger": {}
 			},
+			"levels": [],
 			"_key": "!scenes.tiles!r3bb3z857L0ydAVO.wECjIAI3JHBfZOST"
 		},
 		{
 			"texture": {
 				"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/Shrines/Jinya-Por/Shrine%20of%20Jinya-Por%20-%20Above%20Water.webp",
-				"anchorX": 0.5,
-				"anchorY": 0.5,
-				"offsetX": 0,
-				"offsetY": 0,
+				"anchorX": 0,
+				"anchorY": 0,
 				"fit": "fill",
 				"scaleX": 1,
 				"scaleY": 1,
-				"rotation": 0,
 				"tint": "#ffffff",
 				"alphaThreshold": 0.75
 			},
@@ -457,8 +438,8 @@
 			"elevation": 0,
 			"sort": 1,
 			"occlusion": {
-				"mode": 0,
-				"alpha": 0
+				"alpha": 0,
+				"modes": []
 			},
 			"_id": "kScEyy1kFaVseDRD",
 			"rotation": 0,
@@ -501,6 +482,7 @@
 				},
 				"tagger": {}
 			},
+			"levels": [],
 			"_key": "!scenes.tiles!r3bb3z857L0ydAVO.kScEyy1kFaVseDRD"
 		}
 	],
@@ -528,6 +510,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!r3bb3z857L0ydAVO.FkBSs2Qy3jPIC7hi"
 		},
 		{
@@ -553,6 +536,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!r3bb3z857L0ydAVO.5PfkwoymQA6adCEL"
 		},
 		{
@@ -578,6 +562,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!r3bb3z857L0ydAVO.xCvISBRzVdFkhUIc"
 		},
 		{
@@ -603,6 +588,7 @@
 			},
 			"flags": {},
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!r3bb3z857L0ydAVO.2HdW1XBOJcQqhAv0"
 		},
 		{
@@ -628,6 +614,7 @@
 			"flags": {},
 			"_id": "YK1Ztploontp4p64",
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!r3bb3z857L0ydAVO.YK1Ztploontp4p64"
 		},
 		{
@@ -653,6 +640,7 @@
 			"flags": {},
 			"_id": "Tq2K1eqlQweUZJu5",
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!r3bb3z857L0ydAVO.Tq2K1eqlQweUZJu5"
 		},
 		{
@@ -678,6 +666,7 @@
 			"flags": {},
 			"_id": "wwtamoy7Ohdi3exS",
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!r3bb3z857L0ydAVO.wwtamoy7Ohdi3exS"
 		},
 		{
@@ -703,6 +692,7 @@
 			"flags": {},
 			"_id": "2m1xcX1u0N1ihlxc",
 			"animation": null,
+			"levels": [],
 			"_key": "!scenes.walls!r3bb3z857L0ydAVO.2m1xcX1u0N1ihlxc"
 		}
 	],
@@ -750,7 +740,7 @@
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
-		"coreVersion": "13.345",
+		"coreVersion": "14.360",
 		"systemId": "pf2e",
 		"systemVersion": "6.12.1",
 		"createdTime": 1747763854293,
@@ -761,5 +751,17 @@
 	"_id": "r3bb3z857L0ydAVO",
 	"active": false,
 	"sort": 0,
-	"_key": "!scenes!r3bb3z857L0ydAVO"
+	"levels": [
+		"defaultLevel0000"
+	],
+	"shiftX": 0,
+	"shiftY": 0,
+	"initialLevel": "defaultLevel0000",
+	"transition": {
+		"type": null,
+		"duration": 1500,
+		"activeOnly": false
+	},
+	"_key": "!scenes!r3bb3z857L0ydAVO",
+	"templates": []
 }

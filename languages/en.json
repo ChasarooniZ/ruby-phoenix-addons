@@ -74,6 +74,12 @@
           "title": "Ongoing Misery",
           "text": "When you Cast or Sustain a hex, your familiar can curse a creature within 15 feet of it, prolonging the duration of any negative conditions affecting it by 1 round. This is a curse effect. This prolongs only conditions with a timed duration (such as \"1 round\" or \"until the end of your next turn\") and doesn't prevent conditions from being removed by other means."
         }
+      },
+      "dynamic-combat": {
+        "critical-success": "The crowd goes wild! You shift the crowd's attitude towards your side by 2 steps, and until the end of your next turn, you have a bonus 1 higher than the rest of your side. (This can give you a bonus of +1 if the rest of your side has +0.)",
+        "success": "You appeal to the crowd. You shift the crowd's attitude towards your side by 1 step. (Such as from neutral to slightly favoring or from slightly favoring to strongly)",
+        "failure": "You don't make an impression.",
+        "critical-failure": "Your pandering is laughable, and the crowd begins to favor your opponents. You shift the crowd's attitude one step towards your foes."
       }
     }
   }
