@@ -1,5 +1,10 @@
 ## To be Added
 
+## 1.1.0
+
+- **New**
+  - Added Animation for the game `Mace, Shield, Arrow`
+
 ## 1.0.0
 
 - **New**

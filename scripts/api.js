@@ -5,6 +5,7 @@ import {
 } from "./animations/chapter_3/haoJinDeath.js";
 import { pressurePointAttack } from "./animations/chapter_3/pressurePointAttack.js";
 import { whirlwindToss } from "./animations/chapter_3/whirlWindToss.js";
+import { maceShieldArrow } from "./animations/chapter_5/maceShieldArrow.js";
 import { hexCrawlHelper } from "./bonmuHexCrawlManager.js";
 import { timeTracker } from "./timeTracker.js";
 
@@ -17,15 +18,18 @@ export function registerAPI() {
       hexCrawlHelper: hexCrawlHelper,
       animation: {
         chapter_2: {
-          summonTerracotta
+          summonTerracotta,
         },
         chapter_3: {
           haoJinDeath,
           haoJinReborn,
           lightkeepers: {
             whirlwindToss,
-            pressurePointAttack
-          }
+            pressurePointAttack,
+          },
+        },
+        chapter_5: {
+          maceShieldArrow,
         },
       },
     },
