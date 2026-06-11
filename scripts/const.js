@@ -854,3 +854,12 @@ export const GOKA_DRAWINGS = [
     interface: true,
   },
 ];
+
+export const UUIDS = {
+  EFFECTS: {
+    CROWD_BOOST: {
+      1: "Item.5Z0fu4AmuDAdCc0B",
+      2: "Item.tnC0lsE8Ydih67F9",
+    },
+  },
+};

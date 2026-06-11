@@ -1,4 +1,5 @@
 import { registerAPI } from "./api.js";
+import { createCrowdFavorMeter, crowdMeterSetup } from "./crowdFavor.js";
 import { getSetting } from "./helpers.js";
 import { setupAdventureOnlyUpdateStatBlocks } from "./importBackup.js";
 import { registerSettings } from "./settings.js";
@@ -11,9 +12,12 @@ Hooks.once("init", async function () {
 
 Hooks.once("ready", async function () {
   registerAPI();
-  setupAdventureOnlyUpdateStatBlocks()
+  setupAdventureOnlyUpdateStatBlocks();
   if (getSetting("time-tracker.enabled")) {
     timeTracker();
+  }
+  if (getSetting("crowd-meter.enabled")) {
+    crowdMeterSetup();
   }
   registerMyTours();
   // if (getSetting("first-time.guide")) {

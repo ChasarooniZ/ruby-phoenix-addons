@@ -7,6 +7,7 @@ import { pressurePointAttack } from "./animations/chapter_3/pressurePointAttack.
 import { whirlwindToss } from "./animations/chapter_3/whirlWindToss.js";
 import { maceShieldArrow } from "./animations/chapter_5/maceShieldArrow.js";
 import { hexCrawlHelper } from "./bonmuHexCrawlManager.js";
+import { hideAllCrowdFavor, showAllCrowdFavor } from "./crowdFavor.js";
 import { timeTracker } from "./timeTracker.js";
 
 export function registerAPI() {
@@ -31,6 +32,10 @@ export function registerAPI() {
         chapter_5: {
           maceShieldArrow,
         },
+      },
+      crowdFavor: {
+        create: showAllCrowdFavor,
+        delete: hideAllCrowdFavor,
       },
     },
   };

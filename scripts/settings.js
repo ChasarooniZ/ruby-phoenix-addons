@@ -14,13 +14,27 @@ export function registerSettings() {
     type: Boolean,
     requiresReload: true,
   });
+1
+  game.settings.register(MODULE_ID, `crowd-meter.enabled`, {
+    name: game.i18n.localize(
+      `${MODULE_ID}.module-settings.crowd-meter.enabled.name`,
+    ),
+    hint: game.i18n.localize(
+      `${MODULE_ID}.module-settings.crowd-meter.enabled.hint`,
+    ),
+    scope: `world`,
+    config: true,
+    default: false,
+    type: Boolean,
+    requiresReload: true,
+  });
 
   game.settings.register(MODULE_ID, `import-statblock-only`, {
     name: game.i18n.localize(
-      `${MODULE_ID}.module-settings.import-statblock-only.name`
+      `${MODULE_ID}.module-settings.import-statblock-only.name`,
     ),
     hint: game.i18n.localize(
-      `${MODULE_ID}.module-settings.import-statblock-only.hint`
+      `${MODULE_ID}.module-settings.import-statblock-only.hint`,
     ),
     scope: `world`,
     config: true,
@@ -29,8 +43,7 @@ export function registerSettings() {
     requiresReload: true,
   });
 
-
-  game.settings.register(MODULE_ID, 'object-info-backup', {
+  game.settings.register(MODULE_ID, "object-info-backup", {
     name: "",
     hint: "",
     scope: `world`,
