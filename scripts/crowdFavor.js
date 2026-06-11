@@ -224,14 +224,14 @@ async function deleteExistingEffects() {
       t.actor.rollOptions.all["self:effect:crowd-boost-2"],
   );
 
-  const effects = [];
-  for (const t of allTokens) {
-    const tokEffects = t.actor.items.contents.filter((i) =>
-      i?.slug?.startsWith("effect-crowd-boost"),
-    );
-    effects.push(tokEffects);
-  }
-  await Promise.allSettled(effects.flatMap((effect) => effect?.delete()));
+  await Promise.allSettled(
+    allTokens.map((t) => {
+      const tokEffectIDs = t.actor.items.contents
+        .filter((i) => i?.slug?.startsWith("effect-crowd-boost"))
+        .map((i) => i.id);
+      return t.actor.deleteEmbeddedDocuments("Item", tokEffectIDs);
+    }),
+  );
 }
 
 async function addBoost(isAlly, level) {
