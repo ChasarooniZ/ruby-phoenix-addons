@@ -9,7 +9,7 @@
 
 - **New**
   - Added Animation for the game `Mace, Shield, Arrow` (See Macros for Book 2)
-  - Added Combat Meter option (see Macros for Book 2)
+  - Added `Combat Meter` for an implementation of `Dynamic Performance Combat` from FotRP: Expanded option (see Macros for Book 2)
 - **Updated**
   - Fixed some improper entries of data for book 2 (notably the drake race)
   - Revitalized some spells and features of NPCs to the most up to date version
