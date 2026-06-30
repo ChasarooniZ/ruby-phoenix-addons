@@ -21670,7 +21670,7 @@
 			"_stats": {
 				"compendiumSource": "Scene.xAbkfy2ghyODbHqn",
 				"duplicateSource": "Scene.9Ux12Ddy4qSoHMDk",
-				"coreVersion": "14.360",
+				"coreVersion": "14.364",
 				"systemId": "pf2e",
 				"systemVersion": "6.12.1",
 				"createdTime": 1747012665298,
@@ -21696,8 +21696,7 @@
 						"bottom": 0
 					},
 					"fog": {
-						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Pinewave%20Maps/pinewave_maps_bonmu_island_map.webp",
-						"tint": "#ffffff"
+						"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Pinewave%20Maps/pinewave_maps_bonmu_island_map.webp"
 					},
 					"foreground": {
 						"src": null,
@@ -21845,7 +21844,7 @@
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
-		"coreVersion": "14.360",
+		"coreVersion": "14.364",
 		"systemId": "pf2e",
 		"systemVersion": "6.12.1",
 		"createdTime": 1747522665896,

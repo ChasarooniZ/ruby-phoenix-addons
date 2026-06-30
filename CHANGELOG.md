@@ -1,5 +1,10 @@
 ## To be Added
 
+## 1.2.0
+
+- **New**
+  - Added a battlemap for the `Ruby Village`
+
 ## 1.1.0
 
 - **New**
