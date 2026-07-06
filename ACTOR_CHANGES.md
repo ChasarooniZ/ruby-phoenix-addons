@@ -214,14 +214,204 @@
       - **Attack** +29
       - **Spell list** from FotRP Expanded
     - **Feats** Spin Tale, Narrative Conduit, Rule of Three
-- `Hazards`
-  - `Freezing Floor Tiles`
-    - **Disable** lower required thievery down to `Master` thievery
-    - Change damage to 3d12+18
-    - Added a `Balance` check require in the `Slippery Surface` feat
-  - `Floating Flamethrower`
-    - **Disable** lower required thievery down to `Master` thievery
-    - Buffed damage to 3d12 + 18
+  - `Lightkeepers (Level 17)`
+    - `Syu Tak-Nwa`
+      - Ability Modifiers
+        - Str: +5
+        - Dex: +6
+        - Con: +5
+        - Int: +10
+        - Wis: +9
+        - Cha: +6
+      - Perception: +31
+      - Skills
+        - Acrobatics: +30
+        - Arcana: +30
+        - Deception: +30
+        - Medicine: +27
+        - Nature: +27
+        - Occultism: +36
+        - Society: +30
+        - Thievery: +28
+      - Items
+        - +3 greater striking jian
+        - major staff of control
+      - Defenses
+        - AC: 38
+        - Fortitude: +26
+        - Reflex: +29
+        - Will: +32
+        - Hit Points: 275
+      - Speed: 25
+      - Strikes
+        - Hair: +31, 3d6+16 bludgeoning (agile, disarm, finesse, grapple, reach 10, trip, unarmed) plus grab
+        - Jian: +28, 3d10+16 piercing (agile, finesse, magical, versatile S)
+      - Spells
+        - Slotted Spells
+          - Cantrips: forbidding ward, guidance, shield, telekinetic projectile, warp step
+          - 1st-Rank: enfeeble, sure strike, liberating command
+          - 2nd-Rank: mirror image, silence, telekinetic maneuver
+          - 3rd-Rank: fear, whirling scarves (reflavor as hair?), time jump
+          - 4th-Rank: confusion, flicker, fly
+          - 5th-Rank: shadow siphon, slither, synesthesia
+          - 6th-Rank: paranoia, repulsion, slow
+          - 7th-Rank: haste, inexhaustible cynicism, resist energy
+          - 8th-Rank: dominate, mask of terror, quandary
+          - 9th-Rank: phantasmagoria, synesthesia
+        - Focus Spells
+          - Cantrips: Evil Eye
+          - Spells: Cackle, Curse of Death, Malicious Shadow, Needle of Vengeance
+      - Other Abilities/Feats
+        - Familiar of Ongoing Misery
+        - Choking Hair
+        - Empowered Hair
+        - Familiar
+        - Effortless Concentration
+        - either Reach or Widen Spell?
+    - `Ran-To`
+      - Ability modifiers
+        - Str: +10
+        - Dex: +9
+        - Con: +9
+        - Int: +5
+        - Wis: +6
+        - Cha: +5
+      - Perception: +24
+      - Skills
+        - Acrobatics: +30
+        - Athletics: +36
+        - Intimidation: +30
+        - Survival: +27
+        - Wrestling Lore: +28
+      - Items
+        - +2 greater striking halfling sling staff
+        - 5x greater explosive bullets
+        - +2 resilient studded leather armor
+        - +2 greater striking gauntlet
+      - Defenses
+        - AC: 39
+        - Fortitude: +32
+        - Reflex: +29
+        - Will: +26
+        - Hit Points: 400
+      - Speed: 25
+      - Strikes
+        - Gauntlet: +35, 3d10+16 bludgeoning (agile, free-hand) plus Improved Grab
+        - Sling Staff: +33, 3d6+16 bludgeoning (propulsive, range 80, reload 1)
+      - Other Abilities/Feats
+        - Body Slam: DC 38, 11d6 bludgeoning
+        - Greater Leaping Catch
+        - Titan Wrestler
+        - Whirlwind Toss: DC 38
+          - Crit Success: 10 feet + 5\*str mod (== 60ft), 13d6 bludgeoning
+          - Success: (10 feet + 5\*Str mod)/2 (== 30ft), 9d6 bludgeoning
+        - Whirling Throw
+        - Clinch Strike
+        - Reactive Strike (special: may Grapple instead of Strike)
+    - `Shino Hakusa`
+      - Ability Modifiers
+        - Str: +8
+        - Dex: +10
+        - Con: +6
+        - Int: +5
+        - Wis: +6
+        - Cha: +5
+      - Perception: +32
+      - Skills
+        - Acrobatics: +36
+        - Athletics: +30
+        - Deception: +33
+        - Medicine: +28
+        - Occultism: +24
+        - Stealth: +36
+        - Thievery: +33
+      - Items
+        - +2 striking returning shuriken
+        - +2 greater striking greater shock handwraps
+        - Potion of Flying
+        - Potion of Haste
+      - Defenses
+        - AC: 40
+        - Fortitude: +26
+        - Reflex: +32
+        - Will: +29
+        - Hit Points: 320
+      - Speed: 40
+      - Strikes
+        - Fist: +33, 3d10+16 bludgeoning + 1d6 electricity (agile, finesse, magical, nonlethal, unarmed)
+        - Shuriken: +33, 3d6+16 piercing (agile, magical, reload 0, thrown 20 feet)
+      - Other Abilities/Feats
+        - Disorienting Tumble
+        - Powerful Fists
+        - Pressure Point Attack (DC 39)
+        - Sneak Attack 4d6
+        - Quick Draw
+        - Surprise Attack
+        - Swift Sneak
+      - `Blue Viper`
+        - Ability Modifiers
+          - Str: +5
+          - Dex: +6
+          - Con: +6
+          - Int: +10
+          - Wis: +6
+          - Cha: +5
+        - Perception: +26
+        - Skills
+          - Acrobatics: +32
+          - Athletics: +23
+          - Crafting: +36
+          - Deception: +26
+          - Diplomacy: +24
+          - Medicine: +30
+          - Stealth: +30
+          - Thievery: +28
+        - Items
+          - +2 greater striking shortsword
+          - +2 resilient explorer&rsquo;s clothing
+          - weeping midnight (applied to body)
+          - Infused Items
+            - 2x major acid flask
+            - 4x major alchemist fire
+            - 4x major bottled lightning
+            - 2x major frost vial
+            - 6x brimstone fume
+            - 9x cerulean scourge
+            - 3x mage bane
+            - 6x nightmare vapor
+            - 5x weeping midnight
+            - 3x breathtaking vapor
+            - 4x major elixir of life
+            - 3x purple worm venom
+        - Defenses
+          - AC: 39
+          - Fortitude: +32
+          - Reflex: +30
+          - Will: +25
+          - Hit Points: 320
+        - Speed: 25
+        - Strikes
+          - Shortsword: +31, 3d6+16 piercing (agile, finesse, versatile S)
+          - Alchemical Bomb: +33 (range 20, splash)
+        - Other Abilities/Feats
+          - Pinpoint Poisoner
+          - Poison Spray
+          - Potent Poisoner: DC 38
+          - Quick Application
+          - Toxic Escape
+          - Exploitive Bomb
+          - Quick Bomber
+          - Pernicious Poison
+          - Tenacious Toxins
+          - Double Poison
+        - `Hazards`
+          - `Freezing Floor Tiles`
+            - **Disable** lower required thievery down to `Master` thievery
+            - Change damage to 3d12+18
+            - Added a `Balance` check require in the `Slippery Surface` feat
+          - `Floating Flamethrower`
+            - **Disable** lower required thievery down to `Master` thievery
+            - Buffed damage to 3d12 + 18
 ## 6. Rage of Magaru
 - `Shadow Yai`
   - **Skills**

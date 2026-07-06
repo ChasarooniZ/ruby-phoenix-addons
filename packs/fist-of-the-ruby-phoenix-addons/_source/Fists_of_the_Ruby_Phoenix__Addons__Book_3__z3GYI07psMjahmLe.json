@@ -1,0 +1,32 @@
+{
+	"name": "Fists of the Ruby Phoenix: Addons (Book 3)",
+	"img": null,
+	"caption": "Book 3",
+	"description": "<p>Book 2 Stuff</p>",
+	"sort": 0,
+	"actors": [],
+	"combats": [],
+	"items": [],
+	"journal": [],
+	"scenes": [],
+	"tables": [],
+	"macros": [],
+	"cards": [],
+	"playlists": [],
+	"folders": [],
+	"_id": "z3GYI07psMjahmLe",
+	"folder": null,
+	"flags": {},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "7.8.0",
+		"createdTime": 1764874195402,
+		"modifiedTime": 1783364751899,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	},
+	"_key": "!adventures!z3GYI07psMjahmLe"
+}

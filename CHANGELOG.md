@@ -1,5 +1,9 @@
 ## To be Added
 
+## 1.3.0
+
+- Added level 17 variants of the `Lightkeepers` (🧠 @ShygGuy32)
+
 ## 1.2.0
 
 - **New**

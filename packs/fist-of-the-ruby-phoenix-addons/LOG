@@ -1,14 +1,15 @@
-2026/06/30-01:33:39.765 444c Recovering log #2113
-2026/06/30-01:33:40.394 444c Delete type=0 #2113
-2026/06/30-01:33:40.394 444c Delete type=3 #2112
-2026/06/30-01:33:40.493 18d4 Level-0 table #2117: started
-2026/06/30-01:33:40.593 18d4 Level-0 table #2117: 1588934 bytes OK
-2026/06/30-01:33:40.658 18d4 Delete type=0 #2115
-2026/06/30-01:33:40.659 18d4 Manual compaction at level-0 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at '!adventures!z3GYI07psMjahmLe' @ 72 : 1
-2026/06/30-01:33:40.659 18d4 Compacting 1@0 + 1@1 files
-2026/06/30-01:33:40.790 18d4 Generated table #2118@0: 4 keys, 1588934 bytes
-2026/06/30-01:33:40.790 18d4 Compacted 1@0 + 1@1 files => 1588934 bytes
-2026/06/30-01:33:40.835 18d4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/06/30-01:33:40.835 18d4 Delete type=2 #2005
-2026/06/30-01:33:40.835 18d4 Delete type=2 #2117
-2026/06/30-01:33:40.836 18d4 Manual compaction at level-0 from '!adventures!z3GYI07psMjahmLe' @ 72 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at (end)
+2026/07/06-14:13:43.293 3fe8 Recovering log #2150
+2026/07/06-14:13:43.436 3fe8 Delete type=0 #2150
+2026/07/06-14:13:43.436 3fe8 Delete type=3 #2148
+2026/07/06-14:13:43.590 90bc Level-0 table #2154: started
+2026/07/06-14:13:43.670 90bc Level-0 table #2154: 1086689 bytes OK
+2026/07/06-14:13:43.778 90bc Delete type=0 #2152
+2026/07/06-14:13:43.779 90bc Manual compaction at level-0 from '!adventures!maCpM1BfhBY1Dwm9' @ 72057594037927935 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at '!adventures!z3GYI07psMjahmLe' @ 70 : 1
+2026/07/06-14:13:43.779 90bc Compacting 2@0 + 1@1 files
+2026/07/06-14:13:43.856 90bc Generated table #2155@0: 4 keys, 1086689 bytes
+2026/07/06-14:13:43.856 90bc Compacted 2@0 + 1@1 files => 1086689 bytes
+2026/07/06-14:13:43.910 90bc compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/06-14:13:43.910 90bc Delete type=2 #2005
+2026/07/06-14:13:43.910 90bc Delete type=2 #2149
+2026/07/06-14:13:43.910 90bc Delete type=2 #2154
+2026/07/06-14:13:43.911 90bc Manual compaction at level-0 from '!adventures!z3GYI07psMjahmLe' @ 70 : 1 .. '!adventures!z3GYI07psMjahmLe' @ 0 : 0; will stop at (end)
