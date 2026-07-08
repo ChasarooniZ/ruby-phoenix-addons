@@ -1,5 +1,17 @@
 ## To be Added
 
+- **New**
+  - Added the following maps
+    - `Kalnyx` - _Note. These require Kalnyx's fists of the ruby phoenix map remake_
+      - **Opera House Reprise** - Includes scene functionality to apply the Acoustics effect to anyone below the stage
+      - **Seven Dragons Bridge** - Includes fire and portal fx (Jb2a Patreon), embers and shaking on roar/stomp (FXMaster), civillian swarms (Swarms), and obstacles
+      - **Goka Docks - Razu** - Adds creatures + the fire floating down (FXMaster)
+
+## 1.3.1
+
+- **Updated**
+  - Fixed issue with `.gitignore` causing scenes to be improperly linked (🐛 @ShygGuy32)
+
 ## 1.3.0
 
 - Added level 17 variants of the `Lightkeepers` (🧠 @ShygGuy32)

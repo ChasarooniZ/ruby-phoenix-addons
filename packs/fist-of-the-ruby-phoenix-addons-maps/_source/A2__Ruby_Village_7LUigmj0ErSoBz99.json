@@ -3,7 +3,7 @@
 	"name": "A2. Ruby Village",
 	"_id": "7LUigmj0ErSoBz99",
 	"navigation": false,
-	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/thumb-pY5-5Yrqq3X9spi4FWaNRg.webp",
+	"thumb": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/thumb/thumb-pY5-5Yrqq3X9spi4FWaNRg.webp",
 	"width": 4000,
 	"height": 3000,
 	"padding": 0.25,
@@ -4930,6 +4930,6 @@
 	"active": false,
 	"navOrder": 0,
 	"sort": 0,
-	"_key": "!scenes!7LUigmj0ErSoBz99",
-	"templates": []
+	"templates": [],
+	"_key": "!scenes!7LUigmj0ErSoBz99"
 }
