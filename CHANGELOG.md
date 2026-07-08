@@ -9,7 +9,7 @@
       - **Seven Dragons Bridge** - Includes fire and portal fx (Jb2a Patreon), embers and shaking on roar/stomp (FXMaster), civillian swarms (Swarms), and obstacles
       - **Goka Docks - Razu** - Adds creatures + the fire floating down (FXMaster)
 - **Updated**
-  - Changed how packs are extracted such that they now expand out the adventure
+  - Changed how packs are extracted such that they now expand out the adventure (also fixed the bug where Scenes had no background)
 
 ## 1.3.2
 
