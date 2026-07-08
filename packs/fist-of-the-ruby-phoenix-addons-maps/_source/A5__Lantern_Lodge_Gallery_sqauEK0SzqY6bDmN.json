@@ -1,0 +1,226 @@
+{
+	"name": "A5. Lantern Lodge Gallery",
+	"_id": "sqauEK0SzqY6bDmN",
+	"navigation": false,
+	"navOrder": 0,
+	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/sqauEK0SzqY6bDmN-thumb.webp",
+	"width": 4000,
+	"height": 2000,
+	"padding": 0.25,
+	"initial": {
+		"x": 2140,
+		"y": 1016,
+		"scale": 0.613
+	},
+	"grid": {
+		"type": 0,
+		"size": 150,
+		"style": "solidLines",
+		"thickness": 1,
+		"color": "#000000",
+		"alpha": 0.2,
+		"distance": 5,
+		"units": "ft"
+	},
+	"tokenVision": false,
+	"fog": {
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		},
+		"mode": 1
+	},
+	"environment": {
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"enabled": false,
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"luminosity": 0,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"cycle": true,
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"drawings": [],
+	"tokens": [],
+	"lights": [],
+	"notes": [
+		{
+			"entryId": "KGo0miRPMsFQ6wrF",
+			"pageId": "FK87adR8DO72s3wb",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"global": true,
+			"x": 2900,
+			"y": 1068,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 40,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/book.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"alphaThreshold": 0
+			},
+			"text": "A5. Lantern Lodge Gallery",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "wreZuESy41Df3IFH",
+			"author": null,
+			"levels": [],
+			"locked": false,
+			"_key": "!scenes.notes!sqauEK0SzqY6bDmN.wreZuESy41Df3IFH"
+		}
+	],
+	"sounds": [],
+	"regions": [],
+	"tiles": [],
+	"walls": [],
+	"playlist": null,
+	"playlistSound": null,
+	"journal": null,
+	"journalEntryPage": null,
+	"weather": "",
+	"folder": "0mTw3XUT46MfpqFg",
+	"ownership": {
+		"default": 0,
+		"vj8VUT8j7Wtzy3Y2": 3
+	},
+	"flags": {
+		"multi-token-edit": {
+			"blackBars": false
+		},
+		"pf2e": {
+			"rulesBasedVision": null,
+			"hearingRange": null,
+			"environmentTypes": [],
+			"syncDarkness": "default"
+		},
+		"fxmaster": {
+			"parameterRangeMigrationVersion": 1
+		},
+		"calendaria": {
+			"darknessSync": "default",
+			"brightnessMultiplier": 1,
+			"darknessWeatherSync": "default",
+			"darknessMoonSync": "default",
+			"ambienceSync": "default",
+			"colorShiftSync": "default",
+			"climateZoneOverride": "",
+			"weatherFxOverride": "inherit",
+			"fxmasterTopDownOverride": "default",
+			"fxmasterSplashOverride": "default",
+			"weatherSoundDisabled": false,
+			"weatherFxLevels": [],
+			"hudHideForPlayers": false
+		},
+		"pf2e-hud": {
+			"visible": [
+				"persistent",
+				"token",
+				"tooltip",
+				"tracker"
+			]
+		}
+	},
+	"_stats": {
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": 1783534749202,
+		"modifiedTime": 1783534749202,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null,
+		"compendiumSource": null,
+		"duplicateSource": null
+	},
+	"navName": "",
+	"levels": [
+		{
+			"_id": "defaultLevel0000",
+			"name": "A5. Lantern Lodge Gallery",
+			"background": {
+				"color": "#000000",
+				"src": "modules/fist-of-the-ruby-phoenix-addons/assets/maps/Chasarooni/goka-lodge-gallery.webp",
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"elevation": {
+				"bottom": 0,
+				"top": 20
+			},
+			"foreground": {
+				"src": null,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"fog": {
+				"src": null
+			},
+			"textures": {
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "fill",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0
+			},
+			"visibility": {
+				"levels": []
+			},
+			"sort": 0,
+			"flags": {},
+			"_key": "!scenes.levels!sqauEK0SzqY6bDmN.defaultLevel0000"
+		}
+	],
+	"shiftX": 0,
+	"shiftY": 0,
+	"initialLevel": "defaultLevel0000",
+	"transition": {
+		"type": null,
+		"duration": 1500,
+		"activeOnly": false
+	},
+	"active": false,
+	"sort": 100000,
+	"templates": [],
+	"_key": "!scenes!sqauEK0SzqY6bDmN"
+}

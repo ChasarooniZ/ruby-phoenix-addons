@@ -1,0 +1,2166 @@
+{
+	"_id": "mrtcKbtRr3SGI35P",
+	"folder": "6qB3dmbuhRvsYUJT",
+	"img": "modules/pf2e-tokens-monster-core/assets/portraits/giant-shadow.webp",
+	"items": [
+		{
+			"_id": "OtJU2gZn5IoFtPJY",
+			"img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+			"name": "Innate Primal Spells",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"ability": {
+					"value": "cha"
+				},
+				"spelldc": {
+					"value": 29,
+					"dc": 37,
+					"mod": 0
+				},
+				"tradition": {
+					"value": "primal"
+				},
+				"prepared": {
+					"value": "innate"
+				},
+				"showSlotlessLevels": {
+					"value": false
+				},
+				"proficiency": {
+					"value": 0
+				},
+				"slots": {
+					"slot0": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot1": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot2": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot3": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot4": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot5": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot6": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot7": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot8": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot9": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot10": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot11": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					}
+				},
+				"autoHeightenLevel": {
+					"value": null
+				}
+			},
+			"type": "spellcastingEntry",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "SyIAVb96dI5E8iwM",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.rxvS7EMJ7qmexAyA",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "icons/creatures/mammals/bat-giant-tattered-purple.webp",
+			"name": "Umbral Journey",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You move partially into the Netherworld, using its warped nature to speed your travels. Each hour, you cover roughly as much ground as you normally would in 3 days. The landmarks are vague and symbolic rather than concrete, leaving you within a mile of your intended destination when you Dismiss the spell or its duration ends.</p>"
+				},
+				"rules": [],
+				"slug": "umbral-journey",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"manipulate",
+						"shadow",
+						"teleportation"
+					],
+					"rarity": "uncommon",
+					"traditions": [
+						"arcane",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 5
+				},
+				"requirements": "",
+				"target": {
+					"value": "you and up to 10 willing creatures touched"
+				},
+				"range": {
+					"value": "touch"
+				},
+				"area": null,
+				"time": {
+					"value": "1 minute"
+				},
+				"duration": {
+					"value": "8 hours",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY",
+					"heightenedLevel": 5
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "usuiDSVV3x9uoBy5",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.IihxWhRfpsBgQ5jS",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/spells/enthrall.webp",
+			"name": "Enthrall (At Will)",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Your words fascinate your targets. You speak or sing without interruption throughout the casting and duration. Targets who notice your speech or song might give their undivided attention; each target must attempt a Will save. The GM might grant a circumstance bonus (to a maximum of +4) if the target is of an opposing religion, ancestry, or political leaning, or is otherwise unlikely to agree with what you're saying.</p>\n<p>Each creature that comes within range has to attempt a save when you Sustain the spell. If you're speaking, enthrall gains the linguistic trait.</p>\n<hr>\n<p><strong>Critical Success</strong> The target is unaffected and notices that you tried to use magic.</p>\n<p><strong>Success</strong> The target needn't pay attention but doesn't notice you tried to use magic (it might notice others are enthralled).</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated} with you. It can attempt another Will save if it witnesses actions or speech with which it disagrees. If it succeeds, it's no longer fascinated and is temporarily immune for 1 hour. If the target is subject to a hostile act, or if another creature succeeds at a Diplomacy or Intimidation check against it, the fascination ends immediately.</p>\n<p><strong>Critical Failure</strong> As failure, but the target can't attempt a save to end the fascination if it disagrees with you.</p>"
+				},
+				"rules": [],
+				"slug": "enthrall",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"auditory",
+						"concentrate",
+						"emotion",
+						"manipulate"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 3
+				},
+				"requirements": "",
+				"target": {
+					"value": "all creatures in range"
+				},
+				"range": {
+					"value": "120 feet"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "",
+					"sustained": true
+				},
+				"damage": {},
+				"defense": {
+					"save": {
+						"basic": false,
+						"statistic": "will"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY",
+					"heightenedLevel": 3
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "YWZGZxpXZGukdAKj",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.4GE2ZdODgIQtg51c",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/spells/darkness.webp",
+			"name": "Darkness",
+			"sort": 400000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You create a shroud of darkness that prevents light from penetrating or emanating within the area. Light does not enter the area and any non-magical light sources, such as a torch or lantern, do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. This also suppresses magical light of your darkness spell's rank or lower. Light can't pass through, so creatures in the area can't see outside. From outside, it appears as a globe of pure darkness.</p>\n<hr>\n<p><strong>Heightened (4th)</strong> Even creatures with darkvision (but not greater darkvision) can barely see through the darkness. They treat targets seen through the darkness as @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}.</p>"
+				},
+				"rules": [],
+				"slug": "darkness",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"darkness",
+						"manipulate"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"divine",
+						"occult",
+						"primal"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 2
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": "120 feet"
+				},
+				"area": {
+					"type": "burst",
+					"value": 20
+				},
+				"time": {
+					"value": "3"
+				},
+				"duration": {
+					"value": "1 minute",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY",
+					"heightenedLevel": 4
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "WGkN0vnllWzvYp12",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "icons/creatures/magical/construct-stone-earth-gray.webp",
+			"name": "Invisibility",
+			"sort": 500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Illusions bend light around the target, rendering it @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible}. This makes it @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} to all creatures, though the creatures can attempt to find the target, making it @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} to them instead. If the target uses a hostile action, the spell ends after that hostile action is completed.</p>\n<hr>\n<p><strong>Heightened (4th)</strong> The spell lasts 1 minute, but it doesn't end if the target uses a hostile action.</p>"
+				},
+				"rules": [],
+				"slug": "invisibility",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"illusion",
+						"manipulate",
+						"subtle"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 2
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 creature"
+				},
+				"range": {
+					"value": "touch"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "10 minutes",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY",
+					"heightenedLevel": 2
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "JZV7R1ACaWmxZ6MS",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/spells/charm.webp",
+			"name": "Charm",
+			"sort": 700000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>To the target, your words are honey and your visage seems bathed in a dreamy haze. It must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.</p>\n<p>You can Dismiss the spell. If you use hostile actions against the target, the spell ends. When the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, meaning you could potentially convince the target to continue being your friend via mundane means.</p>\n<hr>\n<p><strong>Critical Success</strong> The target is unaffected and aware you tried to charm it.</p>\n<p><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of charm, unless it identifies the spell.</p>\n<p><strong>Failure</strong> The target's attitude becomes @UUID[Compendium.pf2e.conditionitems.Item.v66R7FdOf11l94im]{Friendly} toward you. If it was Friendly, it becomes @UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{Helpful}. It can't use hostile actions against you.</p>\n<p><strong>Critical Failure</strong> The target's attitude becomes Helpful toward you, and it can't use hostile actions against you.</p>\n<hr>\n<p><strong>Heightened (4th)</strong> The duration lasts until the next time you make your daily preparations.</p>\n<p><strong>Heightened (8th)</strong> The duration lasts until the next time you make your daily preparations, and you can target up to 10 creatures.</p>"
+				},
+				"rules": [],
+				"slug": "charm",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"emotion",
+						"incapacitation",
+						"manipulate",
+						"mental",
+						"subtle"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"occult",
+						"primal"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 creature"
+				},
+				"range": {
+					"value": "30 feet"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "1 hour",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": {
+					"save": {
+						"basic": false,
+						"statistic": "will"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY",
+					"heightenedLevel": 8
+				},
+				"counteraction": false,
+				"heightening": {
+					"levels": {
+						"8": {
+							"target": {
+								"value": "10 creatures"
+							}
+						}
+					},
+					"type": "fixed"
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "fDtCQzYvsrkD957G",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.vLA0q0WOK2YPuJs6",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/spells/charm.webp",
+			"name": "Charm",
+			"sort": 800000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>To the target, your words are honey and your visage seems bathed in a dreamy haze. It must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.</p>\n<p>You can Dismiss the spell. If you use hostile actions against the target, the spell ends. When the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, meaning you could potentially convince the target to continue being your friend via mundane means.</p>\n<hr>\n<p><strong>Critical Success</strong> The target is unaffected and aware you tried to charm it.</p>\n<p><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of charm, unless it identifies the spell.</p>\n<p><strong>Failure</strong> The target's attitude becomes @UUID[Compendium.pf2e.conditionitems.Item.v66R7FdOf11l94im]{Friendly} toward you. If it was Friendly, it becomes @UUID[Compendium.pf2e.conditionitems.Item.v44P3WUcU1j0115l]{Helpful}. It can't use hostile actions against you.</p>\n<p><strong>Critical Failure</strong> The target's attitude becomes Helpful toward you, and it can't use hostile actions against you.</p>\n<hr>\n<p><strong>Heightened (4th)</strong> The duration lasts until the next time you make your daily preparations.</p>\n<p><strong>Heightened (8th)</strong> The duration lasts until the next time you make your daily preparations, and you can target up to 10 creatures.</p>"
+				},
+				"rules": [],
+				"slug": "charm",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"emotion",
+						"incapacitation",
+						"manipulate",
+						"mental",
+						"subtle"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"occult",
+						"primal"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 creature"
+				},
+				"range": {
+					"value": "30 feet"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "1 hour",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": {
+					"save": {
+						"basic": false,
+						"statistic": "will"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY",
+					"heightenedLevel": 4,
+					"uses": {
+						"max": 3,
+						"value": 3
+					}
+				},
+				"counteraction": false,
+				"heightening": {
+					"levels": {
+						"8": {
+							"target": {
+								"value": "10 creatures"
+							}
+						}
+					},
+					"type": "fixed"
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Ie2JSZTEredm8cFp",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.aIHY2DArKFweIrpf",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/spells/command.webp",
+			"name": "Command",
+			"sort": 900000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You shout a command that's hard to ignore. You can command the target to approach you, run away (as if it had the @UUID[Compendium.pf2e.conditionitems.Item.sDPxOjQ9kx2RZE8D]{Fleeing} condition), release what it's holding, drop @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}, or stand in place. It can't @UUID[Compendium.pf2e.actionspf2e.Item.A72nHGUtNXgY5Ey9]{Delay} or take any reactions until it has obeyed your command. The effects depend on the target's Will save.</p>\n<hr>\n<p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> For the first action on its next turn, the creature must use a single action to do as you command.</p>\n<p><strong>Critical Failure</strong> The target must use all its actions on its next turn to obey your command.</p>\n<hr>\n<p><strong>Heightened (5th)</strong> You can target up to 10 creatures.</p>"
+				},
+				"rules": [],
+				"slug": "command",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"auditory",
+						"concentrate",
+						"linguistic",
+						"manipulate",
+						"mental"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"divine",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 creature"
+				},
+				"range": {
+					"value": "30 feet"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "until the end of the target's next turn",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": {
+					"save": {
+						"basic": false,
+						"statistic": "will"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY",
+					"heightenedLevel": 5,
+					"uses": {
+						"max": 3,
+						"value": 3
+					}
+				},
+				"counteraction": false,
+				"heightening": {
+					"levels": {
+						"5": {
+							"target": {
+								"value": "10 creatures"
+							}
+						}
+					},
+					"type": "fixed"
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "h6USUobxRigSV3eO",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.vlnzTSsRmWeSkt9O",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/glaive.webp",
+			"name": "Glaive",
+			"sort": 1000000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This polearm consists of a long, single-edged blade on the end of a 7-foot pole. It is extremely effective at delivering lethal cuts at a distance.</p>"
+				},
+				"rules": [],
+				"slug": "glaive",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"deadly-d8",
+						"forceful",
+						"reach"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "glaive",
+				"bulk": {
+					"value": 2
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 1
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "lg",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					}
+				},
+				"usage": {
+					"value": "held-in-two-hands"
+				},
+				"category": "martial",
+				"group": "polearm",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d8",
+					"damageType": "slashing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "gcljpqMDwdVUkXXx",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "h6USUobxRigSV3eO"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Glaive",
+			"sort": 1100000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 32
+				},
+				"damageRolls": {
+					"fjon3umo64w7iwg56xx6": {
+						"damage": "3d8+14",
+						"damageType": "slashing",
+						"category": null
+					},
+					"xnbvwx43rk20zhadnf4r": {
+						"damage": "2d6",
+						"damageType": "sonic",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"deadly-2d8",
+						"forceful",
+						"magical",
+						"reach-15",
+						"unholy"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "AhJrobiPzK3mWtb7",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Fist",
+			"sort": 1200000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"shadow-touch"
+					]
+				},
+				"bonus": {
+					"value": 28
+				},
+				"damageRolls": {
+					"m0n5izb37hjeme7t1bpp": {
+						"damage": "3d8+14",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"magical",
+						"reach-10",
+						"unarmed",
+						"unholy"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "UjbKhGa4siYKxcmB",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Sonic Missile",
+			"sort": 1300000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 30
+				},
+				"damageRolls": {
+					"86f5eeou3tswes9e13l6": {
+						"damage": "3d10+11",
+						"damageType": "sonic",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": {
+					"increment": 60,
+					"max": null
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"selector": "{item|_id}-damage",
+						"text": "The target is @UUID[Compendium.pf2e.conditionitems.Item.9PR9y0bi4JPKnHPR]{Deafened} for 1 round",
+						"title": "{item|name}"
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [
+						"magical",
+						"sonic",
+						"unholy"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "mjbx9aspDwJsOtSZ",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.4Ho2xMPEC05aSxzr",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Greater Darkvision",
+			"sort": 1400000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "greater-darkvision",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "au8VDQ9FZKal5Uri",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Shadow Step",
+			"sort": 1500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p><strong>Requirements</strong> The shadow yai is in an area of dim light or darkness or is standing in the shadow of any Large or larger object</p>\n<hr>\n<p><strong>Effect</strong> The shadow yai instantly teleports to another location that's in dim light or darkness or to a space that's in the shadow of any Large or larger object within 60 feet.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"primal",
+						"shadow",
+						"teleportation"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "vZSCXVNxO71rPBjH",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.lR9R5Vld8Eu2Dha5",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Regeneration 15 (Deactivated by Acid or Fire)",
+			"sort": 1600000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"deathNote": true,
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"deactivatedBy": [
+							"acid",
+							"fire"
+						],
+						"key": "FastHealing",
+						"type": "regeneration",
+						"value": 15
+					}
+				],
+				"slug": "regeneration",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "RMVwXfUCVP5j7Qpq",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Attack of Opportunity",
+			"sort": 1700000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "attack-of-opportunity",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "WjYWTGRJ4kB1kSEm",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Change Shape",
+			"sort": 1800000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The shadow yai takes on the appearance of a @UUID[Compendium.pf2e.pathfinder-monster-core.Actor.JSKZryHwf0Ggq8KR]{Shadow Giant}. This doesn't change its Speed or Strike attack and damage.</p><hr><p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "change-shape",
+				"traits": {
+					"value": [
+						"concentrate",
+						"polymorph",
+						"primal"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "k5mVqRL1avS7ESAd",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Shadow Touch",
+			"sort": 1900000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>A shadow yai's touch harms their target's spiritual essence in addition to its body. A creature hit by the shadow yai's fist Strike must attempt a @Check[will|dc:36] save.</p>\n<hr>\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes @Damage[2d6[void]] damage.</p>\n<p><strong>Failure</strong> The creature becomes @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1} and takes @Damage[3d6[void]] damage. As long as the creature is drained as a result of this ability, it loses the ability to speak above a whisper. When the creature attempts to Cast a Spell with a verbal component, it must succeed at a flat check or the spell is disrupted. The DC of this flat check is equal to 5 plus the creature's drained value (for example, DC 7 if the creature is drained 2).</p>\n<p><strong>Critical Failure</strong> As failure, but the creature becomes @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2} and takes @Damage[6d6[void]] damage.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "lPzcDrjGDFbzuF2r",
+			"img": "icons/creatures/slimes/slime-movement-dripping-purple.webp",
+			"name": "Penumbral Disguise",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You wrap the target in shadows, granting it a +1 status bonus to Stealth checks to Hide while in dim light or darkness. In addition, the shadows mask the target's features. While the target is in dim light or darkness, other creatures must succeed at a @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} action against the spell's DC to discern details about its appearance. For example, without using Seek, other creatures can determine the target's general shape (such as humanoid), but they must Seek to determine the target's precise appearance. Creatures with darkvision can still see the target and its features normally. The target's normal appearance is revealed in bright light.</p><hr><p><strong>Heightened (4th)</strong> The status bonus is +2. Creatures with darkvision can no longer discern details about the target while the target is in dim light or darkness without Seeking, though creatures with greater darkvision can still determine these details.</p>\n<p><strong>Heightened (6th)</strong> As 4th rank, except the status bonus is +3, and creatures without darkvision can't determine even general details about the target while the target is in dim light or darkness unless they successfully Seek the target; these creatures see a vague shadow instead. Even on a successful Seek, they only determine general features, though they can see details on a critical success.</p>\n<p><strong>Heightened (8th)</strong> As 6th rank, except the status bonus is +4, and even creatures with greater darkvision must Seek to discern details about the target while the target is in dim light or darkness.</p>"
+				},
+				"rules": [],
+				"slug": "penumbral-disguise",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"darkness",
+						"manipulate",
+						"shadow"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Lost Omens Divine Mysteries",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 2
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 willing creature"
+				},
+				"range": {
+					"value": "touch"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "10 minutes",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY",
+					"heightenedLevel": 8
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.QZ7OHptO1xnwaruq",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"sort": 0,
+			"flags": {},
+			"_id": "cIsoIS0qaMbdFs8L",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "xqlqJ6eeiNtWb7bq",
+			"img": "icons/creatures/abilities/mouth-teeth-rows-needles-purple.webp",
+			"name": "Shadow Raid",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You spin illusions of flying shadows throughout the area. The shadows strike and cavort, harming your foes and blocking their vision with twisting shadow. Enemies in the area when you Cast the Spell take 6d8 bludgeoning, piercing, or slashing damage, with a @Check[reflex|basic|traits:illusion] or @Check[will|basic|traits:illusion] save, as shadows explode into being. You choose the damage type when you Cast the Spell, and each creature chooses the type of save it attempts before it rolls the save. The shadows then persist in the area for 1 minute, dealing [[/r 3d8]] damage of the type you chose to any enemy that ends its turn in the area. All creatures are @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} to enemies in the area, as the illusory shadows swarm over them and block light.</p>\n<p>A creature that spends an action to Seek or otherwise interact with the shadow raid can attempt a Perception check to disbelieve it. On a success, the creature halves the damage it takes from the shadows, and the shadows no longer impede its vision. These benefits last until the spell ends.</p><hr><p><strong>Heightened (9th)</strong> The initial damage increases by 2d8, and the damage to a creature that ends its turn in the area increases by 1d8 ([[/r 4d8]]).</p>"
+				},
+				"rules": [],
+				"slug": "shadow-raid",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"illusion",
+						"manipulate",
+						"shadow"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Secrets of Magic",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 7
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": "120 feet"
+				},
+				"area": {
+					"type": "burst",
+					"value": 30
+				},
+				"time": {
+					"value": "3"
+				},
+				"duration": {
+					"value": "1 minute",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "6d8",
+						"kinds": [
+							"damage"
+						],
+						"type": "bludgeoning"
+					}
+				},
+				"defense": {
+					"save": {
+						"basic": true,
+						"statistic": "reflex"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY"
+				},
+				"counteraction": false,
+				"heightening": {
+					"levels": {
+						"9": {
+							"damage": {
+								"0": {
+									"applyMod": false,
+									"category": null,
+									"formula": "8d8",
+									"type": "bludgeoning"
+								}
+							}
+						}
+					},
+					"type": "fixed"
+				}
+			},
+			"type": "spell",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.VTb0yI6P1bLkzuRr",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"sort": 0,
+			"flags": {},
+			"_id": "NdIKvQnzvJNy8i64",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "iDjm2cXyRAe4VZ35",
+			"img": "icons/magic/unholy/beam-impact-purple.webp",
+			"name": "Shadow Blast",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Area</strong> varies</p>\n<p><strong>Defense</strong> @Check[reflex|basic|options:area-effect] or @Check[will|basic|options:area-effect] (target's choice)</p><hr><p>You shape the shadow substance of the Netherworld into a blast. Choose @Damage[(@item.rank+1)d8[acid]|options:area-damage], @Damage[(@item.rank+1)d8[bludgeoning]|options:area-damage], @Damage[(@item.rank+1)d8[cold]|options:area-damage], @Damage[(@item.rank+1)d8[electricity]|options:area-damage], @Damage[(@item.rank+1)d8[fire]|options:area-damage], @Damage[(@item.rank+1)d8[force]|options:area-damage], @Damage[(@item.rank+1)d8[piercing]|options:area-damage], @Damage[(@item.rank+1)d8[slashing]|options:area-damage], @Damage[(@item.rank+1)d8[sonic]|options:area-damage], or @Damage[(@item.rank+1)d8[spirit]|options:area-damage] damage, and choose a @Template[cone|distance:30], a @Template[burst|distance:15] within 120 feet, or a @Template[line|distance:50]. The blast deals 6d8 damage of the type you chose to each creature in the area.</p><hr><p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>"
+				},
+				"rules": [],
+				"slug": "shadow-blast",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"manipulate",
+						"shadow"
+					],
+					"rarity": "common",
+					"traditions": [
+						"divine",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 5
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": "varies"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "OtJU2gZn5IoFtPJY",
+					"heightenedLevel": 7,
+					"uses": {
+						"max": 2,
+						"value": 2
+					}
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.IqJ9URobmJ9L9UBG",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"sort": 0,
+			"flags": {},
+			"_id": "b5UH2T5fseC0q91C",
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Shadow Yai",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 290,
+				"temp": 0,
+				"max": 290,
+				"details": "regeneration 15 (deactivated by acid or fire)"
+			},
+			"ac": {
+				"value": 39,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 40,
+				"otherSpeeds": [
+					{
+						"type": "fly",
+						"value": 40
+					}
+				],
+				"details": "Shadow Step"
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"common",
+					"jotun"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 16
+			},
+			"blurb": "",
+			"publicNotes": "<p>Oni who assume the form of shadow giants are known as shadow yais. Many shadow yais crave the pleasures of music and go to great lengths to secure bardic or musically inclined supplicants. Smaller beings who refuse to submit to a shadow yai are subject to painful, drawn out, and strangely beautiful deaths, for a shadow yai has a special way of evoking melodic cries and screams from their victims: a veritable symphony of pain. Individuals of particular musical skill who accompany a shadow yai can find the experience extremely lucrative and enriching-as long as they don't run afoul of their liege.</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {
+			"focus": {
+				"max": 1,
+				"value": 1
+			}
+		},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 8
+			},
+			"dex": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 6
+			},
+			"wis": {
+				"mod": 6
+			},
+			"cha": {
+				"mod": 9
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 28,
+			"senses": [
+				{
+					"type": "greater-darkvision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 25,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 28,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 26,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 28,
+				"special": []
+			},
+			"arcana": {
+				"base": 30,
+				"special": []
+			},
+			"athletics": {
+				"base": 30,
+				"special": []
+			},
+			"deception": {
+				"base": 35,
+				"special": []
+			},
+			"intimidation": {
+				"base": 31,
+				"special": []
+			},
+			"performance": {
+				"base": 35,
+				"special": []
+			},
+			"stealth": {
+				"base": 30,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"chaotic",
+				"evil",
+				"fiend",
+				"giant",
+				"humanoid",
+				"oni",
+				"shadow",
+				"unholy"
+			],
+			"rarity": "common",
+			"size": {
+				"value": "lg"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.cg1kQPO3FBSCFDVt",
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Shadow Yai",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 2,
+		"height": 2,
+		"texture": {
+			"src": "modules/pf2e-tokens-monster-core/assets/tokens/giant-shadow.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 3,
+			"scaleY": 3,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": "resources.heroPoints"
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 3,
+				"texture": "modules/pf2e-tokens-monster-core/assets/subjects/giant-shadow.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			},
+			"barbrawl": {
+				"resourceBars": {
+					"bar1": {
+						"order": 0,
+						"id": "bar1",
+						"attribute": "attributes.hp",
+						"mincolor": "#FF0000",
+						"maxcolor": "#80FF00",
+						"otherVisibility": 30,
+						"ownerVisibility": 30,
+						"gmVisibility": -1,
+						"hideFull": true,
+						"hideEmpty": false,
+						"hideCombat": false,
+						"hideNoCombat": false,
+						"hideHud": false,
+						"position": "left-outer",
+						"shareHeight": false,
+						"indentLeft": null,
+						"indentRight": null,
+						"style": "none",
+						"label": "",
+						"invert": false,
+						"subdivisions": 5,
+						"subdivisionsOwner": false,
+						"invertDirection": false,
+						"fgImage": "",
+						"bgImage": "",
+						"hideBg": false,
+						"opacity": null
+					},
+					"bar2": {
+						"order": 1,
+						"id": "bar2",
+						"attribute": "resources.heroPoints",
+						"mincolor": "#000080",
+						"maxcolor": "#80B3FF",
+						"otherVisibility": 0,
+						"ownerVisibility": 35,
+						"gmVisibility": -1,
+						"hideFull": false,
+						"hideEmpty": false,
+						"hideCombat": false,
+						"hideNoCombat": false,
+						"hideHud": false,
+						"position": "bottom-inner",
+						"shareHeight": false,
+						"indentLeft": 60,
+						"indentRight": null,
+						"style": "none",
+						"label": "",
+						"invert": false,
+						"subdivisions": null,
+						"subdivisionsOwner": false,
+						"invertDirection": true,
+						"fgImage": "pics/icons/UI/stars-left-right.webp",
+						"bgImage": "",
+						"hideBg": false,
+						"opacity": null
+					}
+				}
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 2
+	},
+	"sort": 500000,
+	"flags": {
+		"pf2e": {
+			"maxhealingRank": 0
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

@@ -1,0 +1,1455 @@
+{
+	"_id": "Ol2xNe51H1fcDCbw",
+	"folder": "6qB3dmbuhRvsYUJT",
+	"img": "modules/pf2e-tokens-bestiaries/portraits/planar/energy/sceaduinar.webp",
+	"items": [
+		{
+			"_id": "CsZGpbZYWRFO31In",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Beak",
+			"sort": 100000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"improved-grab"
+					]
+				},
+				"bonus": {
+					"value": 34
+				},
+				"damageRolls": {
+					"so4dol75b963739wu19z": {
+						"damage": "3d12+20",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"reach-25",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Cu7ROCjHqfXcefHy",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Claw",
+			"sort": 200000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"improved-push"
+					]
+				},
+				"bonus": {
+					"value": 34
+				},
+				"damageRolls": {
+					"7kizj02nz5eu8rlmzor4": {
+						"damage": "3d8+20",
+						"damageType": "slashing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"reach-30",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "d1YMQp83OPxBefTy",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Cloak",
+			"sort": 300000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"pull"
+					]
+				},
+				"bonus": {
+					"value": 34
+				},
+				"damageRolls": {
+					"khkv14atg8t6g1rvcft8": {
+						"damage": "3d8+20",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"reach-40"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "m6LFXNP2aqgIKIJB",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.4Ho2xMPEC05aSxzr",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Greater Darkvision",
+			"sort": 400000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "greater-darkvision",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "fIjg6Pf4ymvNYM4Y",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Eat Portal",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p><strong>Requirements</strong> The portal eater's beak is not grabbing a creature</p>\n<p><strong>Trigger</strong> A creature teleports or is summoned within 50 feet of the portal eater</p>\n<hr>\n<p><strong>Effect</strong> The portal eater attempts to eat the portal. It makes a counteract check against the effect (counteract modifier +33, counteract rank 9th). If the effect is counteracted, the creature arrives in the portal eater's beak and the portal eater @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr]{Grabs} it.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"occult"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "SFzcBQfEh3crg3Of",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Enormous",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>A portal eater is a massive creature and takes up a space of 10 squares by 10 squares (50 feet by 50 feet).</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "jaLM8HqylBKfaUIZ",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.kquBnQ0kObZztnBc",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "+1 Status to All Saves vs. Magic",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "ORC",
+					"remaster": true,
+					"title": "Pathfinder Monster Core",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"item:magical"
+						],
+						"selector": "saving-throw",
+						"type": "status",
+						"value": 1
+					}
+				],
+				"slug": "1-status-to-all-saves-vs-magic",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "bg3KyoKWKOPLTmOy",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Pull 20ft",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>20 feet</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "pull",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Q3P4o3w6fiG3YWe5",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Reflect Spell",
+			"sort": 900000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> A creature Casts a Spell that targets the portal eater</p>\n<hr>\n<p><strong>Effect</strong> The portal eater attempts to counteract the spell (counteract modifier +32, counteract rank 9th). If the spell is counteracted, it targets the caster instead.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"occult"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Lpp6SrBxyA8cOgeJ",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.uJSseLa57HZYSMUu",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Swallow Whole",
+			"sort": 1000000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Gargantuan, @Damage[(17d6+8)[force]] damage, Rupture 33</p>\n<hr>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "swallow-whole",
+				"traits": {
+					"value": [
+						"attack"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "FzHLjs4ilmapsHFn",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Unfurl Realities",
+			"sort": 1100000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The portal eater unfurls its crystalline cloak of stolen realities, releasing a wave of cosmic energy and casting @UUID[Compendium.pf2e.spells-srd.Item.d6o52BnjViNz7Gub]{Prismatic Spray} (DC 39) in a @Template[emanation|distance:60]. The portal eater can't Unfurl Realities again for [[/gmr 1d4 #Recharge Unfurl Realities]]{1d4 rounds}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"light",
+						"occult"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "BEC7b4KVg6KmIqey",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/FreeAction.webp",
+			"name": "Improved Grab",
+			"sort": 1200000,
+			"system": {
+				"actionType": {
+					"value": "free"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "improved-grab",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "UfBUHsR1Q2mPcIZH",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.6l7e7CHQLESlI57U",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/FreeAction.webp",
+			"name": "Improved Push 20ft",
+			"sort": 1300000,
+			"system": {
+				"actionType": {
+					"value": "free"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "improved-push",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/shields/specific-shields/reflecting-shield.webp",
+			"name": "Reflecting Shield",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This high-grade silver buckler (Hardness 6, HP 24, BT 12) is polished to a mirrorlike sheen. The shield functions as a @UUID[Compendium.pf2e.equipment-srd.Item.OqDAx4HJ39ojVtvg]{Spellguard Shield} that can also reflect spells.</p>\n<p><strong>Activate—Reflect Spell</strong> <span class=\"action-glyph\">R</span> (concentrate)</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You're targeted by a spell</p>\n<p><strong>Requirements</strong> The <em>reflecting shield</em> is raised</p><hr><p><strong>Effect</strong> You attempt to reflect the spell on its caster. The shield attempts to counteract the spell, with a counteract rank of 9th and a counteract modifier of [[/r 1d20+30 #Counteract]]{+30}. If the spell is successfully counteracted, it's turned back on its caster</p><hr><p><strong>Craft Requirements</strong> The initial raw materials must include at least 2,750 gp of silver.</p>"
+				},
+				"rules": [
+					{
+						"key": "RollOption",
+						"label": "PF2E.SpecificRule.Equipment.SpellguardShield.RollOptionLabel",
+						"option": "reflecting-shield",
+						"toggleable": true
+					},
+					{
+						"hideIfDisabled": true,
+						"key": "FlatModifier",
+						"predicate": [
+							"self:shield:raised",
+							"reflecting-shield",
+							"item:type:spell"
+						],
+						"selector": "saving-throw",
+						"type": "circumstance",
+						"value": 2
+					}
+				],
+				"slug": "reflecting-shield",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"magical"
+					],
+					"rarity": "uncommon",
+					"integrated": null
+				},
+				"publication": {
+					"title": "Pathfinder GM Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 18
+				},
+				"quantity": 1,
+				"baseItem": "buckler",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 24,
+					"max": 24
+				},
+				"hardness": 6,
+				"price": {
+					"value": {
+						"gp": 18000
+					}
+				},
+				"equipped": {
+					"carryType": "held",
+					"handsHeld": 1
+				},
+				"containerId": null,
+				"size": "grg",
+				"material": {
+					"type": "silver",
+					"grade": "high"
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "systems/pf2e/icons/equipment/shields/specific-shields/reflecting-shield.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					}
+				},
+				"acBonus": 1,
+				"grade": null,
+				"runes": {
+					"reinforcing": 0
+				},
+				"specific": {
+					"integrated": null,
+					"material": {
+						"grade": "high",
+						"type": "silver"
+					},
+					"runes": {
+						"reinforcing": 0
+					}
+				},
+				"speedPenalty": 0,
+				"subitems": []
+			},
+			"type": "shield",
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.La9qYc5NHsg423Jb",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "eIDuu0jTFIZiUvnL",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"type": "action",
+			"system": {
+				"description": {
+					"value": "<p>Granted by @UUID[Actor.Ol2xNe51H1fcDCbw.Item.eIDuu0jTFIZiUvnL]{Reflecting Shield}</p><p><strong>Activate—Reflect Spell</strong> <span class=\"action-glyph\">R</span> (concentrate)</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You're targeted by a spell</p>\n<p><strong>Requirements</strong> The <em>reflecting shield</em> is raised</p><hr><p><strong>Effect</strong> You attempt to reflect the spell on its caster. The shield attempts to counteract the spell, with a counteract rank of 9th and a counteract modifier of [[/r 1d20+30 #Counteract]]{+30}. If the spell is successfully counteracted, it's turned back on its caster</p><hr><p><strong>Craft Requirements</strong> The initial raw materials must include at least 2,750 gp of silver.</p>",
+					"gm": ""
+				},
+				"traits": {
+					"value": [
+						"activation",
+						"concentrate"
+					],
+					"otherTags": []
+				},
+				"actions": {
+					"value": null
+				},
+				"actionType": {
+					"value": "reaction"
+				},
+				"frequency": {
+					"max": 1,
+					"per": "day"
+				},
+				"slug": "activation-reflect-spell",
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.3.0"
+					}
+				},
+				"category": null
+			},
+			"name": "Activation: Reflect Spell",
+			"flags": {
+				"pf2e-item-activations": {
+					"grantedBy": {
+						"img": "systems/pf2e/icons/equipment/shields/specific-shields/reflecting-shield.webp",
+						"name": "Reflecting Shield",
+						"system": {
+							"description": {
+								"gm": "",
+								"value": "<p>This high-grade silver buckler (Hardness 6, HP 24, BT 12) is polished to a mirrorlike sheen. The shield functions as a @UUID[Compendium.pf2e.equipment-srd.Item.OqDAx4HJ39ojVtvg]{Spellguard Shield} that can also reflect spells.</p>\n<p><strong>Activate—Reflect Spell</strong> <span class=\"action-glyph\">R</span> (concentrate)</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You're targeted by a spell</p>\n<p><strong>Requirements</strong> The <em>reflecting shield</em> is raised</p><hr><p><strong>Effect</strong> You attempt to reflect the spell on its caster. The shield attempts to counteract the spell, with a counteract rank of 9th and a counteract modifier of [[/r 1d20+30 #Counteract]]{+30}. If the spell is successfully counteracted, it's turned back on its caster</p><hr><p><strong>Craft Requirements</strong> The initial raw materials must include at least 2,750 gp of silver.</p>"
+							},
+							"rules": [
+								{
+									"key": "RollOption",
+									"label": "PF2E.SpecificRule.Equipment.SpellguardShield.RollOptionLabel",
+									"option": "reflecting-shield",
+									"toggleable": true
+								},
+								{
+									"hideIfDisabled": true,
+									"key": "FlatModifier",
+									"predicate": [
+										"self:shield:raised",
+										"reflecting-shield",
+										"item:type:spell"
+									],
+									"selector": "saving-throw",
+									"type": "circumstance",
+									"value": 2
+								}
+							],
+							"slug": "reflecting-shield",
+							"_migration": {
+								"version": 0.959,
+								"lastMigration": null,
+								"previous": null
+							},
+							"traits": {
+								"otherTags": [],
+								"value": [
+									"magical"
+								],
+								"rarity": "uncommon",
+								"integrated": null
+							},
+							"publication": {
+								"title": "Pathfinder GM Core",
+								"authors": "",
+								"license": "ORC",
+								"remaster": true
+							},
+							"level": {
+								"value": 18
+							},
+							"quantity": 1,
+							"baseItem": "buckler",
+							"bulk": {
+								"value": 0.1
+							},
+							"hp": {
+								"value": 24,
+								"max": 24
+							},
+							"hardness": 6,
+							"price": {
+								"value": {
+									"gp": 18000
+								}
+							},
+							"equipped": {
+								"carryType": "worn"
+							},
+							"containerId": null,
+							"size": "grg",
+							"material": {
+								"type": "silver",
+								"grade": "high"
+							},
+							"identification": {
+								"status": "identified",
+								"unidentified": {
+									"name": "",
+									"img": "systems/pf2e/icons/equipment/shields/specific-shields/reflecting-shield.webp",
+									"data": {
+										"description": {
+											"value": ""
+										}
+									}
+								}
+							},
+							"acBonus": 1,
+							"grade": null,
+							"runes": {
+								"reinforcing": 0
+							},
+							"specific": {
+								"integrated": null,
+								"material": {
+									"grade": "high",
+									"type": "silver"
+								},
+								"runes": {
+									"reinforcing": 0
+								}
+							},
+							"speedPenalty": 0,
+							"subitems": []
+						},
+						"type": "shield",
+						"_stats": {
+							"coreVersion": "14.364",
+							"systemId": "pf2e",
+							"systemVersion": "8.3.0",
+							"compendiumSource": "Compendium.pf2e.equipment-srd.Item.La9qYc5NHsg423Jb",
+							"createdTime": 1783459328521,
+							"modifiedTime": 1783459328521,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"duplicateSource": null,
+							"exportSource": null
+						},
+						"effects": [],
+						"folder": null,
+						"sort": 0,
+						"ownership": {
+							"default": 0,
+							"vj8VUT8j7Wtzy3Y2": 3
+						},
+						"flags": {},
+						"_id": "eIDuu0jTFIZiUvnL"
+					},
+					"enabled": true
+				}
+			},
+			"effects": [],
+			"_id": "8izdBXvvIjN4d56y",
+			"folder": null,
+			"sort": 0,
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Portal Eater",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 420,
+				"temp": 0,
+				"max": 420,
+				"details": ""
+			},
+			"ac": {
+				"value": 42,
+				"details": ""
+			},
+			"allSaves": {
+				"value": "+1 Status to All Saves vs. Magic"
+			},
+			"speed": {
+				"value": 35,
+				"otherSpeeds": [
+					{
+						"type": "fly",
+						"value": 35
+					}
+				],
+				"details": ""
+			},
+			"resistances": [
+				{
+					"exceptions": [
+						"force",
+						"physical"
+					],
+					"type": "all-damage",
+					"value": 10
+				}
+			],
+			"weaknesses": [
+				{
+					"type": "force",
+					"value": 20
+				}
+			]
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"aklo"
+				],
+				"details": "telepathy 100 feet"
+			},
+			"level": {
+				"value": 18
+			},
+			"blurb": "Cosmic devourer of extradimensional energies",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 10
+			},
+			"dex": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 8
+			},
+			"int": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 6
+			},
+			"cha": {
+				"mod": 9
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 30,
+			"senses": [
+				{
+					"type": "greater-darkvision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 34,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 29,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 32,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"athletics": {
+				"base": 38,
+				"special": []
+			},
+			"intimidation": {
+				"base": 35,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"astral",
+				"chaotic",
+				"evil"
+			],
+			"rarity": "rare",
+			"size": {
+				"value": "grg"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.iQ1wsuosURrA6tUI",
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Portal Eater",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 4,
+		"height": 4,
+		"texture": {
+			"src": "modules/pf2e-tokens-bestiaries/tokens/planar/energy/sceaduinar.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": "resources.heroPoints"
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-bestiaries/subjects/planar/energy/sceaduinar.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			},
+			"barbrawl": {
+				"resourceBars": {
+					"bar1": {
+						"order": 0,
+						"id": "bar1",
+						"attribute": "attributes.hp",
+						"mincolor": "#FF0000",
+						"maxcolor": "#80FF00",
+						"otherVisibility": 30,
+						"ownerVisibility": 30,
+						"gmVisibility": -1,
+						"hideFull": true,
+						"hideEmpty": false,
+						"hideCombat": false,
+						"hideNoCombat": false,
+						"hideHud": false,
+						"position": "left-outer",
+						"shareHeight": false,
+						"indentLeft": null,
+						"indentRight": null,
+						"style": "none",
+						"label": "",
+						"invert": false,
+						"subdivisions": 5,
+						"subdivisionsOwner": false,
+						"invertDirection": false,
+						"fgImage": "",
+						"bgImage": "",
+						"hideBg": false,
+						"opacity": null
+					},
+					"bar2": {
+						"order": 1,
+						"id": "bar2",
+						"attribute": "resources.heroPoints",
+						"mincolor": "#000080",
+						"maxcolor": "#80B3FF",
+						"otherVisibility": 0,
+						"ownerVisibility": 35,
+						"gmVisibility": -1,
+						"hideFull": false,
+						"hideEmpty": false,
+						"hideCombat": false,
+						"hideNoCombat": false,
+						"hideHud": false,
+						"position": "bottom-inner",
+						"shareHeight": false,
+						"indentLeft": 60,
+						"indentRight": null,
+						"style": "none",
+						"label": "",
+						"invert": false,
+						"subdivisions": null,
+						"subdivisionsOwner": false,
+						"invertDirection": true,
+						"fgImage": "pics/icons/UI/stars-left-right.webp",
+						"bgImage": "",
+						"hideBg": false,
+						"opacity": null
+					}
+				}
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 4
+	},
+	"sort": 600000,
+	"flags": {},
+	"ownership": {
+		"default": 0
+	}
+}

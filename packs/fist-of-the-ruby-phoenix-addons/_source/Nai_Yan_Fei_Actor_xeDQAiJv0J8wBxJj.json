@@ -1,0 +1,1293 @@
+{
+	"prototypeToken": {
+		"displayName": 0,
+		"displayBars": 0,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"pf2e-rpg-numbers": {
+				"rotationOffset": 0,
+				"fireEmblemImg": "",
+				"personaImg": "",
+				"critOffsetX": 0,
+				"critOffsetY": 0,
+				"critScale": 100,
+				"critRotation": 0,
+				"critSFX": ""
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Nai Yan Fei",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/empress-nai-yan-fei.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": true,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/empress-nai-yan-fei.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"folder": "jR9cW9Fe3MMgqKBZ",
+	"img": "modules/pf2e-tokens-characters/assets/portraits/empress-nai-yan-fei.webp",
+	"items": [
+		{
+			"_id": "q9bEw6MxLjdqb8RQ",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.JuR0cug2xq4sWxHR",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/default-icons/weapon.svg",
+			"name": "Butterfly Sword",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This short, single-edged sword typically features a cross guard that helps catch oncoming attacks. It is the preferred weapon of Butterfly Blades-highly skilled Gokan assassins.</p>"
+				},
+				"rules": [],
+				"slug": "butterfly-sword",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"disarm",
+						"finesse",
+						"monk",
+						"parry",
+						"twin"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "Pathfinder #166: Despair on Danger Island",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "butterfly-sword",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "advanced",
+				"group": "sword",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "slashing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 3,
+					"striking": 3,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "YdVEiekS8A4oqtsT",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.dDIPA1WE9ESF67EB",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "icons/equipment/chest/shirt-collared-pink.webp",
+			"name": "Explorer's Clothing",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Adventurers who don't wear armor travel in durable clothing. Though it's not armor and uses your unarmored defense proficiency, it still has a Dex Cap and can grant an item bonus to AC if etched with potency runes.</p>"
+				},
+				"rules": [],
+				"slug": "explorers-clothing",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"comfort"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "explorers-clothing",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 1
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"handsHeld": 0,
+					"inSlot": true
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "unarmored",
+				"group": "cloth",
+				"acBonus": 0,
+				"strength": null,
+				"dexCap": 5,
+				"checkPenalty": 0,
+				"speedPenalty": 0,
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"resilient": 2,
+					"property": []
+				},
+				"subitems": []
+			},
+			"type": "armor",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "8AuQ37IrQ8nabrt2",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.WPSp5MLb0VOfmUqH",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "icons/equipment/head/hat-belted-grey.webp",
+			"name": "Hat of Disguise (Greater)",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This ordinary-looking hat allows you to cloak yourself in illusions.</p>\n<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> Interact</p>\n<p><strong>Frequency</strong> any number of times per day</p>\n<hr />\n<p><strong>Effect</strong> The hat casts a 2nd-rank @UUID[Compendium.pf2e.spells-srd.Item.i35dpZFI7jZcRoBo]{Illusory Disguise} spell on you. While setting up the disguise, you can magically alter the hat to appear as a comb, ribbon, helm, or other piece of headwear.</p>"
+				},
+				"rules": [],
+				"slug": "hat-of-disguise-greater",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"illusion",
+						"invested",
+						"magical"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 7
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 340
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"inSlot": false
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "wornheadwear"
+				},
+				"subitems": []
+			},
+			"type": "equipment",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "jbXgp798w9mkieaO",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "q9bEw6MxLjdqb8RQ"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Butterfly Sword",
+			"sort": 400000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 35
+				},
+				"damageRolls": {
+					"w12r1w4a5x86pxq3l35s": {
+						"damage": "4d4+13",
+						"damageType": "slashing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"disarm",
+						"finesse",
+						"magical",
+						"parry",
+						"twin"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Se53bpbLQVBavu5z",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Quick Change",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>Nai Yan Fei adopts a mundane disguise, appearing as a nondescript human with a neutral alignment and a mundane occupation such as common laborer, farmer, or peasant. She can return to her typical persona as empress at any time by using Quick Change again.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "AJWBrF8k93sPpCiT",
+			"img": "systems/pf2e/icons/actions/FreeAction.webp",
+			"name": "Debilitating Strike",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "free"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> Nai Yan Fei hits an off-guard creature and deals damage.</p>\n<hr />\n<p><strong>Effect</strong> Nai Yan Fei applies one of the following debilitations, which lasts until the end of her next turn.</p>\n<ul>\n<li><strong>Debilitation</strong> The target takes a -10-foot status penalty to its Speeds.</li>\n<li><strong>Debilitation</strong> The target becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1}.</li>\n<li><strong>Debilitation</strong> The target can't flank other creatures, and it can't provide flanking for its allies.</li>\n<li><strong>Debilitation</strong> The target doesn't gain a circumstance bonus to AC from Raising a Shield, lesser cover, or standard cover; it gains only a +2 circumstance bonus to AC from greater cover or Taking Cover.</li>\n</ul>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.yBTASi3FvnReAwHy]{Effect: Debilitating Strike}</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "NCYjm0t24Miq4JkP",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Master Strike",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> Nai Yan Fei hits an off-guard creature and deals damage.</p>\n<hr />\n<p><strong>Effect</strong> The target attempts a @Check[fortitude|dc:39] save. It then becomes immune to Nai Yan Fei's Master Strike for 1 day.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} until the end of Nai Yan Fei's next turn.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} for 4 rounds.</p>\n<p><strong>Critical Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} for 4 rounds, knocked @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} for 2 hours, or killed (Nai Yan Fei's choice).</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"incapacitation"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "AYUQ4VXbDByFiQNQ",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.AWvNPE4U0kEJSL1T",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Sneak Attack",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Nai Yan Fei's Strikes deal an additional 4d6 precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"category": "precision",
+						"diceNumber": 4,
+						"dieSize": "d6",
+						"key": "DamageDice",
+						"predicate": [
+							"target:condition:off-guard"
+						],
+						"selector": "strike-damage"
+					},
+					{
+						"domain": "all",
+						"key": "RollOption",
+						"label": "PF2E.SpecificRule.TOTMToggle.OffGuard",
+						"option": "target:condition:off-guard",
+						"toggleable": "totm"
+					}
+				],
+				"slug": "sneak-attack",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "VqlmcA8mbwRPwWPj",
+			"img": "systems/pf2e/icons/default-icons/lore.svg",
+			"name": "Goka Lore",
+			"sort": 900000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"mod": {
+					"value": 38
+				},
+				"proficient": {
+					"value": 0
+				}
+			},
+			"type": "lore",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "wohEWLl2eVsMhxnM",
+			"img": "systems/pf2e/icons/default-icons/lore.svg",
+			"name": "Legal Lore",
+			"sort": 1000000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"mod": {
+					"value": 38
+				},
+				"proficient": {
+					"value": 0
+				}
+			},
+			"type": "lore",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "NQj5efGU5Hd9oMP3",
+			"img": "systems/pf2e/icons/default-icons/lore.svg",
+			"name": "Underworld Lore",
+			"sort": 1100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"mod": {
+					"value": 36
+				},
+				"proficient": {
+					"value": 0
+				}
+			},
+			"type": "lore",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Nai Yan Fei",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 375,
+				"temp": 0,
+				"max": 375,
+				"details": ""
+			},
+			"ac": {
+				"value": 44,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 25,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"elven",
+					"empyrean",
+					"fey",
+					"orcish",
+					"taldane",
+					"tengu",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 20
+			},
+			"blurb": "Female Tian-Shu empress",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #166: Despair on Danger Island",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 7
+			},
+			"wis": {
+				"mod": 3
+			},
+			"cha": {
+				"mod": 5
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 36,
+			"senses": [],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 32,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 34,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 33,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 37
+			},
+			"arcana": {
+				"base": 36
+			},
+			"deception": {
+				"base": 36
+			},
+			"diplomacy": {
+				"base": 38
+			},
+			"intimidation": {
+				"base": 36
+			},
+			"occultism": {
+				"base": 38
+			},
+			"performance": {
+				"base": 36
+			},
+			"religion": {
+				"base": 32
+			},
+			"society": {
+				"base": 38
+			},
+			"stealth": {
+				"base": 35
+			},
+			"thievery": {
+				"base": 35
+			}
+		},
+		"traits": {
+			"value": [
+				"human",
+				"humanoid",
+				"lawful"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.HqN4nUnl75foBKLZ",
+		"duplicateSource": "Actor.ZOdxPWyy7IpXVA7q",
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1744003891975,
+		"modifiedTime": 1764619833714,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 0,
+	"flags": {
+		"scene-packer": {
+			"hash": "192bb3a9c55255e5c165f8645f26913aedffcaca"
+		},
+		"pf2e-rpg-numbers": {
+			"version": "13.2.2",
+			"critical": {
+				"success": {
+					"default": {
+						"enabled": "default",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1,
+						"art": "",
+						"type": "default"
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				},
+				"failure": {
+					"default": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				}
+			},
+			"token": {
+				"rotation": {
+					"offset": 0
+				}
+			}
+		},
+		"pf2e": {
+			"rollOptions": {
+				"all": {
+					"self:type:npc": true,
+					"self:signature:5f03e356-ef0d-5abd-af51-5e659cc3f981": true,
+					"self:creature": true,
+					"self:level:20": true,
+					"self:mode:living": true,
+					"self:trait:human": true,
+					"self:trait:humanoid": true,
+					"self:trait:lawful": true,
+					"self:armored": false,
+					"armor:id:YdVEiekS8A4oqtsT": true,
+					"armor:explorers-clothing": true,
+					"armor:slug:explorers-clothing": true,
+					"armor:trait:comfort": true,
+					"armor:trait:invested": true,
+					"armor:trait:magical": true,
+					"armor:rarity:common": true,
+					"armor:magical": true,
+					"armor:level:14": true,
+					"armor:equipped": true,
+					"armor:uninvested": true,
+					"armor:category:unarmored": true,
+					"armor:group:cloth": true,
+					"armor:base:explorers-clothing": true,
+					"armor:rune:potency": true,
+					"armor:rune:resilient": true,
+					"self:size:2": true,
+					"self:size:medium": true,
+					"hp-remaining:375": true,
+					"hp-percent:100": true,
+					"speed:land": true
+				}
+			},
+			"trackedItems": {},
+			"lootable": false
+		}
+	},
+	"_id": "xeDQAiJv0J8wBxJj",
+	"ownership": {
+		"default": 0
+	}
+}

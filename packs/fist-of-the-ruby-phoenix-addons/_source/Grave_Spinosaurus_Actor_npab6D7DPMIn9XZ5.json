@@ -1,0 +1,902 @@
+{
+	"prototypeToken": {
+		"displayName": 0,
+		"displayBars": 0,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"pf2e-rpg-numbers": {
+				"rotationOffset": 0,
+				"fireEmblemImg": "",
+				"personaImg": "",
+				"critOffsetX": 0,
+				"critOffsetY": 0,
+				"critScale": 100,
+				"critRotation": 0,
+				"critSFX": ""
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Grave Spinosaurus",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/tylosaurus.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1.5,
+			"scaleY": 1.5,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": true,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1.5,
+				"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/reptilian/tylosaurus.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"_id": "npab6D7DPMIn9XZ5",
+	"folder": "T4ZPL3NOFQwVF2SV",
+	"img": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/tylosaurus.webp",
+	"items": [
+		{
+			"_id": "mmb4NGB4HueXi8Ty",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Jaws",
+			"sort": 100000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"grab"
+					]
+				},
+				"bonus": {
+					"value": 30
+				},
+				"damageRolls": {
+					"0": {
+						"damage": "3d12+17",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"deadly-d12",
+						"reach-20",
+						"unarmed"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743458369053,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "fysusPtWaa25MvUW",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Claw",
+			"sort": 200000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 30
+				},
+				"damageRolls": {
+					"2codmgjcumql58xr5pfh": {
+						"damage": "4d8+12",
+						"damageType": "slashing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"reach-15",
+						"unarmed"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743458353214,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "oQcnbbUjvuJ6yIaK",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Deep Breath",
+			"sort": 300000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>The grave spinosaurus can hold its breath for 4 hours.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "8cfoPG54vboku84P",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Pouncing Pin",
+			"sort": 400000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The grave spinosaurus Strides and makes a Strike at the end of its movement. If the Strike hits, it deals damage as normal and the grave spinosaurus makes an Athletics check to @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} the target. This check counts toward the grave spinosaurus's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes the check.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "BYqZd7dW5USVQMnx",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Rip and Tear",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Requirements</strong> The grave spinosaurus has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} in its jaws</p>\n<hr />\n<p><strong>Effect</strong> The grave spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing @Damage[6d10[slashing]] damage (@Check[reflex|dc:36|basic] save) and @Damage[2d6[bleed]].</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "t0On0v7gyVoScNyY",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Staggering Sail",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Requirements</strong> The grave spinosaurus is swimming on the surface of water</p>\n<hr />\n<p><strong>Effect</strong> With a powerful lunge to the side, the grave spinosaurus uses its sail to slap the surface of the water, creating a crushing wave of water that deals @Damage[8d6[bludgeoning]] damage in a @Template[cone|distance:30]. Each creature in the water in the area must attempt a @Check[reflex|dc:36|traits:damaging-effect] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} until the end of its next turn.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 3}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"incapacitation"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "sW9lqWGbyXr7xeXh",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.uJSseLa57HZYSMUu",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743458381107,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Swallow Whole",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Medium,@Damage[(3d12+14)[bludgeoning]] damage, Rupture 36</p><hr /><p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "swallow-whole",
+				"traits": {
+					"value": [
+						"attack"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "yRTlpaC9IkrTE5xd",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Grab",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "grab",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Grave Spinosaurus",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 280,
+				"temp": 0,
+				"max": 280,
+				"details": ""
+			},
+			"ac": {
+				"value": 36,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 40,
+				"otherSpeeds": [
+					{
+						"type": "swim",
+						"value": 30
+					}
+				],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [],
+				"details": ""
+			},
+			"level": {
+				"value": 15
+			},
+			"blurb": "Variant spinosaurus",
+			"publicNotes": "<p>The spinosaurus is more than just one of the largest carnivorous dinosaurs-it's also one of the most unusual in appearance, with a large, sail-like fin running along its spine. Often quite colorful, this sail allows the spinosaurus to attract mates, aids in swimming, and makes it appear to be even larger than it actually is. A swimming spinosaurus can also use the sail as part of a unique means of staggering prey by slapping the water with it to make a crushing wave.</p>\n<p>The spinosaurus is equally at home in water as it is on land, and its long, toothy maw is well-adapted to catching swimming prey. Attempts by giants to capture spinosauruses to serve as guardians typically go poorly, for these headstrong dinosaurs do not domesticate well. Their surly attitudes and striking appearances make them better suited for bloodsports, and they are popular prizes for those who run arenas specializing in battles that pit gladiators against hungry animals or beasts. Of course, an angry dinosaur forced to fight for the amusement of others won't discriminate between potential meals on the battleground and ones seated in the surrounding stands.</p>\n<p>The spinosaurus's appearance and strength make it attractive to more than just giants and bloodsport organizers. Spellcasters who mutate and transform animals into magical guardians have long been intrigued by the spinosaurus's potential. More so than any other dinosaurs, spinosauruses have been subjected to fleshwarping procedures, crossbreeding with monsters, and other magical techniques to enhance the creatures' viability as effective guardians.</p>\n<p>A spinosaurus can measure up to 60 feet in length and weighs 25,000 pounds.</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #166: Despair on Danger Island",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 9
+			},
+			"dex": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 7
+			},
+			"int": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 3
+			},
+			"cha": {
+				"mod": 3
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 26,
+			"senses": [
+				{
+					"type": "low-light-vision"
+				},
+				{
+					"acuity": "imprecise",
+					"range": 30,
+					"type": "scent"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 28,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 26,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 24,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 26
+			},
+			"athletics": {
+				"base": 30,
+				"special": [
+					{
+						"base": 32,
+						"label": "to Swim",
+						"predicate": [
+							"action:swim"
+						]
+					}
+				]
+			}
+		},
+		"traits": {
+			"value": [
+				"animal",
+				"dinosaur"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "grg"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.T5KMiSE8W1R8ChbV",
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1743458312895,
+		"modifiedTime": 1764619837680,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 200000,
+	"flags": {
+		"scene-packer": {
+			"hash": "5c14c1421dc5cd46655728f59d88adaa56281156"
+		},
+		"pf2e-rpg-numbers": {
+			"version": "13.2.2",
+			"critical": {
+				"success": {
+					"default": {
+						"enabled": "default",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1,
+						"art": "",
+						"type": "default"
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				},
+				"failure": {
+					"default": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				}
+			},
+			"token": {
+				"rotation": {
+					"offset": 0
+				}
+			}
+		},
+		"pf2e": {
+			"rollOptions": {
+				"all": {
+					"self:type:npc": true,
+					"self:signature:5cee3e1d-d4bc-59c7-aca6-9315e58c6901": true,
+					"self:creature": true,
+					"self:level:15": true,
+					"self:mode:living": true,
+					"self:trait:animal": true,
+					"self:trait:dinosaur": true,
+					"self:armored": false,
+					"self:size:5": true,
+					"self:size:gargantuan": true,
+					"hp-remaining:280": true,
+					"hp-percent:100": true,
+					"speed:land": true,
+					"speed:swim": true
+				}
+			},
+			"trackedItems": {},
+			"lootable": false
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

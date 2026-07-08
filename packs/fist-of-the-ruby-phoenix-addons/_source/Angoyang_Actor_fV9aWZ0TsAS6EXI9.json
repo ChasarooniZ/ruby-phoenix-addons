@@ -1,0 +1,716 @@
+{
+	"prototypeToken": {
+		"displayName": 30,
+		"displayBars": 20,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"Rideable": {
+				"issetRideableFlag": true,
+				"MaxRiderFlag": null,
+				"CustomRidingheightFlag": null,
+				"UseRidingHeightFlag": true,
+				"RidersScaleFlag": 1,
+				"RiderPositioningFlag": "RowPlacement",
+				"RiderOffsetFlag": [
+					0,
+					0
+				],
+				"TokenFormFlag": "TokenFormCircle",
+				"InsideMovementFlag": false,
+				"SpawnRidersFlag": "",
+				"WorldMEffectOverrideFlag": false,
+				"MountingEffectsFlag": "",
+				"SelfApplyEffectsFlag": false,
+				"forMountEffectsFlag": "",
+				"CanbePilotedFlag": false,
+				"CheckPilotedCollisionFlag": false,
+				"PilotedbyDefaultFlag": false
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Angoyang",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-myth-and-magic/assets/tokens/pzo2110_cat-ogran.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-myth-and-magic/assets/subjects/pzo2110_cat-ogran.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"_id": "fV9aWZ0TsAS6EXI9",
+	"folder": "53fRuUM3qlBdODgI",
+	"img": "modules/pf2e-tokens-myth-and-magic/assets/portraits/pzo2110_cat-ogran.webp",
+	"items": [
+		{
+			"_id": "yP8N5ydP57ekFb7f",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Claw",
+			"sort": 100000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 27
+				},
+				"damageRolls": {
+					"5ajdftwq0cv5vmfy7y9m": {
+						"damage": "3d10+12",
+						"damageType": "slashing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"finesse",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "AwiLNjzdtPNHA9wi",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Tentacles",
+			"sort": 200000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"grab"
+					]
+				},
+				"bonus": {
+					"value": 27
+				},
+				"damageRolls": {
+					"7jnrjdv4i7v0i0rro85f": {
+						"damage": "3d12+15",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"finesse",
+						"reach-10"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "W1semZZ6YLbQVux4",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Dander Scent (Imprecise) 1 mile",
+			"sort": 300000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>The angoyang can imprecisely sense the location of any creature within 1 mile that has previously come in contact with the angoyang's fur.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "70itZreZrqVqgHoE",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "I Am A Cat",
+			"sort": 400000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>The angoyang has an automatic result of 47 to Deception checks and DCs to appear as a cat.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "XCvOLwCs66IDTOcI",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Silent Yowl",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The angoyang opens its mouth and drops its innocent disguise, releasing its monstrous tentacles and letting out a blood-curdling scream directed at a single target that it can see to deal @Damage[10d10[mental]] damage. Only the target of this ability can hear this scream. The target must succeed at a @Check[will|dc:30|traits:damaging-effect] save as the sound tears through their mind.</p><hr><p><strong>Critical Success</strong> The target takes no damage and is immune to Silent Yowl for 24 hours.</p><p><strong>Success</strong> The target takes half damage.</p><p><strong>Failure</strong> The target takes full damage and is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p><p><strong>Critical Failure</strong> The target takes double damage and is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 3}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"auditory",
+						"fear",
+						"illusion",
+						"mental",
+						"occult"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "6lO7VYF4S01H8jkg",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Slow Blink",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The angoyang lets out a small meow and slowly blinks twice at a single creature. The target must attempt a @Check[will|dc:31] save. On a critical success, the target is unaffected and immune to Slow Blink for 24 hours. Otherwise, the creature is overcome with the urge to pet the angoyang's silken fur, becoming @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated}. If the angoyang attacks the creature, the creature can attempt a new save at the beginning of their next turn.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"incapacitation",
+						"mental",
+						"occult",
+						"visual"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "xww7BTfRyYB162Kg",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Grab",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "grab",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Angoyang",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 250,
+				"temp": 0,
+				"max": 250,
+				"details": ""
+			},
+			"ac": {
+				"value": 35,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 35,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"aklo"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 14
+			},
+			"blurb": "",
+			"publicNotes": "<p>Angoyangs resemble white cats with black stripes like those of a tiger. They have beautifully silken fur, piercing blue eyes, and long fluffy tails. Yet, far from the picturesque feline companions they appear to be, angoyangs are actually terrifying beasts capable of peeling back the fleshy layers of their face to reveal a mass of long, toothed tentacles.</p>\n<p>Although most cats instinctively avoid areas where angoyangs roam, the unlucky felines who do encounter this creature are invariably entangled in the monster's toothy tentacles and devoured. In cities and towns where angoyangs reside, cat owners may find that their beloved pets have gone missing only to soon have a fluffy black-and-white cat coincidentally appear at their doorstep, looking up at them with wide eyes and mewing adorably. Angoyangs almost never attack their caretakers, who they see as loyal servants that feed, clean up after, and pamper them, and the creatures protect the people in their household from any would-be intruders. However, a caretaker who mistreats or neglects their angoyang ward is often met with a grisly fate. More than one coroner or gravedigger has inadvertently inherited an angoyang after being assigned to clean up the mutilated remains of a previous \"owner.\"</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 7
+			},
+			"con": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 5
+			},
+			"cha": {
+				"mod": 7
+			}
+		},
+		"perception": {
+			"details": "dander scent (1 mile, imprecise)",
+			"mod": 25,
+			"senses": [
+				{
+					"type": "darkvision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 24,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 29,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 25,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 27
+			},
+			"deception": {
+				"base": 27
+			},
+			"stealth": {
+				"base": 27
+			},
+			"survival": {
+				"base": 25
+			}
+		},
+		"traits": {
+			"value": [
+				"aberration",
+				"evil"
+			],
+			"rarity": "common",
+			"size": {
+				"value": "sm"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.EItI5u34FIIuZM9W",
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 500000,
+	"flags": {
+		"scene-packer": {
+			"hash": "eb4ae100a5c1076035ad7769962e5dfd1bef779e"
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

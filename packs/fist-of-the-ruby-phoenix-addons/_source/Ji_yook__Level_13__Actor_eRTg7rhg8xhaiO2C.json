@@ -1,0 +1,1954 @@
+{
+	"prototypeToken": {
+		"displayName": 30,
+		"displayBars": 20,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"Rideable": {
+				"issetRideableFlag": true,
+				"MaxRiderFlag": null,
+				"CustomRidingheightFlag": null,
+				"UseRidingHeightFlag": true,
+				"RidersScaleFlag": 1,
+				"RiderPositioningFlag": "RowPlacement",
+				"RiderOffsetFlag": [
+					0,
+					0
+				],
+				"TokenFormFlag": "TokenFormCircle",
+				"InsideMovementFlag": false,
+				"SpawnRidersFlag": "",
+				"WorldMEffectOverrideFlag": false,
+				"MountingEffectsFlag": "",
+				"SelfApplyEffectsFlag": false,
+				"forMountEffectsFlag": "",
+				"CanbePilotedFlag": false,
+				"CheckPilotedCollisionFlag": false,
+				"PilotedbyDefaultFlag": false
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Ji-yook",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/miyaro.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/miyaro.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"_id": "eRTg7rhg8xhaiO2C",
+	"folder": "S1cGvJQYGVh7TWco",
+	"img": "modules/pf2e-tokens-characters/assets/portraits/miyaro.webp",
+	"items": [
+		{
+			"_id": "kdSdQw1km4sjuCZV",
+			"img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+			"name": "Innate Divine Spells",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"ability": {
+					"value": "cha"
+				},
+				"spelldc": {
+					"value": 25,
+					"dc": 33,
+					"mod": 0
+				},
+				"tradition": {
+					"value": "divine"
+				},
+				"prepared": {
+					"value": "innate"
+				},
+				"showSlotlessLevels": {
+					"value": false
+				},
+				"proficiency": {
+					"value": 0
+				},
+				"slots": {
+					"slot0": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot1": {
+						"prepared": [],
+						"value": 1,
+						"max": 1
+					},
+					"slot2": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot3": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot4": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot5": {
+						"prepared": [],
+						"value": 1,
+						"max": 1
+					},
+					"slot6": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot7": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot8": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot9": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot10": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot11": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					}
+				},
+				"autoHeightenLevel": {
+					"value": null
+				}
+			},
+			"type": "spellcastingEntry",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "b23m9Nwkid4uWKbP",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.Ucf8eynbZMfUucjE",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "icons/environment/wilderness/cave-entrance-vulcano.webp",
+			"name": "Illusory Scene",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You craft an imaginary scene that includes up to 10 discrete creatures or objects of various sizes, all of which must be within the spell's area. These elements generate appropriate sounds and smells, and they feel right to the touch. Elements of an illusory scene are incapable of speech. Unlike with the @UUID[Compendium.pf2e.spells-srd.Item.f8SBoXiXQjlCKqly]{Illusory Creature} spell, creatures in your scene lack combat abilities and statistics. Your scene doesn't include changes to the environment around it, though you can place your scene within the illusory environment of a @UUID[Compendium.pf2e.spells-srd.Item.HBJPsonQnWcC3qdX]{Mirage} spell.</p>\n<p>When you create the scene, you can choose to have it be static or follow a program. Though a static scene is stationary, it includes basic natural movement. For example, wind blowing on an illusory piece of paper would rustle it. A program can be up to 1 minute long and repeats when finished. For instance, you could create a scene of two orcs fighting each other, and the fight would go the same way for each repetition. If you create a loop, the two fighters end up in the same place at the start of the scene and at the end of it, but you can smooth the program so it's hard to tell when the loop ends and begins. Anyone observing the scene for more than a few minutes almost always notices it looping. You're unable to alter the program after you create the illusion.</p>\n<p>Any creature that touches any part of the image or uses the @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} action to examine it can attempt to disbelieve your illusion. If they interact with a portion of the illusion, they disbelieve only that portion. They disbelieve the entire scene only on a critical success.</p>\n<hr>\n<p><strong>Heightened (6th)</strong> Creatures or objects in your scene can speak. You must speak the specific lines for each actor when creating your program. The spell disguises your voice for each actor.</p>\n<p><strong>Heightened (8th)</strong> As the 6th-rank version, and the duration is unlimited.</p>"
+				},
+				"rules": [],
+				"slug": "illusory-scene",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"auditory",
+						"concentrate",
+						"illusion",
+						"manipulate",
+						"olfactory",
+						"visual"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 5
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": "500 feet"
+				},
+				"area": {
+					"type": "burst",
+					"value": 30
+				},
+				"time": {
+					"value": "10 minutes"
+				},
+				"duration": {
+					"value": "1 hour",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "kdSdQw1km4sjuCZV",
+					"heightenedLevel": 5
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "PftRUUtxT3XBbsNr",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.4gBIw4IDrSfFHik4",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/daze.webp",
+			"name": "Daze",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You push into the target's mind and daze it with a mental jolt. The jolt deals 1d6 mental damage, with a basic Will save. If the target critically fails the save, it is also @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>\n<hr>\n<p><strong>Heightened (+2)</strong> The damage increases by 1d6.</p>"
+				},
+				"rules": [],
+				"slug": "daze",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"cantrip",
+						"concentrate",
+						"manipulate",
+						"mental",
+						"nonlethal"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"divine",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 creature"
+				},
+				"range": {
+					"value": "60 feet"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "1d6",
+						"kinds": [
+							"damage"
+						],
+						"materials": [],
+						"type": "mental"
+					}
+				},
+				"defense": {
+					"save": {
+						"basic": true,
+						"statistic": "will"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "kdSdQw1km4sjuCZV"
+				},
+				"counteraction": false,
+				"heightening": {
+					"damage": {
+						"0": "1d6"
+					},
+					"interval": 2,
+					"type": "interval"
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "VXC5tOlgpv6axFi9",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.8xRzLhwGL7Dgy3EZ",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/sanctuary.webp",
+			"name": "Sanctuary",
+			"sort": 400000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You ward a creature with protective energy that deters attacks. Creatures attempting to attack the target must attempt a Will save each time. If the target uses a hostile action, the spell ends.</p>\n<hr>\n<p><strong>Critical Success</strong> <em>Sanctuary</em> ends.</p>\n<p><strong>Success</strong> The creature can attempt its attack and any other attacks against the target this turn.</p>\n<p><strong>Failure</strong> The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.</p>\n<p><strong>Critical Failure</strong> The creature wastes the action and can't attempt to attack the target for the rest of <em>sanctuary</em>'s duration.</p>"
+				},
+				"rules": [],
+				"slug": "sanctuary",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"manipulate"
+					],
+					"rarity": "common",
+					"traditions": [
+						"divine",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 creature"
+				},
+				"range": {
+					"value": "touch"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "1 minute",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "kdSdQw1km4sjuCZV",
+					"heightenedLevel": 1
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "PkzNq7bndbpSQXRG",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.Tt4Qw64fwrxhr5gT",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/dart.webp",
+			"name": "Dart",
+			"sort": 500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This thrown weapon is larger than an arrow but shorter than a javelin. It typically has a short shaft of wood ending in a metal tip and is sometimes stabilized by feathers or fur.</p>"
+				},
+				"rules": [],
+				"slug": "dart",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"thrown"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 5,
+				"baseItem": "dart",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"cp": 1
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "simple",
+				"group": "dart",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": 20,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": "-"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 1,
+					"property": [
+						"returning"
+					]
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "kK2Gq7DhRgZp3cDc",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+			"name": "+2 Greater Striking Handwraps of Mighty Blows",
+			"sort": 600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>As you invest these embroidered strips of cloth, you must meditate and slowly wrap them around your hands. These handwraps have weapon runes etched into them to give your unarmed attacks the benefits of those runes, making your unarmed attacks work like magic weapons. For example, <em>+1 striking handwraps of mighty blows</em> would give you a +1 item bonus to attack rolls with your unarmed attacks and increase the damage of your unarmed attacks from one weapon die to two (normally 2d4 instead of 1d4, but if your fists have a different weapon damage die or you have other unarmed attacks, use two of that die size instead).</p>\n<p>You can upgrade, add, and transfer runes to and from the handwraps just as you would for a weapon, and you can attach talismans to the handwraps. Treat the handwraps as melee weapons of the brawling group with light Bulk for these purposes. Property runes apply only when they would be applicable to the unarmed attack you're using. For example, a property that must be applied to a slashing weapon wouldn't function when you attacked with a fist, but you would gain its benefits if you attacked with a claw or some other slashing unarmed attack.</p>"
+				},
+				"rules": [],
+				"slug": "handwraps-of-mighty-blows",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"finesse",
+						"invested",
+						"magical",
+						"nonlethal",
+						"unarmed"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 2
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 35
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0,
+					"inSlot": false
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "worngloves"
+				},
+				"category": "unarmed",
+				"group": "brawling",
+				"bonus": {
+					"value": 1
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "bludgeoning",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": null
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "NBUlKm3GztSseKbH",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.dDIPA1WE9ESF67EB",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "icons/equipment/chest/shirt-collared-pink.webp",
+			"name": "Explorer's Clothing",
+			"sort": 700000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Adventurers who don't wear armor travel in durable clothing. Though it's not armor and uses your unarmored defense proficiency, it still has a Dex Cap and can grant an item bonus to AC if etched with potency runes.</p>"
+				},
+				"rules": [],
+				"slug": "explorers-clothing",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"comfort"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "explorers-clothing",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 1
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"handsHeld": 0,
+					"inSlot": true
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "unarmored",
+				"group": "cloth",
+				"acBonus": 0,
+				"strength": null,
+				"dexCap": 5,
+				"checkPenalty": 0,
+				"speedPenalty": 0,
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"resilient": 0,
+					"property": []
+				},
+				"subitems": []
+			},
+			"type": "armor",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Vc17RXRXFqSGpUvJ",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.ehss8yPTXxiUdVlJ",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-tools/smokestick.webp",
+			"name": "Smoke Ball (Greater)",
+			"sort": 800000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> (manipulate)</p>\n<hr>\n<p>Upon smashing this ball on the ground, you instantly create a screen of thick, opaque smoke in a @Template[burst|distance:20] centered on one corner of your space. All creatures within that area are @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.</p>"
+				},
+				"rules": [],
+				"slug": "smoke-ball-greater",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [
+						"alchemical-tool"
+					],
+					"value": [
+						"alchemical",
+						"consumable"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder GM Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 7
+				},
+				"quantity": 2,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 53
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Object",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-tools/smokestick.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "other",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-two-hands"
+				},
+				"spell": null,
+				"subitems": []
+			},
+			"type": "consumable",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "rMVBgXOADdN1F9Hh",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Claw",
+			"sort": 900000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 26
+				},
+				"damageRolls": {
+					"34u6ygq98jo4tm26r5rc": {
+						"damage": "3d8+14",
+						"damageType": "slashing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"finesse",
+						"magical",
+						"nonlethal",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "vt8ZZUwXYFkmcm9D",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "PkzNq7bndbpSQXRG"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Dart",
+			"sort": 1000000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 26
+				},
+				"damageRolls": {
+					"3f0z2eibqmi2m53fvo21": {
+						"damage": "3d6+11",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"magical",
+						"reload-0",
+						"thrown-20"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "HNBFbHBCfRBGl9Dh",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Foxfire",
+			"sort": 1100000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 24
+				},
+				"damageRolls": {
+					"dhg7v2wop8v4xo9libz9": {
+						"damage": "4d8",
+						"damageType": "electricity",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"range": {
+					"increment": 20,
+					"max": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "HfnoeVfnj8IRLiMx",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.eQM5hQ1W3d1uen97",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Change Shape",
+			"sort": 1200000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Ji-yook transforms into her human form. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. Ji-yook can remain in her human form indefinitely, and she can shift back to her true kitsune form by using this action again.</p>\n<hr>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "change-shape",
+				"traits": {
+					"value": [
+						"concentrate",
+						"divine",
+						"polymorph"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "44KacVRJuamqSH2x",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Foxfire Blast",
+			"sort": 1300000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Ji-yook makes a fist Strike. On a hit, the target takes an additional 3d4 electricity damage and is pushed back 10 feet. On a critical hit, the target is pushed back and then knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"damageType": "electricity",
+						"diceNumber": 3,
+						"dieSize": "d4",
+						"key": "DamageDice",
+						"predicate": [
+							"foxfire-blast"
+						],
+						"selector": "strike-damage"
+					},
+					{
+						"domain": "damage",
+						"key": "RollOption",
+						"option": "foxfire-blast",
+						"toggleable": true
+					},
+					{
+						"key": "Note",
+						"outcome": [
+							"criticalSuccess",
+							"success"
+						],
+						"predicate": [
+							"foxfire-blast"
+						],
+						"selector": "strike-damage",
+						"text": "{item|system.description.value}",
+						"title": "{item|name}",
+						"visibility": "owner"
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [
+						"electricity",
+						"flourish",
+						"magical"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Jzn5fdGgdcmOg3Rh",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Pinning Shot",
+			"sort": 1400000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Ji-yook expertly aims and flings a dart to peg an opponent to a nearby wall or floor. Ji-yook makes a dart Strike. If the attack hits, it deals no damage and instead pins the target to an adjacent surface. The target is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} and must spend an Interact action to attempt a @Check[athletics|dc:30|name:Pull Dart Free] check to pull the dart free; it can't move from its space until it succeeds, and a critical success counts as two successes. If Ji-yook's dart Strike was a critical hit, the target must succeed at two separate Athletics checks to pull the dart free. The target is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} while it remains immobilized in this way.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "UiEZKE5pwENRQFcr",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.AWvNPE4U0kEJSL1T",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Sneak Attack",
+			"sort": 1500000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Ji-yook Strikes deal an additional 3d6 precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"category": "precision",
+						"diceNumber": 3,
+						"dieSize": "d6",
+						"key": "DamageDice",
+						"predicate": [
+							"target:condition:off-guard"
+						],
+						"selector": "strike-damage"
+					},
+					{
+						"domain": "all",
+						"key": "RollOption",
+						"label": "PF2E.SpecificRule.TOTMToggle.OffGuard",
+						"option": "target:condition:off-guard",
+						"toggleable": "totm"
+					}
+				],
+				"slug": "sneak-attack",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/actions/FreeAction.webp",
+			"name": "Debilitating Strike",
+			"system": {
+				"actionType": {
+					"value": "free"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> Your Strike hits an off-guard creature and deals damage</p>\n<hr>\n<p>You apply one of the following debilitations, which lasts until the end of your next turn:</p>\n<ul>\n<li><strong>Debilitation</strong> The target takes a -10-foot status penalty to its Speeds.</li>\n<li><strong>Debilitation</strong> The target becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1}.</li>\n</ul>\n<p>@UUID[Compendium.pf2e.feat-effects.Item.yBTASi3FvnReAwHy]{Effect: Debilitating Strike}</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "ORC",
+					"remaster": true,
+					"title": "Pathfinder Player Core",
+					"authors": ""
+				},
+				"rules": [],
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"slug": "debilitating-strike",
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.actionspf2e.Item.bp0Up04x3dzGK5bB",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "aaa9e68c1abab8c9ff33d13eed64e6325c5685dc"
+				}
+			},
+			"_id": "fo94MvjqZDW40Pz3",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Skirimishing Strike",
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"description": {
+					"value": "<p><span style=\"font-family:Roboto, sans-serif\">Your feet and weapon move in tandem. Either Step and then Strike, or Strike and then Step.</span></p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": null,
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "OxNvX4Ir1tXsFs8m",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "3ee21a4ee34fde42c8d9952f93b3aafd20f48e7e"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Nimble Dodge (Special)",
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> A creature targets you with an attack and you can see the attacker or before you make a reflex save.</p><p><strong>Requirements</strong> You are not encumbered</p><hr><p>You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack or a +2 circumstance bonus to the reflex save against the triggering effect.</p><p>In addition it also has the following effects:</p><ul><li><p><span style=\"font-family:Roboto, sans-serif\">When you use Nimble Dodge and the triggering attack fails or critically fails, or when you succeed or critically succeed at the saving throw, you can also roll, allowing you to Stride up to 10 feet as part of the reaction. If you do, the reaction gains the move trait. You can use this while Flying or Swimming instead of Striding if you have the corresponding movement type.</span></p></li><li><p>You can also make a melee strike against the triggering creature. <span style=\"font-family:Roboto, sans-serif\">This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike. You can make the strike at any point during your roll.</span></p></li></ul>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Core Rulebook",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"domain": "ac",
+						"key": "RollOption",
+						"option": "nimble-dodge",
+						"toggleable": true,
+						"value": false
+					},
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"nimble-dodge"
+						],
+						"selector": "ac",
+						"type": "circumstance",
+						"value": 2
+					},
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"nimble-dodge"
+						],
+						"selector": "reflex",
+						"type": "circumstance",
+						"value": 2
+					}
+				],
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"slug": "nimble-dodge",
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.wCnsRCHvtZkZTmO0",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "c47b833357c287a0c5e0aa6c60f94c1f84ff15b1"
+				}
+			},
+			"_id": "MOu0woNEcu0nxpw9",
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Ji-yook (Level 13)",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 190,
+				"temp": 0,
+				"max": 190,
+				"details": ""
+			},
+			"ac": {
+				"value": 35,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 35,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"kitsune",
+					"nagaji",
+					"taldane",
+					"tengu",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 13
+			},
+			"blurb": "Female kitsune ninja",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {
+			"focus": {
+				"max": 1,
+				"value": 1
+			}
+		},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 1
+			},
+			"cha": {
+				"mod": 4
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 26,
+			"senses": [
+				{
+					"type": "low-light-vision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 20,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 26,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 20,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 27,
+				"special": []
+			},
+			"deception": {
+				"base": 25,
+				"special": []
+			},
+			"stealth": {
+				"base": 24,
+				"special": []
+			},
+			"thievery": {
+				"base": 24,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"chaotic",
+				"good",
+				"humanoid",
+				"kitsune"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.ghAlcSfpO03JLvwG",
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 100000,
+	"flags": {
+		"scene-packer": {
+			"hash": "002899b220517990fe9c7f335a161f6477f043c6"
+		},
+		"pf2e-graphics": {
+			"effectiveSize": {
+				"enabled": false,
+				"size": 1
+			}
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

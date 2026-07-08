@@ -1,0 +1,900 @@
+{
+	"prototypeToken": {
+		"displayName": 0,
+		"displayBars": 0,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"pf2e-rpg-numbers": {
+				"rotationOffset": 0,
+				"fireEmblemImg": "",
+				"personaImg": "",
+				"critOffsetX": 0,
+				"critOffsetY": 0,
+				"critScale": 100,
+				"critRotation": 0,
+				"critSFX": ""
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Tyrannosaurus Imperator",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/tyrannosaurus.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": true,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/reptilian/tyrannosaurus.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"_id": "Xz68V3uuxN2enbRH",
+	"folder": "T4ZPL3NOFQwVF2SV",
+	"img": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/tyrannosaurus.webp",
+	"items": [
+		{
+			"_id": "OTDwVMsK2PJ4wuY6",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Jaws",
+			"sort": 100000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"grab"
+					]
+				},
+				"bonus": {
+					"value": 28
+				},
+				"damageRolls": {
+					"94zc7atvygg76wj7obew": {
+						"damage": "3d12+15",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"deadly-d12",
+						"reach-20",
+						"unarmed"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743458218418,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "orlHVFqe7EEW7ruO",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Foot",
+			"sort": 200000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 28
+				},
+				"damageRolls": {
+					"1au5rcuboo9fzdcp0ydm": {
+						"damage": "3d10+13",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"reach-15",
+						"unarmed"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743458213813,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "24g2FSPaGiTvJB6C",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Fling",
+			"sort": 300000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Requirements</strong> A creature is Grabbed in the tyrannosaurus's jaws.</p>\n<hr />\n<p><strong>Effect</strong> The tyrannosaurus flings the creature into the air up to 10 feet up from its mouth and 20ft away. The creature falls 25 feet (assuming the tyrannosaurus flings it as high as it can) and takes falling damage accordingly (@Damage[12[bludgeoning]|options:fall-damage]). If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed upon can attempt a @Check[reflex|dc:29|basic] save.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "9gYASQQf328TmVpW",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Pin Prey",
+			"sort": 400000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> The tyrannosaurus critically hits a Large or smaller foe with its foot.</p>\n<hr />\n<p><strong>Effect</strong> The creature struck by the foot is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} and the tyrannosaurus uses its foot to hold the creature in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed}. A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner, but it cannot use swallow whole on the target unless it uses its jaws to Grab the victim first.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"pin-prey"
+						],
+						"selector": "attack",
+						"type": "circumstance",
+						"value": 2
+					},
+					{
+						"domain": "attack-roll",
+						"key": "RollOption",
+						"option": "pin-prey",
+						"toggleable": true
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "LqiyG9U9vgSjT5du",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.uJSseLa57HZYSMUu",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Swallow Whole",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Medium, @Damage[(4d6+8)[bludgeoning]], Rupture 34</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "swallow-whole",
+				"traits": {
+					"value": [
+						"attack"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "hCSgZRqIcBMpqV5q",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Tail Swipe",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The tyrannosaurus sweeps its tail in a @Template[cone|distance:15], dealing @Damage[(4d8+12)[bludgeoning]] damage to all creatures in the cone. Creatures in the area must attempt a @Check[reflex|dc:34|traits:damaging-effect] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and falls @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage, is pushed back 10 feet, and falls prone.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ATuHWb9pil4pkYgX",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/ThreeActions.webp",
+			"name": "Trample",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 3
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Huge or smaller, foot, @Check[reflex|dc:34|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "trample",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "woLyav0DV8G5qnSV",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Grab",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "grab",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Tyrannosaurus Imperator",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 260,
+				"temp": 0,
+				"max": 260,
+				"details": ""
+			},
+			"ac": {
+				"value": 35,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 40,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [],
+				"details": ""
+			},
+			"level": {
+				"value": 14
+			},
+			"blurb": "Variant tyrannosaurus",
+			"publicNotes": "<p>Widely regarded as the king of the dinosaurs, the tyrannosaurus is a massive predator with a wide mouth filled with viciously sharp teeth. Thundering beasts of fury and hunger, tyrannosauruses are bold and fearless carnivores that eagerly bite off great hunks of large prey and swallow smaller prey-such as most humanoids-in a single gulp. Although they can subsist on carrion, tyrannosaurs prefer live prey.</p>\n<p>Tyrannosauruses stand on two wide, powerful hind legs that allow them to run quickly, and their thick tails provide them with exceptional balance. Although a their small forelimbs are of little use other than to hold prey in place while the predators tear at their victim's flesh with their fearsome jaws, even these forelimbs bear sharp claws several inches long. As fearsome as tyrannosauruses are alone, they sometimes hunt in packs to take down massive prey. Only the most powerful creatures can successfully train tyrannosauruses, and even then, only when they can provide the ravenous beasts with a steady diet of meat.</p>\n<p>Some tribes of giants, particularly cyclopes or more obscure denizens of primeval lands, have even trained tyrannosauruses as mounts or beasts of war. In other places, xulgaths feed these prisoners to these mighty dinosaurs as part of executions or ritual sacrifices. Some xulgath cults even revere tyrannosaurs as incarnations of their violent demonic demigods. For their part, tyrannosaurs who have grown used to having their meals provided in this manner are remarkably well-behaved toward their feeders and keepers. Tyrannosauruses are 50 feet long and weigh 7 tons or more.</p>\n<p>Other variants of the tyrannosaurs include slightly smaller dinosaurs such as allosaurus, or even larger like ravenous giganotosaurus. Even the smallest tyrannosaurs, nanotyrannus, are never than large in size, yet despite this stature, they no less ferocious, and those who would assume that a nanotyrannus is \"safer\" to train do well think again!</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #166: Despair on Danger Island",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 9
+			},
+			"dex": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 5
+			},
+			"int": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 3
+			},
+			"cha": {
+				"mod": 0
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 25,
+			"senses": [
+				{
+					"type": "low-light-vision"
+				},
+				{
+					"acuity": "imprecise",
+					"range": 60,
+					"type": "scent"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 27,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 20,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 25,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 20
+			},
+			"athletics": {
+				"base": 30
+			}
+		},
+		"traits": {
+			"value": [
+				"animal",
+				"dinosaur"
+			],
+			"rarity": "rare",
+			"size": {
+				"value": "grg"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.Zp6lrCF3JwpdfKyK",
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1743458205241,
+		"modifiedTime": 1764619830295,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 100000,
+	"flags": {
+		"scene-packer": {
+			"hash": "1fe274f87921af4cfe8db52f33a66339277445be"
+		},
+		"pf2e-rpg-numbers": {
+			"version": "13.2.2",
+			"critical": {
+				"success": {
+					"default": {
+						"enabled": "default",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1,
+						"art": "",
+						"type": "default"
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				},
+				"failure": {
+					"default": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				}
+			},
+			"token": {
+				"rotation": {
+					"offset": 0
+				}
+			}
+		},
+		"pf2e": {
+			"rollOptions": {
+				"all": {
+					"self:type:npc": true,
+					"self:signature:76ea3037-26b3-5cc7-97d9-666aeeb352b7": true,
+					"self:creature": true,
+					"self:level:14": true,
+					"self:mode:living": true,
+					"self:trait:animal": true,
+					"self:trait:dinosaur": true,
+					"self:armored": false,
+					"self:size:5": true,
+					"self:size:gargantuan": true,
+					"hp-remaining:260": true,
+					"hp-percent:100": true,
+					"speed:land": true
+				},
+				"attack-roll": {}
+			},
+			"trackedItems": {},
+			"lootable": false
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

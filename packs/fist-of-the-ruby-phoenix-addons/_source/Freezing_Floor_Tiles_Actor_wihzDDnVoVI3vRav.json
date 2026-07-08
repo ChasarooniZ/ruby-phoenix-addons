@@ -1,0 +1,402 @@
+{
+	"_id": "wihzDDnVoVI3vRav",
+	"folder": "Q16YpcmAgjROJG5d",
+	"img": "systems/pf2e/icons/default-icons/hazard.svg",
+	"items": [
+		{
+			"_id": "rxzKPSkZ4m2BBbQJ",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Frigid Floor",
+			"sort": 0,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": null,
+				"description": {
+					"value": "<p><strong>Trigger</strong> Hao Jin signals the beginning of the match.</p>\n<hr>\n<p><strong>Effect</strong> The trap rolls initiative.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"cold"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Slippery Surface",
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"description": {
+					"value": "<p>Creatures using an action to move onto the icey surface while the trap is active must attempt either a Reflex save or an Acrobatics check to [[/act balance dc=40]]. A creature that @UUID[Compendium.pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step} or @UUID[Compendium.pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Crawl} doesn't have to attempt a check or save.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"actions": {
+					"value": null
+				},
+				"category": null,
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "5B1q7VTiRSumQ8kZ",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"name": "Effect: Remote Sensor Count",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": -1,
+					"unit": "unlimited",
+					"expiry": null,
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": true
+				},
+				"unidentified": false,
+				"start": {
+					"value": 575410,
+					"initiative": null
+				},
+				"badge": {
+					"type": "counter",
+					"value": 4,
+					"labels": null,
+					"loop": false,
+					"min": null,
+					"max": 4
+				},
+				"fromSpell": false,
+				"context": null
+			},
+			"img": "icons/magic/perception/orb-crystal-ball-scrying-blue.webp",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": "Item.sr5v1tKxbsgfOxEt",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"_id": "lQema1JhMHIqRun9",
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Freezing Floor Tiles",
+	"system": {
+		"attributes": {
+			"ac": {
+				"value": 36
+			},
+			"hardness": 20,
+			"hp": {
+				"details": "",
+				"max": 40,
+				"temp": 0,
+				"value": 40
+			},
+			"immunities": [
+				{
+					"type": "cold",
+					"exceptions": []
+				}
+			],
+			"stealth": {
+				"details": "<p>+23 (expert) or @Check[perception|dc:38|traits:action:seek] (master) to notice the four sensors</p>",
+				"value": 23
+			},
+			"weaknesses": [
+				{
+					"type": "fire",
+					"value": 15,
+					"exceptions": []
+				}
+			],
+			"resistances": [],
+			"emitsSound": "encounter"
+		},
+		"details": {
+			"description": "<p>Four remote sensors at each corner of the arena cause bursts of freezing magic to erupt from random tiles on the arena and stop creatures in their tracks.</p>",
+			"disable": "<p>@Check[thievery|dc:40|name:Disable One Sensor|traits:action:disable-a-device] (master) or @UUID[Compendium.pf2e.spells-srd.Item.9HpwDN4MYQJnW0LG]{Dispel Magic} (6th rank; counteract DC 38) to disable one of the sensors</p>",
+			"isComplex": true,
+			"level": {
+				"value": 16
+			},
+			"publication": {
+				"license": "OGL",
+				"remaster": false,
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": ""
+			},
+			"reset": "",
+			"routine": "<p>(4 actions) The trap loses 1 action per disabled sensor. On each action, the trap causes a random 10-foot-by-10-foot space in the arena to suddenly freeze. Each creature that begins its turn in a frozen space takes @Damage[(3d12+18)[cold]] damage (@Check[reflex|dc:40|basic] save). A creature that critically fails its save also becomes @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} for 1 round; if it was already slowed, the creature instead becomes @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round. Any amount of fire damage dealt to a slowed or immobilized creature removes the condition. Frozen tiles become unfrozen at the beginning of the trap's next turn.</p>"
+		},
+		"saves": {
+			"fortitude": {
+				"value": 33
+			},
+			"reflex": {
+				"value": 30
+			},
+			"will": {
+				"value": null
+			}
+		},
+		"traits": {
+			"rarity": "common",
+			"size": {
+				"value": "med"
+			},
+			"value": [
+				"cold",
+				"magical",
+				"trap"
+			]
+		},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		}
+	},
+	"type": "hazard",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.PooDdJo4wmkBvETW",
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Freezing Floor Tiles",
+		"displayName": 20,
+		"actorLink": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "systems/pf2e/icons/default-icons/hazard.svg",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": false,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": false,
+				"autoscale": false
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 1
+	},
+	"sort": 100000,
+	"flags": {
+		"pf2e": {
+			"editHazard": {
+				"value": true
+			}
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

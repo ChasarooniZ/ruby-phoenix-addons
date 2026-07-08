@@ -1,0 +1,26 @@
+{
+	"name": "4. In Search of Sponsorship",
+	"sorting": "a",
+	"folder": "ybgUqF4nqK4bxKjW",
+	"type": "Actor",
+	"_id": "53fRuUM3qlBdODgI",
+	"description": "",
+	"sort": 300000,
+	"color": "#209d67",
+	"flags": {
+		"scene-packer": {
+			"hash": "b6ead5fd4305f0edf47b6d14ed582e4132abc838"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"exportSource": null
+	}
+}

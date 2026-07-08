@@ -1,0 +1,1152 @@
+{
+	"_id": "gKhei3cBImO9ddvz",
+	"folder": "i7fzqrxYa9VTKQRj",
+	"img": "modules/pf2e-tokens-myth-and-magic/assets/portraits/pzo2111_pactbinder.webp",
+	"items": [
+		{
+			"_id": "7zefjf7seI8vZfU4",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.e4NwsnPnpQKbDZ9F",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/composite-shortbow.webp",
+			"name": "Composite Shortbow",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This shortbow is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Its compact size and power make it a favorite of mounted archers. Any time an ability is specifically restricted to a shortbow, it also applies to composite shortbows unless otherwise stated.</p>"
+				},
+				"rules": [],
+				"slug": "composite-shortbow",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"deadly-d10",
+						"propulsive"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "composite-shortbow",
+				"bulk": {
+					"value": 1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 14
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-plus-hands"
+				},
+				"category": "martial",
+				"group": "bow",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d6",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": 60,
+				"expend": 1,
+				"ammo": {
+					"capacity": null,
+					"baseType": "arrows",
+					"builtIn": false
+				},
+				"reload": {
+					"value": "0"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "QNrS8LaZujg7xNpW",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.O3XAH3VkOx9a0FyD",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/default-icons/weapon.svg",
+			"name": "Hook Sword",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This long sword has a hook near the tip which makes it easy to snag an opponent or their weapons.</p>"
+				},
+				"rules": [],
+				"slug": "hook-sword",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"disarm",
+						"monk",
+						"parry",
+						"trip",
+						"twin"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "Pathfinder #166: Despair on Danger Island",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "hook-sword",
+				"bulk": {
+					"value": 1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 3
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "advanced",
+				"group": "sword",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d6",
+					"damageType": "slashing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 1,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "C2GnDTWk9Xi8nJQ6",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.w2ENw2VMPcsbif8g",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/arrows.webp",
+			"name": "Arrows",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>These projectiles are the ammunition for bows. The shaft of an arrow is made of wood. It is stabilized in flight by fletching at one end and bears a metal head on the other.</p>"
+				},
+				"rules": [],
+				"slug": "arrows",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"consumable"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 20,
+				"baseItem": "arrows",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 1
+					},
+					"per": 10
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"craftableAs": null,
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				}
+			},
+			"type": "ammo",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "REgkjoAto0ZC7I0E",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "QNrS8LaZujg7xNpW"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Hook Sword",
+			"sort": 400000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 25
+				},
+				"damageRolls": {
+					"zkumr1cgt8ci0yf51l3g": {
+						"damage": "3d6+11",
+						"damageType": "slashing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"disarm",
+						"parry",
+						"trip",
+						"twin"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "nuOFWsGlneVYQ2jg",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "7zefjf7seI8vZfU4"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Composite Shortbow",
+			"sort": 500000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 29
+				},
+				"damageRolls": {
+					"002zmahg79g2vw45dgd5": {
+						"damage": "3d10+16",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"deadly-2d10",
+						"magical",
+						"reload-0"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"range": {
+					"increment": 60,
+					"max": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "GEuHJzey2mGFUYrg",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Camouflage",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>While in natural terrain, Surjit can @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak} even while @UUID[Compendium.pf2e.conditionitems.Item.1wQY3JYyhMYeeV2G]{Observed}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Ps8Cme5VgpZmRxZP",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Sense the Unseen",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p><strong>Trigger</strong> Surjit fails a Perception check to @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek}</p>\n<hr>\n<p><strong>Effect</strong> Surjit automatically senses any @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]{Undetected} creatures in the area where he was Seeking, making them merely @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} to him.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "gTD4VEkGz2veh2m5",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Attack of Opportunity (Special)",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>Surjit can use a ranged weapon to make an Attack of Opportunity as though the weapon had a reach of 10 feet.</p>\n<hr>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "attack-of-opportunity",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "SkfTUNlafcn5QAxv",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Clear the Rain",
+			"sort": 900000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Surjit Strides twice. Difficult terrain doesn't slow his movement. Any space Surjit enters becomes normal terrain rather than difficult terrain (or difficult terrain rather than greater difficult terrain) until the start of his next turn.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "qBmStn4qVEVjuW1j",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Rain-Scribe Arrow",
+			"sort": 1000000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>When Surjit critically hits a creature with a ranged weapon or hits a creature for the second time on a turn with a ranged weapon, Surjit can attempt to counteract one magic effect on the creature (counteract rank 7th). He uses his attack modifier as his counteract modifier.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "IbG6EsCannEnXRo0",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.AWvNPE4U0kEJSL1T",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Sneak Attack",
+			"sort": 1100000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Surjit deals an extra 3d6 precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} targets.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"category": "precision",
+						"diceNumber": 3,
+						"dieSize": "d6",
+						"key": "DamageDice",
+						"predicate": [
+							"target:condition:off-guard"
+						],
+						"selector": "strike-damage"
+					},
+					{
+						"key": "RollOption",
+						"label": "PF2E.SpecificRule.TOTMToggle.OffGuard",
+						"option": "target:condition:off-guard",
+						"toggleable": "totm"
+					}
+				],
+				"slug": "sneak-attack",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Surjit Hamelan",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 220,
+				"temp": 0,
+				"max": 220,
+				"details": ""
+			},
+			"ac": {
+				"value": 33,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 25,
+				"otherSpeeds": [
+					{
+						"type": "climb",
+						"value": 20
+					},
+					{
+						"type": "swim",
+						"value": 20
+					}
+				],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"gnomish",
+					"mwangi",
+					"taldane",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 13
+			},
+			"blurb": "Male gnome Rain-Scribe attendant",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 8
+			},
+			"con": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 8
+			},
+			"cha": {
+				"mod": 3
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 25,
+			"senses": [
+				{
+					"type": "low-light-vision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 24,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 26,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 23,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 26,
+				"special": []
+			},
+			"nature": {
+				"base": 25,
+				"special": []
+			},
+			"stealth": {
+				"base": 27,
+				"special": []
+			},
+			"survival": {
+				"base": 25,
+				"special": []
+			},
+			"medicine": {
+				"base": 25,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"humanoid",
+				"kholo",
+				"lawful"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "sm"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.4RaeyGxw5EgagDZE",
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Surjit Hamelan",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-myth-and-magic/assets/tokens/pzo2111_pactbinder.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 2,
+			"scaleY": 2,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 2,
+				"texture": "modules/pf2e-tokens-myth-and-magic/assets/subjects/pzo2111_pactbinder.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 1
+	},
+	"sort": -100000,
+	"flags": {},
+	"ownership": {
+		"default": 0
+	}
+}

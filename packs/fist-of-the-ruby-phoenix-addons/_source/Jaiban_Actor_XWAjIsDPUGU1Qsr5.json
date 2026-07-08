@@ -1,0 +1,849 @@
+{
+	"prototypeToken": {
+		"displayName": 0,
+		"displayBars": 0,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"pf2e-rpg-numbers": {
+				"rotationOffset": 0,
+				"fireEmblemImg": "",
+				"personaImg": "",
+				"critOffsetX": 0,
+				"critOffsetY": 0,
+				"critScale": 100,
+				"critRotation": 0,
+				"critSFX": ""
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Jaiban",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/reptilian/megalania.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": true,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/reptilian/megalania.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"_id": "XWAjIsDPUGU1Qsr5",
+	"folder": "T4ZPL3NOFQwVF2SV",
+	"img": "modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/megalania.webp",
+	"items": [
+		{
+			"_id": "mNIyRb5olQPMzykw",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Jaws",
+			"sort": 100000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"grab"
+					]
+				},
+				"bonus": {
+					"value": 31
+				},
+				"damageRolls": {
+					"qu7vdc6gh5svzenreul4": {
+						"damage": "3d12+17",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"reach-20",
+						"unarmed"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743459387789,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "WU1w76iyFziIQmjG",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Tail",
+			"sort": 200000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 31
+				},
+				"damageRolls": {
+					"m7f8hmt13wb872gd2ucr": {
+						"damage": "3d6+14",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "tail",
+				"traits": {
+					"value": [
+						"reach-25"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "d5Cwp0l75Nbak8Hx",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Foot",
+			"sort": 300000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 31
+				},
+				"damageRolls": {
+					"35exx5hq82d71iu7eriv": {
+						"damage": "3d8+14",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"reach-15",
+						"unarmed"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "CHgixaACnMiYFS4l",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Quaking Stomp",
+			"sort": 400000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Frequency</strong> once per minute</p>\n<hr />\n<p><strong>Effect</strong> Jaiban stomps the ground with intense force. It creates a minor earthquake with the effects of the @UUID[Compendium.pf2e.spells-srd.Item.x7SPrsRxGb2Vy2nu]{Earthquake} spell, except that the range is only 100 feet and is contained to a @Template[burst|distance:20].</p>",
+					"gm": ""
+				},
+				"frequency": {
+					"max": 1,
+					"per": "PT1M"
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"manipulate"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "fYhKDFMqMpdjlBDT",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/ThreeActions.webp",
+			"name": "Trample",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 3
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Huge or smaller, foot, @Check[reflex|dc:36|basic]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "trample",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "cCcpVlZrScnOYkeb",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Whip Tail",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Jaiban cracks its tail, creating a sonic boom in a @Template[burst|distance:5] centered on a corner within reach of its tail Strike. Each creature in the burst's area must attempt a @Check[fortitude|dc:36] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1}.</p>\n<p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2}.</p>\n<p><strong>Critical Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 3}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"sonic"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "R7nkGLSGWrxy18ns",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Grab",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "grab",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Jaiban",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 275,
+				"temp": 0,
+				"max": 275,
+				"details": ""
+			},
+			"ac": {
+				"value": 36,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 30,
+				"otherSpeeds": [
+					{
+						"type": "swim",
+						"value": 30
+					}
+				],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [],
+				"details": ""
+			},
+			"level": {
+				"value": 15
+			},
+			"blurb": "Legendary beast of Bonmu",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #166: Despair on Danger Island",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 9
+			},
+			"dex": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 8
+			},
+			"int": {
+				"mod": -4
+			},
+			"wis": {
+				"mod": 3
+			},
+			"cha": {
+				"mod": 1
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 23,
+			"senses": [
+				{
+					"type": "darkvision"
+				},
+				{
+					"acuity": "imprecise",
+					"range": 30,
+					"type": "scent"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 29,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 23,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 26,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"athletics": {
+				"base": 30
+			},
+			"stealth": {
+				"base": 28
+			},
+			"survival": {
+				"base": 26
+			}
+		},
+		"traits": {
+			"value": [
+				"beast"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "grg"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.zNOSSDaaCozimqaS",
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1743459358001,
+		"modifiedTime": 1764619833714,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 212500,
+	"flags": {
+		"scene-packer": {
+			"hash": "53662d27286ee66f54442da0de80dc5af57536ec"
+		},
+		"pf2e-rpg-numbers": {
+			"version": "13.2.2",
+			"critical": {
+				"success": {
+					"default": {
+						"enabled": "default",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1,
+						"art": "",
+						"type": "default"
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				},
+				"failure": {
+					"default": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				}
+			},
+			"token": {
+				"rotation": {
+					"offset": 0
+				}
+			}
+		},
+		"pf2e": {
+			"rollOptions": {
+				"all": {
+					"self:type:npc": true,
+					"self:signature:3675b865-d607-55f8-9823-4fcdc43f236d": true,
+					"self:creature": true,
+					"self:level:15": true,
+					"self:mode:living": true,
+					"self:trait:beast": true,
+					"self:armored": false,
+					"self:size:5": true,
+					"self:size:gargantuan": true,
+					"hp-remaining:275": true,
+					"hp-percent:100": true,
+					"speed:land": true,
+					"speed:swim": true
+				}
+			},
+			"trackedItems": {},
+			"lootable": false
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

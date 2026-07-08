@@ -1,0 +1,75 @@
+{
+	"folder": "JkFPP3wVqDtXliRa",
+	"name": "Effect: Dualistic Synergy",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"description": {
+			"value": "<p>Gain a number of temporary Hit Points equal to the spell's rank for 1 round</p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"key": "TempHP",
+				"value": "@spell.level"
+			}
+		],
+		"slug": "effect-dualistic-synergy",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": 1,
+			"unit": "rounds",
+			"expiry": "turn-start",
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"_id": "hJL1DFNlqyuW7UKo",
+	"img": "icons/magic/defensive/shield-barrier-flaming-pentagon-green.webp",
+	"sort": 500000,
+	"flags": {},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"ownership": {
+		"default": 0
+	}
+}

@@ -1,0 +1,75 @@
+{
+	"folder": "BgN6BAJYJVSKiQC8",
+	"name": "Blessing of Ramijav",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"description": {
+			"value": "<p><em>Granted by Ramijav for honoring them by resting for at least ten minutes at their shrine, for Ramijav was the Taumatan god of relaxation, self-care, and comedy.</em></p><hr /><p>You have been granted restful sleep for the duration of your stay at Bonmu. You can recover from the @UUID[Compendium.pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} condition by resting for only 1 hour.</p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"slug": "blessing-of-ramijav",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": -1,
+			"unit": "unlimited",
+			"expiry": null,
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": false
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"img": "icons/sundries/survival/bedroll-blue-red.webp",
+	"sort": 0,
+	"flags": {
+		"pf2e": {
+			"rulesSelections": {},
+			"itemGrants": {}
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": "Item.YMgvOh3nRozWbLTq",
+		"exportSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1758838144747,
+		"modifiedTime": 1764619842273,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	},
+	"_id": "NZZzKKokpUbFXZ46",
+	"ownership": {
+		"default": 0
+	}
+}

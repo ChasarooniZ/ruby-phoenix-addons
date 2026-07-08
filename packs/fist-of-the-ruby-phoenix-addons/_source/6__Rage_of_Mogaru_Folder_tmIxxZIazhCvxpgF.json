@@ -1,0 +1,22 @@
+{
+	"type": "Item",
+	"folder": "Z5GNZV74pFBxbDWT",
+	"name": "6. Rage of Mogaru",
+	"color": "#d03e3e",
+	"sorting": "a",
+	"_id": "tmIxxZIazhCvxpgF",
+	"description": "",
+	"sort": 0,
+	"flags": {},
+	"_stats": {
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null
+	}
+}

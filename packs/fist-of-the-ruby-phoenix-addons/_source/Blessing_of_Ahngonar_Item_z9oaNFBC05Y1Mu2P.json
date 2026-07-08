@@ -1,0 +1,75 @@
+{
+	"folder": "BgN6BAJYJVSKiQC8",
+	"name": "Blessing of Ahngonar",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"description": {
+			"value": "<p><em>Granted by </em><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\"><em>Ahngonar for honoring him by performing a love song at his shrine, for Ahngonar was the Taumatan god of messengers, music, and love.</em></span></span></p><hr /><p><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\">Each character can cast <em>@UUID[Compendium.pf2e.spells-srd.SwUiVavHKMWG7t5K]{Truespeech}</em> as a divine innate spell once during their stay on Bonmu.</span></span></p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"slug": "ahngonars-blessing",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": -1,
+			"unit": "unlimited",
+			"expiry": null,
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": false
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"_id": "z9oaNFBC05Y1Mu2P",
+	"img": "icons/tools/instruments/harp-yellow-teal.webp",
+	"sort": 0,
+	"flags": {
+		"pf2e": {
+			"rulesSelections": {},
+			"itemGrants": {}
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1758837929065,
+		"modifiedTime": 1764619842273,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	},
+	"ownership": {
+		"default": 0
+	}
+}

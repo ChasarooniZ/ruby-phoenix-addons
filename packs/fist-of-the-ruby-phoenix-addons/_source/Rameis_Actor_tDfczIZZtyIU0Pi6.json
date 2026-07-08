@@ -1,0 +1,1073 @@
+{
+	"prototypeToken": {
+		"displayName": 0,
+		"displayBars": 0,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"pf2e-rpg-numbers": {
+				"rotationOffset": 0,
+				"fireEmblemImg": "",
+				"personaImg": "",
+				"critOffsetX": 0,
+				"critOffsetY": 0,
+				"critScale": 100,
+				"critRotation": 0,
+				"critSFX": ""
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Rameis",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/gmg-hunter.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 2,
+			"scaleY": 2,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": true,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 2,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-hunter.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"img": "modules/pf2e-tokens-characters/assets/portraits/gmg-hunter.webp",
+	"items": [
+		{
+			"_id": "hIIJ4np62mFYNq4b",
+			"flags": {
+				"core": {}
+			},
+			"img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+			"name": "Leather Armor",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.</p>"
+				},
+				"rules": [],
+				"slug": "leather-armor",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "leather-armor",
+				"bulk": {
+					"value": 1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"handsHeld": 0,
+					"inSlot": true
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "light",
+				"group": "leather",
+				"acBonus": 1,
+				"strength": 0,
+				"dexCap": 4,
+				"checkPenalty": -1,
+				"speedPenalty": 0,
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"resilient": 1,
+					"property": []
+				},
+				"subitems": []
+			},
+			"type": "armor",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.4tIVTg9wj56RrveA",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "o5hVY2mgPTHwBDWM",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Fist",
+			"sort": 300000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 24
+				},
+				"damageRolls": {
+					"tl3szt8k8qbjslm7eus0": {
+						"damage": "3d4+11",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"finesse",
+						"nonlethal",
+						"unarmed"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "YK4fbB07XUW9MfoA",
+			"flags": {
+				"pf2e": {}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Composite Longbow",
+			"sort": 400000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 27
+				},
+				"damageRolls": {
+					"b6jstyilo0jholwp4mfg": {
+						"damage": "3d10+16",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"deadly-d10",
+						"magical",
+						"propulsive",
+						"reload-0",
+						"volley-30"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": {
+					"increment": 100,
+					"max": null
+				}
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "wCq8k7oL6F4dMl6U",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Pinning Shot",
+			"sort": 500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The archery specialist makes a longbow Strike. If the attack hits, it deals no damage and instead imparts the bow critical specialization effect. If the attack is a critical hit, the target must succeed at two separate Interact actions to pull the missile free.</p>"
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "action"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": 1
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "X87Fc8dAH7Z5NkRk",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Point-Blank Shot",
+			"sort": 600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The archery specialist ignores the penalty to their attack rolls from the volley trait</p>"
+				},
+				"rules": [
+					{
+						"domain": "attack-roll",
+						"key": "RollOption",
+						"option": "self:ignore-volley-penalty"
+					}
+				],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "passive"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "wOP6YXpdFoKUcye3",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Rain of Arrows",
+			"sort": 700000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The archery specialist fires several arrows at once, each aimed to land in a @Template[type:burst|distance:10] within 60 feet. The archery specialist makes a longbow Strike and compares the attack roll result to the AC of all creatures in the burst. The specialist rolls damage only once and applies it to each creature hit. Rain of Arrows counts as three attacks for the archery specialist's multiple attack penalty.</p>"
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"flourish"
+					]
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "action"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": 2
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "YDaHjw50t2QbWYAY",
+			"img": "systems/pf2e/icons/default-icons/lore.svg",
+			"name": "Any One Terrain Lore",
+			"sort": 800000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"mod": {
+					"value": 24
+				},
+				"proficient": {
+					"value": 0
+				}
+			},
+			"type": "lore",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "HybrfxCGX8CZSQ5e",
+			"flags": {
+				"core": {},
+				"scene-packer": {
+					"hash": "6afcb5be1a25aa9060abe19209338d4b053e64f0"
+				}
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/composite-longbow.webp",
+			"name": "Composite Longbow",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This projectile weapon is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Like all longbows, its great size also increases the bow's range and power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil's favored weapon, it also applies to composite longbows unless otherwise stated.</p>"
+				},
+				"rules": [],
+				"slug": "composite-longbow",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"deadly-d10",
+						"propulsive",
+						"volley-30"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "composite-longbow",
+				"bulk": {
+					"value": 2
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 20
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0,
+					"inSlot": false
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "systems/pf2e/icons/equipment/weapons/composite-longbow.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-plus-hands"
+				},
+				"category": "martial",
+				"group": "bow",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d8",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": 100,
+				"expend": 1,
+				"ammo": {
+					"capacity": null,
+					"baseType": "arrows",
+					"builtIn": false
+				},
+				"reload": {
+					"value": "0"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"striking": 2,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.dUC8Fsa6FZtVikS3",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Rameis",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 190,
+				"temp": 0,
+				"max": 190,
+				"details": ""
+			},
+			"ac": {
+				"value": 35,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 25,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"taldane",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 13
+			},
+			"blurb": "",
+			"publicNotes": "<p>Archery specialists weaken their foes from a great distance. They typically begin combat by attempting to pin the most dangerous target, then follow up with a Rain of Arrows on a clumped group.</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #166: Despair on Danger Island",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			},
+			"cha": {
+				"mod": 0
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 26,
+			"senses": [],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 22,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 26,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 19,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 26
+			},
+			"athletics": {
+				"base": 22
+			},
+			"stealth": {
+				"base": 24
+			},
+			"survival": {
+				"base": 21
+			}
+		},
+		"traits": {
+			"value": [
+				"human",
+				"humanoid"
+			],
+			"rarity": "uncommon",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.YHSV9DfaqoaSggLi",
+		"duplicateSource": "Actor.rUGxHW3X3TEByRdN",
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1741758544263,
+		"modifiedTime": 1764619833714,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"flags": {
+		"core": {},
+		"scene-packer": {
+			"hash": "f92315bcf69238ea952ffbd8fe17927c4ae2e28e"
+		},
+		"pf2e-graphics": {
+			"effectiveSize": {
+				"enabled": false,
+				"size": 1
+			}
+		},
+		"pf2e-rpg-numbers": {
+			"version": "13.2.2",
+			"critical": {
+				"success": {
+					"default": {
+						"enabled": "default",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1,
+						"art": "",
+						"type": "default"
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				},
+				"failure": {
+					"default": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				}
+			},
+			"token": {
+				"rotation": {
+					"offset": 0
+				}
+			}
+		},
+		"pf2e": {
+			"rollOptions": {
+				"all": {
+					"self:type:npc": true,
+					"self:signature:76bbae60-5454-57bb-b4f8-9bcf67c635e6": true,
+					"self:creature": true,
+					"self:level:13": true,
+					"self:mode:living": true,
+					"self:trait:human": true,
+					"self:trait:humanoid": true,
+					"self:armored": true,
+					"armor:id:hIIJ4np62mFYNq4b": true,
+					"armor:leather-armor": true,
+					"armor:slug:leather-armor": true,
+					"armor:trait:invested": true,
+					"armor:trait:magical": true,
+					"armor:rarity:common": true,
+					"armor:magical": true,
+					"armor:level:8": true,
+					"armor:equipped": true,
+					"armor:uninvested": true,
+					"armor:category:light": true,
+					"armor:group:leather": true,
+					"armor:base:leather-armor": true,
+					"armor:strength:0": true,
+					"armor:rune:potency": true,
+					"armor:rune:resilient": true,
+					"self:size:2": true,
+					"self:size:medium": true,
+					"hp-remaining:190": true,
+					"hp-percent:100": true,
+					"speed:land": true
+				},
+				"attack-roll": {
+					"self:ignore-volley-penalty": true
+				}
+			},
+			"trackedItems": {},
+			"lootable": false
+		}
+	},
+	"effects": [],
+	"folder": "02qQgSmeIhj7gpFI",
+	"sort": 200000,
+	"_id": "tDfczIZZtyIU0Pi6",
+	"ownership": {
+		"default": 0
+	}
+}

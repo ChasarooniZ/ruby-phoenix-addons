@@ -1,0 +1,1656 @@
+{
+	"prototypeToken": {
+		"displayName": 30,
+		"displayBars": 20,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"Rideable": {
+				"issetRideableFlag": true,
+				"MaxRiderFlag": null,
+				"CustomRidingheightFlag": null,
+				"UseRidingHeightFlag": true,
+				"RidersScaleFlag": 1,
+				"RiderPositioningFlag": "RowPlacement",
+				"RiderOffsetFlag": [
+					0,
+					0
+				],
+				"TokenFormFlag": "TokenFormCircle",
+				"InsideMovementFlag": false,
+				"SpawnRidersFlag": "",
+				"WorldMEffectOverrideFlag": false,
+				"MountingEffectsFlag": "",
+				"SelfApplyEffectsFlag": false,
+				"forMountEffectsFlag": "",
+				"CanbePilotedFlag": false,
+				"CheckPilotedCollisionFlag": false,
+				"PilotedbyDefaultFlag": false
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Kas Xi Rai",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/huang-rufei.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/huang-rufei.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"_id": "0InFWL4n47kHxty8",
+	"folder": "53fRuUM3qlBdODgI",
+	"img": "modules/pf2e-tokens-characters/assets/portraits/huang-rufei.webp",
+	"items": [
+		{
+			"_id": "0h3Hzq30mCIzXcop",
+			"img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+			"name": "Focus Spells",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"ability": {
+					"value": "cha"
+				},
+				"spelldc": {
+					"value": 30,
+					"dc": 38,
+					"mod": 0
+				},
+				"tradition": {
+					"value": "arcane"
+				},
+				"prepared": {
+					"value": "focus"
+				},
+				"showSlotlessLevels": {
+					"value": true
+				},
+				"proficiency": {
+					"value": 0
+				},
+				"slots": {
+					"slot0": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot1": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot2": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot3": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot4": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot5": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot6": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot7": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot8": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot9": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot10": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot11": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					}
+				},
+				"autoHeightenLevel": {
+					"value": null
+				}
+			},
+			"type": "spellcastingEntry",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "GfO9PCaIW76I1fZF",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.kRxlkPPe6Gr7Du59",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/wind-jump.webp",
+			"name": "Wind Jump",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You gain a fly Speed equal to your Speed. You must end your turn on solid ground, or you fall.</p><hr><p><strong>Heightened (6th)</strong> At the end of your turn, you can attempt a @Check[acrobatics|dc:30] check to find purchase in midair. If you succeed, you don't fall.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.5MI2c9IgxfSeGZQo]{Spell Effect: Wind Jump}</p>"
+				},
+				"rules": [],
+				"slug": "wind-jump",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"air",
+						"concentrate",
+						"focus",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 5
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "1 minute",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "0h3Hzq30mCIzXcop"
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "4QmvDr3RLNV6OYis",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.ps0nmhclT6aIXgd8",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/ki-rush.webp",
+			"name": "Qi Rush",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Accelerated by your qi, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order).</p>\n<p>You gain the @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} condition during this movement and until the start of your next turn.</p>"
+				},
+				"rules": [],
+				"slug": "qi-rush",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "0h3Hzq30mCIzXcop"
+				},
+				"counteraction": false,
+				"ritual": null
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ifWk7fzxrVcTeDbM",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.ZL8NTvB22NeEWhVG",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/ki-strike.webp",
+			"name": "Inner Upheaval",
+			"sort": 400000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You focus your qi into devastating magical attacks. Make an unarmed Strike or @UUID[Compendium.pf2e.classfeatures.Item.NLHHHiAcdnZ5ohc2]{Flurry of Blows} (this doesn't change the limit on using only one flourish per turn). You gain a +1 status bonus to your attack rolls with the Strikes, and the Strikes deal 1d6 extra damage. This damage can be any of the following types of your choice, chosen each time you Strike: force, spirit, vitality, or void.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.8olfnTmWh0GGPDqX]{Spell Effect: Inner Upheaval}</p><hr><p><strong>Heightened (+4)</strong> The extra damage increases by 1d6</p>"
+				},
+				"rules": [],
+				"slug": "inner-upheaval",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "1d6",
+						"kinds": [
+							"damage"
+						],
+						"materials": [],
+						"type": "untyped"
+					}
+				},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "0h3Hzq30mCIzXcop"
+				},
+				"counteraction": false,
+				"heightening": {
+					"damage": {
+						"0": "1d6"
+					},
+					"interval": 4,
+					"type": "interval"
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "aTjYL60fDsG2Dzsq",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+			"name": "+2 Gerater Striking Greater Corrosive Handwraps of Mighty Blows",
+			"sort": 500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>As you invest these embroidered strips of cloth, you must meditate and slowly wrap them around your hands. These handwraps have weapon runes etched into them to give your unarmed attacks the benefits of those runes, making your unarmed attacks work like magic weapons. For example, <em>+1 striking handwraps of mighty blows</em> would give you a +1 item bonus to attack rolls with your unarmed attacks and increase the damage of your unarmed attacks from one weapon die to two (normally 2d4 instead of 1d4, but if your fists have a different weapon damage die or you have other unarmed attacks, use two of that die size instead).</p>\n<p>You can upgrade, add, and transfer runes to and from the handwraps just as you would for a weapon, and you can attach talismans to the handwraps. Treat the handwraps as melee weapons of the brawling group with light Bulk for these purposes. Property runes apply only when they would be applicable to the unarmed attack you're using. For example, a property that must be applied to a slashing weapon wouldn't function when you attacked with a fist, but you would gain its benefits if you attacked with a claw or some other slashing unarmed attack.</p>"
+				},
+				"rules": [],
+				"slug": "handwraps-of-mighty-blows",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"finesse",
+						"invested",
+						"magical",
+						"nonlethal",
+						"unarmed"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 2
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 35
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0,
+					"inSlot": false
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "worngloves"
+				},
+				"category": "unarmed",
+				"group": "brawling",
+				"bonus": {
+					"value": 1
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "bludgeoning",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": null
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": [
+						"greaterCorrosive"
+					]
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ARV7fyOKOhXKGuJe",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.8mhSUxEvNuXDP8Ki",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/bracers-of-armor.webp",
+			"name": "Bands of Force (Greater)",
+			"sort": 600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Decorated with clear gemstones, these thick metal bands spread an inflexible layer of force over your body. The force grants you a +2 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5 as armor. You can affix talismans to the bands as though they were light armor.</p>\n<p><strong>Activate—Return Force</strong> <span class=\"action-glyph\">R</span> (force, manipulate)</p>\n<p><strong>Trigger</strong> A creature critically misses you with a melee Strike</p>\n<hr>\n<p><strong>Effect</strong> You Shove the creature using the bands' Athletics modifier of [[/r d20+21]]{+21}.</p>"
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"selector": [
+							"ac",
+							"saving-throw"
+						],
+						"slug": "bands-of-force",
+						"type": "item",
+						"value": 2
+					},
+					{
+						"key": "DexterityModifierCap",
+						"value": 5
+					}
+				],
+				"slug": "bands-of-force-greater",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"force",
+						"invested",
+						"magical"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder GM Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 14
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 4500
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"inSlot": false,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/bracers-of-armor.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "wornarmbands"
+				},
+				"subitems": []
+			},
+			"type": "equipment",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "sfDwDgTbBW9im7Bc",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.UblsH5cGyUdXypek",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/equipment/consumables/potions/potion-of-undetectability.webp",
+			"name": "Potion of Undetectability",
+			"sort": 700000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> (manipulate)</p>\n<hr>\n<p>Drinking this dull-black liquid makes you undetectable to detection effects.</p>\n<p>This grants the same effects as @UUID[Compendium.pf2e.spells-srd.Item.C2w3YfBKjIRS07DP]{Hidden Mind} but without the bonus against mental effects. You also gain the effects of a 4th-rank @UUID[Compendium.pf2e.spells-srd.Item.XXqE1eY3w3z6xJCB]{Invisibility} spell, which protects against @UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{See the Unseen} spells of 8th rank and lower and has a DC of 36 against @UUID[Compendium.pf2e.spells-srd.Item.uqlxMQQeSGWEVjki]{Truesight}.</p>\n<p>The potion's effects last for 10 minutes.</p>"
+				},
+				"rules": [],
+				"slug": "potion-of-undetectability",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"consumable",
+						"illusion",
+						"magical",
+						"potion"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder GM Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 18
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 4400
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "systems/pf2e/icons/equipment/consumables/potions/potion-of-undetectability.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "potion",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"spell": null,
+				"subitems": []
+			},
+			"type": "consumable",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "iolvE2dOfUz57ljw",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Fist",
+			"sort": 800000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 31
+				},
+				"damageRolls": {
+					"7mldt3ixf6is2zg5odjo": {
+						"damage": "3d10+16",
+						"damageType": "bludgeoning",
+						"category": null
+					},
+					"ui7l494axb95d4wyrvjv": {
+						"damage": "1d6",
+						"damageType": "acid",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"finesse",
+						"magical",
+						"nonlethal",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "FN1jPZvyzmDeGbK1",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Lashing Branch",
+			"sort": 900000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 31
+				},
+				"damageRolls": {
+					"5xm3saw9bgqazveoqa1v": {
+						"damage": "3d12+19",
+						"damageType": "slashing",
+						"category": null
+					},
+					"jkxs0jq0hsu09c9bcxqz": {
+						"damage": "1d6",
+						"damageType": "acid",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"finesse",
+						"magical",
+						"nonlethal",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "XIcgtyDG2R4Ita9b",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "AC 42 vs. Reactions and Ranged Weapon Attacks",
+			"sort": 1000000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"vs-ranged-reactions"
+						],
+						"selector": "ac",
+						"value": 4
+					},
+					{
+						"domain": "all",
+						"key": "RollOption",
+						"label": "Defending vs. Ranged or Reaction",
+						"option": "vs-ranged-reactions",
+						"toggleable": true
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "n3rhHu2WPvGH8Mkv",
+			"img": "systems/pf2e/icons/actions/FreeAction.webp",
+			"name": "Tangled Forest Trip",
+			"sort": 1100000,
+			"system": {
+				"actionType": {
+					"value": "free"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Requirements</strong> Kas Xi Rai is in tangled forest stance</p>\n<p><strong>Trigger</strong> A creature leaves a space within Kas Xi Rai's reach</p>\n<hr>\n<p><strong>Effect</strong> The triggering creature must attempt a @Check[reflex|dc:37] save, @Check[acrobatics|dc:37] check, or @Check[athletics|dc:37] check. On a failure, the creature is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} for that action.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "kJ78e3R1iGB8OqPY",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Exhausting Flurry",
+			"sort": 1200000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>When Kas Xi Rai targets the same creature with two Strikes from her Flurry of Blows and at least one hits and deals damage, the target must succeed at a @Check[fortitude|dc:39] save or be @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} and take a -5-foot status penalty to land Speed while enfeebled. On a critical failure, the creature is @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} and takes a -10-foot status penalty to land Speed while enfeebled.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "WvZLWpqya6dXbIOg",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Flurry of Blows",
+			"sort": 1300000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Kas Xi Rai makes two Strikes with her fist. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"flourish"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "gRldPaampXuW50sz",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Tangled Forest Rake",
+			"sort": 1400000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Kas Xi Rai makes a lashing branch Strike. If she hits and deals damage, she forces the target to move 5 feet into a space within her reach.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "3AN9w8tsz241tk9u",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Tangled Forest Stance",
+			"sort": 1500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Kas Xi Rai extends her arms and enters a deadly tree-like combat stance. As long as she is in this stance, Kas Xi Rai can use Tangled Forest Trip and Tangled Forest Rake and make lashing branch Strikes with her fists.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"stance"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "11HPHRUkwye0ljJh",
+			"img": "systems/pf2e/icons/default-icons/lore.svg",
+			"name": "Crime Lore",
+			"sort": 1600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"mod": {
+					"value": 27
+				},
+				"proficient": {
+					"value": 0
+				}
+			},
+			"type": "lore",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Kas Xi Rai",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 300,
+				"temp": 0,
+				"max": 300,
+				"details": ""
+			},
+			"ac": {
+				"value": 40,
+				"details": "(44 vs. reactions and ranged weapon attacks)"
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 50,
+				"otherSpeeds": [
+					{
+						"type": "climb",
+						"value": 35
+					}
+				],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"goblin",
+					"taldane",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 17
+			},
+			"blurb": "Female Tian-Shu high-ranking criminal",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {
+			"focus": {
+				"max": 3,
+				"value": 3
+			}
+		},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 3
+			},
+			"cha": {
+				"mod": 5
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 29,
+			"senses": [],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 26,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 32,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 29,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 36,
+				"special": []
+			},
+			"athletics": {
+				"base": 33,
+				"special": []
+			},
+			"deception": {
+				"base": 32,
+				"special": []
+			},
+			"intimidation": {
+				"base": 30,
+				"special": []
+			},
+			"stealth": {
+				"base": 33,
+				"special": []
+			},
+			"thievery": {
+				"base": 33,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"evil",
+				"human",
+				"humanoid",
+				"lawful"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.6Eh9w3FY129KXm7k",
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 400000,
+	"flags": {
+		"scene-packer": {
+			"hash": "54fd273748c9ebcfd9b0710aff85fb18510de6e3"
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

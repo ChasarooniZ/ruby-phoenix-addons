@@ -1,0 +1,785 @@
+{
+	"prototypeToken": {
+		"displayName": 0,
+		"displayBars": 0,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"pf2e-rpg-numbers": {
+				"rotationOffset": 0,
+				"fireEmblemImg": "",
+				"personaImg": "",
+				"critOffsetX": 0,
+				"critOffsetY": 0,
+				"critScale": 100,
+				"critRotation": 0,
+				"critSFX": ""
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Elder Cauthooj",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/avian/cauthooj.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1.5,
+			"scaleY": 1.5,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": true,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1.5,
+				"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/avian/cauthooj.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"_id": "J2kEVy4Mc4PrVpSz",
+	"folder": "T4ZPL3NOFQwVF2SV",
+	"img": "modules/pf2e-tokens-bestiaries/portraits/bestial/avian/cauthooj.webp",
+	"items": [
+		{
+			"_id": "MF3wGJmHdgsg1PY3",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Beak",
+			"sort": 100000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 29
+				},
+				"damageRolls": {
+					"va1k9lwirmn49so8ey7l": {
+						"damage": "2d12+15",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"deadly-d12",
+						"reach-10",
+						"unarmed"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Idn0opr2yxzpyeDM",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Thoughtsense (Imprecise) 60 feet",
+			"sort": 200000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>The cauthooj senses a creatures mental essence at the listed ranged.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"mental",
+						"occult"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "LnCX5HAN8VUMv1f5",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Hop-Dodge",
+			"sort": 300000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> The cauthooj is the target of a melee Strike and is adjacent to another enemy that is also within the reach of the melee Strike.</p>\n<hr />\n<p><strong>Effect</strong> The cauthooj nimbly hops aside, redirecting the triggering Strike against the adjacent enemy. The cauthooj Strides up to half its Speed, and this movement does not trigger reactions.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"move"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "q1LhwW1syAxORXNt",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Staccato Strike",
+			"sort": 400000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>With subtle alterations in the pitch and tone of its song, the cauthooj directs one creature @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} by its Warbling Song to make a Strike. This works like other Strikes made by confused creatures, except that the cauthooj chooses the target. If no target is in reach or range, or the creature is unable to Strike for any other reason, this ability has no effect.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"mental",
+						"primal",
+						"sonic"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "U5MbQmKNml15Qbr3",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Warbling Song",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The cauthooj gives a strange, ululating cry that causes nearby creatures to lash out violently and without control. Each creature within @Template[emanation|distance:120] that can hear the cauthooj must attempt a @Check[will|dc:34] save to resist the effect.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected and is temporarily immune for 1 minute.</p>\n<p><strong>Success</strong> The target is unaffected.</p>\n<p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} for 1 round.</p>\n<p><strong>Critical Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} for 1 round and immediately attacks itself (in the normal fashion for attacking oneself while confused). This Strike doesn't give the creature a flat check to recover from the confusion.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"auditory",
+						"incapacitation",
+						"mental",
+						"primal"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "0Z6sKp3ActW2pM2e",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Steal",
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>You try to take a small object from another creature without being noticed. Typically, you can Steal only an object of negligible Bulk, you must have a free hand, and you automatically fail if the creature who has the object is in combat or on guard.</p>\n<p>Attempt a [[/act steal]]{Thievery} check to determine if you successfully Steal the object. The DC is usually the Perception DC of the creature wearing the object. It's easiest to steal an object that is worn but not closely guarded (like a loosely carried pouch filled with coins, or an object within such a pouch). The GM might increase the DC if the object is protected or if the nature of the object makes it harder to steal (such as a very small item in a large pack, or a sheet of parchment mixed in with other documents). For instance, the DC is typically 5 higher if the object is in a pocket, held in a creature's hand, or similarly protected.</p>\n<p>You might also need to compare your Thievery check result against the Perception DCs of observers other than the person wearing the object. The GM might impose a circumstance penalty to the DCs of observers who are distracted.</p><hr /><p><strong>Success</strong> You steal the item without the bearer noticing, or an observer doesn't see you take or attempt to take the item.</p>\n<p><strong>Failure</strong> The item's bearer notices your attempt before you can take the object, or an observer sees you take or attempt to take the item. The GM determines the response of any creature that notices your theft.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "ORC",
+					"remaster": true,
+					"title": "Pathfinder Player Core",
+					"authors": ""
+				},
+				"rules": [],
+				"traits": {
+					"value": [
+						"manipulate"
+					],
+					"otherTags": []
+				},
+				"slug": "steal",
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.actionspf2e.Item.RDXXE7wMrSPCLv5k",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1746587221202,
+				"modifiedTime": 1746587221202,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "573fe244f3ab9b6d05b404d7dd6ea9d07a8f755d"
+				}
+			},
+			"_id": "1FNQMxOmFFRgCRPT",
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Elder Cauthooj",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 255,
+				"temp": 0,
+				"max": 255,
+				"details": ""
+			},
+			"ac": {
+				"value": 36,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 40,
+				"otherSpeeds": [],
+				"details": ""
+			},
+			"resistances": [
+				{
+					"type": "sonic",
+					"value": 17,
+					"exceptions": [],
+					"doubleVs": []
+				}
+			]
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"fey"
+				],
+				"details": "(can't speak any language)"
+			},
+			"level": {
+				"value": 14
+			},
+			"blurb": "Variant cauthooj",
+			"publicNotes": "<p>These large, flightless birds are deceptively agile, considering their long bodies and awkward, hopping gait. Solitary predators, they use their hypnotic warbling song to drive prey into a wild frenzy, manipulating them into attacking one another so that the cauthooj can then feast on the remains.</p>\n<p>Known to some scholars as the puppet master bird, and to others as the shrill shrike, cauthoojs are widely reviled by most intelligent humanoids, in part because the birds seem to prefer humanoids to other prey. Cauthooj sightings typically lead to the creation of hunting parties to track the creature down before it can kill again, with would-be hunters typically stuffing their ears full of wax in an effort to avoid being affected by its cry. Those who have survived the creature's song report that the experience is uniquely unnerving, and almost all accounts agree that there is no other sound as terrible.</p>\n<p>While one might assume the cauthooj is a dumb animal, these creatures are in fact quite a bit smarter than they look. Cauthoojs stalk the perimeter of remote settlements in hopes of finding a lone traveler they can feast upon. These patient creatures will wait in ambush as long as they must to sate their hunger. They can even understand a few rudimentary words in Sylvan, although they are incapable of clearly speaking themselves. This doesn't stop the cauthooj from attempting to mimic the sounds it hears, but when it does so, its eerie primal nature enhances the attempt, leading to the bird's signature ability to manipulate minds and encourage conflict, a trait the cauthooj is just barely smart enough to understand-and enjoy.</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #166: Despair on Danger Island",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 7
+			},
+			"int": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": 3
+			},
+			"cha": {
+				"mod": 0
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 25,
+			"senses": [
+				{
+					"acuity": "imprecise",
+					"range": 60,
+					"type": "thoughtsense"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 28,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 23,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 21,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"athletics": {
+				"base": 27,
+				"special": []
+			},
+			"stealth": {
+				"base": 28,
+				"special": []
+			},
+			"thievery": {
+				"base": 28,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"beast"
+			],
+			"rarity": "rare",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.TEHxsglxWi1i3jSN",
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1743459745152,
+		"modifiedTime": 1764619837680,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 206250,
+	"flags": {
+		"scene-packer": {
+			"hash": "d43573faf1b02f6fd1d9c6ac3dd5b12345a61fda"
+		},
+		"pf2e-rpg-numbers": {
+			"version": "13.2.2",
+			"critical": {
+				"success": {
+					"default": {
+						"enabled": "default",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1,
+						"art": "",
+						"type": "default"
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				},
+				"failure": {
+					"default": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				}
+			},
+			"token": {
+				"rotation": {
+					"offset": 0
+				}
+			}
+		},
+		"pf2e": {
+			"rollOptions": {
+				"all": {
+					"self:type:npc": true,
+					"self:signature:2ce02b16-a6ec-58b9-b25e-747136c200a1": true,
+					"self:creature": true,
+					"self:level:14": true,
+					"self:mode:living": true,
+					"self:trait:beast": true,
+					"self:armored": false,
+					"self:size:2": true,
+					"self:size:medium": true,
+					"hp-remaining:255": true,
+					"hp-percent:100": true,
+					"speed:land": true
+				}
+			},
+			"trackedItems": {},
+			"lootable": false
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

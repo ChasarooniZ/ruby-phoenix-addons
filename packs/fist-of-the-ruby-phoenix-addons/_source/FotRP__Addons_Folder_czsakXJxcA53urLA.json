@@ -1,0 +1,26 @@
+{
+	"name": "FotRP: Addons",
+	"sorting": "a",
+	"folder": null,
+	"type": "Scene",
+	"_id": "czsakXJxcA53urLA",
+	"description": "",
+	"sort": 0,
+	"color": "#a91919",
+	"flags": {
+		"scene-packer": {
+			"hash": "404d3a516f435463aec110bfe731d58aef495c32"
+		}
+	},
+	"_stats": {
+		"compendiumSource": "Folder.czsakXJxcA53urLA",
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.11.1",
+		"createdTime": 1743480556413,
+		"modifiedTime": 1743480556413,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	}
+}

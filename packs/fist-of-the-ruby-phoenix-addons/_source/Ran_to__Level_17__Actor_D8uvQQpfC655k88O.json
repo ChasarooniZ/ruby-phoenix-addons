@@ -1,0 +1,1489 @@
+{
+	"folder": "3jrHM6J5EoxKtaUJ",
+	"img": "modules/pf2e-tokens-npc-core/assets/portraits/goblin-scavenger.webp",
+	"items": [
+		{
+			"_id": "uFJmjR8w4hiJmIXy",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.Ix2vicchE79d6Cl3",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "icons/equipment/hand/gauntlet-tooled-steel.webp",
+			"name": "Gauntlet",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>A pair of these metal gloves comes with full plate, half plate, and splint armor; they can also be purchased separately and worn with other types of armor. They not only protect your hands but also transform your hands into lethal weapons.</p>"
+				},
+				"rules": [],
+				"slug": "gauntlet",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"free-hand"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "gauntlet",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 2
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "simple",
+				"group": "brawling",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "bludgeoning",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "7IkKwrm5gHvtvK8E",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.DV4qelKHrviM0O5i",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "icons/weapons/staves/staff-ornate-wood.webp",
+			"name": "Halfling Sling Staff",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This staff ends in a Y-shaped split that cradles a sling. The length of the staff provides excellent leverage when used two-handed to fling rocks or bullets from the sling.</p>"
+				},
+				"rules": [],
+				"slug": "halfling-sling-staff",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"halfling",
+						"propulsive"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "halfling-sling-staff",
+				"bulk": {
+					"value": 1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 5
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Halfling Sling Staff",
+						"img": "icons/weapons/staves/staff-ornate-wood.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-two-hands"
+				},
+				"category": "martial",
+				"group": "sling",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d10",
+					"damageType": "bludgeoning",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": 80,
+				"expend": 1,
+				"ammo": {
+					"capacity": 1,
+					"baseType": "sling-bullets",
+					"builtIn": false
+				},
+				"reload": {
+					"value": "1"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "fWgbC74pAipVC9q1",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.ewQZ0VeL38v3qFnN",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "icons/equipment/chest/breastplate-layered-leather-studded-brown.webp",
+			"name": "Studded Leather Armor",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This leather armor is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.</p>"
+				},
+				"rules": [],
+				"slug": "studded-leather-armor",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "studded-leather-armor",
+				"bulk": {
+					"value": 1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 3
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"handsHeld": 0,
+					"inSlot": true
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "light",
+				"group": "leather",
+				"acBonus": 2,
+				"strength": 1,
+				"dexCap": 3,
+				"checkPenalty": -1,
+				"speedPenalty": 0,
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"resilient": 1,
+					"property": []
+				},
+				"subitems": []
+			},
+			"type": "armor",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "RYkRKMCBdJuAwjs7",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.MKSeXwUm56c15MZa",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/sling-bullets.webp",
+			"name": "Sling Bullets",
+			"sort": 500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>These are small metal balls, typically either iron or lead, designed to be used as ammunition in slings.</p>"
+				},
+				"rules": [],
+				"slug": "sling-bullets",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"consumable"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 20,
+				"baseItem": "sling-bullets",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"cp": 1
+					},
+					"per": 10
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"craftableAs": null,
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				}
+			},
+			"type": "ammo",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "y4CJczbOp2Li8Zjo",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "uFJmjR8w4hiJmIXy"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Gauntlet",
+			"sort": 600000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"improved-grab"
+					]
+				},
+				"bonus": {
+					"value": 35
+				},
+				"damageRolls": {
+					"peoaveslwcb7lqt0c2zt": {
+						"damage": "3d10+16",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"free-hand",
+						"magical"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "vPEJifjOGPbtjRIM",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "7IkKwrm5gHvtvK8E"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Halfling Sling Staff",
+			"sort": 700000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 33
+				},
+				"damageRolls": {
+					"e5ar8i9bz663tyk48gw4": {
+						"damage": "3d6+16",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"magical",
+						"propulsive",
+						"reload-1"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"range": {
+					"increment": 80,
+					"max": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "qtIeNtQG9GuuaPbT",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Attack of Opportunity (Special)",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>When a creature triggers Ran-to's Attack of Opportunity, he can attempt an Athletics check to @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple} the triggering creature instead of making a melee Strike. He can still disrupt a triggering manipulate action if he critically succeeds his attempt.</p>\n<hr>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "attack-of-opportunity",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "fkempowsMrEXyJXO",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Body Slam",
+			"sort": 900000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Requirements</strong> Ran-to has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}</p><hr><p><strong>Effect</strong> Ran-to throws his foe to the ground. The grabbed creature takes @Damage[11d6[bludgeoning]] damage (@Check[fortitude|dc:38|basic] save) and is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. The grab ends.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "zoBYHNzOOk4csjIn",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Greater Leaping Catch",
+			"sort": 1000000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Ran-to bounds up and attempts to Grab a foe while he soars. He makes a @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap}, @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High Jump}, or @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump}. His maximum distance is 75 feet. He must succeed at an Athletics check to perform the leap as usual, but regardless of the type of leap the DC is equal to half the number of feet he moves in the air. Ran-to can attempt an Athletics check to @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple} at any point during the jump. Immediately after the attempt, he (and the creature, if the Grapple was successful) falls to the ground. Ran-to takes no falling damage when using this ability, but the grabbed creature takes the appropriate amount of falling damage as if they had fallen the distance moved.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "pu0546uZNzAY2mRb",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Titan Wrestler",
+			"sort": 1100000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Ran-to can attempt to @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm}, @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapple}, @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shove}, or @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} creatures up to two sizes larger than him.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "9IuYBABfjiSu0kC2",
+			"img": "systems/pf2e/icons/actions/ThreeActions.webp",
+			"name": "Whirlwind Toss",
+			"sort": 1200000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 3
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Frequency</strong> once per round</p><p><strong>Requirements</strong> Ran-to has a creature @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained}</p><hr><p><strong>Effect</strong> Ran-to spins the creature he's holding, smashing them against any creatures within his reach, and then throws the creature aside. Ran-to attempts an @Check[athletics|defense:fortitude] check against the grabbed creature's Fortitude DC.</p><hr><p><strong>Critical Success</strong> Ran-to tosses his foe a great distance. The grab ends. The grabbed creature is thrown into a space within [[ 10 + (5 * @actor.system.abilities.str.mod)]] feet, takes @Damage[13d6[bludgeoning]] damage, and falls @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. All creatures adjacent to Ran-to take the same amount of bludgeoning damage (@Check[reflex|dc:38|basic] save).</p><p><strong>Success</strong> As critical success, except the grabbed creatures is thrown into a space within  [[ (10 + (5 * @actor.system.abilities.str.mod)) / 2]] feet, and creatures take @Damage[9d6[bludgeoning]] damage.</p><p><strong>Failure</strong> Ran-to tosses his foe aside. The grab ends. The grabbed creature falls prone.</p><p><strong>Critical Failure</strong> Ran-to loses hold of his foe, causing the grapple to end.</p>",
+					"gm": ""
+				},
+				"frequency": {
+					"max": 1,
+					"per": "round",
+					"value": 1
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Uv45JLNaBf0sBQrr",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.i18TlebMzwONyPhI",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/FreeAction.webp",
+			"name": "Improved Grab",
+			"sort": 1300000,
+			"system": {
+				"actionType": {
+					"value": "free"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "improved-grab",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "j5YeAHaP8v8rDPhq",
+			"img": "systems/pf2e/icons/default-icons/lore.svg",
+			"name": "Wrestling Lore",
+			"sort": 1400000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"mod": {
+					"value": 28
+				},
+				"proficient": {
+					"value": 0
+				}
+			},
+			"type": "lore",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "icons/commodities/stone/boulder-grey.webp",
+			"name": "Big Rock Bullet (Major)",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Ammunition</strong> sling bullet</p>\n<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Interact</p>\n<hr>\n<p>A big rock bullet is a sling bullet made of heavy granite, but each piece of ammunition feels much more dense than it appears. When activated, a big rock bullet transforms into a giant rock just before hitting the target. The target takes @Damage[12d6[bludgeoning]] damage on a successful hit. Even on a failed attack roll (but not a critical failure), the target takes @Damage[6d6[bludgeoning]] damage. Creatures with the @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.uG0Z8PsyZtsYuvGR]{Catch Rock} reaction can use it against a big rock bullet.</p>"
+				},
+				"rules": [],
+				"slug": "big-rock-bullet-major",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"consumable",
+						"earth",
+						"magical"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "Pathfinder Lost Omens The Grand Bazaar",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 15
+				},
+				"quantity": 5,
+				"baseItem": "sling-bullets",
+				"bulk": {
+					"value": 0
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 1150
+					}
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "icons/commodities/stone/boulder-grey.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					}
+				},
+				"craftableAs": [
+					"sling-bullets"
+				],
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				}
+			},
+			"type": "ammo",
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.Fz6jQ0M3v55R8CqA",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "mntlmgTkCcYU1pf0",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Clinch Strike",
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"description": {
+					"value": "<p><strong>Trigger</strong> A creature you had @UUID[Compendium.pf2e.conditionitems.Item.kWc1fhmv9LBiTuei]{Grabbed} or @UUID[Compendium.pf2e.conditionitems.Item.VcDeM8A5oI6VqhbM]{Restrained} successfully Escapes.</p><hr><p>Your opponents can't slip your grasp without receiving further punishment. Make an unarmed melee Strike against the triggering creature.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": "clinch-strike",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.2.0"
+					}
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "8pkdXJzSDoZfswrm",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Ran-to (Level 17)",
+	"prototypeToken": {
+		"name": "Ran-to",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-npc-core/assets/tokens/goblin-scavenger.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 2,
+			"scaleY": 2,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 2,
+				"texture": "modules/pf2e-tokens-npc-core/assets/subjects/goblin-scavenger.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			},
+			"image-hover": {
+				"hideArt": false,
+				"specificArt": "path/image.png"
+			},
+			"Rideable": {
+				"issetRideableFlag": true,
+				"MountonEnterFlag": false,
+				"AutoMountBlackListFlag": "",
+				"AutoMountWhiteListFlag": "",
+				"MaxRiderFlag": null,
+				"CustomRidingheightFlag": null,
+				"UseRidingHeightFlag": true,
+				"RidersScaleFlag": 1,
+				"RiderPositioningFlag": "RowPlacement",
+				"RiderOffsetFlag": [
+					0,
+					0
+				],
+				"TokenFormFlag": "TokenFormCircle",
+				"InsideMovementFlag": false,
+				"SpawnRidersFlag": "",
+				"WorldMEffectOverrideFlag": false,
+				"MountingEffectsFlag": "",
+				"SelfApplyEffectsFlag": false,
+				"forMountEffectsFlag": "",
+				"CanbePilotedFlag": false,
+				"CheckPilotedCollisionFlag": false,
+				"PilotedbyDefaultFlag": false
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 1
+	},
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 400,
+				"temp": 0,
+				"max": 400,
+				"details": ""
+			},
+			"ac": {
+				"value": 39,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 25,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"goblin",
+					"taldane",
+					"tien",
+					"ysoki"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 16
+			},
+			"blurb": "Male frost goblin grappler",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 10
+			},
+			"dex": {
+				"mod": 9
+			},
+			"con": {
+				"mod": 9
+			},
+			"int": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 6
+			},
+			"cha": {
+				"mod": 5
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 24,
+			"senses": [
+				{
+					"type": "darkvision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 32,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 29,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 26,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 30,
+				"special": []
+			},
+			"athletics": {
+				"base": 36,
+				"special": []
+			},
+			"intimidation": {
+				"base": 30,
+				"special": []
+			},
+			"survival": {
+				"base": 27,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"evil",
+				"goblin",
+				"humanoid",
+				"lawful"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "sm"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.9WcpNMJJqF3cLTqT",
+		"duplicateSource": "Actor.3a8a67VauyrTqx2r",
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"sort": 0,
+	"flags": {
+		"theatre": {
+			"settings": {
+				"emote": null,
+				"textflyin": "typewriter",
+				"textstanding": "none",
+				"textfont": null,
+				"textsize": null,
+				"textcolor": null
+			}
+		}
+	},
+	"_id": "D8uvQQpfC655k88O",
+	"ownership": {
+		"default": 0
+	}
+}

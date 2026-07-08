@@ -1,0 +1,1138 @@
+{
+	"prototypeToken": {
+		"displayName": 0,
+		"displayBars": 0,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"pf2e-rpg-numbers": {
+				"rotationOffset": 0,
+				"fireEmblemImg": "",
+				"personaImg": "",
+				"critOffsetX": 0,
+				"critOffsetY": 0,
+				"critScale": 100,
+				"critRotation": 0,
+				"critSFX": ""
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Watchtower Wraith",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-bestiaries/tokens/undead/ghostly/dread-wraith.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": true,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-bestiaries/subjects/undead/ghostly/dread-wraith.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"_id": "niFQHh5SmrlSmowB",
+	"folder": "T4ZPL3NOFQwVF2SV",
+	"img": "modules/pf2e-tokens-bestiaries/portraits/undead/ghostly/dread-wraith.webp",
+	"items": [
+		{
+			"_id": "lYeYZZa66BG9v3KY",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Spectral Hand",
+			"sort": 100000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 32
+				},
+				"damageRolls": {
+					"veakw7gttu38vhe62le3": {
+						"damage": "3d8+14",
+						"damageType": "void",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"finesse"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "LcusQxZFcBKdYQCO",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Lifesense 60ft",
+			"sort": 200000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>Wraiths sense the vital essence of living and undead creatures within the listed range.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"divine"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "FJbCipdD7AOgYwt4",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-family-ability-glossary.Item.BcSlVpaN72LoQ5BV",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Site Bound",
+			"sort": 300000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>The wraith is tied to its watchtower.</p>\n<hr />\n<p>A typical ghost can stray only a short distance from where it was killed or the place it haunts. A typical limit is 120 feet. Some ghosts are instead bound to a room, building, item, or creature that was special to it rather than a location.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "ghost-site-bound",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "XzIz1kPeJUSaOokB",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "+1 status to all saves vs. vitality",
+			"sort": 400000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"vitality"
+						],
+						"selector": "saving-throw",
+						"type": "status",
+						"value": 1
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "afC7IDJuPP68X8GT",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Attack of Opportunity",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>\n<hr />\n<p><strong>Effect</strong> The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "BY58CryMzXwKI0Gm",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-family-ability-glossary.Item.unR8VVR4yyRnsmnB",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Rejuvenation",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>When the watchtower wraith is destroyed, it re-forms, fully healed, at the watchtower after 12 hours. Destroying the wraith and lighting its watchtower's brazier permanently destroys it.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "ghost-rejuvenation",
+				"traits": {
+					"value": [
+						"divine"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "6tSYdMbuSY1NSMOt",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Sunlight Powerlessness",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>A wraith caught in sunlight is @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 2} and @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{Clumsy 2}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "S2x4tRkzYUwvNX0j",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.TTCw5NusiSSkJU1x",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Void Healing",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary 2",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "ActiveEffectLike",
+						"mode": "override",
+						"path": "system.attributes.hp.negativeHealing",
+						"value": true
+					}
+				],
+				"slug": "negative-healing",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"name": "Grip of Fear",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The wraith reaches into an adjacent creature's chest, gripping their heart. The target takes @Damage[6d12[mental]] damage with a @Check[will|dc:37|basic] save. On a critical failure, the creature is also @UUID[Compendium.pf2e.conditionitems.Item.6uEgoh53GbXuHpTF]{Paralyzed} until the start of the wraith's next turn.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "ORC",
+					"remaster": true,
+					"title": "Pathfinder Monster Core",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"emotion",
+						"fear",
+						"mental",
+						"nonlethal"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Actor.ussWGsnMIDmDg4pQ.Item.c8oIWV04qJhdiZ0C",
+				"duplicateSource": "Actor.ussWGsnMIDmDg4pQ.Item.c8oIWV04qJhdiZ0C",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": 1743459148559,
+				"modifiedTime": 1743459188122,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {
+				"scene-packer": {
+					"hash": "77eab6cc693c1c2d4ea1250dd886599ea3d4ba7a"
+				}
+			},
+			"_id": "dsNJHgBUMwNfZbY3",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"name": "Robes of Welcome",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Frequency</strong> once per round</p>\n<hr />\n<p><strong>Effect</strong> The wraith wraps its robes around an adjacent living creature, exposing it to void's embrace. If any creature is cursed by the wraith's void's embrace, the wraith can't impose void's embrace on another creature.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "ORC",
+					"remaster": true,
+					"title": "Pathfinder Monster Core",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"divine",
+						"void"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Actor.ussWGsnMIDmDg4pQ.Item.ZcnrTHwnr0hYa74P",
+				"duplicateSource": "Actor.ussWGsnMIDmDg4pQ.Item.ZcnrTHwnr0hYa74P",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": 1743459150847,
+				"modifiedTime": 1743459150847,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {
+				"scene-packer": {
+					"hash": "4bbe473113e2e75f67dfe129cf8ddc49c04ab81d"
+				}
+			},
+			"_id": "vUgeVZjBSJ5qrVWb",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"name": "Void's Embrace",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>If the victim succeeds at a saving throw against this curse while in sunlight, the curse ends. While you have this curse, you bypass the resistance of the wraith that cursed you;</p><p><strong>Saving Throw</strong> @Check[will|dc:37]</p><hr /><p><strong>Stage 1</strong> the victim is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} in any light (1 hour)</p><p><strong>Stage 2</strong> the victim gains lifesense 30 feet but is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} in any light (1 hour)</p><p><strong>Stage 3</strong> as stage 2, but the creature also has @UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.TTCw5NusiSSkJU1x]{Void Healing} (1 hour)</p><p><strong>Stage 4</strong> the victim becomes @UUID[Compendium.pf2e.conditionitems.Item.fBnFDH2MTzgFijKf]{Unconscious} and can't awaken (1 day)</p><p><strong>Stage 5</strong> the creature dies and becomes a wraith, its body crumbling to ash</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "ORC",
+					"remaster": true,
+					"title": "Pathfinder Monster Core",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"curse",
+						"death",
+						"divine",
+						"void"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Actor.ussWGsnMIDmDg4pQ.Item.UHqRmL7WFwTZuFam",
+				"duplicateSource": "Actor.ussWGsnMIDmDg4pQ.Item.UHqRmL7WFwTZuFam",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": 1743459155983,
+				"modifiedTime": 1743459171292,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {
+				"scene-packer": {
+					"hash": "9de541acc9b41a28219531f5ed95421296cd98c9"
+				}
+			},
+			"_id": "857m6bUuMhbuhS3a",
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Watchtower Wraith",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 285,
+				"temp": 0,
+				"max": 285,
+				"details": ""
+			},
+			"ac": {
+				"value": 39,
+				"details": ""
+			},
+			"allSaves": {
+				"value": "+1 status to all saves vs. vitality"
+			},
+			"speed": {
+				"value": 0,
+				"otherSpeeds": [
+					{
+						"type": "fly",
+						"value": 40
+					}
+				],
+				"details": ""
+			},
+			"immunities": [
+				{
+					"type": "death-effects"
+				},
+				{
+					"type": "disease"
+				},
+				{
+					"type": "paralyzed"
+				},
+				{
+					"type": "poison"
+				},
+				{
+					"type": "precision"
+				},
+				{
+					"type": "unconscious"
+				}
+			],
+			"resistances": [
+				{
+					"doubleVs": [
+						"non-magical"
+					],
+					"exceptions": [
+						"force",
+						"ghost-touch",
+						"vitality"
+					],
+					"type": "all-damage",
+					"value": 15
+				}
+			]
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"necril",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 16
+			},
+			"blurb": "Variant wraith",
+			"publicNotes": "<p>Wraiths are malevolent undead who drain life and shun light. Their shadowy, incorporeal forms are dotted with burning eyes that reffect their hatred for the living, and shadowy claws are weapon enough to steal the vitality from their enemies. A wraith may be created by foul necromancy, but more often they are the result of a hermitic murderer or mutilator who even in death could not give up their wicked ways. Further complicating the matter is the fact that wraiths multiply by consuming and transforming the living into more of their foul kind-meaning a handful of wraiths left unchecked can easily turn into a horde of darkness.</p>\n<p>Wraiths weigh nothing and are unharmed by most physical attacks. They haunt any place where they can feed on the living, though their vulnerability to sunlight confines them to the shadowy places of the world-places where they can blend in seamlessly with their dark surroundings before silently engulfing their prey.</p>\n<p>Wraiths may form packs with others of their kind in places where death and mayhem are commonplace-countrysides ravaged by war, metropolitan underworlds run by criminal overlords, or sites of fiendish cultic rituals. In these places, the living do well to tread with sunrods and powerful clerics in tow. Ruins, sewers, and abandoned buildings provide sanctuary for wraiths during the day, as the creatures hunt exclusively at night or in dark places. Wraiths are smart enough to take advantage of their incorporeality in combat, so they keep to tortuous caverns or structures with hallways and avoid open areas.</p>\n<p>As they're formed purely of anti-life from the Void, wraiths pervade that unholy realm. Within nations and civilizations ruled by the undead, wraiths have places of power as assassins and spies. They're among the ruling class in Geb, but have greater numbers in Ustalav, where packs of wraiths roam graveyards and misty trails, consuming the populations of entire villages. In other parts of the world, wraiths tend not to wander and limit their activity to smaller environs, typically just the site of their chosen haunting and its immediate surroundings.</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #166: Despair on Danger Island",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": -5
+			},
+			"dex": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 5
+			},
+			"cha": {
+				"mod": 9
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 28,
+			"senses": [
+				{
+					"type": "darkvision"
+				},
+				{
+					"acuity": "precise",
+					"range": 60,
+					"type": "lifesense"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 22,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 28,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 28,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 29
+			},
+			"intimidation": {
+				"base": 32
+			},
+			"stealth": {
+				"base": 29
+			}
+		},
+		"traits": {
+			"value": [
+				"evil",
+				"incorporeal",
+				"lawful",
+				"undead",
+				"unholy",
+				"wraith"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.ka41qAFCgGFBXUPJ",
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1743459094923,
+		"modifiedTime": 1764619830295,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 250000,
+	"flags": {
+		"scene-packer": {
+			"hash": "881065407eb38910611ac26e8b2df92d01d7a721"
+		},
+		"pf2e-rpg-numbers": {
+			"version": "13.2.2",
+			"critical": {
+				"success": {
+					"default": {
+						"enabled": "default",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1,
+						"art": "",
+						"type": "default"
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				},
+				"failure": {
+					"default": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				}
+			},
+			"token": {
+				"rotation": {
+					"offset": 0
+				}
+			}
+		},
+		"pf2e": {
+			"rollOptions": {
+				"all": {
+					"self:type:npc": true,
+					"self:signature:ad85ab4b-f68e-52e7-b870-7f7a3af63073": true,
+					"self:creature": true,
+					"self:level:16": true,
+					"self:mode:undead": true,
+					"self:trait:evil": true,
+					"self:trait:incorporeal": true,
+					"self:trait:lawful": true,
+					"self:trait:undead": true,
+					"self:trait:unholy": true,
+					"self:trait:wraith": true,
+					"self:negative-healing": true,
+					"self:armored": false,
+					"self:size:2": true,
+					"self:size:medium": true,
+					"hp-remaining:285": true,
+					"hp-percent:100": true,
+					"speed:fly": true
+				}
+			},
+			"trackedItems": {},
+			"lootable": false
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

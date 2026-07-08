@@ -1,0 +1,1405 @@
+{
+	"prototypeToken": {
+		"displayName": 30,
+		"displayBars": 20,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"Rideable": {
+				"issetRideableFlag": true,
+				"MaxRiderFlag": null,
+				"CustomRidingheightFlag": null,
+				"UseRidingHeightFlag": true,
+				"RidersScaleFlag": 1,
+				"RiderPositioningFlag": "RowPlacement",
+				"RiderOffsetFlag": [
+					0,
+					0
+				],
+				"TokenFormFlag": "TokenFormCircle",
+				"InsideMovementFlag": false,
+				"SpawnRidersFlag": "",
+				"WorldMEffectOverrideFlag": false,
+				"MountingEffectsFlag": "",
+				"SelfApplyEffectsFlag": false,
+				"forMountEffectsFlag": "",
+				"CanbePilotedFlag": false,
+				"CheckPilotedCollisionFlag": false,
+				"PilotedbyDefaultFlag": false
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Takatorra",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-npc-core/assets/tokens/gambling-companion.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 2,
+			"scaleY": 2,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 2,
+				"texture": "modules/pf2e-tokens-npc-core/assets/subjects/gambling-companion.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"_id": "Uxly4jdMB8dIGMVy",
+	"folder": "S1cGvJQYGVh7TWco",
+	"img": "modules/pf2e-tokens-npc-core/assets/portraits/gambling-companion.webp",
+	"items": [
+		{
+			"_id": "YfYIJblotSrjbrq4",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.6qJkA6fnHHiF4CEV",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/tengu-gale-blade.webp",
+			"name": "Tengu Gale Blade",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This fan-shaped sword, designed by members of the tengu ancestry, has five broad blades that join at its hilt. Tengu sailors also use gale blades as makeshift weather vanes, as the sword spins to show the wind's direction when loosely held aloft.</p>"
+				},
+				"rules": [],
+				"slug": "tengu-gale-blade",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"disarm",
+						"finesse",
+						"tengu"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "tengu-gale-blade",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 4
+					}
+				},
+				"equipped": {
+					"carryType": "held",
+					"invested": null,
+					"handsHeld": 1
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Tengu Gale Blade",
+						"img": "systems/pf2e/icons/equipment/weapons/tengu-gale-blade.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "martial",
+				"group": "sword",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d6",
+					"damageType": "slashing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": "",
+					"strikeConditionType": "",
+					"strikeConditionValue": null,
+					"criticalConditionType": "",
+					"criticalConditionValue": null
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Vr5OiDijHUvwGBfy",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.dUC8Fsa6FZtVikS3",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/composite-longbow.webp",
+			"name": "Composite Longbow",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This projectile weapon is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Like all longbows, its great size also increases the bow's range and power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil's favored weapon, it also applies to composite longbows unless otherwise stated.</p>"
+				},
+				"rules": [],
+				"slug": "composite-longbow",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"deadly-d10",
+						"propulsive",
+						"volley-30"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "composite-longbow",
+				"bulk": {
+					"value": 2
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 20
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-plus-hands"
+				},
+				"category": "martial",
+				"group": "bow",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d8",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": 100,
+				"expend": 1,
+				"ammo": {
+					"capacity": null,
+					"baseType": "arrows",
+					"builtIn": false
+				},
+				"reload": {
+					"value": "0"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"striking": 1,
+					"property": [
+						"frost"
+					]
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "1YfqINfkYNfo672z",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.AnwzlOs0njF9Jqnr",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "icons/equipment/chest/vest-leather-tattered-white.webp",
+			"name": "Hide Armor",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>A mix of furs, sturdy hide, and sometimes molded boiled leather, this armor provides protection due to its layers of leather, though its bulkiness slows the wearer down and decreases mobility.</p>"
+				},
+				"rules": [],
+				"slug": "hide-armor",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "hide-armor",
+				"bulk": {
+					"value": 2
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"handsHeld": 0,
+					"inSlot": true
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "medium",
+				"group": "leather",
+				"acBonus": 3,
+				"strength": 2,
+				"dexCap": 2,
+				"checkPenalty": -2,
+				"speedPenalty": -5,
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"resilient": 1,
+					"property": []
+				},
+				"subitems": []
+			},
+			"type": "armor",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "J4YNpYGUsRdrC8dn",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.w2ENw2VMPcsbif8g",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/arrows.webp",
+			"name": "Arrows",
+			"sort": 400000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>These projectiles are the ammunition for bows. The shaft of an arrow is made of wood. It is stabilized in flight by fletching at one end and bears a metal head on the other.</p>"
+				},
+				"rules": [],
+				"slug": "arrows",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"consumable"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 20,
+				"baseItem": "arrows",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 1
+					},
+					"per": 10
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"craftableAs": null,
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				}
+			},
+			"type": "ammo",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "SDaiauhRUkXKSVTW",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "YfYIJblotSrjbrq4"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Tengu Gale Blade",
+			"sort": 500000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 27
+				},
+				"damageRolls": {
+					"b6z5glr1naysj2syhgpr": {
+						"damage": "3d10+16",
+						"damageType": "slashing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"disarm",
+						"finesse",
+						"magical",
+						"tengu"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "FRXtWzTxZB6XNyar",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Beak",
+			"sort": 600000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 25
+				},
+				"damageRolls": {
+					"g91xqy9v35t4tnacru8o": {
+						"damage": "3d6+11",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"finesse",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ZMR3ejMWGzBk8M0a",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "Vr5OiDijHUvwGBfy"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Composite Longbow",
+			"sort": 700000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 25
+				},
+				"damageRolls": {
+					"74d379017ltdb60dlooe": {
+						"damage": "3d6+11",
+						"damageType": "piercing",
+						"category": null
+					},
+					"awpsgydt2qvt4onv4mw5": {
+						"damage": "1d6",
+						"damageType": "cold",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"cold",
+						"deadly-d10",
+						"propulsive",
+						"volley-30"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"range": {
+					"increment": 100,
+					"max": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "qJ076zEgFCWVZExw",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Soaring Flight",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p><strong>Frequency</strong> once per day</p>\n<hr>\n<p><strong>Effect</strong> Takatorra expands their wings, gaining a 25-foot fly Speed for 5 minutes.</p>",
+					"gm": ""
+				},
+				"frequency": {
+					"max": 1,
+					"per": "day",
+					"value": 1
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "BaseSpeed",
+						"predicate": [
+							"soaring-flight"
+						],
+						"selector": "fly-speed",
+						"value": 25
+					},
+					{
+						"domain": "all",
+						"key": "RollOption",
+						"option": "soaring-flight",
+						"toggleable": true
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [
+						"morph",
+						"primal",
+						"tengu"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "iIfPcJYhQdIStdAD",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.hFtNbo1LKYCoDy2O",
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Attack of Opportunity (Special)",
+			"sort": 900000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>If Takatorra's Attack of Opportunity is a critical success, they can choose to automatically @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm} the targeted creature in addition to dealing damage.</p>\n<hr>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "attack-of-opportunity",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "GfqJlycpJcVCanhY",
+			"img": "systems/pf2e/icons/actions/ThreeActions.webp",
+			"name": "Blade Barrage",
+			"sort": 1000000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 3
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Takatorra unleashes a flurry of attacks. Takatorra makes five melee Strikes. Their multiple attack penalty applies as normal. They gain a cumulative +2 circumstance bonus to damage for each successful Strike. If one target is hit with at least two of these Strikes, they also take @Damage[2d6[bleed]]. They then become @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} and @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the start of their next turn.</p>\n<p>@UUID[Compendium.pf2e.bestiary-effects.Item.aMQxiTCdTxVcradv]{Effect: Blade Barrage}</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "gsPHz5TFhWFd9O10",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Disarming Whirl",
+			"sort": 1100000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Takatorra spins, striking at their foes' weapons. Takatorra attempts an Athletics check to @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm} against each enemy within melee reach. Each attempt counts toward Takatorra's multiple attack penalty, but the penalty doesn't increase until they have made all the attempts.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"flourish"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Disarming Stance",
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"description": {
+					"value": "<p><strong>Requirements</strong> You are wielding a single one-handed melee weapon and hold nothing else in your hands. </p><hr><p>You adopt a fencing stance that improves your control over your weapon. While you are in this stance, you gain a +1 circumstance bonus to Athletics checks to @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm} and a +2 circumstance bonus to your Reflex DC when defending against checks to Disarm you. In addition, you can attempt to Disarm creatures up to two sizes larger than you.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"stance"
+					]
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": null,
+				"deathNote": false,
+				"selfEffect": {
+					"uuid": "Compendium.pf2e.feat-effects.Item.LxSev4GNKv26DbZw",
+					"name": "Stance: Disarming Stance"
+				}
+			},
+			"effects": [],
+			"_id": "Dmto4qIB3FEwNZeH",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "3ee21a4ee34fde42c8d9952f93b3aafd20f48e7e"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Disarming Twist",
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"description": {
+					"value": "<p><strong>Requirements</strong> You are wielding a single one-handed melee weapon and hold nothing else in your hands.</p><hr><p>After your initial attack redirects your foe's defenses, your follow-up wrests their weapon from their grasp. Make a melee Strike with a one-handed melee weapon. In addition to its other effects, this Strike gains the success and critical success effects of the @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm} action. The Strike also has the following failure effect.</p><p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the end of your current turn.</p><hr><p><strong>Special</strong> If you're in @UUID[Compendium.pf2e.feats-srd.Item.1p5ErCp33nGOzEsk]{Disarming Stance}, you gain a +1 circumstance bonus to the attack roll.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"press"
+					]
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "defensive",
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "0luyM3WZeFvz8SzZ",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "3ee21a4ee34fde42c8d9952f93b3aafd20f48e7e"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Takatorra (Level 13)",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 300,
+				"temp": 0,
+				"max": 300,
+				"details": ""
+			},
+			"ac": {
+				"value": 34,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 25,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"nagaji",
+					"taldane",
+					"tengu",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 13
+			},
+			"blurb": "Non-binary tengu sword master",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 3
+			},
+			"cha": {
+				"mod": 0
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 25,
+			"senses": [
+				{
+					"type": "low-light-vision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 26,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 23,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 20,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 21
+			},
+			"athletics": {
+				"base": 28
+			},
+			"intimidation": {
+				"base": 19
+			},
+			"performance": {
+				"base": 19
+			}
+		},
+		"traits": {
+			"value": [
+				"chaotic",
+				"good",
+				"humanoid",
+				"tengu"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.1y2FBsV4g80KNac1",
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"sort": 0,
+	"flags": {
+		"scene-packer": {
+			"hash": "cf17476a486d7193faa3381cd2fb9a884704b284"
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

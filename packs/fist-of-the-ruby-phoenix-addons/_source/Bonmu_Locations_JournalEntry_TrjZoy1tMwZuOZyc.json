@@ -1,0 +1,4063 @@
+{
+	"folder": "Hjc7PrZAmv8MHbzY",
+	"name": "Bonmu Locations",
+	"pages": [
+		{
+			"sort": 125000,
+			"name": "B1. Arrival Dock",
+			"type": "text",
+			"_id": "dtptjozIHUTzVAOh",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1747343618486,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 500000,
+			"name": "C1. Beach Site",
+			"type": "text",
+			"_id": "EQthSFCHarUCCvYy",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1747021622830,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1000000,
+			"name": "D1. Transport Tower",
+			"type": "text",
+			"_id": "9lVL7uwYq0gNcQeY",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1747021653029,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1500000,
+			"name": "E. Stone Markets",
+			"type": "text",
+			"_id": "BCIoPSOM9vo5dHv2",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": 0,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1747344452065,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 4700000,
+			"name": "G1. Black Scorpion Den",
+			"type": "text",
+			"_id": "OLLqutdYHXNTW7b0",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1747021701134,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8100000,
+			"name": "K. Enforcer Base",
+			"type": "text",
+			"_id": "3WmNWzm4suxXfxRv",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": 0,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1747427459255,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8300000,
+			"name": "M. Tamikan's Lair",
+			"type": "text",
+			"_id": "H6rG9jDYH6gO9M5e",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1744695663293,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8400000,
+			"name": "N. Spotfoot Village",
+			"type": "text",
+			"_id": "gU000rYTFJzBORiW",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1744695670433,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8500000,
+			"name": "O. Jaiban's Lair",
+			"type": "text",
+			"_id": "uLMz7tedDzEPe8nB",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1747031559665,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8800000,
+			"name": "R. Abandoned Prison",
+			"type": "text",
+			"_id": "FbQEJHjTUtY4QSBc",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1744695696568,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8900000,
+			"name": "S. Empty Pond",
+			"type": "text",
+			"_id": "fKxH8hpGbwnleIif",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1744695702130,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 9000000,
+			"name": "T. Mananggal Village",
+			"type": "text",
+			"_id": "MxsOahk4BlLMbIVd",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1744695708989,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8600000,
+			"name": "P. Mount Haminabu",
+			"type": "text",
+			"_id": "XDCjSV1u4eQPZZtB",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1744695682324,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8700000,
+			"name": "Q. Broken Eggshell",
+			"type": "text",
+			"_id": "jqhcm4KFutzwef4o",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1744695688901,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8200000,
+			"name": "L. Lightkeeper's Base",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1744695655608,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "MOeFlQqmdKwgz1Cp",
+			"category": null
+		},
+		{
+			"sort": 6600000,
+			"name": "I1. Southwestern Watchtower",
+			"type": "text",
+			"_id": "VLdN4LTPG6mF4Wzd",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747013584990,
+				"modifiedTime": 1747013590608,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 6700000,
+			"name": "I2. Southeastern Watchtower",
+			"type": "text",
+			"_id": "2foFEdyQkAMWCfEl",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747013596103,
+				"modifiedTime": 1747013616255,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 6800000,
+			"name": "I3. Northwestern Watchtower",
+			"type": "text",
+			"_id": "wOnttHsplNknRSJl",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747013601958,
+				"modifiedTime": 1747013615599,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 6900000,
+			"name": "I4. Northeastern Watchtower",
+			"type": "text",
+			"_id": "khuMu0UkQxxNcWxC",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747013606751,
+				"modifiedTime": 1747013613533,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 150000,
+			"name": "B2. South Dock",
+			"type": "text",
+			"_id": "ktMfiF2gFjAoW5IM",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021592782,
+				"modifiedTime": 1747029132681,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 400000,
+			"name": "B3. North East Docks",
+			"type": "text",
+			"_id": "YiY1knFhuQsLw2ru",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021598672,
+				"modifiedTime": 1747031848626,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 600000,
+			"name": "C2. Forest Site",
+			"type": "text",
+			"_id": "gOvGWNs19HgNIBlZ",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021626753,
+				"modifiedTime": 1747344423120,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 700000,
+			"name": "C3. Mountain Site",
+			"type": "text",
+			"_id": "ND9R5eA77INEwxsT",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021630979,
+				"modifiedTime": 1747021630979,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 800000,
+			"name": "C4. River Site",
+			"type": "text",
+			"_id": "Tut3Tk3MPH2AitRH",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021635006,
+				"modifiedTime": 1747021635006,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 900000,
+			"name": "C5. Ruins Site",
+			"type": "text",
+			"_id": "HeeK6VFJW1fStnnH",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021638308,
+				"modifiedTime": 1747021638308,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1100000,
+			"name": "D2. Transport Towers",
+			"type": "text",
+			"_id": "YFe3BidZ4vcjXUcD",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021656756,
+				"modifiedTime": 1747021656756,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1200000,
+			"name": "D3. Transport Towers",
+			"type": "text",
+			"_id": "O4yuqnVzYUkeSElr",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021661323,
+				"modifiedTime": 1747021661323,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1300000,
+			"name": "D4. Transport Towers",
+			"type": "text",
+			"_id": "IaqEAl9TDrRj7i4Q",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021664575,
+				"modifiedTime": 1747021664575,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1400000,
+			"name": "D5. Transport Towers",
+			"type": "text",
+			"_id": "D1Ua0UUNWf1HWO0B",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021668553,
+				"modifiedTime": 1747021685822,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 4900000,
+			"name": "G2. Dread Roc Den",
+			"type": "text",
+			"_id": "KWPSaYfefz2DsGs3",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021705986,
+				"modifiedTime": 1747021705986,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5000000,
+			"name": "G3. Mantis Den",
+			"type": "text",
+			"_id": "RjAQwuCAqOGY24Xs",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021711437,
+				"modifiedTime": 1747021711437,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5100000,
+			"name": "G4. Giant Mammoth Turtle Den",
+			"type": "text",
+			"_id": "7y1MZ1e1tAtRsPMW",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021716841,
+				"modifiedTime": 1747021716841,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5200000,
+			"name": "G5. Tyrannosaurus Den",
+			"type": "text",
+			"_id": "iTjtdBEeYj4Jaxcj",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021721446,
+				"modifiedTime": 1747021852954,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5300000,
+			"name": "G6. Cave Worm Den",
+			"type": "text",
+			"_id": "0d1Qn5Yg4i5UzUyF",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021858432,
+				"modifiedTime": 1747021858432,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5400000,
+			"name": "G7. Spinosaurus Den",
+			"type": "text",
+			"_id": "vzPDe2b7Ud0MPi0z",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021865043,
+				"modifiedTime": 1747021865043,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5500000,
+			"name": "G8. Dromornis Den",
+			"type": "text",
+			"_id": "wcn7kdXpQ3rswS9O",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021868803,
+				"modifiedTime": 1747021868803,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5600000,
+			"name": "G9. Caustic Monitor Den",
+			"type": "text",
+			"_id": "aJc7IbLJMyDSeFmQ",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021872527,
+				"modifiedTime": 1747021872527,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5650000,
+			"name": "G10. Solifugid Den",
+			"type": "text",
+			"_id": "jicKTII5fgSVcHFN",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021875760,
+				"modifiedTime": 1747028948351,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5800000,
+			"name": "H1. Shrine of the Ahngonar",
+			"type": "text",
+			"_id": "tmPOLfu51Q6k9fLM",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021881302,
+				"modifiedTime": 1747021881302,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 5900000,
+			"name": "H2. Shrine of Babbunabi",
+			"type": "text",
+			"_id": "61jw7TR78UQWvqhN",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021885103,
+				"modifiedTime": 1747021885103,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 6000000,
+			"name": "H3. Shrine of Jinya-Por",
+			"type": "text",
+			"_id": "X5pBFSm4233MfB3H",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021889025,
+				"modifiedTime": 1747021889025,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 6100000,
+			"name": "H4. Shrine of Kantiyani",
+			"type": "text",
+			"_id": "FIzHyOOt2rDWz5ws",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021892687,
+				"modifiedTime": 1747021892687,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 6200000,
+			"name": "H5. Shrine of Ni-Sa-Yei",
+			"type": "text",
+			"_id": "6OuZBTJs0R8q4WH9",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021896296,
+				"modifiedTime": 1747021896296,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 6300000,
+			"name": "H6. Shrine of Ramijav",
+			"type": "text",
+			"_id": "hcjy03lJGn7xgeuG",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021900315,
+				"modifiedTime": 1747021900315,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 6400000,
+			"name": "H7. Shrine of Shihandivara",
+			"type": "text",
+			"_id": "f5bna3I49w2dqA7L",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021904550,
+				"modifiedTime": 1747021904550,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 6500000,
+			"name": "H8. Shrine of Umantar",
+			"type": "text",
+			"_id": "06q6J4QkPSL2DdJ9",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021908820,
+				"modifiedTime": 1747021908820,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 7100000,
+			"name": "J1. Treasure Chest",
+			"type": "text",
+			"_id": "1CzG8QBlYzFbR9iC",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021919662,
+				"modifiedTime": 1747021919662,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 7300000,
+			"name": "J2. Tall Tree",
+			"type": "text",
+			"_id": "dJarKyTPXkwgAidj",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021922585,
+				"modifiedTime": 1747021922585,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 7400000,
+			"name": "J3. Abandoned Shop",
+			"type": "text",
+			"_id": "SoZYA0Cc8LnbqY7v",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021925659,
+				"modifiedTime": 1747021925659,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 7500000,
+			"name": "J4. Abandoned Bungalow",
+			"type": "text",
+			"_id": "vsi5lIyUUmstPhlu",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021928502,
+				"modifiedTime": 1747021928502,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 7600000,
+			"name": "J5. Game Trails",
+			"type": "text",
+			"_id": "vwpnCx3m1l0UPdOt",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021931962,
+				"modifiedTime": 1747021931962,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 7700000,
+			"name": "J6. Small Forgotten Shrine",
+			"type": "text",
+			"_id": "JDPqW3pupn2HYlYk",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021935154,
+				"modifiedTime": 1747021935154,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 7800000,
+			"name": "J7. Riverside Foxhole",
+			"type": "text",
+			"_id": "SMfccGYjOJsr7tO3",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021939229,
+				"modifiedTime": 1747021939229,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 7900000,
+			"name": "J8. Destroyed Shrine",
+			"type": "text",
+			"_id": "8Ed44xKIO8djfkwu",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021946263,
+				"modifiedTime": 1747021946263,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8000000,
+			"name": "J9. Abandoned Outpost",
+			"type": "text",
+			"_id": "w1wuyTl7TRfrAK2u",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021968902,
+				"modifiedTime": 1747021968902,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 8050000,
+			"name": "J10. Ominous Dead Trees",
+			"type": "text",
+			"_id": "S0Xx1Mr3UOHjfsrT",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021974528,
+				"modifiedTime": 1747028940634,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1700000,
+			"name": "F1. Library of Gruhastha",
+			"type": "text",
+			"_id": "8N1AnlX7uTMT9cRX",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021992684,
+				"modifiedTime": 1747021992684,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1750000,
+			"name": "F2. Southern Lighthouse",
+			"type": "text",
+			"_id": "eLrXSuwz7VcYq3B6",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021996150,
+				"modifiedTime": 1747028957336,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1775000,
+			"name": "F3. Shrine of Gozreh",
+			"type": "text",
+			"_id": "A79WIEb9d5O0vkYL",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747021999518,
+				"modifiedTime": 1747028968733,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1787500,
+			"name": "F4. Priest’s Estate",
+			"type": "text",
+			"_id": "l9GOAGMl0qz9HTxn",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022003715,
+				"modifiedTime": 1747028977623,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1793750,
+			"name": "F5. Salt Quarry",
+			"type": "text",
+			"_id": "Hf8mTP9msRgLfHgw",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022007091,
+				"modifiedTime": 1747028987563,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1796875,
+			"name": "F6. Noble’s Estate",
+			"type": "text",
+			"_id": "IiHXNTtUQTP9X9sp",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": 0,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022010408,
+				"modifiedTime": 1747427459122,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1798438,
+			"name": "F7. Arcane Library",
+			"type": "text",
+			"_id": "BBgvtetNudtNzGrb",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022013266,
+				"modifiedTime": 1747029009239,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1799219,
+			"name": "F8. Dinosaur Ranch",
+			"type": "text",
+			"_id": "EGw3l14pHgiGyh5z",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022016362,
+				"modifiedTime": 1747029016972,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1799610,
+			"name": "F9. Icehouse",
+			"type": "text",
+			"_id": "Y02lUF3EMdnZpZ2c",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": 0,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022019411,
+				"modifiedTime": 1747344454563,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1800000,
+			"name": "F10. Shipyard",
+			"type": "text",
+			"_id": "1HKCFHNkUO4vbzok",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022022344,
+				"modifiedTime": 1747022022344,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1900000,
+			"name": "F11. Distillery",
+			"type": "text",
+			"_id": "8Lr6nQgdECJhqlM3",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022025053,
+				"modifiedTime": 1747022025053,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 2000000,
+			"name": "F12. Druid Circle",
+			"type": "text",
+			"_id": "0EGYfPPdSBoleP33",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022028287,
+				"modifiedTime": 1747022028287,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 2100000,
+			"name": "F13. Western Lighthouse",
+			"type": "text",
+			"_id": "hymbfEGcYf8YCmqp",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022031363,
+				"modifiedTime": 1747022031363,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 2200000,
+			"name": "F14. Boathouse",
+			"type": "text",
+			"_id": "QQKKPBhGKi4u74fn",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022034396,
+				"modifiedTime": 1747022034396,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 2300000,
+			"name": "F15. Carpenter’s Shed",
+			"type": "text",
+			"_id": "Ub26Hptt8ViCJ8Eq",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022037118,
+				"modifiedTime": 1747022037118,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 2400000,
+			"name": "F16. Temple of Shizuru",
+			"type": "text",
+			"_id": "5I4glSNWLSHKAr8e",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022042102,
+				"modifiedTime": 1747022042102,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 2500000,
+			"name": "F17. Pirate Cove",
+			"type": "text",
+			"_id": "JbnJGsJJz2a89yMo",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022132949,
+				"modifiedTime": 1747022132949,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 2600000,
+			"name": "F18. Mountain Observatory",
+			"type": "text",
+			"_id": "XhIPHJJ0gd3EEQrB",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022137295,
+				"modifiedTime": 1747022137295,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 2700000,
+			"name": "F19. Aurochs Ranch",
+			"type": "text",
+			"_id": "5pUfANqf5stw99ho",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022143350,
+				"modifiedTime": 1747022143350,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 2900000,
+			"name": "F20. Rain Shelter",
+			"type": "text",
+			"_id": "ommyRAOge95uox3s",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022146264,
+				"modifiedTime": 1747022146264,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 3000000,
+			"name": "F21. Eastern Lighthouse",
+			"type": "text",
+			"_id": "NyInJJUA2rqjTyD3",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022149718,
+				"modifiedTime": 1747022149718,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 3100000,
+			"name": "F22. Cane Farm",
+			"type": "text",
+			"_id": "Af3ycSy6myb72zya",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022152507,
+				"modifiedTime": 1747022152507,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 3200000,
+			"name": "F23. Weatherworn Monument",
+			"type": "text",
+			"_id": "KFRZt5N6DEjxxsJX",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022155666,
+				"modifiedTime": 1747022155666,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 3300000,
+			"name": "F24. Cemetery",
+			"type": "text",
+			"_id": "UNJHLyrhkF8eo6y3",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022158325,
+				"modifiedTime": 1747022296059,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 3400000,
+			"name": "F25. Schoolhouse",
+			"type": "text",
+			"_id": "HXA58iaW9LAwmUZi",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022161170,
+				"modifiedTime": 1747022295600,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 3500000,
+			"name": "F26. Shrine of Tsukiyo",
+			"type": "text",
+			"_id": "lFdSXgCiPa5oON6K",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022164207,
+				"modifiedTime": 1747022295169,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 3600000,
+			"name": "F27. Temple of Hei Feng",
+			"type": "text",
+			"_id": "B5sKWGfXGbglz2ne",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022167169,
+				"modifiedTime": 1747022294727,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 3700000,
+			"name": "F28. Tanners’ Village",
+			"type": "text",
+			"_id": "jJdMSMCxHofq5azK",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022169783,
+				"modifiedTime": 1747022294281,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 3800000,
+			"name": "F29. Whalers’ Lookout",
+			"type": "text",
+			"_id": "1NbbTj4HB67GkaPq",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022172505,
+				"modifiedTime": 1747022293814,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 4000000,
+			"name": "F30. Northern Lighthouse",
+			"type": "text",
+			"_id": "cHbz0WQYd3W6MObs",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747022175632,
+				"modifiedTime": 1747022292011,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 100000,
+			"name": "A. Temple of Irori",
+			"type": "text",
+			"_id": "x4QlCXfW6GW8U9A6",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": null,
+				"modifiedTime": 1747343621126,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"category": null
+		},
+		{
+			"sort": 1500000,
+			"name": "E2. Stone Markets",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": 0,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.BCIoPSOM9vo5dHv2",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422622630,
+				"modifiedTime": 1747422640808,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "J5nFRpxSzzoPQ8Yv",
+			"category": null
+		},
+		{
+			"sort": 1500000,
+			"name": "E3. Stone Markets",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": 0,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.BCIoPSOM9vo5dHv2",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422624186,
+				"modifiedTime": 1747422650502,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "STNA9O3MQLfo2x4j",
+			"category": null
+		},
+		{
+			"sort": 1500000,
+			"name": "E4. Stone Markets",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": 0,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.BCIoPSOM9vo5dHv2",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422626041,
+				"modifiedTime": 1747422657452,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "GSUoYOX9WfwwDqCP",
+			"category": null
+		},
+		{
+			"sort": 1500000,
+			"name": "E5. Stone Markets",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": 0,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.BCIoPSOM9vo5dHv2",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422627499,
+				"modifiedTime": 1747422665833,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "sdPgvj1IWkLg0XOq",
+			"category": null
+		},
+		{
+			"sort": 500000,
+			"name": "C1b. Beach Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.EQthSFCHarUCCvYy",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422695145,
+				"modifiedTime": 1747422709012,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "vOm6OQVxrntTZHcn",
+			"category": null
+		},
+		{
+			"sort": 500000,
+			"name": "C1c. Beach Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.EQthSFCHarUCCvYy",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422696556,
+				"modifiedTime": 1747422718639,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "M6e4UxZCBfnwA2Qb",
+			"category": null
+		},
+		{
+			"sort": 500000,
+			"name": "C1d. Beach Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.EQthSFCHarUCCvYy",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422697917,
+				"modifiedTime": 1747422727981,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "5QR6li4yA59ocnbA",
+			"category": null
+		},
+		{
+			"sort": 500000,
+			"name": "C1e. Beach Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.EQthSFCHarUCCvYy",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422701106,
+				"modifiedTime": 1747422734130,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "MT50ZocFh8zm07bR",
+			"category": null
+		},
+		{
+			"sort": 600000,
+			"name": "C2b. Forest Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.gOvGWNs19HgNIBlZ",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422744431,
+				"modifiedTime": 1747423278691,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "elZKQxEi5kfXtFYh",
+			"category": null
+		},
+		{
+			"sort": 600000,
+			"name": "C2c. Forest Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.gOvGWNs19HgNIBlZ",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422745712,
+				"modifiedTime": 1747423284679,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "R0YR0KeGImRG906Y",
+			"category": null
+		},
+		{
+			"sort": 600000,
+			"name": "C2d. Forest Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.gOvGWNs19HgNIBlZ",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422746993,
+				"modifiedTime": 1747424851824,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "OGdKqnEIChQbpJEC",
+			"category": null
+		},
+		{
+			"sort": 700000,
+			"name": "C3b. Mountain Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.ND9R5eA77INEwxsT",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422750416,
+				"modifiedTime": 1747424072535,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "zd9KTwJfBeUDUZ7h",
+			"category": null
+		},
+		{
+			"sort": 700000,
+			"name": "C3c. Mountain Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.ND9R5eA77INEwxsT",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422751621,
+				"modifiedTime": 1747424083368,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "y145MnYo61zDo6qi",
+			"category": null
+		},
+		{
+			"sort": 700000,
+			"name": "C3d. Mountain Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.ND9R5eA77INEwxsT",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422752828,
+				"modifiedTime": 1747424129526,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "y0VAO8s8PeTvx3ca",
+			"category": null
+		},
+		{
+			"sort": 800000,
+			"name": "C4b. River Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.Tut3Tk3MPH2AitRH",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422754583,
+				"modifiedTime": 1747424128921,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "y36PtpSWG3Ivg7m1",
+			"category": null
+		},
+		{
+			"sort": 800000,
+			"name": "C4c. River Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.Tut3Tk3MPH2AitRH",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422755828,
+				"modifiedTime": 1747424128003,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "EE0N1OkKfc7GQnhL",
+			"category": null
+		},
+		{
+			"sort": 900000,
+			"name": "C5b. Ruins Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.HeeK6VFJW1fStnnH",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422758540,
+				"modifiedTime": 1747424127509,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "wz5xwyFx0oh1uS9j",
+			"category": null
+		},
+		{
+			"sort": 900000,
+			"name": "C5c. Ruins Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.HeeK6VFJW1fStnnH",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747422760058,
+				"modifiedTime": 1747424744884,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "D61GkOWJetyUObf2",
+			"category": null
+		},
+		{
+			"sort": 900000,
+			"name": "C5d. Ruins Site",
+			"type": "text",
+			"system": {},
+			"title": {
+				"show": true,
+				"level": 1
+			},
+			"image": {},
+			"text": {
+				"format": 1,
+				"content": ""
+			},
+			"video": {
+				"controls": true,
+				"volume": 0.5
+			},
+			"src": null,
+			"ownership": {
+				"default": -1,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.TrjZoy1tMwZuOZyc.JournalEntryPage.D61GkOWJetyUObf2",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": 1747424728156,
+				"modifiedTime": 1747424751265,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"_id": "ILLaxDfAPRmeLGRP",
+			"category": null
+		}
+	],
+	"sort": 100000,
+	"ownership": {
+		"default": 0,
+		"vj8VUT8j7Wtzy3Y2": 3
+	},
+	"flags": {
+		"maji-module-journal-styling": {
+			"majiJournal": true
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.11.1",
+		"createdTime": 1744687180062,
+		"modifiedTime": 1747422436654,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": {
+			"worldId": "fists-of-the-ruby-phoenix",
+			"uuid": null,
+			"coreVersion": "12.331",
+			"systemId": "pf2e",
+			"systemVersion": "6.12.1"
+		}
+	},
+	"_id": "TrjZoy1tMwZuOZyc",
+	"categories": []
+}

@@ -1,0 +1,30 @@
+{
+	"folder": "nVDmNQhMVsSpiB0Z",
+	"name": "Mace, Shield, Arrow",
+	"type": "script",
+	"_id": "fzAKpwOW28Mo7TsT",
+	"img": "icons/weapons/maces/mace-cube-spiked-steel.webp",
+	"scope": "global",
+	"command": "// Select one Token, target another, the dialog will show up on whatever player owns the token's screens\n// Note: This requires JB2a and Sequencer\n\ngame.rubyPhoenixAddons.api.animation.chapter_5.maceShieldArrow();",
+	"sort": 0,
+	"flags": {
+		"advanced-macros": {
+			"runForSpecificUser": ""
+		}
+	},
+	"_stats": {
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"ownership": {
+		"default": 0
+	},
+	"author": "vj8VUT8j7Wtzy3Y2"
+}

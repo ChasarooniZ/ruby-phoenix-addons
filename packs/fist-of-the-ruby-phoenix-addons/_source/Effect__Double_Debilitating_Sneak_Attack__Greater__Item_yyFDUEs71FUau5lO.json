@@ -1,0 +1,194 @@
+{
+	"img": "icons/skills/melee/strike-sword-blood-red.webp",
+	"name": "Effect: Double Debilitating Sneak Attack (Greater)",
+	"system": {
+		"description": {
+			"value": "<p>You become two of the following:</p><ul><li><p><strong>Debilitation</strong> The target takes a –10-foot status penalty to its Speeds.</p></li><li><p><strong>Debilitation</strong> The target becomes @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1}.</p></li><li><p><strong>Debilitation</strong> The target can't use reactions.</p></li><li><p><strong>Debilitation</strong> The target can't flank or contribute to allies' flanking. @UUID[Compendium.pf2e.feat-effects.Item.JUgx48XHMz4QM4Ir]{Effect: Tactical Debilitations (No Flanking)}</p></li></ul>",
+			"gm": ""
+		},
+		"duration": {
+			"expiry": "turn-end",
+			"sustained": false,
+			"unit": "rounds",
+			"value": 1
+		},
+		"fromSpell": false,
+		"level": {
+			"value": 17
+		},
+		"publication": {
+			"license": "ORC",
+			"remaster": true,
+			"title": "Pathfinder NPC Core",
+			"authors": ""
+		},
+		"rules": [
+			{
+				"key": "FlatModifier",
+				"predicate": [
+					{
+						"or": [
+							"first-debilitation:a",
+							"second-debilitation:a"
+						]
+					}
+				],
+				"selector": [
+					"all-speeds"
+				],
+				"type": "status",
+				"value": -10
+			},
+			{
+				"inMemoryOnly": true,
+				"key": "GrantItem",
+				"uuid": "Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7",
+				"predicate": [
+					{
+						"or": [
+							"first-debilitation:b",
+							"second-debilitation:b"
+						]
+					}
+				]
+			},
+			{
+				"key": "TokenEffectIcon",
+				"value": "systems/pf2e/icons/actions/Reaction.webp",
+				"predicate": [
+					{
+						"or": [
+							"first-debilitation:c",
+							"second-debilitation:c"
+						]
+					}
+				]
+			},
+			{
+				"key": "GrantItem",
+				"uuid": "Compendium.pf2e.feat-effects.Item.JUgx48XHMz4QM4Ir",
+				"predicate": [
+					{
+						"or": [
+							"first-debilitation:d",
+							"second-debilitation:d"
+						]
+					}
+				]
+			},
+			{
+				"key": "ChoiceSet",
+				"choices": [
+					{
+						"label": "The target takes a –10-foot status penalty to its Speeds.",
+						"value": "a"
+					},
+					{
+						"label": "The target becomes Enfeebled 1.",
+						"value": "b"
+					},
+					{
+						"label": "The target can't use reactions",
+						"value": "c"
+					},
+					{
+						"label": "The target can't flank or contribute to allies' flanking.",
+						"value": "d"
+					}
+				],
+				"prompt": "Select 1st Debilitation",
+				"flag": "choiceOne",
+				"rollOption": "first-debilitation",
+				"priority": 80
+			},
+			{
+				"key": "ChoiceSet",
+				"choices": [
+					{
+						"label": "The target takes a –10-foot status penalty to its Speeds.",
+						"value": "a",
+						"predicate": [
+							{
+								"not": "first-debilitation:a"
+							}
+						]
+					},
+					{
+						"label": "The target becomes Enfeebled 1.",
+						"value": "b",
+						"predicate": [
+							{
+								"not": "first-debilitation:b"
+							}
+						]
+					},
+					{
+						"label": "The target can't use reactions",
+						"value": "c",
+						"predicate": [
+							{
+								"not": "first-debilitation:c"
+							}
+						]
+					},
+					{
+						"label": "The target can't flank or contribute to allies' flanking.",
+						"value": "d",
+						"predicate": [
+							{
+								"not": "first-debilitation:d"
+							}
+						]
+					}
+				],
+				"prompt": "Select 2nd Debilitation",
+				"flag": "choiceOne",
+				"rollOption": "second-debilitation",
+				"priority": 81
+			}
+		],
+		"start": {
+			"initiative": null,
+			"value": 0
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"traits": {
+			"value": [],
+			"otherTags": []
+		},
+		"slug": "effect-debilitating-sneak-attack",
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"unidentified": false,
+		"badge": null,
+		"context": null
+	},
+	"type": "effect",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.bestiary-effects.Item.MIznUE9YmCI01ZMr",
+		"duplicateSource": "Item.PDuj40syP5pFdEfo",
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"folder": "JkFPP3wVqDtXliRa",
+	"sort": 700000,
+	"flags": {},
+	"_id": "yyFDUEs71FUau5lO",
+	"ownership": {
+		"default": 0
+	}
+}

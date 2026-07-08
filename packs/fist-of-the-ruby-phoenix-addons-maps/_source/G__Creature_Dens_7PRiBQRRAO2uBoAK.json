@@ -1,0 +1,27 @@
+{
+	"name": "G. Creature Dens",
+	"sorting": "a",
+	"folder": "JaOoGudpfOHnYsba",
+	"type": "Scene",
+	"_id": "7PRiBQRRAO2uBoAK",
+	"description": "",
+	"sort": 0,
+	"color": "#166a32",
+	"flags": {
+		"scene-packer": {
+			"hash": "a1fb06015c673cd468022ff36beee13b34f25a17"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": 1783535072295,
+		"modifiedTime": 1783535072295,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"_key": "!folders!7PRiBQRRAO2uBoAK"
+}

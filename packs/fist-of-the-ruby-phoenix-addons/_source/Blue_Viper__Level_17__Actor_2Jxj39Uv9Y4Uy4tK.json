@@ -1,0 +1,3328 @@
+{
+	"folder": "3jrHM6J5EoxKtaUJ",
+	"img": "modules/pf2e-tokens-characters/assets/portraits/diguo-dashan-alchemist.webp",
+	"items": [
+		{
+			"_id": "PBUfX3wQpH209Pyh",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.7tKkkF8eZ4iCLJtp",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"img": "icons/weapons/swords/sword-guard-purple.webp",
+			"name": "Shortsword",
+			"sort": 500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>These blades come in a variety of shapes and styles, but they are typically 2 feet long.</p>"
+				},
+				"rules": [],
+				"slug": "shortsword",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"finesse",
+						"versatile-s"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "shortsword",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 9
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "martial",
+				"group": "sword",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d6",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "vqJxIQL873yU5LDb",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.dDIPA1WE9ESF67EB",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "icons/equipment/chest/shirt-collared-pink.webp",
+			"name": "Explorer's Clothing",
+			"sort": 600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Adventurers who don't wear armor travel in durable clothing. Though it's not armor and uses your unarmored defense proficiency, it still has a Dex Cap and can grant an item bonus to AC if etched with potency runes.</p>"
+				},
+				"rules": [],
+				"slug": "explorers-clothing",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"comfort"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "explorers-clothing",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 1
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"handsHeld": 0,
+					"inSlot": true
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "unarmored",
+				"group": "cloth",
+				"acBonus": 0,
+				"strength": null,
+				"dexCap": 5,
+				"checkPenalty": 0,
+				"speedPenalty": 0,
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"resilient": 1,
+					"property": []
+				},
+				"subitems": []
+			},
+			"type": "armor",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "sxPUOzRcSJZGAeNw",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "PBUfX3wQpH209Pyh"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Shortsword",
+			"sort": 1500000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 31
+				},
+				"damageRolls": {
+					"p070swe92zp7xin5ks1i": {
+						"damage": "3d6+16",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"finesse",
+						"magical",
+						"versatile-s"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "LF5gi4818bCXaIHR",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Infused Items",
+			"sort": 2000000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>Blue Viper carries the following infused items: 2 @UUID[Compendium.pf2e.equipment-srd.Item.jC8GmH0Un6vDxdMj]{Acid Flask (Greater)}, 4 @UUID[Compendium.pf2e.equipment-srd.Item.n5yTlTs63o53n3k6]{Alchemist's Fire (Greater)}, 6 @UUID[Compendium.pf2e.equipment-srd.Item.Cc4SokzVBoBCkHId]{Blightburn Resin}, 4 @UUID[Compendium.pf2e.equipment-srd.Item.r2iTRbt1zpkAqHj2]{Bottled Lightning (Greater)}, 3 @UUID[Compendium.pf2e.equipment-srd.Item.87AzvRja9uQOLJCC]{Deathcap Powder}, 4 @UUID[Compendium.pf2e.equipment-srd.Item.mYozcVg9fQY6zO7C]{Elixir of Life (Greater)}, 2 @UUID[Compendium.pf2e.equipment-srd.Item.intVPcEzbE9o4NQd]{Frost Vial (Greater)}, 3 @UUID[Compendium.pf2e.equipment-srd.Item.76T49dJYfxIrPvQe]{Malyass Root Paste}, 9 @UUID[Compendium.pf2e.equipment-srd.Item.iRDCa4OVSTGUD3vi]{Purple Worm Venom}, 6 @UUID[Compendium.pf2e.equipment-srd.Item.Wjkw0lEUOhypYvzo]{Shadow Essence}, and 3 @UUID[Compendium.pf2e.equipment-srd.Item.oOXvk18K4izaJzG7]{Spider Root}. These items last for 24 hours, or until the next time Blue Viper makes his daily preparations.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "aT1K6zkwI73D4tJ8",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Poisoned Coat",
+			"sort": 2100000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> A creature adjacent to Blue Viper hits him with a melee unarmed Strike.</p><hr><p><strong>Effect</strong> The triggering creature is exposed to @UUID[Compendium.pf2e.equipment-srd.mamIdMfPguGM8QV7]{Weeping Midnight}. This consumes the poison, and Blue Viper can't use Poisoned Coat again until he spends 10 minutes applying one dose of contact or injury poison to his clothing.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "G1wu8KW1gALb7KbD",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Pinpoint Poisoner",
+			"sort": 2200000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>When Blue Viper successfully Strikes an @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creature with a poisoned weapon or exposes an off-guard creature to an inhaled poison, the creature takes a -2 circumstance penalty to its initial save against that poison.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"selector": [
+							"attack"
+						],
+						"title": "{item|name}",
+						"outcome": [
+							"success",
+							"criticalSuccess"
+						],
+						"predicate": [
+							"target:condition:off-guard"
+						],
+						"text": "{item|description}"
+					}
+				],
+				"slug": "pinpoint-poisoner",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Tt37ijMg1fiX7fGx",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Poison Spray",
+			"sort": 2300000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Requirements</strong> Blue Viper is holding a contact or injury poison.</p>\n<hr>\n<p><strong>Effect</strong> Blue Viper swigs the poison and sprays it out of his mouth, affecting a @Template[cone|distance:15]. Blue Viper isn't exposed to the poison. All creatures in the cone are immediately exposed to the poison and each creature must attempt a Fortitude save against the poison.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "rbtSqixbTXvvcmJc",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Potent Poisoner",
+			"sort": 2400000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Blue Viper's infused poisons have a DC of 38.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "AdjustModifier",
+						"mode": "upgrade",
+						"predicate": [
+							"item:trait:infused",
+							"item:trait:poison"
+						],
+						"selector": "inline-dc",
+						"value": 28
+					}
+				],
+				"slug": "potent-poisoner",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "UUgL7mamcQM9PkU0",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Quick Application",
+			"sort": 2500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Blue Viper Interacts to draw an injury poison and applies it to a weapon he is holding.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"manipulate"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "KNsjthb0m0ASdoMo",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Toxic Escape",
+			"sort": 2600000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Blue Viper Interacts to draw an inhaled poison, deploys the poison in a smoke cloud that provides concealment in a @Template[emanation|distance:5], then @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneaks} up to his Speed. He is not exposed to the inhaled poison.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"manipulate"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+			"name": "Weeping Midnight",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Alchemists have refined the devastatingly allergenic pollen of the widow orchid to create this venom, which swiftly causes the victim's eyes to leak mucus and swell shut.</p>\n<hr>\n<p><strong>Activate</strong> <span class=\"action-glyph\">3</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:36]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[6d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[7d6[poison]] damage, dazzled, and @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[8d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} (1 round)</p>"
+				},
+				"rules": [],
+				"slug": "weeping-midnight",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"infused",
+						"injury",
+						"poison"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "Pathfinder #149: Against the Scarlet Triad",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 16
+				},
+				"quantity": 5,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 1400
+					}
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Liquid",
+						"img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "poison",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.mamIdMfPguGM8QV7",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "O8WlIBkTOT556SFj",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+			"name": "Weeping Midnight (Applied to Body)",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Alchemists have refined the devastatingly allergenic pollen of the widow orchid to create this venom, which swiftly causes the victim's eyes to leak mucus and swell shut.</p>\n<hr>\n<p><strong>Activate</strong> <span class=\"action-glyph\">3</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:36]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[6d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[7d6[poison]] damage, dazzled, and @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[8d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded} (1 round)</p>"
+				},
+				"rules": [],
+				"slug": "weeping-midnight",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"infused",
+						"injury"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "Pathfinder #149: Against the Scarlet Triad",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 16
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 1400
+					},
+					"per": 1
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Liquid",
+						"img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "poison",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.mamIdMfPguGM8QV7",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "p9Q79D88TztxDKHM",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "icons/tools/laboratory/mortar-powder-green.webp",
+			"name": "Brimstone Fumes",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Fumes from the forges of Hell drain health and strength alike.</p>\n<hr>\n<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> (manipulate)</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:36]</p>\n<p><strong>Onset</strong> 1 round</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[7d8[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[8d8[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[10d8[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 3} (1 round)</p>"
+				},
+				"rules": [],
+				"slug": "brimstone-fumes",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"infused",
+						"inhaled",
+						"poison"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder GM Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 16
+				},
+				"quantity": 6,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 1500
+					}
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Substance",
+						"img": "icons/tools/laboratory/mortar-powder-green.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "poison",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.9nhvZ7VnDQHuyBdf",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "V3wnU3PKOvv2W05e",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-poisons/cerulean-scourge.webp",
+			"name": "Cerulean Scourge",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> (manipulate)</p><hr><p>This poison is infamous for making the victim's blood vessels glow with a bright blue light before painfully bursting.</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:37]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[10d6[poison]] damage (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[12d6[poison]] damage (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[14d6[poison]] damage (1 round)</p>"
+				},
+				"rules": [],
+				"slug": "cerulean-scourge",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"infused",
+						"injury",
+						"poison"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 16
+				},
+				"quantity": 9,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 1450
+					},
+					"per": 1
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Liquid",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-poisons/cerulean-scourge.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "poison",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-two-hands"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.9hdT05ywPVyh9vQX",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "eLQKHk9utelqi7S4",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-poisons/death-knell-powder.webp",
+			"name": "Execution Powder",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> (manipulate)</p><hr><p>The spores of a certain mushrooms, if carefully collected and suspended in a properly mixed alchemical fluid, can kill those near death. If a creature is reduced to 0 Hit Points while under the effect of execution powder, it must succeed at a @Check[will|dc:34] save or die (this is a death effect). If a creature dies from execution powder, the spores from their last breath alight on a random creature adjacent to the victim, granting that creature 20 temporary Hit Points and a +1 status bonus to attack and damage rolls for 10 minutes.</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:34]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[7d6[poison]] damage (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[9d6[poison]] damage (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[12d6[poison]] damage (1 round)</p>"
+				},
+				"rules": [],
+				"slug": "execution-powder",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"infused",
+						"injury",
+						"poison"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "Pathfinder Treasure Vault (Remastered)",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 14
+				},
+				"quantity": 3,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 625
+					}
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Liquid",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-poisons/death-knell-powder.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "poison",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.8qUja4YdvewN4es0",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "Ea7EWsqq5nOnEeqW",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/elixir-of-life.webp",
+			"name": "Elixir of Life (Major)",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> (manipulate)</p><hr><p>Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain @Damage[(8d6+21)[healing]] Hit Points and gain +3 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.lPRuIRbu0rHBkoKY]{Effect: Elixir of Life}</p>"
+				},
+				"rules": [],
+				"slug": "elixir-of-life-major",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"elixir",
+						"healing",
+						"infused"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder GM Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 15
+				},
+				"quantity": 4,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 1300
+					}
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Liquid",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/elixir-of-life.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "elixir",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": {
+					"formula": "8d6+21",
+					"kind": "healing",
+					"type": "untyped"
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.AmxSqEoFhRLMYd1W",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "MOs8NtyIYTmjFbCd",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-poisons/mage-bane.webp",
+			"name": "Mage Bane",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Upon being mixed and injected into the bloodstream, this powder of the crimson orchid quickly assaults the brain and nerves, disrupting the victim's ability to piece together coherent thoughts and spells.</p>\n<hr>\n<p><strong>Activate</strong> <span class=\"action-glyph\">3</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:32]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[2d6[mental]] damage and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[3d6[mental]] damage and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 3} (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[4d6[mental]] damage and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 4} (1 round)</p>"
+				},
+				"rules": [],
+				"slug": "mage-bane",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"infused",
+						"injury",
+						"poison"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "Pathfinder #149: Against the Scarlet Triad",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 12
+				},
+				"quantity": 3,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 325
+					}
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Liquid",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-poisons/mage-bane.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "poison",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.8uyRlAkWdEyfOziq",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "BOdI6SEyQ2ret8gv",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-poisons/nightmare-vapor.webp",
+			"name": "Nightmare Vapor",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Purportedly sourced from any number of outlandish locales, nightmare vapor is most often created by boiling the sweat collected from humanoids caught in the throes of terrible nightmares.</p>\n<hr>\n<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Interact (Inhaled)</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:36]</p>\n<p><strong>Onset</strong> 1 round</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} (1 round)</p>\n<p><strong>Stage 2</strong> confused and @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} (1 round)</p>\n<p><strong>Stage 3</strong> confused, off-guard, and @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} (1 round)</p>"
+				},
+				"rules": [],
+				"slug": "nightmare-vapor",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"infused",
+						"inhaled",
+						"poison"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 16
+				},
+				"quantity": 6,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 1400
+					}
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Substance",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-poisons/nightmare-vapor.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "poison",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.X6vNtRjyHIuN7vqj",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "jZBj00JaSprlX6sO",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "icons/consumables/potions/bottle-conical-corked-purple.webp",
+			"name": "Cave Worm Venom",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">2</span> (manipulate)</p><hr><p>Venom from enormous cave worms leaves a victim weakened.</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:32]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[5d6[poison]] damage and @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round)</p>\n<p><strong>Stage 2</strong> @Damage[6d6[poison]] damage and enfeebled 2 (1 round)</p>\n<p><strong>Stage 3</strong> @Damage[8d6[poison]] damage and enfeebled 2 (1 round)</p>"
+				},
+				"rules": [],
+				"slug": "cave-worm-venom",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"infused",
+						"injury",
+						"poison"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 12
+				},
+				"quantity": 3,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 500
+					}
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Liquid",
+						"img": "icons/consumables/potions/bottle-conical-corked-purple.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "poison",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-two-hands"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.iRDCa4OVSTGUD3vi",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "gxFyBzmDAWI5tYDy",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/acid-flask.webp",
+			"name": "Acid Flask (Major)",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<hr>\n<p>This flask filled with corrosive acid deals 1 acid damage, 4d6 persistent acid damage, and 4 acid splash damage. You gain a +3 item bonus to attack rolls.</p>"
+				},
+				"rules": [],
+				"slug": "acid-flask-major",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"acid",
+						"alchemical",
+						"bomb",
+						"consumable",
+						"infused",
+						"splash"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder GM Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 17
+				},
+				"quantity": 2,
+				"baseItem": "alchemical-bomb",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2500
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Alchemical Bomb",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/acid-flask.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					}
+				},
+				"usage": {
+					"value": "held-in-one-hand",
+					"canBeAmmo": false
+				},
+				"category": "martial",
+				"group": "bomb",
+				"bonus": {
+					"value": 3
+				},
+				"damage": {
+					"dice": 1,
+					"die": "",
+					"damageType": "acid",
+					"persistent": {
+						"faces": 6,
+						"number": 4,
+						"type": "acid"
+					}
+				},
+				"splashDamage": {
+					"value": 4
+				},
+				"range": 20,
+				"expend": 1,
+				"ammo": {
+					"builtIn": false,
+					"baseType": null
+				},
+				"reload": {
+					"value": "-"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 0,
+					"striking": 0,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.GttLYMT2welSpwCd",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "SXJ6AHwj4hSGwgIb",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/alchemists-fire.webp",
+			"name": "Alchemist's Fire (Major)",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p>\n<hr>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 4d8 fire damage, 4 persistent fire damage, and 4 fire splash damage. You gain a +3 item bonus to attack rolls.</p>"
+				},
+				"rules": [],
+				"slug": "alchemists-fire-major",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"bomb",
+						"consumable",
+						"fire",
+						"infused",
+						"splash"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder GM Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 17
+				},
+				"quantity": 4,
+				"baseItem": "alchemical-bomb",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2500
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Alchemical Bomb",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/alchemists-fire.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					}
+				},
+				"usage": {
+					"value": "held-in-one-hand",
+					"canBeAmmo": false
+				},
+				"category": "martial",
+				"group": "bomb",
+				"bonus": {
+					"value": 3
+				},
+				"damage": {
+					"dice": 4,
+					"die": "d8",
+					"damageType": "fire",
+					"persistent": {
+						"faces": null,
+						"number": 4,
+						"type": "fire"
+					}
+				},
+				"splashDamage": {
+					"value": 4
+				},
+				"range": 20,
+				"expend": 1,
+				"ammo": {
+					"builtIn": false,
+					"baseType": null
+				},
+				"reload": {
+					"value": "-"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 0,
+					"striking": 0,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.cLZrOihPht5M7eTw",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "VQ4dZrgUT8RTNnwK",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/bottled-lightning.webp",
+			"name": "Bottled Lightning (Major)",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">A</span> Strike</p><hr><p>Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 4d6 electricity damage and 4 electricity splash damage. On a hit, the target becomes @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the start of your next turn. You gain a +3 item bonus to attack rolls.</p>"
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"selector": "{item|_id}-damage",
+						"text": "PF2E.BombNotes.BottledLightning.Major.success"
+					}
+				],
+				"slug": "bottled-lightning-major",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"bomb",
+						"consumable",
+						"electricity",
+						"infused",
+						"splash"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 17
+				},
+				"quantity": 4,
+				"baseItem": "alchemical-bomb",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2500
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Alchemical Bomb",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/bottled-lightning.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					}
+				},
+				"usage": {
+					"value": "held-in-one-hand",
+					"canBeAmmo": false
+				},
+				"category": "martial",
+				"group": "bomb",
+				"bonus": {
+					"value": 3
+				},
+				"damage": {
+					"dice": 4,
+					"die": "d6",
+					"damageType": "electricity",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 4
+				},
+				"range": 20,
+				"expend": 1,
+				"ammo": {
+					"builtIn": false,
+					"baseType": null
+				},
+				"reload": {
+					"value": "-"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 0,
+					"striking": 0,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.rpbbfkexLhtadBDV",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "if66k8RzXbXOcq0N",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/frost-vial.webp",
+			"name": "Frost Vial (Major)",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> Strike</p><hr><p>The bright blue liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals 4d6 cold damage and 4 cold splash damage. On a hit, the target takes a –15-foot status penalty to its Speeds until the end of its next turn. You gain a +3 item bonus to attack rolls.</p>\n<p>@UUID[Compendium.pf2e.equipment-effects.Item.LdmzgBOTjCete4F7]{Effect: Frost Vial}</p>"
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"selector": "{item|_id}-damage",
+						"text": "PF2E.BombNotes.FrostVial.Major.success"
+					}
+				],
+				"slug": "frost-vial-major",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"bomb",
+						"cold",
+						"consumable",
+						"infused",
+						"splash"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 17
+				},
+				"quantity": 2,
+				"baseItem": "alchemical-bomb",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2500
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Alchemical Bomb",
+						"img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/frost-vial.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					}
+				},
+				"usage": {
+					"value": "held-in-one-hand",
+					"canBeAmmo": false
+				},
+				"category": "martial",
+				"group": "bomb",
+				"bonus": {
+					"value": 3
+				},
+				"damage": {
+					"dice": 4,
+					"die": "d6",
+					"damageType": "cold",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 4
+				},
+				"range": 20,
+				"expend": 1,
+				"ammo": {
+					"builtIn": false,
+					"baseType": null
+				},
+				"reload": {
+					"value": "-"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 0,
+					"striking": 0,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.4DJQID8GIlxQ7b9C",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "2uGYyOH2OsLMZJZm",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "icons/consumables/potions/vial-cork-green.webp",
+			"name": "Breathtaking Vapor",
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Activate</strong> <span class=\"action-glyph\">1</span> (manipulate)</p><hr><p>This colorless mist has a mild, waxy scent that precedes acute shortness of breath. Creatures that don't need to breathe can still take the poison's damage but are immune to its other effects.</p>\n<p><strong>Saving Throw</strong> @Check[fortitude|dc:38]</p>\n<p><strong>Onset</strong> 1 round</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> @Damage[6d6[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}, and can't breathe</p>\n<p><strong>Stage 2</strong> @Damage[8d6[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2}, and reduce remaining air by 1 additional round</p>\n<p><strong>Stage 3</strong> @Damage[10d6[poison]] damage, @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 3}, and reduce remaining air by 2 additional rounds</p>"
+				},
+				"rules": [],
+				"slug": "breathtaking-vapor",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"alchemical",
+						"consumable",
+						"infused",
+						"inhaled",
+						"poison"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "Pathfinder Treasure Vault (Remastered)",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 17
+				},
+				"quantity": 3,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 3000
+					},
+					"per": 1
+				},
+				"equipped": {
+					"carryType": "worn"
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Substance",
+						"img": "icons/consumables/potions/vial-cork-green.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					}
+				},
+				"category": "poison",
+				"uses": {
+					"value": 1,
+					"max": 1,
+					"autoDestroy": true
+				},
+				"damage": null,
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"spell": null
+			},
+			"type": "consumable",
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.H20eUVst7rgwhUb6",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "pZEJUUB0KvvJ4T03",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "qnCLqFrrnBACFh0d",
+			"name": "Acid Flask (Major)",
+			"type": "melee",
+			"system": {
+				"slug": "acid-flask-major",
+				"bonus": {
+					"value": 33
+				},
+				"damageRolls": {
+					"aHG31FQqdzW0rKny": {
+						"damage": "4",
+						"damageType": "acid",
+						"category": null
+					},
+					"6PULWzZkT1NrdJFW": {
+						"damage": "4",
+						"damageType": "acid",
+						"category": "splash"
+					},
+					"otY1Ig0LE4LJxVxn": {
+						"damage": "4d6",
+						"damageType": "acid",
+						"category": "persistent"
+					}
+				},
+				"traits": {
+					"value": [
+						"bomb",
+						"consumable",
+						"infused",
+						"splash"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"rules": [],
+				"range": {
+					"increment": 20,
+					"max": null
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.2.0"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"attackEffects": {
+					"value": []
+				},
+				"subjectToMAP": true
+			},
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "SXJ6AHwj4hSGwgIb"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "6wBi9uLdr3hzE04I",
+			"name": "Alchemist's Fire (Major)",
+			"type": "melee",
+			"system": {
+				"slug": "alchemists-fire-major",
+				"bonus": {
+					"value": 33
+				},
+				"damageRolls": {
+					"4hr2Xf2ta06cxqK9": {
+						"damage": "4d8+9",
+						"damageType": "fire",
+						"category": null
+					},
+					"kQl92FA1jBjqN679": {
+						"damage": "4",
+						"damageType": "fire",
+						"category": "splash"
+					},
+					"zscpOdX39ui2IcKH": {
+						"damage": "4",
+						"damageType": "fire",
+						"category": "persistent"
+					}
+				},
+				"traits": {
+					"value": [
+						"bomb",
+						"consumable",
+						"infused",
+						"splash"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"rules": [],
+				"range": {
+					"increment": 20,
+					"max": null
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.2.0"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"attackEffects": {
+					"value": []
+				},
+				"subjectToMAP": true
+			},
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "VQ4dZrgUT8RTNnwK"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "cheUTsW9yvADSXiJ",
+			"name": "Bottled Lightning (Major)",
+			"type": "melee",
+			"system": {
+				"slug": "bottled-lightning-major",
+				"bonus": {
+					"value": 33
+				},
+				"damageRolls": {
+					"vqxsDDbyxLLphIp6": {
+						"damage": "4d6+9",
+						"damageType": "electricity",
+						"category": null
+					},
+					"8R6VEkU24n6RuTw4": {
+						"damage": "4",
+						"damageType": "electricity",
+						"category": "splash"
+					}
+				},
+				"traits": {
+					"value": [
+						"bomb",
+						"consumable",
+						"infused",
+						"splash"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"selector": "{item|_id}-damage",
+						"text": "PF2E.BombNotes.BottledLightning.Major.success"
+					}
+				],
+				"range": {
+					"increment": 20,
+					"max": null
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.2.0"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"attackEffects": {
+					"value": []
+				},
+				"subjectToMAP": true
+			},
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "if66k8RzXbXOcq0N"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "AUTz5MuxEnGcs6wU",
+			"name": "Frost Vial (Major)",
+			"type": "melee",
+			"system": {
+				"slug": "frost-vial-major",
+				"bonus": {
+					"value": 33
+				},
+				"damageRolls": {
+					"77lbxQq362LUe1kV": {
+						"damage": "4d6+9",
+						"damageType": "cold",
+						"category": null
+					},
+					"L49Tbs2WNROs4K7M": {
+						"damage": "4",
+						"damageType": "cold",
+						"category": "splash"
+					}
+				},
+				"traits": {
+					"value": [
+						"bomb",
+						"consumable",
+						"infused",
+						"splash"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"selector": "{item|_id}-damage",
+						"text": "PF2E.BombNotes.FrostVial.Major.success"
+					}
+				],
+				"range": {
+					"increment": 20,
+					"max": null
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.2.0"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"attackEffects": {
+					"value": []
+				},
+				"subjectToMAP": true
+			},
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "2uGYyOH2OsLMZJZm"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Exploitive Bomb",
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"description": {
+					"value": "<p>You can mix a refractile substance into an alchemical bomb to foil resistances. Choose one damage type the bomb can deal. Any damage dealt by the bomb—including initial, splash, and persistent damage—ignores an amount of that resistance equal to your level.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"predicate": [
+							"alchemical",
+							"bomb",
+							"explotive-bomb"
+						],
+						"selector": "attack-roll",
+						"text": "The bomb reduces one resistance the enemy has to its damage type by an amount equal to your level, but only for that attack.",
+						"title": "{item|name}"
+					},
+					{
+						"domain": "attack-roll",
+						"key": "RollOption",
+						"option": "exploitive-bomb",
+						"toggleable": true
+					}
+				],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.2.0"
+					}
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "Hzz0F04xEB0JbUhf",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Quick Bomber",
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"description": {
+					"value": "<p>You keep your bombs and bomb-related reagents in easy-toreach pouches from which you draw without thinking. You Interact to draw a bomb, draw a versatile vial, or use @UUID[Compendium.pf2e.actionspf2e.Item.yzNJgwzV9XqEhKc6]{Quick Alchemy} to create a bomb, then @UUID[Compendium.pf2e.actionspf2e.Item.VjxZFuUXrCU94MWR]{Strike} with the bomb. If you have the ability to create more than one bomb at a time with Quick Alchemy (such as from the double brew class feature), you can Strike with only one of the bombs you create with this action.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": "quick-bomber",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.2.0"
+					}
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": null,
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "GsKbBtVFQSzff8jn",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Double Poison",
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"description": {
+					"value": "<p>You can apply two different infused injury poisons to the same weapon, though not to a piece of ammunition. Each poison's level must be 2 or more levels lower than your level. You have to apply the two poisons individually. Once you've applied both, the poisons merge into a double poison that uses the lower of the two poisons' DCs and number of stages. If the poisons require different types of saving throws (such as Fortitude and Will), choose which of them the double poison uses. This double poison is virulent only if both poisons were virulent. Combine the effects of each stage of the poison on any creature affected by it. For each stage of the poison, use the effects of both poisons and the longer interval for that stage among the two poisons.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.2.0"
+					}
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "UK4cw4ffoBqq6Uqp",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Pernicious Poison",
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"description": {
+					"value": "<p>You can add a toxic additive to an alchemical poison to make it splash poison on its target. A poison with this additive deals an amount of poison damage equal to the poison's level if the target succeeds at its initial saving throw against it. A target that critically succeeds at its saving throw against this poison still takes no damage.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"key": "ItemAlteration",
+						"mode": "add",
+						"property": "description",
+						"itemType": "consumable",
+						"definition": [
+							"item:trait:poison"
+						],
+						"value": [
+							{
+								"text": "The target takes @Damage[@item.level[poison]] if they succeed the initial saving throw"
+							}
+						]
+					}
+				],
+				"slug": "passive",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": null,
+						"foundry": "14.364",
+						"system": "8.2.0"
+					}
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "7j2cmdetXttlhOYU",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Blue Viper (Level 17)",
+	"prototypeToken": {
+		"name": "Blue Viper",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/diguo-dashan-alchemist.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 2,
+			"scaleY": 2,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 2,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/diguo-dashan-alchemist.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			},
+			"image-hover": {
+				"hideArt": false,
+				"specificArt": "path/image.png"
+			},
+			"Rideable": {
+				"issetRideableFlag": true,
+				"MountonEnterFlag": false,
+				"AutoMountBlackListFlag": "",
+				"AutoMountWhiteListFlag": "",
+				"MaxRiderFlag": null,
+				"CustomRidingheightFlag": null,
+				"UseRidingHeightFlag": true,
+				"RidersScaleFlag": 1,
+				"RiderPositioningFlag": "RowPlacement",
+				"RiderOffsetFlag": [
+					0,
+					0
+				],
+				"TokenFormFlag": "TokenFormCircle",
+				"InsideMovementFlag": false,
+				"SpawnRidersFlag": "",
+				"WorldMEffectOverrideFlag": false,
+				"MountingEffectsFlag": "",
+				"SelfApplyEffectsFlag": false,
+				"forMountEffectsFlag": "",
+				"CanbePilotedFlag": false,
+				"CheckPilotedCollisionFlag": false,
+				"PilotedbyDefaultFlag": false
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 1
+	},
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 320,
+				"temp": 0,
+				"max": 320,
+				"details": ""
+			},
+			"ac": {
+				"value": 39,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 25,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"goblin",
+					"taldane",
+					"tien",
+					"ysoki"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 17
+			},
+			"blurb": "Male ysoki poisoner",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 6
+			},
+			"int": {
+				"mod": 10
+			},
+			"wis": {
+				"mod": 6
+			},
+			"cha": {
+				"mod": 5
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 26,
+			"senses": [
+				{
+					"type": "low-light-vision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 32,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 30,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 25,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 32,
+				"special": []
+			},
+			"athletics": {
+				"base": 23,
+				"special": []
+			},
+			"deception": {
+				"base": 26,
+				"special": []
+			},
+			"diplomacy": {
+				"base": 24,
+				"special": []
+			},
+			"stealth": {
+				"base": 30,
+				"special": []
+			},
+			"thievery": {
+				"base": 28,
+				"special": []
+			},
+			"crafting": {
+				"base": 36,
+				"special": []
+			},
+			"medicine": {
+				"base": 30,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"evil",
+				"humanoid",
+				"ratfolk"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "sm"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.SF6OlCfNiHvtJQjw",
+		"duplicateSource": "Actor.00W1PQZc88015h90",
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"sort": 100000,
+	"flags": {},
+	"_id": "2Jxj39Uv9Y4Uy4tK",
+	"ownership": {
+		"default": 0
+	}
+}

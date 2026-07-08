@@ -1,0 +1,75 @@
+{
+	"folder": "BgN6BAJYJVSKiQC8",
+	"name": "Blessing of Kantiyani",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"description": {
+			"value": "<p><span style=\"\\'font-family:Signika,\"><span style=\"font-family:Signika,\"><em>Granted by Kantiyani, the Taumatan god of charity, feasts, and cooks, for honoring them by preparing and consuming a meal at their shrine.</em></span></span></p><hr /><p><span style=\"\\'font-family:Signika,\"><span style=\"font-family:Signika,\">For the duration of your stay on Bonmu, you only have to eat a single meal per day to receive a full day’s worth of nourishment.</span></span></p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"slug": null,
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": -1,
+			"unit": "unlimited",
+			"expiry": null,
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": false
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"img": "icons/tools/cooking/mortar-black.webp",
+	"sort": 0,
+	"flags": {
+		"pf2e": {
+			"rulesSelections": {},
+			"itemGrants": {}
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": "Item.YMgvOh3nRozWbLTq",
+		"exportSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1758837990268,
+		"modifiedTime": 1764619842273,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	},
+	"_id": "nWcd3TI8ra21WZt5",
+	"ownership": {
+		"default": 0
+	}
+}

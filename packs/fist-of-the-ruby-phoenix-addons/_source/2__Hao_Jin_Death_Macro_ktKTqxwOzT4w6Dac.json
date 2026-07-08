@@ -1,0 +1,36 @@
+{
+	"name": "2. Hao Jin Death",
+	"type": "script",
+	"flags": {
+		"advanced-macros": {
+			"runForSpecificUser": ""
+		},
+		"macro-wheel": {
+			"activeCondition": ""
+		},
+		"scene-packer": {
+			"hash": "68ea1a0b2cacb8fc66429fb7418dabad23d28bcd"
+		}
+	},
+	"command": "// Animation for Hao Jin's death\n// requires `Sequencer`\n// Recommends `JB2a Patreon` for any visual effects\n// Select the token that Kills her and then target her\ngame.rubyPhoenixAddons.api.animation.chapter_3.haoJinDeath();",
+	"img": "icons/magic/death/grave-tombstone-glow-teal.webp",
+	"_id": "ktKTqxwOzT4w6Dac",
+	"author": "vj8VUT8j7Wtzy3Y2",
+	"scope": "global",
+	"folder": "Wm9fEVTcLSfCDLdt",
+	"sort": 50000,
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.12.1",
+		"createdTime": 1747715905114,
+		"modifiedTime": 1761544812725,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"ownership": {
+		"default": 0
+	}
+}

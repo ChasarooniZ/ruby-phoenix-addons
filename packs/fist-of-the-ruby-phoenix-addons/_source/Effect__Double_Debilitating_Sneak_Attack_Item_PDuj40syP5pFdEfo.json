@@ -1,0 +1,85 @@
+{
+	"_id": "PDuj40syP5pFdEfo",
+	"img": "icons/skills/melee/strike-sword-blood-red.webp",
+	"name": "Effect: Double Debilitating Sneak Attack",
+	"system": {
+		"description": {
+			"value": "<p>You become enfeebled 1 and take a –10-foot status penalty to your Speeds.</p>",
+			"gm": ""
+		},
+		"duration": {
+			"expiry": "turn-end",
+			"sustained": false,
+			"unit": "rounds",
+			"value": 1
+		},
+		"fromSpell": false,
+		"level": {
+			"value": 16
+		},
+		"publication": {
+			"license": "ORC",
+			"remaster": true,
+			"title": "Pathfinder NPC Core",
+			"authors": ""
+		},
+		"rules": [
+			{
+				"inMemoryOnly": true,
+				"key": "GrantItem",
+				"uuid": "Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7"
+			},
+			{
+				"key": "FlatModifier",
+				"predicate": [
+					"debilitating-sneak-attack:speed-penalty"
+				],
+				"selector": "all-speeds",
+				"type": "status",
+				"value": -10
+			}
+		],
+		"start": {
+			"initiative": null,
+			"value": 0
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"traits": {
+			"value": [],
+			"otherTags": []
+		},
+		"slug": "effect-debilitating-sneak-attack",
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"unidentified": false,
+		"badge": null,
+		"context": null
+	},
+	"type": "effect",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.bestiary-effects.Item.MIznUE9YmCI01ZMr",
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"folder": "JkFPP3wVqDtXliRa",
+	"sort": 700000,
+	"flags": {},
+	"ownership": {
+		"default": 0
+	}
+}

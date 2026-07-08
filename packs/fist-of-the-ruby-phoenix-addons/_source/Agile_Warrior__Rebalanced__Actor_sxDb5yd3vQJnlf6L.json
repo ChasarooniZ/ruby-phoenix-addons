@@ -1,0 +1,1377 @@
+{
+	"prototypeToken": {
+		"displayName": 0,
+		"displayBars": 0,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {
+				"tags": ""
+			},
+			"pf2e-rpg-numbers": {
+				"rotationOffset": 0,
+				"fireEmblemImg": "",
+				"personaImg": "",
+				"critOffsetX": 0,
+				"critOffsetY": 0,
+				"critScale": 100,
+				"critRotation": 0,
+				"critSFX": ""
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"name": "Agile Warrior",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/ghoran-rogue.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": true,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/ghoran-rogue.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"img": "modules/pf2e-tokens-characters/assets/portraits/ghoran-rogue.webp",
+	"items": [
+		{
+			"_id": "PRNcIjDIoK7sY69q",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/sai.webp",
+			"name": "Sai",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This piercing dagger is a metal spike flanked by a pair of prongs that can be used to trap an enemy's weapon.</p>"
+				},
+				"rules": [],
+				"slug": "sai",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"disarm",
+						"finesse",
+						"monk",
+						"versatile-b"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "sai",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 6
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "martial",
+				"group": "knife",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": null
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"striking": 1,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.u2u6dkr01AB34tyA",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "7UPZgB3A4NO10IyT",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/shuriken.webp",
+			"name": "Shuriken",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This \"throwing star\" is a small piece of flat metal with sharp edges, designed to be flung with a flick of the wrist.</p>"
+				},
+				"rules": [],
+				"slug": "shuriken",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"monk",
+						"thrown"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 5,
+				"baseItem": "shuriken",
+				"bulk": {
+					"value": 0
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"cp": 1
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "martial",
+				"group": "dart",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": null
+				},
+				"range": 20,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": "0"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"striking": 1,
+					"property": [
+						"returning"
+					]
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.fjkwYZ0hRmBztwBG",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "RsNCiBAzmuBGPHsC",
+			"flags": {
+				"core": {}
+			},
+			"img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+			"name": "Leather Armor",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.</p>"
+				},
+				"rules": [],
+				"slug": "leather-armor",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "leather-armor",
+				"bulk": {
+					"value": 1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"handsHeld": 0,
+					"inSlot": true
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "light",
+				"group": "leather",
+				"acBonus": 1,
+				"strength": 0,
+				"dexCap": 4,
+				"checkPenalty": -1,
+				"speedPenalty": 0,
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"resilient": 1,
+					"property": []
+				},
+				"subitems": []
+			},
+			"type": "armor",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.4tIVTg9wj56RrveA",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "NpbzwtQE8D7BOqwM",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "PRNcIjDIoK7sY69q"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Sai",
+			"sort": 400000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 27
+				},
+				"damageRolls": {
+					"xi2xq78w16ifoljv0gg0": {
+						"damage": "3d4+14",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"disarm",
+						"finesse",
+						"magical",
+						"monk",
+						"versatile-b"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "mHBIr8Vf7HQuv73H",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "7UPZgB3A4NO10IyT"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Shuriken",
+			"sort": 500000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 27
+				},
+				"damageRolls": {
+					"0wv2cc6mz91bnpn5gg3s": {
+						"damage": "3d4+17",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"magical",
+						"reload-0",
+						"thrown-20"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "LfYdKJKFMistfUrI",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Nimble Dodge",
+			"sort": 600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Trigger</strong> The agile warrior is targeted with a melee or ranged attack by an attacker they can see.</p>\n<hr />\n<p><strong>Effect</strong> The agile warrior gains a +2 circumstance bonus to AC against the triggering attack.</p>"
+				},
+				"rules": [
+					{
+						"domain": "ac",
+						"key": "RollOption",
+						"option": "nimble-dodge",
+						"toggleable": true
+					},
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"nimble-dodge"
+						],
+						"selector": "ac",
+						"type": "circumstance",
+						"value": 2
+					}
+				],
+				"slug": "nimble-dodge",
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "reaction"
+				},
+				"category": "defensive",
+				"actions": {
+					"value": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "LDICCpy7gURprIf5",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Deadly Disarm",
+			"sort": 700000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The agile warrior deals 2d6 precision damage to a creature on a successful Disarm attempt.</p>"
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"outcome": [
+							"criticalSuccess",
+							"success"
+						],
+						"predicate": [
+							"action:disarm"
+						],
+						"selector": "athletics",
+						"text": "{item|system.description.value}"
+					}
+				],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "passive"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "nbgJYAHNB8hArPvH",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Sneak Attack",
+			"sort": 800000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The agile warrior's Strikes deal an additional 3d6 extra precision damage to @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creatures.</p>"
+				},
+				"rules": [
+					{
+						"category": "precision",
+						"diceNumber": 3,
+						"dieSize": "d6",
+						"key": "DamageDice",
+						"predicate": [
+							"target:condition:off-guard"
+						],
+						"selector": "strike-damage"
+					},
+					{
+						"domain": "all",
+						"key": "RollOption",
+						"label": "PF2E.SpecificRule.TOTMToggle.OffGuard",
+						"option": "target:condition:off-guard",
+						"toggleable": "totm"
+					}
+				],
+				"slug": "sneak-attack",
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"publication": {
+					"title": "Pathfinder Bestiary",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "passive"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.AWvNPE4U0kEJSL1T",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "JB0CKNjT80RgxP1y",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Tumbling Attack",
+			"sort": 900000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The agile warrior Strides up to their Speed. During this movement, they can move through the space of one creature without triggering reactions. When the agile warrior moves through a creature's space in this way, that creature becomes @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the end of the agile warrior's turn. If the agile warrior ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy.</p>"
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "action"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": 2
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "FXmdnpVAfwGGAGZL",
+			"img": "systems/pf2e/icons/default-icons/lore.svg",
+			"name": "Any One Terrain Lore",
+			"sort": 1000000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"mod": {
+					"value": 22
+				},
+				"proficient": {
+					"value": 0
+				}
+			},
+			"type": "lore",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"folder": "0Z6sKp3ActW2pM2e",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Disarm",
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Requirements</strong> You have at least one hand free. The target can't be more than one size larger than you.</p><hr /><p>You try to knock an item out of a creature's grasp. Attempt an [[/act disarm]]{Athletics} check against the target's Reflex DC.</p><hr /><p><strong>Critical Success</strong> You knock the item out of the target's grasp. It falls to the ground in the target's space.</p>\n<p><strong>Success</strong> You weaken your target's grasp on the item. Further attempts to @UUID[Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9]{Disarm} the target of that item gain a +2 circumstance bonus, and the target takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item. The creature can end the effect by Interacting to change its grip on the item; otherwise, it lasts as long as the creature holds the item.</p>\n<p>@UUID[Compendium.pf2e.other-effects.Item.PuDS0DEq0CnaSIFV]{Effect: Disarm (Success)}</p>\n<p><strong>Critical Failure</strong> You lose your balance and become @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} until the start of your next turn.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "ORC",
+					"remaster": true,
+					"title": "Pathfinder Player Core",
+					"authors": ""
+				},
+				"rules": [],
+				"traits": {
+					"value": [
+						"attack"
+					],
+					"otherTags": []
+				},
+				"slug": "disarm",
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.actionspf2e.Item.Dt6B1slsBy8ipJu9",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.2",
+				"createdTime": 1747988866801,
+				"modifiedTime": 1747988866801,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "c94bea489f18bb3536314b63347f7ac23f37c3dd"
+				}
+			},
+			"_id": "j4hbwTkfngyWraKH",
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Agile Warrior (Rebalanced)",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 180,
+				"temp": 0,
+				"max": 180,
+				"details": ""
+			},
+			"ac": {
+				"value": 35,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 35,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"taldane",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 13
+			},
+			"blurb": "",
+			"publicNotes": "<p>The agile warrior uses their speed to jump around the battlefield and create openings. Making use of their Tumbling Attack, the agile warrior likes to spring back and forth between targets every round.</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #166: Despair on Danger Island",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 5
+			},
+			"con": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 2
+			},
+			"cha": {
+				"mod": 3
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 25,
+			"senses": [],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 22,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 26,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 21,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 28
+			},
+			"athletics": {
+				"base": 22
+			},
+			"deception": {
+				"base": 24
+			},
+			"stealth": {
+				"base": 26
+			}
+		},
+		"traits": {
+			"value": [
+				"human",
+				"humanoid"
+			],
+			"rarity": "uncommon",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.AxVNn9nyobosLEAq",
+		"duplicateSource": "Actor.RN60O9GUMpW5JVA7",
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1741754861026,
+		"modifiedTime": 1764619841237,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"flags": {
+		"core": {},
+		"scene-packer": {
+			"hash": "8c53bc8b8650b5dacba1acfe732360bffa4af395"
+		},
+		"pf2e-graphics": {
+			"effectiveSize": {
+				"enabled": false,
+				"size": 1
+			}
+		},
+		"pf2e-rpg-numbers": {
+			"version": "13.2.2",
+			"critical": {
+				"success": {
+					"default": {
+						"enabled": "default",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1,
+						"art": "",
+						"type": "default"
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				},
+				"failure": {
+					"default": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				}
+			},
+			"token": {
+				"rotation": {
+					"offset": 0
+				}
+			}
+		},
+		"pf2e": {
+			"rollOptions": {
+				"all": {
+					"self:type:npc": true,
+					"self:signature:f9f3224e-c2a6-5c65-9de5-3a029676c05a": true,
+					"self:creature": true,
+					"self:level:13": true,
+					"self:mode:living": true,
+					"self:trait:human": true,
+					"self:trait:humanoid": true,
+					"self:armored": true,
+					"armor:id:RsNCiBAzmuBGPHsC": true,
+					"armor:leather-armor": true,
+					"armor:slug:leather-armor": true,
+					"armor:trait:invested": true,
+					"armor:trait:magical": true,
+					"armor:rarity:common": true,
+					"armor:magical": true,
+					"armor:level:8": true,
+					"armor:equipped": true,
+					"armor:uninvested": true,
+					"armor:category:light": true,
+					"armor:group:leather": true,
+					"armor:base:leather-armor": true,
+					"armor:strength:0": true,
+					"armor:rune:potency": true,
+					"armor:rune:resilient": true,
+					"self:size:2": true,
+					"self:size:medium": true,
+					"hp-remaining:180": true,
+					"hp-percent:100": true,
+					"speed:land": true
+				},
+				"ac": {}
+			},
+			"trackedItems": {},
+			"lootable": false
+		}
+	},
+	"effects": [],
+	"folder": "5Aog1Jq4TJDlnbzK",
+	"sort": 300000,
+	"_id": "sxDb5yd3vQJnlf6L",
+	"ownership": {
+		"default": 0
+	}
+}

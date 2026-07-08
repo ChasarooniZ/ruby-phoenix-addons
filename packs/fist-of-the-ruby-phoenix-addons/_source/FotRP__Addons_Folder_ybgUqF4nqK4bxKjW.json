@@ -1,0 +1,26 @@
+{
+	"name": "FotRP: Addons",
+	"sorting": "a",
+	"folder": null,
+	"type": "Actor",
+	"_id": "ybgUqF4nqK4bxKjW",
+	"description": "",
+	"sort": 1200000,
+	"color": "#a91919",
+	"flags": {
+		"scene-packer": {
+			"hash": "6adca6e41a216310da6f16d8259ae166947eb5fb"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"exportSource": null
+	}
+}

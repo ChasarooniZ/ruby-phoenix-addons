@@ -1,0 +1,319 @@
+{
+	"folder": "PJYCYDBXTLotGMfZ",
+	"name": "Leaping Megaladons",
+	"type": "npc",
+	"prototypeToken": {
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": true
+			},
+			"image-hover": {
+				"hideArt": false,
+				"specificArt": "path/image.png"
+			},
+			"pf2e-visioner": {
+				"coverOverride": "auto",
+				"encounterMasterTokenId": "",
+				"visionMasterTokenId": ""
+			},
+			"Rideable": {
+				"issetRideableFlag": [
+					true,
+					true
+				],
+				"MountonEnterFlag": [
+					false,
+					false
+				],
+				"AutoMountBlackListFlag": [
+					"",
+					""
+				],
+				"AutoMountWhiteListFlag": [
+					"",
+					""
+				],
+				"MaxRiderFlag": [
+					null,
+					null
+				],
+				"CustomRidingheightFlag": [
+					null,
+					null
+				],
+				"UseRidingHeightFlag": [
+					true,
+					true
+				],
+				"RidersScaleFlag": [
+					1,
+					1
+				],
+				"RiderPositioningFlag": [
+					"RowPlacement",
+					"RowPlacement"
+				],
+				"RiderOffsetFlag": [
+					0,
+					0,
+					0,
+					0
+				],
+				"TokenFormFlag": [
+					"TokenFormCircle",
+					"TokenFormCircle"
+				],
+				"InsideMovementFlag": [
+					false,
+					false
+				],
+				"SpawnRidersFlag": [
+					"",
+					""
+				],
+				"WorldMEffectOverrideFlag": [
+					false,
+					false
+				],
+				"MountingEffectsFlag": [
+					"",
+					""
+				],
+				"SelfApplyEffectsFlag": [
+					false,
+					false
+				],
+				"forMountEffectsFlag": [
+					"",
+					""
+				],
+				"CanbePilotedFlag": [
+					false,
+					false
+				],
+				"CheckPilotedCollisionFlag": [
+					false,
+					false
+				],
+				"PilotedbyDefaultFlag": [
+					false,
+					false
+				]
+			}
+		},
+		"height": 2,
+		"width": 2,
+		"name": "Leaping Megaladons",
+		"displayName": 30,
+		"actorLink": false,
+		"texture": {
+			"src": "icons/creatures/fish/fish-marlin-swordfight-blue.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": false,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 0,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 1
+	},
+	"effects": [],
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 10,
+				"temp": 0,
+				"max": 10,
+				"details": ""
+			},
+			"ac": {
+				"value": 10,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 25,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [],
+				"details": ""
+			},
+			"level": {
+				"value": 13
+			},
+			"blurb": "",
+			"publicNotes": "<p><strong>Chase Points</strong> 7; <strong>Overcome</strong> @Check[ocean -lore|dc:29], @Check[Survival|dc:29],  @Check[nature|dc:31], @Check[intimidation|dc:36]</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			},
+			"cha": {
+				"mod": 0
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 0,
+			"senses": [],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 0,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 0,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 0,
+				"saveDetail": ""
+			}
+		},
+		"skills": {},
+		"traits": {
+			"value": [],
+			"rarity": "common",
+			"size": {
+				"value": "lg"
+			}
+		}
+	},
+	"img": "icons/creatures/fish/fish-marlin-swordfight-blue.webp",
+	"items": [],
+	"sort": 0,
+	"flags": {
+		"core": {
+			"sheetClass": "pf2e.SimpleNPCSheet"
+		}
+	},
+	"_stats": {
+		"compendiumSource": "Compendium.chas-shared-compendia.chas-actors.Actor.MTZSqszICQFx0QLs",
+		"duplicateSource": "Actor.NmzqHL21ZXYzsqyg",
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"_id": "MTZSqszICQFx0QLs",
+	"ownership": {
+		"default": 0
+	}
+}

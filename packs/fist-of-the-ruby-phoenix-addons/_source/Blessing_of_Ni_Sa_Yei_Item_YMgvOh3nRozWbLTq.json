@@ -1,0 +1,75 @@
+{
+	"folder": "BgN6BAJYJVSKiQC8",
+	"name": "Blessing of Ni-Sa-Yei",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"description": {
+			"value": "<p><em>Granted by Ni-Sa-Yei for honoring him by marking his shrine on your map of Bonmu, for Ni-Sa-Yei was the Taumatan god of maps, exploration, and foragers.</em></p><hr /><p>You always know the location of any sites you've already visited for the duration of your stay on Bonmu, even if you lose your map, get lost, or have your memories altered.</p>",
+			"gm": "<p>Consider changing this ability to \"Reduce the @UUID[Compendium.pf2e.actionspf2e.QIrJJ1pl4H6DctaQ]{Reconnoiter} cost of all hexes by 1 while on Bonmu Island\"</p>"
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [],
+		"slug": null,
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": -1,
+			"unit": "unlimited",
+			"expiry": null,
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": false
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"img": "icons/tools/navigation/compass-plain-blue.webp",
+	"sort": 0,
+	"flags": {
+		"pf2e": {
+			"rulesSelections": {},
+			"itemGrants": {}
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": "Item.z9oaNFBC05Y1Mu2P",
+		"exportSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1758837934950,
+		"modifiedTime": 1764619842273,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	},
+	"_id": "YMgvOh3nRozWbLTq",
+	"ownership": {
+		"default": 0
+	}
+}

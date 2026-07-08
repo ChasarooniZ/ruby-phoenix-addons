@@ -1,0 +1,132 @@
+{
+	"folder": "MdPAOhC1LVlRLkcD",
+	"name": "Effect: Pressure Point Attack (Failure)",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"description": {
+			"value": "<p>Granted by @UUID[Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.khAJHftnWe21eTm2]{Pressure Point Attack}</p><hr /><p>The target's muscles become temporarily weaker. For 1 minute, the target is @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{Enfeebled 2} and must succeed at a @Check[flat|dc:5] check when attempting to use actions with the manipulate trait or the action is lost.</p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"alterations": [
+					{
+						"mode": "override",
+						"property": "badge-value",
+						"value": 2
+					}
+				],
+				"key": "GrantItem",
+				"onDeleteActions": {
+					"grantee": "restrict"
+				},
+				"uuid": "Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7"
+			},
+			{
+				"itemType": "spell",
+				"key": "ItemAlteration",
+				"mode": "add",
+				"predicate": [
+					"item:trait:manipulate"
+				],
+				"property": "description",
+				"value": [
+					{
+						"text": "You must succeed at a @Check[flat|dc:5] check when attempting to use actions with the manipulate trait or this action is lost"
+					}
+				]
+			},
+			{
+				"itemType": "feat",
+				"key": "ItemAlteration",
+				"mode": "add",
+				"predicate": [
+					"item:trait:manipulate"
+				],
+				"property": "description",
+				"value": [
+					{
+						"text": "You must succeed at a @Check[flat|dc:5] check when attempting to use actions with the manipulate trait or this action is lost"
+					}
+				]
+			},
+			{
+				"itemType": "action",
+				"key": "ItemAlteration",
+				"mode": "add",
+				"predicate": [
+					"item:trait:manipulate"
+				],
+				"property": "description",
+				"value": [
+					{
+						"text": "You must succeed at a @Check[flat|dc:5] check when attempting to use actions with the manipulate trait or this action is lost"
+					}
+				]
+			}
+		],
+		"slug": "effect-pressure-point-attack-failure",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 14
+		},
+		"duration": {
+			"value": 1,
+			"unit": "minutes",
+			"expiry": "turn-start",
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"img": "icons/skills/wounds/anatomy-bone-joint.webp",
+	"sort": 0,
+	"flags": {
+		"pf2e": {
+			"rulesSelections": {},
+			"itemGrants": {}
+		}
+	},
+	"_stats": {
+		"compendiumSource": "Item.6NzhqF7DOCyc84OF",
+		"duplicateSource": "Item.6NzhqF7DOCyc84OF",
+		"exportSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1758088575449,
+		"modifiedTime": 1764619842273,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	},
+	"_id": "fJkU0HTMFYahDKks",
+	"ownership": {
+		"default": 0
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"folder": "nVDmNQhMVsSpiB0Z",
+	"name": "Toggle Crowd Favor Meter",
+	"type": "script",
+	"_id": "RASpj6h1wc93ANiS",
+	"img": "icons/skills/melee/maneuver-sword-katana-yellow.webp",
+	"scope": "global",
+	"command": "const exists = !!document.getElementById(\"crowd-favor\");\n\nif (exists) {\n  game.rubyPhoenixAddons.api.crowdFavor.delete();\n} else {\n  game.rubyPhoenixAddons.api.crowdFavor.create();\n}",
+	"sort": 0,
+	"flags": {
+		"advanced-macros": {
+			"runForSpecificUser": ""
+		}
+	},
+	"_stats": {
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"ownership": {
+		"default": 0
+	},
+	"author": "vj8VUT8j7Wtzy3Y2"
+}

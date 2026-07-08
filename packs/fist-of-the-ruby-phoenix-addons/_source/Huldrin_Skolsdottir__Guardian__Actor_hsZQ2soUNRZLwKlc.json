@@ -1,0 +1,1818 @@
+{
+	"folder": "H7fRbOq41XPhdYK0",
+	"img": "modules/pf2e-tokens-characters/assets/portraits/pc-bastion.webp",
+	"items": [
+		{
+			"_id": "BZVnw7QnddauAH4T",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.nSO0Z662LkkLfa2u",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/shield-spikes.webp",
+			"name": "Shield Spikes",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>These metal spikes are strategically placed on the defensive side of the shield to deal piercing damage with a shield bash.</p>"
+				},
+				"rules": [],
+				"slug": "shield-spikes",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"attached-to-shield"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "shield-spikes",
+				"bulk": {
+					"value": 0
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 5
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Shield Spikes",
+						"img": "systems/pf2e/icons/equipment/weapons/shield-spikes.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "martial",
+				"group": "shield",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d6",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Z1HJhg3MhcgvQ1Hj",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.FJrsDoaIXksVjld9",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/trident.webp",
+			"name": "Trident",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This three-pronged, spear-like weapon typically has a 4-foot shaft. Like a spear, it can be wielded with one hand or thrown.</p>"
+				},
+				"rules": [],
+				"slug": "trident",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"thrown-20"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "trident",
+				"bulk": {
+					"value": 1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 1
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Trident",
+						"img": "systems/pf2e/icons/equipment/weapons/trident.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand",
+					"canBeAmmo": false
+				},
+				"category": "martial",
+				"group": "spear",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d8",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": "-"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": [
+						"flaming",
+						"returning"
+					]
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "jiOzKPVNoaiFixck",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.rrnWORxT2Ch4pUFb",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"img": "systems/pf2e/icons/equipment/shields/specific-shields/sturdy-shield.webp",
+			"name": "Sturdy Shield (Greater)",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.</p><p>The shield has Hardness 15, HP 120, and BT 60.<br></p><p>Shields with a retaliation rune use the impact of weapons to generate blasts of explosive force that counterattack foes.</p><p><strong>Activate</strong> <span class=\"action-glyph\">F</span> envision</p><p><strong>Frequency</strong> once per hour</p><p><strong>Trigger</strong> You Shield Block a melee Strike</p><hr><p><strong>Effect</strong> You unleash force damage against the creature that made the triggering attack. This attack deals @Damage[12d4[force]] (@Check[reflex|dc:31|basic]).</p>"
+				},
+				"rules": [],
+				"slug": "sturdy-shield-greater",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"magical"
+					],
+					"rarity": "common",
+					"integrated": null
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 13
+				},
+				"quantity": 1,
+				"baseItem": "steel-shield",
+				"bulk": {
+					"value": 1
+				},
+				"hp": {
+					"value": 120,
+					"max": 120
+				},
+				"hardness": 15,
+				"price": {
+					"value": {
+						"gp": 3000
+					}
+				},
+				"equipped": {
+					"carryType": "held",
+					"handsHeld": 1,
+					"invested": null
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Steel Shield",
+						"img": "systems/pf2e/icons/equipment/shields/specific-shields/sturdy-shield.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"acBonus": 2,
+				"grade": null,
+				"runes": {
+					"reinforcing": 0
+				},
+				"specific": {
+					"integrated": null,
+					"material": {
+						"grade": null,
+						"type": null
+					},
+					"runes": {
+						"reinforcing": 0
+					}
+				},
+				"speedPenalty": 0,
+				"subitems": []
+			},
+			"type": "shield",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "8uOSfgwTbpll6zR5",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.AnwzlOs0njF9Jqnr",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "icons/equipment/chest/vest-leather-tattered-white.webp",
+			"name": "Hide Armor",
+			"sort": 400000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>A mix of furs, sturdy hide, and sometimes molded boiled leather, this armor provides protection due to its layers of leather, though its bulkiness slows the wearer down and decreases mobility.</p>"
+				},
+				"rules": [],
+				"slug": "hide-armor",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "hide-armor",
+				"bulk": {
+					"value": 2
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0,
+					"inSlot": true
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"category": "medium",
+				"group": "leather",
+				"acBonus": 3,
+				"strength": 2,
+				"dexCap": 2,
+				"checkPenalty": -2,
+				"speedPenalty": -5,
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"resilient": 1,
+					"property": []
+				},
+				"subitems": []
+			},
+			"type": "armor",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "6BaTuvn7rJL8KT8D",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "Z1HJhg3MhcgvQ1Hj"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Trident",
+			"sort": 500000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 29
+				},
+				"damageRolls": {
+					"lrzjqd7c67s0ywwps1nx": {
+						"damage": "3d10 +18",
+						"damageType": "piercing",
+						"category": null
+					},
+					"njkpdcsyx73c8qwkve3z": {
+						"damage": "1d6",
+						"damageType": "fire",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"critical": true,
+						"key": "DamageDice",
+						"selector": "strike-damage",
+						"diceNumber": 1,
+						"dieSize": "d10",
+						"damageType": "fire",
+						"category": "persistent",
+						"predicate": [
+							"item:trident"
+						],
+						"label": "Flaming"
+					}
+				],
+				"slug": "trident",
+				"traits": {
+					"value": [
+						"magical"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ouLTQ6TWqKKjECYy",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "BZVnw7QnddauAH4T"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Shield Spikes",
+			"sort": 600000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"improved-knockdown"
+					]
+				},
+				"bonus": {
+					"value": 29
+				},
+				"damageRolls": {
+					"871mq7hpnkrtx1ko5hv9": {
+						"damage": "3d8+15",
+						"damageType": "piercing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"magical"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "irV9WySiqAaUEdWF",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "Z1HJhg3MhcgvQ1Hj"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Trident",
+			"sort": 700000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 26
+				},
+				"damageRolls": {
+					"t1y4ptn55j96wmyvi15q": {
+						"damage": "3d10+18",
+						"damageType": "piercing",
+						"category": null
+					},
+					"tzonftajr2m0qa8sowqp": {
+						"damage": "1d6",
+						"damageType": "fire",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"magical",
+						"thrown-20"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ib0TKDHkYeutQoKJ",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.m4HQ2o5aPxjXf2kY",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Shield Block (Special)",
+			"sort": 900000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>Huldrin gets 1 extra reaction each turn that she can use only to make a Shield Block or Intercept Attack.<br><br>This reaction can also be used when taking damage from a Reflex save.</p><hr><p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "shield-block",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "MNWki3hX0DvXAhW7",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.LbnsT8yXchHMQT3t",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/FreeAction.webp",
+			"name": "Improved Knockdown",
+			"sort": 1100000,
+			"system": {
+				"actionType": {
+					"value": "free"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "improved-knockdown",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "PwFhdS1lxAn0KSyy",
+			"img": "systems/pf2e/icons/default-icons/lore.svg",
+			"name": "Warfare Lore",
+			"sort": 1200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"mod": {
+					"value": 25
+				},
+				"proficient": {
+					"value": 0
+				}
+			},
+			"type": "lore",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "melee",
+			"name": "Mirror Shield",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": [],
+					"config": {}
+				},
+				"action": "strike",
+				"area": null,
+				"damageRolls": {},
+				"bonus": {
+					"value": 26
+				},
+				"attackEffects": {
+					"value": []
+				},
+				"range": null,
+				"subjectToMAP": true
+			},
+			"_id": "PhVnfrVcLbWMhIFh",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Reactive Shield",
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"description": {
+					"value": "<p><strong>Trigger</strong> An enemy hits you with a melee Strike or you make a Reflex save</p><p><strong>Requirements</strong> You are wielding a shield.</p><hr><p>You can snap your shield into place just as you would take a blow, avoiding the hit at the last second. You immediately use the @UUID[Compendium.pf2e.actionspf2e.Item.xjGwis0uaC2305pm]{Raise a Shield} action and gain your shield's bonus to AC and Reflex saves. The circumstance bonus from the shield applies to your AC or Reflex when you're determining the outcome of the triggering attack or Reflex save.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": "action",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "sdpgP6zaeuwGKRP8",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/actions/FreeAction.webp",
+			"type": "action",
+			"system": {
+				"description": {
+					"value": "<p>Granted by @UUID[Actor.ZGi3CrFWzvsPuDN6.Item.jiOzKPVNoaiFixck]{Sturdy Shield (Greater)}</p><p><strong>Activate</strong> <span class=\"action-glyph\">F</span> envision</p><p><strong>Frequency</strong> once per hour</p><p><strong>Trigger</strong> You Shield Block a melee Strike</p><hr><p><strong>Effect</strong> You unleash force damage against the creature that made the triggering attack. This attack deals @Damage[12d4[force]] (@Check[reflex|dc:31|basic]).</p>",
+					"gm": ""
+				},
+				"traits": {
+					"value": [
+						"concentrate"
+					],
+					"otherTags": []
+				},
+				"actions": {
+					"value": null
+				},
+				"actionType": {
+					"value": "free"
+				},
+				"frequency": {
+					"max": 1,
+					"per": "PT1H"
+				},
+				"slug": "activation-sturdy-shield-greater",
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"category": null,
+				"deathNote": false
+			},
+			"name": "Activation: Retaliation",
+			"flags": {
+				"pf2e-item-activations": {
+					"grantedBy": {
+						"_id": "jiOzKPVNoaiFixck",
+						"_stats": {
+							"compendiumSource": "Compendium.pf2e.equipment-srd.Item.rrnWORxT2Ch4pUFb",
+							"duplicateSource": null,
+							"exportSource": null,
+							"coreVersion": "13.350",
+							"systemId": "pf2e",
+							"systemVersion": "7.6.4",
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+							"modifiedTime": 1762364970224
+						},
+						"img": "systems/pf2e/icons/equipment/shields/specific-shields/sturdy-shield.webp",
+						"name": "Sturdy Shield (Greater)",
+						"sort": 300000,
+						"system": {
+							"description": {
+								"gm": "",
+								"value": "<p>With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.</p><p>The shield has Hardness 15, HP 120, and BT 60.<br /></p><p>Shields with a retaliation rune use the impact of weapons to generate blasts of explosive force that counterattack foes.</p><p><strong>Activate</strong> <span class=\"action-glyph\">F</span> envision</p><p><strong>Frequency</strong> once per hour</p><p><strong>Trigger</strong> You Shield Block a melee Strike</p><hr /><p><strong>Effect</strong> You unleash force damage against the creature that made the triggering attack. This attack deals @Damage[12d4[force]] (@Check[reflex|dc:31|basic]).</p>"
+							},
+							"rules": [],
+							"slug": "sturdy-shield-greater",
+							"_migration": {
+								"version": 0.948,
+								"lastMigration": null,
+								"previous": {
+									"schema": 0.943,
+									"foundry": "13.350",
+									"system": "7.6.4"
+								}
+							},
+							"traits": {
+								"otherTags": [],
+								"value": [
+									"magical"
+								],
+								"rarity": "common",
+								"integrated": null
+							},
+							"publication": {
+								"title": "Pathfinder Core Rulebook",
+								"authors": "",
+								"license": "OGL",
+								"remaster": false
+							},
+							"level": {
+								"value": 13
+							},
+							"quantity": 1,
+							"baseItem": "steel-shield",
+							"bulk": {
+								"value": 1
+							},
+							"hp": {
+								"value": 120,
+								"max": 120
+							},
+							"hardness": 15,
+							"price": {
+								"value": {
+									"gp": 3000
+								}
+							},
+							"equipped": {
+								"carryType": "worn",
+								"handsHeld": 0,
+								"invested": null
+							},
+							"containerId": null,
+							"size": "med",
+							"material": {
+								"type": null,
+								"grade": null
+							},
+							"identification": {
+								"status": "identified",
+								"unidentified": {
+									"name": "Unusual Steel Shield",
+									"img": "systems/pf2e/icons/equipment/shields/specific-shields/sturdy-shield.webp",
+									"data": {
+										"description": {
+											"value": ""
+										}
+									}
+								},
+								"misidentified": {}
+							},
+							"acBonus": 2,
+							"grade": null,
+							"runes": {
+								"reinforcing": 0
+							},
+							"specific": {
+								"integrated": null,
+								"material": {
+									"grade": null,
+									"type": null
+								},
+								"runes": {
+									"reinforcing": 0
+								}
+							},
+							"speedPenalty": 0,
+							"subitems": []
+						},
+						"type": "shield",
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						},
+						"flags": {}
+					}
+				}
+			},
+			"effects": [],
+			"_id": "ipndSa82PwLKihrV",
+			"folder": null,
+			"sort": 0,
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Defensive Advance",
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"description": {
+					"value": "<p>Huldrin Raise her Shield and Stride. If she end your movement within melee reach of at least one enemy, she can make a melee Strike against that enemy.</p><p>She can use Defensive Advance while Burrowing, Climbing, Flying, or Swimming instead of Striding if she have the corresponding movement type.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"flourish"
+					]
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"deathNote": false,
+				"selfEffect": {
+					"uuid": "Compendium.pf2e.equipment-effects.Item.2YgXoHvJfrDHucMr",
+					"name": "Effect: Raise a Shield"
+				}
+			},
+			"effects": [],
+			"_id": "uINgUj8uRO1JxJcP",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {
+				"pf2e-toolbelt": {
+					"actionable": {}
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Shield Wallop",
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"description": {
+					"value": "<p><strong>Requirements</strong> You are wielding a shield.</p><hr><p>Attacks with Huldrin's shield knock the sense out of your foes. Huldron makes @UUID[Compendium.pf2e.equipment-srd.Item.nSO0Z662LkkLfa2u]{Shield Spikes} Strike. If she hits and deal damage, the target is @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} until the start of your next turn (@UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} on a critical hit) and the target must attempt a @Check[fortitude|dc:32] saving throw.</p><p><strong>Critical Success</strong> The target takes no additional effect.</p><p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.AJh5ex99aV6VTggg]{Off-Guard} to Huldrin until the end of the current turn.</p><p><strong>Failure</strong> The target is knocked @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}</p><p><strong>Critical Failure</strong> The target is knocked @UUID[Compendium.pf2e.conditionitems.j91X7x0XSomq8d60]{Prone} and @UUID[Compendium.pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1}</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"flourish"
+					]
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "Cj9wPEK1VaYFWuJ2",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Intercept Attack (Special)",
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>Huldrin gets 1 extra reaction each turn that she can use only to make a Shield Block or Intercept Attack.<strong><br><br>Trigger</strong> An ally within 10 feet of you takes physical damage, acid, cold, electricity, fire, or sonic damage.</p><hr><p>You fling yourself in the way of oncoming harm to protect an ally. You can Step, but you must end your movement adjacent to the triggering ally. You take the damage instead of the triggering ally. Apply your own immunities, weaknesses, and resistances to the damage, not the ally's.</p><hr><p><strong>Special</strong> You can extend this ability to an ally within 15 feet of you if the damage comes from your taunted enemy. If this ally is farther than you can Step to reach, you can Stride instead of Stepping; you still must end the movement adjacent to your ally.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "ORC",
+					"remaster": true,
+					"title": "Pathfinder Battlecry!",
+					"authors": ""
+				},
+				"rules": [],
+				"traits": {
+					"value": [
+						"guardian"
+					],
+					"otherTags": []
+				},
+				"slug": "intercept-attack",
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.actionspf2e.Item.vhO1f7oTD2s3Ncg9",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_id": "nkYPgayyyc2aRAQB",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Reaction Time",
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"description": {
+					"value": "<p>Huldrin gets 1 extra reaction each turn that she can use only to make a Shield Block or Intercept Attack.<br><br>Huldrin gaisn this extra reaction when she rolls initiative.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"actions": {
+					"value": null
+				},
+				"category": null,
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "M8YM8DXr2ujOb6KY",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Huldrin Skolsdottir (Guardian)",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 300,
+				"temp": 0,
+				"max": 300,
+				"details": ""
+			},
+			"ac": {
+				"value": 39,
+				"details": "(41 with shield raised)"
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 25,
+				"otherSpeeds": [],
+				"details": ""
+			},
+			"resistances": [
+				{
+					"type": "cold",
+					"value": 13,
+					"exceptions": [],
+					"doubleVs": []
+				},
+				{
+					"type": "physical",
+					"value": 10,
+					"exceptions": [],
+					"doubleVs": []
+				}
+			]
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"skald",
+					"taldane"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 14
+			},
+			"blurb": "Female human shieldmaiden",
+			"publicNotes": "",
+			"privateNotes": "<p>ShyGuy's Rebuild of Huldrin as a Guardian</p>",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 8
+			},
+			"dex": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 8
+			},
+			"int": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 5
+			},
+			"cha": {
+				"mod": 3
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 25,
+			"senses": [],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 30,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 22,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 25,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"athletics": {
+				"base": 28,
+				"special": []
+			},
+			"intimidation": {
+				"base": 23,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"human",
+				"humanoid",
+				"lawful"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.Lk4LPjGsidzuD6Vy",
+		"duplicateSource": "Actor.ZGi3CrFWzvsPuDN6",
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Huldrin Skolsdottir",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/pc-bastion.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 2,
+			"scaleY": 2,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 2,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/pc-bastion.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			},
+			"pf2e-visioner": {
+				"coverOverride": "auto"
+			},
+			"Rideable": {
+				"issetRideableFlag": [
+					true,
+					true,
+					true
+				],
+				"MountonEnterFlag": [
+					false,
+					false,
+					false
+				],
+				"AutoMountBlackListFlag": [
+					"",
+					"",
+					""
+				],
+				"AutoMountWhiteListFlag": [
+					"",
+					"",
+					""
+				],
+				"MaxRiderFlag": [
+					null,
+					null,
+					null
+				],
+				"CustomRidingheightFlag": [
+					null,
+					null,
+					null
+				],
+				"UseRidingHeightFlag": [
+					true,
+					true,
+					true
+				],
+				"RidersScaleFlag": [
+					1,
+					1,
+					1
+				],
+				"RiderPositioningFlag": [
+					"RowPlacement",
+					"RowPlacement",
+					"RowPlacement"
+				],
+				"RiderOffsetFlag": [
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"TokenFormFlag": [
+					"TokenFormCircle",
+					"TokenFormCircle",
+					"TokenFormCircle"
+				],
+				"InsideMovementFlag": [
+					false,
+					false,
+					false
+				],
+				"SpawnRidersFlag": [
+					"",
+					"",
+					""
+				],
+				"WorldMEffectOverrideFlag": [
+					false,
+					false,
+					false
+				],
+				"MountingEffectsFlag": [
+					"",
+					"",
+					""
+				],
+				"SelfApplyEffectsFlag": [
+					false,
+					false,
+					false
+				],
+				"forMountEffectsFlag": [
+					"",
+					"",
+					""
+				],
+				"CanbePilotedFlag": [
+					false,
+					false,
+					false
+				],
+				"CheckPilotedCollisionFlag": [
+					false,
+					false,
+					false
+				],
+				"PilotedbyDefaultFlag": [
+					false,
+					false,
+					false
+				]
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 1
+	},
+	"sort": 100000,
+	"flags": {
+		"pf2e": {
+			"maxhealingRank": 0
+		}
+	},
+	"_id": "hsZQ2soUNRZLwKlc",
+	"ownership": {
+		"default": 0
+	}
+}

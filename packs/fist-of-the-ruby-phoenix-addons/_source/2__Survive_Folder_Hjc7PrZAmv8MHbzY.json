@@ -1,0 +1,26 @@
+{
+	"name": "2. Survive",
+	"sorting": "a",
+	"folder": "MjY3pFH54gjTLA7v",
+	"type": "JournalEntry",
+	"_id": "Hjc7PrZAmv8MHbzY",
+	"description": "",
+	"sort": 0,
+	"color": "#976621",
+	"flags": {
+		"scene-packer": {
+			"hash": "8fdf6ca9a80bd9b2c5df986306f873961c00a10b"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.11.1",
+		"createdTime": 1744687239083,
+		"modifiedTime": 1744687239083,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	}
+}

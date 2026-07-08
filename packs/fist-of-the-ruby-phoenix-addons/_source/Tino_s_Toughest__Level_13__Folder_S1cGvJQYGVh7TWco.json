@@ -1,0 +1,26 @@
+{
+	"name": "Tino's Toughest (Level 13)",
+	"sorting": "a",
+	"folder": "53fRuUM3qlBdODgI",
+	"type": "Actor",
+	"_id": "S1cGvJQYGVh7TWco",
+	"description": "",
+	"sort": 0,
+	"color": null,
+	"flags": {
+		"scene-packer": {
+			"hash": "54564e4ae5c2944ea72522db797f085c2a322859"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"exportSource": null
+	}
+}

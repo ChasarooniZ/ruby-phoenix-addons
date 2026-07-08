@@ -1,0 +1,36 @@
+{
+	"name": "2. Hao Jhin Reborn",
+	"type": "script",
+	"flags": {
+		"advanced-macros": {
+			"runForSpecificUser": ""
+		},
+		"macro-wheel": {
+			"activeCondition": ""
+		},
+		"scene-packer": {
+			"hash": "b3d604269ea42bf3bcfc0dd1c58acd3c8ba28f34"
+		}
+	},
+	"command": "// Animation for Hao Jin's Rebirth\n// requires `Sequencer`\n// Recommends `JB2a Patreon` for any visual effects\n// Also recommend `Pathfinder Tokens: Bestiary` for a proper sized phoenix effect\n// Just Target the ashed Hao Jin\ngame.rubyPhoenixAddons.api.animation.chapter_3.haoJinReborn()",
+	"img": "icons/magic/fire/projectile-wave-arrow.webp",
+	"_id": "kpooSrAtz27h29sV",
+	"author": "vj8VUT8j7Wtzy3Y2",
+	"scope": "global",
+	"folder": "Wm9fEVTcLSfCDLdt",
+	"sort": 100000,
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.12.1",
+		"createdTime": 1747717627441,
+		"modifiedTime": 1761544812725,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"ownership": {
+		"default": 0
+	}
+}

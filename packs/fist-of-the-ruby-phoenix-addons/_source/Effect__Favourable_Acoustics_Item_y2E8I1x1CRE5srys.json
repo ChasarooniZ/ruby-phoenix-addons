@@ -1,0 +1,82 @@
+{
+	"folder": "tmIxxZIazhCvxpgF",
+	"name": "Effect: Favourable Acoustics",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.959,
+			"previous": null
+		},
+		"description": {
+			"value": "<p>A creature on the floor that rolls a saving throw against an auditory or sonic effect originating from the stage gets one degree of success worse than their actual roll.</p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"key": "AdjustDegreeOfSuccess",
+				"selector": "saving-throw",
+				"predicate": [
+					{
+						"or": [
+							"auditory",
+							"sonic"
+						]
+					}
+				],
+				"adjustment": {
+					"success": "one-degree-worse"
+				}
+			}
+		],
+		"slug": "effect-favourable-acoustics",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": -1,
+			"unit": "unlimited",
+			"expiry": null,
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"_id": "y2E8I1x1CRE5srys",
+	"img": "icons/magic/sonic/explosion-shock-sound-wave.webp",
+	"sort": 0,
+	"flags": {},
+	"_stats": {
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"ownership": {
+		"default": 0
+	}
+}

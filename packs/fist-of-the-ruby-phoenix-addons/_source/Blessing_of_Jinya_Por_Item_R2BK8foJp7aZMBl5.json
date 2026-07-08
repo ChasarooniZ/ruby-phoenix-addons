@@ -1,0 +1,86 @@
+{
+	"folder": "BgN6BAJYJVSKiQC8",
+	"name": "Blessing of Jinya-Por",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"description": {
+			"value": "<p><em>Granted by </em><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\"><em>Jinya-Por for honoring them by swimming in the waters beside her shrine for at least ten minutes, for Jinya-Por was the Taumatan god of sailing, swimming, and the wind.</em></span></span></p><hr /><p><span style=\"font-family:Signika,\"><span style=\"font-family:Signika,\">For the duration of their stay on Bonmu, whenever you roll a success at an Athletics check to @UUID[Compendium.pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swim}, you get a critical success instead.</span></span></p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"key": "AdjustDegreeOfSuccess",
+				"selector": "athletics",
+				"adjustment": {
+					"success": "one-degree-better"
+				},
+				"predicate": [
+					"action:swim"
+				]
+			}
+		],
+		"slug": "jinya-pors-blessing",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": -1,
+			"unit": "unlimited",
+			"expiry": null,
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": false
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"img": "icons/magic/water/water-drop-swirl-blue.webp",
+	"sort": 0,
+	"flags": {
+		"pf2e": {
+			"rulesSelections": {},
+			"itemGrants": {}
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": "Item.YMgvOh3nRozWbLTq",
+		"exportSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1758837987566,
+		"modifiedTime": 1764619842273,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	},
+	"_id": "R2BK8foJp7aZMBl5",
+	"ownership": {
+		"default": 0
+	}
+}

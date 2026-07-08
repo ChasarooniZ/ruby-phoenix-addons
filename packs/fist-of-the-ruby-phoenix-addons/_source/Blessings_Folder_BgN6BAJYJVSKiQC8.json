@@ -1,0 +1,22 @@
+{
+	"type": "Item",
+	"folder": "MdPAOhC1LVlRLkcD",
+	"name": "Blessings",
+	"color": "#328154",
+	"sorting": "a",
+	"_id": "BgN6BAJYJVSKiQC8",
+	"description": "",
+	"sort": 0,
+	"flags": {},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.5.2",
+		"createdTime": 1758837831991,
+		"modifiedTime": 1761544812857,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	}
+}

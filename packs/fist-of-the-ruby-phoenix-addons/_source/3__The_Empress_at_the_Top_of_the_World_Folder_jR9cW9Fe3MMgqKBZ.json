@@ -1,0 +1,26 @@
+{
+	"name": "3. The Empress at the Top of the World",
+	"sorting": "a",
+	"folder": "ybgUqF4nqK4bxKjW",
+	"type": "Actor",
+	"_id": "jR9cW9Fe3MMgqKBZ",
+	"description": "",
+	"sort": 400000,
+	"color": "#3e9aac",
+	"flags": {
+		"scene-packer": {
+			"hash": "6d6649fd30ac39b178df4f113d00c94b2ada4cdb"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.10.2",
+		"createdTime": 1741754556939,
+		"modifiedTime": 1761544812857,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	}
+}

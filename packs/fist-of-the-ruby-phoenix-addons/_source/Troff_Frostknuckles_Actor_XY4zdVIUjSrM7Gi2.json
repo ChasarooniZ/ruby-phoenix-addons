@@ -1,0 +1,1011 @@
+{
+	"folder": "H7fRbOq41XPhdYK0",
+	"img": "modules/pf2e-tokens-characters/assets/portraits/pc-ironfang-hobgoblin.webp",
+	"items": [
+		{
+			"_id": "zItNhmNjS4wVdwWY",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+			"name": "+2 Striking Frost Handwraps of Mighty Blows",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>As you invest these embroidered strips of cloth, you must meditate and slowly wrap them around your hands. These handwraps have weapon runes etched into them to give your unarmed attacks the benefits of those runes, making your unarmed attacks work like magic weapons. For example, <em>+1 striking handwraps of mighty blows</em> would give you a +1 item bonus to attack rolls with your unarmed attacks and increase the damage of your unarmed attacks from one weapon die to two (normally 2d4 instead of 1d4, but if your fists have a different weapon damage die or you have other unarmed attacks, use two of that die size instead).</p>\n<p>You can upgrade, add, and transfer runes to and from the handwraps just as you would for a weapon, and you can attach talismans to the handwraps. Treat the handwraps as melee weapons of the brawling group with light Bulk for these purposes. Property runes apply only when they would be applicable to the unarmed attack you're using. For example, a property that must be applied to a slashing weapon wouldn't function when you attacked with a fist, but you would gain its benefits if you attacked with a claw or some other slashing unarmed attack.</p>"
+				},
+				"rules": [],
+				"slug": "handwraps-of-mighty-blows",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"finesse",
+						"invested",
+						"magical",
+						"nonlethal",
+						"unarmed"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 2
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 35
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0,
+					"inSlot": false
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "Unusual Brawling",
+						"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "worngloves"
+				},
+				"category": "unarmed",
+				"group": "brawling",
+				"bonus": {
+					"value": 1
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "bludgeoning",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 2,
+					"striking": 2,
+					"property": [
+						"frost"
+					]
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ksxlZjKnc1Li0gFK",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.8mhSUxEvNuXDP8Ki",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/bracers-of-armor.webp",
+			"name": "Bracers of Armor II",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>These stiff leather armguards grant you a +2 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5. You can affix talismans to <em>bracers of armor</em> as though they were light armor.</p>"
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"selector": "ac",
+						"slug": "bracers-of-armor",
+						"type": "item",
+						"value": 2
+					},
+					{
+						"key": "FlatModifier",
+						"selector": "saving-throw",
+						"slug": "bracers-of-armor",
+						"type": "item",
+						"value": 2
+					},
+					{
+						"key": "DexterityModifierCap",
+						"value": 5
+					}
+				],
+				"slug": "bracers-of-armor-ii",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"invested",
+						"magical"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 14
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 4000
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "wornbracers"
+				},
+				"subitems": []
+			},
+			"type": "equipment",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "pqQoijXmReVC6SQg",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Fist",
+			"sort": 300000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 27
+				},
+				"damageRolls": {
+					"od7xvcj90msw2mihg126": {
+						"damage": "3d10+18",
+						"damageType": "bludgeoning",
+						"category": null
+					},
+					"sh0e7y0px44m99gcl07d": {
+						"damage": "1d6",
+						"damageType": "cold",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"finesse",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "tSarOldwU95b0USG",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Icicle Gouge",
+			"sort": 400000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"trip"
+					]
+				},
+				"bonus": {
+					"value": 28
+				},
+				"damageRolls": {
+					"ed9uwwb8lf5yvgrxgljt": {
+						"damage": "3d10+18",
+						"damageType": "piercing",
+						"category": null
+					},
+					"afm8f7tumjnlbktf9i9r": {
+						"damage": "1d6",
+						"damageType": "cold",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"backstabber",
+						"finesse",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "U1uqr0HgPoIr8ash",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Avalanche Pummel",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Troff makes an icicle gouge Strike against an @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} creature. On a hit, the creature is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled}. On a critical hit, the creature is @UUID[Compendium.pf2e.conditionitems.Item.XgEqL1kFApUbl5Z2]{Blinded}. Either way, the effect lasts until the start of Troff's next turn. If his Strike fails (but isn't a critical failure), Troff still deals @Damage[13[piercing]] damage to the creature.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "54wMKEbOXBHvnjXX",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Chattering Blow",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Requirements</strong> Troff is within reach of a creature that has taken cold damage since the end of Troff's last turn</p>\n<hr>\n<p><strong>Effect</strong> Troff jabs a pressure point on the creature made vulnerable by cold. The creature must attempt a @Check[fortitude|dc:31|traits:damaging-effect] save as its skin freezes and its limbs turn sluggish and clammy.</p>\n<hr>\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes @Damage[2d4[persistent,cold]] damage and a -5-foot status penalty to its Speeds until the persistent cold damage ends. Dealing fire damage to the creature is an especially effective way to help end the persistent cold damage (allowing a new flat check to end it at DC 10).</p>\n<p><strong>Failure</strong> As success, but the damage is @Damage[4d4[persistent,cold]] damage and the penalty is -15-foot.</p>\n<p><strong>Critical Failure</strong> As success, but the damage is @Damage[6d4[persistent,cold]] damage and the creature is @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} instead of taking a Speed penalty.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"cold",
+						"press"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "PoK81ppdAf3Y4ZT7",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Flurry of Blows (Special)",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Troff makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.</p><p>You can replace one or both of your attacks during a Flurry of Blows with @UUID[Compendium.pf2e.actionspf2e.Item.PMbdMWc2QroouFGD]{Grapples}, @UUID[Compendium.pf2e.actionspf2e.Item.lOE4yjUnETTdaf2T]{Repositions}, @UUID[Compendium.pf2e.actionspf2e.Item.7blmbDrQFNfdT731]{Shoves}, or @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trips}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"flourish"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "a2Ht2VRQHOf9f798",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Icicle Stance",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> Troff rolls initiative or his turn starts</p>\n<hr>\n<p><strong>Effect</strong> Troff readies himself to strike suddenly, like a falling icicle. While in this stance, Troff can make icicle gouge Strikes. While Troff is above a creature and in icicle stance, that creature is @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} to him.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"selector": "initiative",
+						"text": "{item|system.description.value}",
+						"title": "{item|name}",
+						"visibility": "owner"
+					},
+					{
+						"key": "RollOption",
+						"label": "PF2E.NPCAbility.TroffFrostknuckles.IcicleStance.AboveTarget",
+						"option": "icicle-stance-above",
+						"toggleable": true
+					},
+					{
+						"key": "EphemeralEffect",
+						"predicate": [
+							"icicle-stance-above"
+						],
+						"selectors": [
+							"strike-attack-roll",
+							"spell-attack-roll",
+							"strike-damage",
+							"attack-spell-damage"
+						],
+						"uuid": "Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg"
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [
+						"stance"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Stunning Blows",
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"domain": "damage",
+						"key": "RollOption",
+						"option": "stunning-blows",
+						"toggleable": true
+					},
+					{
+						"key": "Note",
+						"predicate": [
+							"stunning-blows"
+						],
+						"selector": "strike-damage",
+						"text": "PF2E.SpecificRule.Monk.StunningFist.Note",
+						"title": "{item|name}"
+					}
+				],
+				"slug": "stunning-blows",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "GBo0MABYTSNa8GiD",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Troff Frostknuckles",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 250,
+				"temp": 0,
+				"max": 250,
+				"details": ""
+			},
+			"ac": {
+				"value": 36,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 35,
+				"otherSpeeds": [
+					{
+						"type": "climb",
+						"value": 20
+					}
+				],
+				"details": ""
+			},
+			"resistances": [
+				{
+					"type": "cold",
+					"value": 13,
+					"exceptions": [],
+					"doubleVs": []
+				}
+			]
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"goblin",
+					"skald",
+					"taldane"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 14
+			},
+			"blurb": "Male hobgoblin brawler",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 8
+			},
+			"dex": {
+				"mod": 8
+			},
+			"con": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 5
+			},
+			"cha": {
+				"mod": 4
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 23,
+			"senses": [
+				{
+					"type": "darkvision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 25,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 28,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 22,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 28,
+				"special": []
+			},
+			"athletics": {
+				"base": 28,
+				"special": []
+			},
+			"stealth": {
+				"base": 28,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"goblin",
+				"humanoid"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.TTEcqxuMqzIdkX6q",
+		"duplicateSource": "Actor.mqWIm8XzNVz3DULV",
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Troff Frostknuckles",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/pc-ironfang-hobgoblin.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/pc-ironfang-hobgoblin.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 1
+	},
+	"sort": 200000,
+	"flags": {},
+	"_id": "XY4zdVIUjSrM7Gi2",
+	"ownership": {
+		"default": 0
+	}
+}

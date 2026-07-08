@@ -1,0 +1,3200 @@
+{
+	"name": "The Scale River Loot",
+	"_id": "JYk1uHGDlzfvUhuJ",
+	"img": "icons/svg/d20-grey.svg",
+	"description": "",
+	"results": [
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.7SPJO9xr89N8E23s",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false,
+			"_id": "7i6GN09MaA9A7MBw",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/agate.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.nIlx1IQhYJfQtpVF",
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false,
+			"_id": "rt9xeWnLEC7H5Lwl",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/alabaster.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.hnzNKdD5hjQc1NUx",
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false,
+			"_id": "SMOKDMyUYCsUN9Vi",
+			"name": "",
+			"img": "icons/sundries/gaming/dice-runed-brown.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.qFkhYAeCxYci8jgk",
+			"weight": 1,
+			"range": [
+				4,
+				4
+			],
+			"drawn": false,
+			"_id": "QNjEnfMFaIkXPTp2",
+			"name": "",
+			"img": "icons/commodities/gems/gem-amber-insect-orange.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.epTuWsVDuPzUXMk9",
+			"weight": 1,
+			"range": [
+				5,
+				5
+			],
+			"drawn": false,
+			"_id": "9d6rlJ98jXnVaPA2",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/amethyst.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.7Uk6LMmzsCxuhhA6",
+			"weight": 1,
+			"range": [
+				6,
+				6
+			],
+			"drawn": false,
+			"_id": "v9fZO4LAHxgE0L1Q",
+			"name": "",
+			"img": "icons/commodities/bones/skull-lizard-tan.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.dBQQZUXaMhCAFkpY",
+			"weight": 1,
+			"range": [
+				7,
+				7
+			],
+			"drawn": false,
+			"_id": "uDwowPv4L4fFz5jR",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-precious-stones/aquamarine.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.RNnVb83lRRUXg8hG",
+			"weight": 1,
+			"range": [
+				8,
+				8
+			],
+			"drawn": false,
+			"_id": "w8HsprtJYEWIFpxD",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/azurite.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.D8gzHTvP0uFxjwyA",
+			"weight": 1,
+			"range": [
+				9,
+				9
+			],
+			"drawn": false,
+			"_id": "sQIJ3Up0lNTvmHeE",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/bloodstone.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.uAQKNkgub7KNOHoR",
+			"weight": 1,
+			"range": [
+				10,
+				10
+			],
+			"drawn": false,
+			"_id": "IV6UtUqdbsLQMDcV",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/brass-anklet.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.l6Eifu4DScg0OBxb",
+			"weight": 1,
+			"range": [
+				11,
+				11
+			],
+			"drawn": false,
+			"_id": "PIfA0hMnMn21zfCV",
+			"name": "",
+			"img": "icons/weapons/staves/staff-spiked-grey.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.rOMPvaCeLqNvT6rJ",
+			"weight": 1,
+			"range": [
+				12,
+				12
+			],
+			"drawn": false,
+			"_id": "qMZa11AfHwmdM5yx",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/brass-statuette-of-a-bull.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.I3KlOUruQ2CZdcJ6",
+			"weight": 1,
+			"range": [
+				13,
+				13
+			],
+			"drawn": false,
+			"_id": "cthcQbKLenuHsUlB",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/bronze-bowl-with-wave-imagery.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.lvrvCGrmnMmE4TxU",
+			"weight": 1,
+			"range": [
+				14,
+				14
+			],
+			"drawn": false,
+			"_id": "PcCdoA0VpogIwpRq",
+			"name": "",
+			"img": "icons/containers/kitchenware/goblet-wood-engraved-brown.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.ja5rYjVRwwUXWtOd",
+			"weight": 1,
+			"range": [
+				15,
+				15
+			],
+			"drawn": false,
+			"_id": "ELgjFw7GVJDlp94L",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/bronze-chalice-with-bloodstones.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.P2MIJxEQiIWJmV8n",
+			"weight": 1,
+			"range": [
+				16,
+				16
+			],
+			"drawn": false,
+			"_id": "g98GQPB0olUbQGj0",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/carnelian.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.xzmYwmvj61br2bRp",
+			"weight": 1,
+			"range": [
+				17,
+				17
+			],
+			"drawn": false,
+			"_id": "xeTlUNHhpMhHc5d1",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/carved-wooden-game-set.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.VHJM3jYtpzMqZ1wc",
+			"weight": 1,
+			"range": [
+				18,
+				18
+			],
+			"drawn": false,
+			"_id": "kN2SnJ1uLhPl8wPe",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/ceremonial-dagger-with-onyx-hilt.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.F4YgvB74p8kwif1t",
+			"weight": 1,
+			"range": [
+				19,
+				19
+			],
+			"drawn": false,
+			"_id": "kWLvsR9haVmYy0bl",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/ceremonial-shortsword-with-spinels.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.uMxXncL2bQI04GZ9",
+			"weight": 1,
+			"range": [
+				20,
+				20
+			],
+			"drawn": false,
+			"_id": "5VpzdNKjMrHb7351",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/chrysoberyl.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.qgKOCdtdybxwmiEv",
+			"weight": 1,
+			"range": [
+				21,
+				21
+			],
+			"drawn": false,
+			"_id": "dj3v4lVkKEiWSy65",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/chrysoberyl-symbol-of-an-evil-eye.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.FW1AEh214U1mMWh7",
+			"weight": 1,
+			"range": [
+				22,
+				22
+			],
+			"drawn": false,
+			"_id": "QxCAqvHxdarlo3TU",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/chrysoprase.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.WEnrPya5A8CKi91A",
+			"weight": 1,
+			"range": [
+				23,
+				23
+			],
+			"drawn": false,
+			"_id": "6c5o4HzFcKEvy63m",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/citrine.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.noLtrW7wFfRFxSUt",
+			"weight": 1,
+			"range": [
+				24,
+				24
+			],
+			"drawn": false,
+			"_id": "Mi2UDxPp4wcHTGCG",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/colorful-pastoral-tapestry.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.Ab8yDhtYDJnFrjI4",
+			"weight": 1,
+			"range": [
+				25,
+				25
+			],
+			"drawn": false,
+			"_id": "jjoUrSbsr5MHV4U1",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/colorful-velvet-half-mask.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.PNnmcBhEwZmAKsq9",
+			"weight": 1,
+			"range": [
+				26,
+				26
+			],
+			"drawn": false,
+			"_id": "CiIK0E3CqjXtufc7",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/copper-and-spinel-puzzle-box.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.xXo7KXnhp1TfvxRc",
+			"weight": 1,
+			"range": [
+				27,
+				27
+			],
+			"drawn": false,
+			"_id": "CZxFA9cbVf6er23o",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/copper-statuette-of-a-salamander.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.u7YrZzA2yem780cP",
+			"weight": 1,
+			"range": [
+				28,
+				28
+			],
+			"drawn": false,
+			"_id": "GKkxO1R0On4sc5L0",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/coral.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.EKgLX0TCyFik3gPS",
+			"weight": 1,
+			"range": [
+				29,
+				29
+			],
+			"drawn": false,
+			"_id": "OCEPCr1rqx6Gjb49",
+			"name": "",
+			"img": "icons/commodities/currency/coin-engraved-sun-smile-copper.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.ugOCvoAZnVyEuIiN",
+			"weight": 1,
+			"range": [
+				30,
+				30
+			],
+			"drawn": false,
+			"_id": "O3tKFUq6eHeuDwrZ",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/crystal-dinner-set-fine-silverware.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.7OuVXvNRbNoKzDSy",
+			"weight": 1,
+			"range": [
+				31,
+				31
+			],
+			"drawn": false,
+			"_id": "33PfYAZ22NxbxkV5",
+			"name": "",
+			"img": "icons/commodities/gems/gem-faceted-radiant-teal.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.z3PT7OgX34TQKAwH",
+			"weight": 1,
+			"range": [
+				32,
+				32
+			],
+			"drawn": false,
+			"_id": "CYH6uyazOUD7iRUC",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-precious-stones/small-diamond.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.L8IzHSz2jYGFpp4N",
+			"weight": 1,
+			"range": [
+				33,
+				33
+			],
+			"drawn": false,
+			"_id": "eI9yQXWdGNbzPmzi",
+			"name": "",
+			"img": "icons/commodities/treasure/doll-mummy.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.hMIG86aqKcVYJGsg",
+			"weight": 1,
+			"range": [
+				34,
+				34
+			],
+			"drawn": false,
+			"_id": "JSYDBFRWop41VNVI",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-precious-stones/emerald.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.0zVMeeklYZ7hcgXw",
+			"weight": 1,
+			"range": [
+				35,
+				35
+			],
+			"drawn": false,
+			"_id": "U84EGphUdr9S2X4x",
+			"name": "",
+			"img": "icons/commodities/gems/gem-rough-princess-green.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.Mm3xgz27Q94wZhti",
+			"weight": 1,
+			"range": [
+				36,
+				36
+			],
+			"drawn": false,
+			"_id": "9q29R3ndR8cbpPET",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/engraved-copper-ring.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.6wCA8h0jpMnqPbib",
+			"weight": 1,
+			"range": [
+				37,
+				37
+			],
+			"drawn": false,
+			"_id": "q8TcxV9XMzAStFpz",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/enormous-tapestry-of-a-major-battle.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.cSBupUqjsHJwivbp",
+			"weight": 1,
+			"range": [
+				38,
+				38
+			],
+			"drawn": false,
+			"_id": "o6Oq0pF7iuUlVGWM",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/etched-copper-ewer.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.LEfLVcrbhZPmyUyI",
+			"weight": 1,
+			"range": [
+				39,
+				39
+			],
+			"drawn": false,
+			"_id": "lnqRbuooimSTJiYm",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/famous-portrait-by-a-master.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.x46wlAbSDKFEumvg",
+			"weight": 1,
+			"range": [
+				40,
+				40
+			],
+			"drawn": false,
+			"_id": "hMWMAONm8s9QcDjs",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/fine-gold-spyglass.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.NuX85j3bYLYVcINr",
+			"weight": 1,
+			"range": [
+				41,
+				41
+			],
+			"drawn": false,
+			"_id": "TonYlU3V0goQHcah",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/garnet.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.0b6BUtoFD4DotZHR",
+			"weight": 1,
+			"range": [
+				42,
+				42
+			],
+			"drawn": false,
+			"_id": "wYMScmxEfR9vuiM1",
+			"name": "",
+			"img": "icons/equipment/chest/breastplate-layered-leather-blue.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.K44zDGRTSecRjEv0",
+			"weight": 1,
+			"range": [
+				43,
+				43
+			],
+			"drawn": false,
+			"_id": "HPXBwMEkKv1mwDBn",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/gilded-scepter-with-sapphire.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.e6arpbDxMlmogfee",
+			"weight": 1,
+			"range": [
+				44,
+				44
+			],
+			"drawn": false,
+			"_id": "5xFrxDZoMDBLAJWt",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/gold-and-aquamarine-diadem.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.P7jMpOYmusKse1Yu",
+			"weight": 1,
+			"range": [
+				45,
+				45
+			],
+			"drawn": false,
+			"_id": "8PZVhWmlmtloPVUS",
+			"name": "",
+			"img": "icons/equipment/finger/ring-cabochon-gold-pink.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.x7rEpjFkUNTqmt1t",
+			"weight": 1,
+			"range": [
+				46,
+				46
+			],
+			"drawn": false,
+			"_id": "pNuV7UACNzD790A9",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/gold-and-opal-bracelet.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.ony7u60cfBMtLG8F",
+			"weight": 1,
+			"range": [
+				47,
+				47
+			],
+			"drawn": false,
+			"_id": "6wIJoBxCfNOClEVn",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/gold-chalice-with-black-pearls.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.2MPfYdRWfUNnt5JK",
+			"weight": 1,
+			"range": [
+				48,
+				48
+			],
+			"drawn": false,
+			"_id": "d8pjs9p3S8RefJgb",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/gold-dragon-statuette.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.tcP4ZKGZr5i4586v",
+			"weight": 1,
+			"range": [
+				49,
+				49
+			],
+			"drawn": false,
+			"_id": "qWHSr9mQ2uyM5nk9",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/gold-mask-of-a-high-priest.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.5ix9inqdHLksqeoR",
+			"weight": 1,
+			"range": [
+				50,
+				50
+			],
+			"drawn": false,
+			"_id": "Pp23b6gnwpXjfezK",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/gold-necklace-with-peridots.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.9FsyNDq3VOsFumhz",
+			"weight": 1,
+			"range": [
+				51,
+				51
+			],
+			"drawn": false,
+			"_id": "yhefOs7dGqjrwFe7",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/gold-rapier-with-amethysts.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.H8BXvZ1DUg3uJ53K",
+			"weight": 1,
+			"range": [
+				52,
+				52
+			],
+			"drawn": false,
+			"_id": "b7nBlKgGlk4hoN8v",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/gold-urn-with-scenes-of-judgment.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.JP7G2gOS3OuMNzeE",
+			"weight": 1,
+			"range": [
+				53,
+				53
+			],
+			"drawn": false,
+			"_id": "Y3GUqLixHEEAVLff",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/hand-mirror-with-decorated-frame.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.02sF1QlxEx6H6zEP",
+			"weight": 1,
+			"range": [
+				54,
+				54
+			],
+			"drawn": false,
+			"_id": "nNSkW0h639PquzNY",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/hematite.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.K7KzNh3YsXBrDlyj",
+			"weight": 1,
+			"range": [
+				55,
+				55
+			],
+			"drawn": false,
+			"_id": "KrtcNsJGRQole6eC",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/inscribed-crocodile-skull.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.NLcnptEjjiY9teq7",
+			"weight": 1,
+			"range": [
+				56,
+				56
+			],
+			"drawn": false,
+			"_id": "DZGmtsWuzGIEpDdj",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/intricate-silver-and-gold-music-box.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.YZsZ6stG0i9GBCZw",
+			"weight": 1,
+			"range": [
+				57,
+				57
+			],
+			"drawn": false,
+			"_id": "Ce6PE3X7IFInKJqx",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/iron-and-rock-crystal-brazier.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.YeMi3otmwQ34W2we",
+			"weight": 1,
+			"range": [
+				58,
+				58
+			],
+			"drawn": false,
+			"_id": "REMcamORzCj1G4ii",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/iron-cauldron-with-gargoyle-faces.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.2PXwkWD3ymM7s0Ul",
+			"weight": 1,
+			"range": [
+				59,
+				59
+			],
+			"drawn": false,
+			"_id": "kNsBT9oycuVPaGNd",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/ivory.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.LyQQvO7COYAvFRNw",
+			"weight": 1,
+			"range": [
+				60,
+				60
+			],
+			"drawn": false,
+			"_id": "eg5ZGXvNa2LgiLbt",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/jade.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.j4DU62QY4lJ4WEPQ",
+			"weight": 1,
+			"range": [
+				61,
+				61
+			],
+			"drawn": false,
+			"_id": "2SC80eaH0p4Ir12p",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/jasper.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.CRTNNgrmssD6bQqQ",
+			"weight": 1,
+			"range": [
+				62,
+				62
+			],
+			"drawn": false,
+			"_id": "iR670hZYa1aM4EK9",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/jet.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.DWzoqVeEamX118Qk",
+			"weight": 1,
+			"range": [
+				63,
+				63
+			],
+			"drawn": false,
+			"_id": "mwXdT7b356vZBER5",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/jet-and-white-gold-game-set.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.hEBNs4mYaVWz3UsX",
+			"weight": 1,
+			"range": [
+				64,
+				64
+			],
+			"drawn": false,
+			"_id": "uNAsqXLdMMBQqJ6v",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/jeweled-orrery-of-theplanes.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.DE4880DRtsRqax1N",
+			"weight": 1,
+			"range": [
+				65,
+				65
+			],
+			"drawn": false,
+			"_id": "Ju0FGLUjasQSO7j3",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/lapis-lazuli.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.rjHqUOFqUeyTQyin",
+			"weight": 1,
+			"range": [
+				66,
+				66
+			],
+			"drawn": false,
+			"_id": "qnpjviF5M0sYADMu",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/lapis-lazuli-pendant.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.dloHmPtGDr8zSwJu",
+			"weight": 1,
+			"range": [
+				67,
+				67
+			],
+			"drawn": false,
+			"_id": "rr50Hju9WOXLduA1",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/leather-flagon-with-caydenite-symbol.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.Ds8GJEQyRYamRIiB",
+			"weight": 1,
+			"range": [
+				68,
+				68
+			],
+			"drawn": false,
+			"_id": "aLoUsuZBN075gpSC",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/malachite.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.TTuRgoLxVR2c6NEx",
+			"weight": 1,
+			"range": [
+				69,
+				69
+			],
+			"drawn": false,
+			"_id": "Fr95iOF3dyAHLZs4",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/marble-altar.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.vKdjLDfL75SfFGuL",
+			"weight": 1,
+			"range": [
+				70,
+				70
+			],
+			"drawn": false,
+			"_id": "FN3bsOcEEsCfSGEX",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/moonstone.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.Mp6StcWjlKCpD8Jx",
+			"weight": 1,
+			"range": [
+				71,
+				71
+			],
+			"drawn": false,
+			"_id": "HM9Azo2Equu9bmH3",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/moonstone-and-onyx-game-set.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.oH7dJGkgAB0Y2Mad",
+			"weight": 1,
+			"range": [
+				72,
+				72
+			],
+			"drawn": false,
+			"_id": "2BwM0TSlHVxrAkhx",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/obsidian.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.3l30rcsNpDM7moKu",
+			"weight": 1,
+			"range": [
+				73,
+				73
+			],
+			"drawn": false,
+			"_id": "Kcm1wEQamletQo5t",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/onyx.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.ilnc82SKDYHcoEMH",
+			"weight": 1,
+			"range": [
+				74,
+				74
+			],
+			"drawn": false,
+			"_id": "56WnBqyYbpsfZDOH",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-precious-stones/opal.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.Oru7cHMGULLXRLV3",
+			"weight": 1,
+			"range": [
+				75,
+				75
+			],
+			"drawn": false,
+			"_id": "fSBEsrfH2AVFHxA1",
+			"name": "",
+			"img": "icons/sundries/books/book-embossed-jewel-gold-green.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.GgwlIaNPJVsyRwzz",
+			"weight": 1,
+			"range": [
+				76,
+				76
+			],
+			"drawn": false,
+			"_id": "zfkuL68SY3MHfxEz",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/parade-armor-with-flourishes.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.hhJfZgLhPaPh5V7e",
+			"weight": 1,
+			"range": [
+				77,
+				77
+			],
+			"drawn": false,
+			"_id": "wzsKLdRXDA6KzmUK",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-precious-stones/black-pearl.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.RLFxTy0TjMkN6rM2",
+			"weight": 1,
+			"range": [
+				78,
+				78
+			],
+			"drawn": false,
+			"_id": "KCWzYm5kjHhgGOAK",
+			"name": "",
+			"img": "icons/commodities/gems/pearl-natural.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.7iVFlnr2ZbBdtOx8",
+			"weight": 1,
+			"range": [
+				79,
+				79
+			],
+			"drawn": false,
+			"_id": "1Ys1cjFZAzAcu0kW",
+			"name": "",
+			"img": "icons/commodities/gems/pearl-swirl-blue.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.oZYu6GMIIoOYW2Nh",
+			"weight": 1,
+			"range": [
+				80,
+				80
+			],
+			"drawn": false,
+			"_id": "2oRmqiiScIRrBnb9",
+			"name": "",
+			"img": "icons/commodities/gems/gem-rough-navette-green.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.dzsJfE1JIWUMCiK4",
+			"weight": 1,
+			"range": [
+				81,
+				81
+			],
+			"drawn": false,
+			"_id": "4XL1CtIxdn273Mdp",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/plain-brass-censer.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.nBY7ueX18tcSiica",
+			"weight": 1,
+			"range": [
+				82,
+				82
+			],
+			"drawn": false,
+			"_id": "IBvk9z9Us5L8E5Lh",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/platinum-framed-monocle.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.z84EQt8kcPf0RXwx",
+			"weight": 1,
+			"range": [
+				83,
+				83
+			],
+			"drawn": false,
+			"_id": "jkEjqeUhNy19O2wl",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/porcelain-doll-with-amber-eyes.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.JECXvZ0bKTDr79mo",
+			"weight": 1,
+			"range": [
+				84,
+				84
+			],
+			"drawn": false,
+			"_id": "e9rKC6r5ULOljUOk",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/porcelain-vase-inlaid-with-gold.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.YFokzLQ0HK74Vf6n",
+			"weight": 1,
+			"range": [
+				85,
+				85
+			],
+			"drawn": false,
+			"_id": "fGRQT4dD6jzUvxsd",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/pyrite.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.PGlNIOpo8yedgTFR",
+			"weight": 1,
+			"range": [
+				86,
+				86
+			],
+			"drawn": false,
+			"_id": "zfMwe42wIMUHXHB8",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/milky-rose-or-smoky-quartz.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.qnK4cIHZ2irCV4BL",
+			"weight": 1,
+			"range": [
+				87,
+				87
+			],
+			"drawn": false,
+			"_id": "XC5eciht84xlVzNk",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/rock-crystal-quartz.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.Ujaoyu3WE6V7Y8Vg",
+			"weight": 1,
+			"range": [
+				88,
+				88
+			],
+			"drawn": false,
+			"_id": "oowx7fINBd4DE4Sr",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/rhodochrosite.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.3UOS4sien8IQbPNV",
+			"weight": 1,
+			"range": [
+				89,
+				89
+			],
+			"drawn": false,
+			"_id": "iTXMInfPHAgEG1B9",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-precious-stones/large-ruby.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.WuW89GD0TG7RYTLF",
+			"weight": 1,
+			"range": [
+				90,
+				90
+			],
+			"drawn": false,
+			"_id": "2RnW4SYVYffgO800",
+			"name": "",
+			"img": "icons/commodities/gems/gem-faceted-radiant-red.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.yTYPPB7WrhanBPbu",
+			"weight": 1,
+			"range": [
+				91,
+				91
+			],
+			"drawn": false,
+			"_id": "oo1ZDvgS8Cagb1XF",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-precious-stones/sapphire.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.mixyMNYUClKfqURh",
+			"weight": 1,
+			"range": [
+				92,
+				92
+			],
+			"drawn": false,
+			"_id": "K6X0PCMu7BVSsCuS",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/sard.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.AgsZScsqv3puTmZx",
+			"weight": 1,
+			"range": [
+				93,
+				93
+			],
+			"drawn": false,
+			"_id": "2RbJCnO7fTfC1pbv",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/sardonyx.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.8P87jwOAC3zMuzoF",
+			"weight": 1,
+			"range": [
+				94,
+				94
+			],
+			"drawn": false,
+			"_id": "mGE7mYb7r1wtObMr",
+			"name": "",
+			"img": "icons/commodities/bones/horn-engraved-stripes-white.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.RKX4vLWyczPwfsKS",
+			"weight": 1,
+			"range": [
+				95,
+				95
+			],
+			"drawn": false,
+			"_id": "6ykIaLnaHsVtPSxV",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/set-of-decorated-ceramic-plates.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.rVfFUBb0r423IPg8",
+			"weight": 1,
+			"range": [
+				96,
+				96
+			],
+			"drawn": false,
+			"_id": "fUIBBg8OvWsEVp7E",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/set-of-decorated-porcelain-plates.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.69IWSryF5BWkwWXY",
+			"weight": 1,
+			"range": [
+				97,
+				97
+			],
+			"drawn": false,
+			"_id": "pGELQBLMGTK4qJtT",
+			"name": "",
+			"img": "icons/sundries/gaming/dice-runed-brown.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.6vb56WClb06JrpuJ",
+			"weight": 1,
+			"range": [
+				98,
+				98
+			],
+			"drawn": false,
+			"_id": "H5gitiRdhU10lO2c",
+			"name": "",
+			"img": "icons/environment/creatures/crustacean-clam-grey.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.fUENXLX3tzi33CcB",
+			"weight": 1,
+			"range": [
+				99,
+				99
+			],
+			"drawn": false,
+			"_id": "d8ZNj3rxqUXDHZCd",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/silk-ceremonial-armor.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.vJLb8wwipdwFQDH3",
+			"weight": 1,
+			"range": [
+				100,
+				100
+			],
+			"drawn": false,
+			"_id": "rifzZwpxtPFFERVv",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/silk-fan-decorated-with-turquoise.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.8RH0e9UqXIxAPJJG",
+			"weight": 1,
+			"range": [
+				101,
+				101
+			],
+			"drawn": false,
+			"_id": "eomrjuXoGr7WZsfw",
+			"name": "",
+			"img": "icons/equipment/head/mask-carved-wood-brown.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.tMMYXdHps9QakCVn",
+			"weight": 1,
+			"range": [
+				102,
+				102
+			],
+			"drawn": false,
+			"_id": "V7x6z66rfDYR9bGu",
+			"name": "",
+			"img": "icons/equipment/neck/amulet-carved-stone-spiral-blue.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.Gi4vx84LhppOQAxr",
+			"weight": 1,
+			"range": [
+				103,
+				103
+			],
+			"drawn": false,
+			"_id": "cw1qrO5pTuIsfUFS",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/silver-coronet-with-peridots.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.FI8PLxBFmHF6o0pH",
+			"weight": 1,
+			"range": [
+				104,
+				104
+			],
+			"drawn": false,
+			"_id": "a84sffCpcUmnhsg4",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/silver-flagon-inscribed-with-fields.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.5dibOpDYOhJY6Ssn",
+			"weight": 1,
+			"range": [
+				105,
+				105
+			],
+			"drawn": false,
+			"_id": "Fd1MLUZIqULP0dCF",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/silver-mirror-with-gilded-frame.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.5EYlhm8ZbR6dLUHF",
+			"weight": 1,
+			"range": [
+				106,
+				106
+			],
+			"drawn": false,
+			"_id": "mBX2Xt9EFTF9iEls",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/silver-statuette-of-a-raven.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.bgswgiXV12HW0aEz",
+			"weight": 1,
+			"range": [
+				107,
+				107
+			],
+			"drawn": false,
+			"_id": "pbcBCU0OqW6qNgGo",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/minor-art-object/simple-painting.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.2T33bWTWXj1v2J03",
+			"weight": 1,
+			"range": [
+				108,
+				108
+			],
+			"drawn": false,
+			"_id": "xFLoxM146AsBoO9P",
+			"name": "",
+			"img": "icons/commodities/treasure/wood-tiki.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.CNLt74pUxM0GGjyl",
+			"weight": 1,
+			"range": [
+				109,
+				109
+			],
+			"drawn": false,
+			"_id": "toO9TR7W7AOFGDa1",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/lesser-art-object/simple-silver-circlet.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.yv7OfuEaXTm6YCAc",
+			"weight": 1,
+			"range": [
+				110,
+				110
+			],
+			"drawn": false,
+			"_id": "04ypZody8IZCHNKC",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/small-cold-iron-cauldron-with-onyx.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.hJc0dOcHJ2nkJcik",
+			"weight": 1,
+			"range": [
+				111,
+				111
+			],
+			"drawn": false,
+			"_id": "nGCpObZyhzZmIv2j",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/deep-blue-spinel.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.wBoGy4DfKHAvqAko",
+			"weight": 1,
+			"range": [
+				112,
+				112
+			],
+			"drawn": false,
+			"_id": "GmmdP4M4QfVGxzZ1",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/red-or-green-spinel.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.LJxNB3Yy2sTJaUbd",
+			"weight": 1,
+			"range": [
+				113,
+				113
+			],
+			"drawn": false,
+			"_id": "yPpNcgX3BQakqfZ3",
+			"name": "",
+			"img": "icons/tools/instruments/harp-gold-glowing.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.2Rb9MOLENbZ7yyRL",
+			"weight": 1,
+			"range": [
+				114,
+				114
+			],
+			"drawn": false,
+			"_id": "nc3vFdQqNGQaevJ4",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-precious-stones/star-sapphire.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.DFNmzduKX6NSuPrT",
+			"weight": 1,
+			"range": [
+				115,
+				115
+			],
+			"drawn": false,
+			"_id": "0K69swUqtW6SLmNn",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/tigers-eye.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.oyGXxUmS6QcthfRc",
+			"weight": 1,
+			"range": [
+				116,
+				116
+			],
+			"drawn": false,
+			"_id": "WAuxyFsDPjgb89LR",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-precious-stones/topaz.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.m26FikfAdZouHzhq",
+			"weight": 1,
+			"range": [
+				117,
+				117
+			],
+			"drawn": false,
+			"_id": "NpjAD0u548iKmwK3",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/tourmaline.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.eUXQTjezsuJ6EB4u",
+			"weight": 1,
+			"range": [
+				118,
+				118
+			],
+			"drawn": false,
+			"_id": "9O7WNOvCxheRdONr",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/towering-sculpture-by-a-master.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.8aPckmJTsyUfBndP",
+			"weight": 1,
+			"range": [
+				119,
+				119
+			],
+			"drawn": false,
+			"_id": "nao3pxy5UniYettN",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/turquoise.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.nzT4kWzAdLMcESWl",
+			"weight": 1,
+			"range": [
+				120,
+				120
+			],
+			"drawn": false,
+			"_id": "DC4BajyUh2fMuKhs",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/art-objects/moderate-art-object/virtuoso-silver-flute.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "document",
+			"documentUuid": "Compendium.pf2e.equipment-srd.Item.p3mg6gK5KhpS7plo",
+			"weight": 1,
+			"range": [
+				121,
+				121
+			],
+			"drawn": false,
+			"_id": "62P9h02dD4FT2hmz",
+			"name": "",
+			"img": "systems/pf2e/icons/equipment/treasure/gems/moderate-semiprecious-stones/zircon.webp",
+			"description": "",
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			}
+		},
+		{
+			"type": "text",
+			"weight": 1,
+			"range": [
+				122,
+				175
+			],
+			"_id": "vlb6yuoIHCl4z50Y",
+			"name": "Nothing",
+			"img": "icons/svg/d20-black.svg",
+			"description": "<p>All Coming up blank</p>",
+			"drawn": false,
+			"flags": {},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null
+			},
+			"documentUuid": null
+		}
+	],
+	"replacement": true,
+	"displayRoll": false,
+	"folder": "OswnPNWgbqhH0SNs",
+	"sort": 100000,
+	"flags": {},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"formula": "1d175",
+	"ownership": {
+		"default": 2
+	}
+}

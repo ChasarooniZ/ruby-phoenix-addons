@@ -1,0 +1,210 @@
+{
+	"folder": "JkFPP3wVqDtXliRa",
+	"name": "Effect: Tiger Polymorph",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"description": {
+			"value": "",
+			"gm": ""
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"key": "TokenImage",
+				"value": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/tiger.webp",
+				"ring": {
+					"subject": {
+						"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/mammalian/tiger.webp"
+					}
+				},
+				"scale": 1
+			},
+			{
+				"key": "BattleForm",
+				"overrides": {
+					"armorClass": {
+						"modifier": "36"
+					},
+					"senses": {
+						"lowLightVision": {},
+						"scent": {
+							"acuity": "imprecise",
+							"range": 30
+						}
+					},
+					"size": "lg",
+					"speeds": {
+						"land": 30
+					},
+					"strikes": {
+						"jaws": {
+							"ability": "str",
+							"category": "unarmed",
+							"damage": {
+								"damageType": "piercing",
+								"dice": 3,
+								"die": "d6",
+								"modifier": 16
+							},
+							"group": "brawling",
+							"modifier": 25,
+							"traits": [
+								"unarmed"
+							]
+						},
+						"claw": {
+							"ability": "dex",
+							"category": "unarmed",
+							"damage": {
+								"damageType": "slashing",
+								"dice": 2,
+								"die": "d8",
+								"modifier": 16
+							},
+							"group": "brawling",
+							"modifier": 25,
+							"traits": [
+								"unarmed",
+								"agile"
+							]
+						}
+					},
+					"tempHP": 30
+				}
+			},
+			{
+				"key": "GrantItem",
+				"uuid": "Compendium.pf2e.adventure-specific-actions.Item.LVSGvlzI1rGWtGJA"
+			},
+			{
+				"key": "GrantItem",
+				"uuid": "Compendium.pf2e.adventure-specific-actions.Item.oUP8jylH97ZbRvfw"
+			},
+			{
+				"key": "GrantItem",
+				"uuid": "Compendium.pf2e.adventure-specific-actions.Item.GSLSCo0OWDUtET4e"
+			},
+			{
+				"key": "GrantItem",
+				"uuid": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.Tkd8sH4pwFIPzqTr"
+			},
+			{
+				"key": "Note",
+				"title": "Grab",
+				"text": "<span class=\"action-glyph\">A</span>@Localize[PF2E.NPC.Abilities.Glossary.Grab]",
+				"predicate": [
+					"item:slug:jaws"
+				],
+				"battleForm": true,
+				"selector": [
+					"attack"
+				]
+			},
+			{
+				"key": "ActiveEffectLike",
+				"mode": "upgrade",
+				"path": "system.skills.athletics.value",
+				"phase": "afterDerived",
+				"value": 26
+			},
+			{
+				"key": "Strike",
+				"category": "unarmed",
+				"damage": {
+					"base": {
+						"damageType": "slashing",
+						"dice": 2,
+						"die": "d8",
+						"modifier": 16
+					}
+				},
+				"attackModifier": 25,
+				"group": "brawling",
+				"label": "Tiger Claw",
+				"traits": [
+					"agile",
+					"unarmed"
+				]
+			},
+			{
+				"key": "CreatureSize",
+				"value": "large"
+			},
+			{
+				"key": "Strike",
+				"category": "unarmed",
+				"damage": {
+					"base": {
+						"damageType": "piercing",
+						"dice": 3,
+						"die": "d6",
+						"modifier": 16
+					}
+				},
+				"attackModifier": 25,
+				"group": "brawling",
+				"label": "Jaws",
+				"traits": [
+					"unarmed"
+				]
+			}
+		],
+		"slug": "effect-tiger-polymorph",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": -1,
+			"unit": "unlimited",
+			"expiry": null,
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
+	"sort": 600000,
+	"flags": {},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": "Item.LE0TgtpDFDtpC4UL",
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"_id": "KD78M3NN3livNCpc",
+	"ownership": {
+		"default": 0
+	}
+}

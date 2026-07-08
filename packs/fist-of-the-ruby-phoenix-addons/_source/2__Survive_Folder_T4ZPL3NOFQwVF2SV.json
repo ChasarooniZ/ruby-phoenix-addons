@@ -1,0 +1,26 @@
+{
+	"name": "2. Survive",
+	"sorting": "a",
+	"folder": "ybgUqF4nqK4bxKjW",
+	"type": "Actor",
+	"_id": "T4ZPL3NOFQwVF2SV",
+	"description": "",
+	"sort": 200000,
+	"color": "#b7701f",
+	"flags": {
+		"scene-packer": {
+			"hash": "8d9c4d8a519f2aa7812db3063ab5c188b5cea8a8"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.10.2",
+		"createdTime": 1741754573935,
+		"modifiedTime": 1761544812857,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	}
+}

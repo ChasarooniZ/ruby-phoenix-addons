@@ -1,0 +1,841 @@
+{
+	"_id": "x6cte5iApsDEGNjT",
+	"folder": "6qB3dmbuhRvsYUJT",
+	"img": "modules/pf2e-tokens-bestiaries/portraits/elemental/air/zephyr-hawk.webp",
+	"items": [
+		{
+			"_id": "QaWyk1afljYBga0c",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Wind Gust",
+			"sort": 100000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"push"
+					]
+				},
+				"bonus": {
+					"value": 32
+				},
+				"damageRolls": {
+					"0": {
+						"damage": "3d10+14",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"finesse"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "HpLHoXbsdK98PiDh",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Solid Refrain",
+			"sort": 200000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 32
+				},
+				"damageRolls": {
+					"0": {
+						"damage": "3d8+14",
+						"damageType": "sonic",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": {
+					"increment": 70,
+					"max": null
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "T0vnmUhrqmtMKLQD",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Hostile Duet",
+			"sort": 300000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> A hostile creature within 30 feet creates an effect with the auditory trait that provides bonuses to itself or its allies</p>\n<hr>\n<p><strong>Effect</strong> The melodic squall recreates the auditory effect, gaining the bonuses for itself and its allies as long as the original effect persists.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"auditory"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "rSpxgtewFq1FNp4L",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Retune",
+			"sort": 400000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> The melodic squall is targeted by a spell with the auditory trait</p><hr><p><strong>Effect</strong> The melodic squall attempts to counteract the spell with a @Check[performance] check. If it succeeds, the spell effect is caught in a blast of wind that sweeps it back to its origin, affecting the caster. Targets of the triggering effect other than the melody on the wind are still affected normally.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"auditory"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "RJUajmwcmdSx0tQb",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Mesmerizing Melody",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The melodic squall sings in a sonorous chorus. Any creature in a @Template[emanation|distance:30] must attempt a @Check[will|dc:36] save to resist becoming fascinated by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours.</p><hr><p><strong>Critical Success</strong> The creature is unaffected.</p><p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{Fascinated} for 1 round.</p><p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.AdPVz7rbaVSRxHFg]{fascinated} for 4 rounds.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"auditory",
+						"concentrate",
+						"mental",
+						"primal"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"modifiedTime": null,
+				"createdTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "YA860LZZWe43vErM",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Subsonic Burst",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The melodic squall focuses intense sound at an inaudible frequency in a @Template[line|distance:100]. Each creature in the line must attempt a @Check[fortitude|dc:34] save.</p>\n<p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Critical Failure</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2} and @UUID[Compendium.pf2e.conditionitems.Item.yblD8fOR1J8rDwEQ]{Confused} until the beginning of the melodic squall's next turn.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"emotion",
+						"fear",
+						"mental",
+						"primal",
+						"sonic"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "rOyG05jMYSlAcSS5",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Swiftness",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The melodic squall's movement doesn't trigger reactions.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "B0ACGOBzm6iH5fdI",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.t6cx9FOODmeZQNYl",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "14.364",
+				"systemId": "pf2e",
+				"systemVersion": "8.3.0",
+				"lastModifiedBy": null,
+				"createdTime": null,
+				"modifiedTime": null
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Push 10ft",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "push",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": {
+						"schema": 0.958,
+						"foundry": "14.360",
+						"system": "8.1.1"
+					}
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Melodic Squall",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 280,
+				"temp": 0,
+				"max": 280,
+				"details": ""
+			},
+			"ac": {
+				"value": 39,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 0,
+				"otherSpeeds": [
+					{
+						"type": "fly",
+						"value": 100
+					}
+				],
+				"details": "swiftness"
+			},
+			"immunities": [
+				{
+					"type": "bleed"
+				},
+				{
+					"type": "paralyzed"
+				},
+				{
+					"type": "poison"
+				},
+				{
+					"type": "sleep"
+				}
+			]
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"sussuran",
+					"tengu",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 16
+			},
+			"blurb": "Variant melody on the wind",
+			"publicNotes": "<p>This cloud of song and sound has been caught by the wind and carried across the air. While the melody on the wind might enjoy the beauty of music, it is by nature a destructive elemental force.</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #167: Ready? Fight!",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 6
+			},
+			"dex": {
+				"mod": 9
+			},
+			"con": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 6
+			},
+			"cha": {
+				"mod": 9
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 30,
+			"senses": [
+				{
+					"type": "darkvision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 25,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 33,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 28,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 32,
+				"special": []
+			},
+			"performance": {
+				"base": 32,
+				"special": []
+			},
+			"stealth": {
+				"base": 32,
+				"special": []
+			},
+			"athletics": {
+				"base": 28,
+				"special": []
+			}
+		},
+		"traits": {
+			"value": [
+				"air",
+				"chaotic",
+				"elemental",
+				"evil"
+			],
+			"rarity": "rare",
+			"size": {
+				"value": "huge"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.VGJF0jWWnA4ljfZE",
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Melodic Squall",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 3,
+		"height": 3,
+		"texture": {
+			"src": "modules/pf2e-tokens-bestiaries/tokens/elemental/air/zephyr-hawk.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": "resources.heroPoints"
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-bestiaries/subjects/elemental/air/zephyr-hawk.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			},
+			"barbrawl": {
+				"resourceBars": {
+					"bar1": {
+						"order": 0,
+						"id": "bar1",
+						"attribute": "attributes.hp",
+						"mincolor": "#FF0000",
+						"maxcolor": "#80FF00",
+						"otherVisibility": 30,
+						"ownerVisibility": 30,
+						"gmVisibility": -1,
+						"hideFull": true,
+						"hideEmpty": false,
+						"hideCombat": false,
+						"hideNoCombat": false,
+						"hideHud": false,
+						"position": "left-outer",
+						"shareHeight": false,
+						"indentLeft": null,
+						"indentRight": null,
+						"style": "none",
+						"label": "",
+						"invert": false,
+						"subdivisions": 5,
+						"subdivisionsOwner": false,
+						"invertDirection": false,
+						"fgImage": "",
+						"bgImage": "",
+						"hideBg": false,
+						"opacity": null
+					},
+					"bar2": {
+						"order": 1,
+						"id": "bar2",
+						"attribute": "resources.heroPoints",
+						"mincolor": "#000080",
+						"maxcolor": "#80B3FF",
+						"otherVisibility": 0,
+						"ownerVisibility": 35,
+						"gmVisibility": -1,
+						"hideFull": false,
+						"hideEmpty": false,
+						"hideCombat": false,
+						"hideNoCombat": false,
+						"hideHud": false,
+						"position": "bottom-inner",
+						"shareHeight": false,
+						"indentLeft": 60,
+						"indentRight": null,
+						"style": "none",
+						"label": "",
+						"invert": false,
+						"subdivisions": null,
+						"subdivisionsOwner": false,
+						"invertDirection": true,
+						"fgImage": "pics/icons/UI/stars-left-right.webp",
+						"bgImage": "",
+						"hideBg": false,
+						"opacity": null
+					}
+				}
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 3
+	},
+	"sort": 900000,
+	"flags": {
+		"pf2e": {
+			"maxhealingRank": 0
+		}
+	},
+	"ownership": {
+		"default": 0
+	}
+}

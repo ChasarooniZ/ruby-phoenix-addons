@@ -1,0 +1,23 @@
+{
+	"type": "Scene",
+	"folder": null,
+	"name": "4. In Search of Sponsorship",
+	"color": "#278637",
+	"sorting": "a",
+	"_id": "0mTw3XUT46MfpqFg",
+	"description": "",
+	"sort": 0,
+	"flags": {},
+	"_stats": {
+		"coreVersion": "14.361",
+		"systemId": "pf2e",
+		"systemVersion": "8.1.1",
+		"createdTime": 1778082494379,
+		"modifiedTime": 1778082494379,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"_key": "!folders!0mTw3XUT46MfpqFg"
+}

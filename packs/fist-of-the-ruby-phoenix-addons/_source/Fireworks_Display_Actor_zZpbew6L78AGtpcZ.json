@@ -1,0 +1,255 @@
+{
+	"folder": "PJYCYDBXTLotGMfZ",
+	"name": "Fireworks Display",
+	"type": "npc",
+	"prototypeToken": {
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": true
+			},
+			"image-hover": {
+				"hideArt": false,
+				"specificArt": "path/image.png"
+			},
+			"Rideable": {
+				"issetRideableFlag": true,
+				"MountonEnterFlag": false,
+				"AutoMountBlackListFlag": "",
+				"AutoMountWhiteListFlag": "",
+				"MaxRiderFlag": null,
+				"CustomRidingheightFlag": null,
+				"UseRidingHeightFlag": true,
+				"RidersScaleFlag": 1,
+				"RiderPositioningFlag": "RowPlacement",
+				"RiderOffsetFlag": [
+					0,
+					0
+				],
+				"TokenFormFlag": "TokenFormCircle",
+				"InsideMovementFlag": false,
+				"SpawnRidersFlag": "",
+				"WorldMEffectOverrideFlag": false,
+				"MountingEffectsFlag": "",
+				"SelfApplyEffectsFlag": false,
+				"forMountEffectsFlag": "",
+				"CanbePilotedFlag": false,
+				"CheckPilotedCollisionFlag": false,
+				"PilotedbyDefaultFlag": false
+			}
+		},
+		"height": 2,
+		"width": 2,
+		"name": "Fireworks Display",
+		"displayName": 30,
+		"actorLink": false,
+		"texture": {
+			"src": "icons/magic/fire/explosion-fireball-small-purple-orange.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": false,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 0,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false,
+		"depth": 1
+	},
+	"effects": [],
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 10,
+				"temp": 0,
+				"max": 10,
+				"details": ""
+			},
+			"ac": {
+				"value": 10,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 25,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [],
+				"details": ""
+			},
+			"level": {
+				"value": 14
+			},
+			"blurb": "",
+			"publicNotes": "<p><strong>Chase Points</strong> 5; <strong>Overcome </strong>@Check[crafting|dc:30], @Check[perfomance|dc:30],@Check[goka-lore|dc:30], @Check[society|dc:32], @Check[arcana|dc:34], @Check[occultism|dc:34]</p><hr><p>Any character who <span style=\"text-decoration:underline\"><strong><span style=\"text-decoration:underline\">critically fails</span></strong><span style=\"text-decoration:underline\"> their check</span></span> to overcome this obstacle is @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh] for 1 round.</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {},
+		"_migration": {
+			"version": 0.959,
+			"previous": {
+				"schema": 0.958,
+				"foundry": "14.360",
+				"system": "8.1.1"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			},
+			"cha": {
+				"mod": 0
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 0,
+			"senses": [],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 0,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 0,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 0,
+				"saveDetail": ""
+			}
+		},
+		"skills": {},
+		"traits": {
+			"value": [],
+			"rarity": "common",
+			"size": {
+				"value": "lg"
+			}
+		}
+	},
+	"img": "icons/magic/fire/explosion-fireball-small-purple-orange.webp",
+	"items": [],
+	"sort": 0,
+	"flags": {
+		"core": {
+			"sheetClass": "pf2e.SimpleNPCSheet"
+		}
+	},
+	"_stats": {
+		"compendiumSource": "Compendium.chas-shared-compendia.chas-actors.Actor.zZpbew6L78AGtpcZ",
+		"duplicateSource": "Actor.NmzqHL21ZXYzsqyg",
+		"exportSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null
+	},
+	"_id": "zZpbew6L78AGtpcZ",
+	"ownership": {
+		"default": 0
+	}
+}

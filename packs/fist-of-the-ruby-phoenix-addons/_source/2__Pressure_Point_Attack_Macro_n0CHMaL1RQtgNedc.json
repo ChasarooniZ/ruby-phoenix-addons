@@ -1,0 +1,30 @@
+{
+	"folder": "Wm9fEVTcLSfCDLdt",
+	"name": "2. Pressure Point Attack",
+	"type": "script",
+	"_id": "n0CHMaL1RQtgNedc",
+	"author": "vj8VUT8j7Wtzy3Y2",
+	"img": "icons/skills/targeting/crosshair-ringed-gray.webp",
+	"scope": "global",
+	"command": "// Animation for Shino Hakusa's Whirlwind Toss\n// requires `Sequencer` & `jb2a`\n// Just select Shino Hakusa and target who she is pressure pointing\ngame.rubyPhoenixAddons.api.animation.chapter_3.lightkeepers.pressurePointAttack();",
+	"sort": 0,
+	"flags": {
+		"advanced-macros": {
+			"runForSpecificUser": ""
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.4.3",
+		"createdTime": 1758147311713,
+		"modifiedTime": 1761544812725,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	},
+	"ownership": {
+		"default": 0
+	}
+}

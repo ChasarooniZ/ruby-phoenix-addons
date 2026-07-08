@@ -8,6 +8,8 @@
       - **Opera House Reprise** - Includes scene functionality to apply the Acoustics effect to anyone below the stage
       - **Seven Dragons Bridge** - Includes fire and portal fx (Jb2a Patreon), embers and shaking on roar/stomp (FXMaster), civillian swarms (Swarms), and obstacles
       - **Goka Docks - Razu** - Adds creatures + the fire floating down (FXMaster)
+- **Updated**
+  - Changed how packs are extracted such that they now expand out the adventure
 
 ## 1.3.2
 

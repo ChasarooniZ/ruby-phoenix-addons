@@ -1,0 +1,26 @@
+{
+	"name": "FotRP: Addons",
+	"sorting": "a",
+	"folder": null,
+	"type": "JournalEntry",
+	"_id": "MjY3pFH54gjTLA7v",
+	"description": "",
+	"sort": 200000,
+	"color": "#a91919",
+	"flags": {
+		"scene-packer": {
+			"hash": "64398857594a88bdb4f85e2d64b80dddb4db8ecb"
+		}
+	},
+	"_stats": {
+		"compendiumSource": "Folder.MjY3pFH54gjTLA7v",
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.11.1",
+		"createdTime": 1744687212166,
+		"modifiedTime": 1744740932578,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	}
+}

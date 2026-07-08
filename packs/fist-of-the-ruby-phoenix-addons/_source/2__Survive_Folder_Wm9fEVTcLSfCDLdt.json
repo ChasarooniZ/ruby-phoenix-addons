@@ -1,0 +1,26 @@
+{
+	"name": "2. Survive",
+	"sorting": "a",
+	"folder": "0cOOiPOLNdEjwh1C",
+	"type": "Macro",
+	"_id": "Wm9fEVTcLSfCDLdt",
+	"description": "",
+	"sort": 0,
+	"color": "#976621",
+	"flags": {
+		"scene-packer": {
+			"hash": "7b5510ad999f183980d45f855ee8ce7a705f49fc"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.12.1",
+		"createdTime": 1747523678337,
+		"modifiedTime": 1761544812857,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	}
+}

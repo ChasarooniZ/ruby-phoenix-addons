@@ -1,0 +1,2718 @@
+{
+	"prototypeToken": {
+		"displayName": 30,
+		"displayBars": 0,
+		"prependAdjective": false,
+		"flags": {
+			"tagger": {},
+			"pf2e-rpg-numbers": {
+				"rotationOffset": 0,
+				"fireEmblemImg": "",
+				"personaImg": "",
+				"critOffsetX": 0,
+				"critOffsetY": 0,
+				"critScale": 100,
+				"critRotation": 0,
+				"critSFX": ""
+			},
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			},
+			"Rideable": {
+				"issetRideableFlag": true,
+				"MaxRiderFlag": null,
+				"CustomRidingheightFlag": null,
+				"UseRidingHeightFlag": true,
+				"RidersScaleFlag": 1,
+				"RiderPositioningFlag": "RowPlacement",
+				"RiderOffsetFlag": [
+					0,
+					0
+				],
+				"TokenFormFlag": "TokenFormCircle",
+				"InsideMovementFlag": false,
+				"SpawnRidersFlag": "",
+				"WorldMEffectOverrideFlag": false,
+				"MountingEffectsFlag": "",
+				"SelfApplyEffectsFlag": false,
+				"forMountEffectsFlag": "",
+				"CanbePilotedFlag": false,
+				"CheckPilotedCollisionFlag": false,
+				"PilotedbyDefaultFlag": false
+			}
+		},
+		"name": "Rijana Ahmoza",
+		"actorLink": false,
+		"appendNumber": false,
+		"width": 1,
+		"height": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-battlemage.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffbfa3",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": true,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": "#e04300",
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-battlemage.webp"
+			}
+		},
+		"randomImg": false,
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"depth": 1
+	},
+	"img": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-battlemage.webp",
+	"items": [
+		{
+			"_id": "DKsQM7WbtcPBTDCg",
+			"img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+			"name": "Focus Spells",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"ability": {
+					"value": "cha"
+				},
+				"spelldc": {
+					"value": 25,
+					"dc": 32,
+					"mod": 0
+				},
+				"tradition": {
+					"value": "arcane"
+				},
+				"prepared": {
+					"value": "focus"
+				},
+				"showSlotlessLevels": {
+					"value": true
+				},
+				"proficiency": {
+					"value": 0
+				},
+				"slots": {
+					"slot0": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot1": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot2": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot3": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot4": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot5": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot6": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot7": {
+						"prepared": [],
+						"value": 3,
+						"max": 3
+					},
+					"slot8": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot9": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot10": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot11": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					}
+				},
+				"autoHeightenLevel": {
+					"value": null
+				}
+			},
+			"type": "spellcastingEntry",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "rHmQ2zQRoBl2K9cB",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/spells/abundant-step.webp",
+			"name": "Shrink the Span",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You move so fast you blur across planar boundaries. You teleport up to a distance equal to your Speed within your line of sight.</p>"
+				},
+				"rules": [],
+				"slug": "shrink-the-span",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"focus",
+						"manipulate",
+						"monk",
+						"teleportation"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 3
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": "see text"
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "DKsQM7WbtcPBTDCg"
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.Az3PmWnlWSb5ELX9",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743702391832,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "88CtX72i63mhJTJG",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/spells/ki-blast.webp",
+			"name": "Qi Blast",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You unleash your qi as a powerful blast that deals 2d6 force damage. If you use 2 actions to cast qi blast, increase the size of the cone to 30 feet and the damage to 3d6. If you use 3 actions to cast qi blast, increase the cone to 60 feet and the damage to 4d6. Each creature in the area must attempt a Fortitude save.</p><hr /><p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is pushed 5 feet.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is pushed 10 feet.</p><hr /><p><strong>Heightened (+1)</strong> The damage increases by 1d6, or by 2d6 if you use 2 or 3 actions.</p>"
+				},
+				"rules": [
+					{
+						"domain": "all",
+						"key": "RollOption",
+						"label": "PF2E.SpecificRule.Monk.QiSpells.HeavensThunder.RollOptionLabel",
+						"option": "heavens-thunder",
+						"placement": "spellcasting",
+						"predicate": [
+							"self:effect:heavens-thunder"
+						],
+						"suboptions": [
+							{
+								"label": "PF2E.TraitElectricity",
+								"value": "electricity"
+							},
+							{
+								"label": "PF2E.TraitSonic",
+								"value": "sonic"
+							}
+						],
+						"toggleable": true
+					},
+					{
+						"key": "DamageAlteration",
+						"mode": "override",
+						"predicate": [
+							"heavens-thunder"
+						],
+						"property": "damage-type",
+						"selectors": [
+							"{item|id}-damage"
+						],
+						"value": "{item|flags.pf2e.rulesSelections.heavensThunder}"
+					},
+					{
+						"itemId": "{item|id}",
+						"key": "ItemAlteration",
+						"mode": "remove",
+						"predicate": [
+							"heavens-thunder"
+						],
+						"property": "traits",
+						"value": "force"
+					},
+					{
+						"itemId": "{item|id}",
+						"key": "ItemAlteration",
+						"mode": "add",
+						"predicate": [
+							"heavens-thunder"
+						],
+						"property": "traits",
+						"value": "{item|flags.pf2e.rulesSelections.heavensThunder}"
+					}
+				],
+				"slug": "qi-blast",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"force",
+						"manipulate",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 3
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": {
+					"type": "cone",
+					"value": 15
+				},
+				"time": {
+					"value": "1 to 3"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "2d6",
+						"kinds": [
+							"damage"
+						],
+						"materials": [],
+						"type": "force"
+					}
+				},
+				"defense": {
+					"save": {
+						"basic": false,
+						"statistic": "fortitude"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "DKsQM7WbtcPBTDCg"
+				},
+				"counteraction": false,
+				"heightening": {
+					"area": 0,
+					"damage": {
+						"0": "1d6"
+					},
+					"interval": 1,
+					"type": "interval"
+				},
+				"overlays": {
+					"6wf5l1kiwcdtnx6s": {
+						"overlayType": "override",
+						"sort": 3,
+						"system": {
+							"area": {
+								"value": 60
+							},
+							"damage": {
+								"0": {
+									"category": null,
+									"formula": "4d6"
+								}
+							},
+							"heightening": {
+								"damage": {
+									"0": "2d6"
+								}
+							},
+							"target": {
+								"value": "All creatures"
+							},
+							"time": {
+								"value": "3"
+							}
+						}
+					},
+					"ah0wlzxg5wb7q038": {
+						"overlayType": "override",
+						"sort": 2,
+						"system": {
+							"area": {
+								"value": 30
+							},
+							"damage": {
+								"0": {
+									"category": null,
+									"formula": "3d6"
+								}
+							},
+							"heightening": {
+								"damage": {
+									"0": "2d6"
+								}
+							},
+							"target": {
+								"value": "All creatures"
+							},
+							"time": {
+								"value": "2"
+							}
+						}
+					},
+					"weox8ze9kgj6nz0h": {
+						"_id": "weox8ze9kgj6nz0h",
+						"overlayType": "override",
+						"sort": 1,
+						"system": {
+							"target": {
+								"value": "All creatures"
+							},
+							"time": {
+								"value": "1"
+							}
+						}
+					}
+				}
+			},
+			"type": "spell",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.oo7YcRC2gcez81PV",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743702388595,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "EQAKAuSBwz2ybxVs",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/spells/ki-rush.webp",
+			"name": "Qi Rush",
+			"sort": 400000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Accelerated by your qi, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order).</p>\n<p>You gain the @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} condition during this movement and until the start of your next turn.</p>"
+				},
+				"rules": [],
+				"slug": "qi-rush",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "DKsQM7WbtcPBTDCg"
+				},
+				"counteraction": false,
+				"ritual": null
+			},
+			"type": "spell",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.ps0nmhclT6aIXgd8",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743702390391,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "0q5MDudR2ojKPzVg",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/spells/wholeness-of-body.webp",
+			"name": "Harmonize Self",
+			"sort": 500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You heal yourself in one of the following ways, chosen by you when you cast the spell.</p>\n<ul>\n<li>You regain 8 Hit Points.</li>\n<li>You attempt to cure one poison or disease afflicting you; attempt to counteract the affliction.</li>\n</ul>\n<hr />\n<p><strong>Heightened (+1)</strong> If you choose to regain Hit Points, the Hit Points regained increase by 8.</p>"
+				},
+				"rules": [],
+				"slug": "harmonize-self",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"healing",
+						"monk",
+						"vitality"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 2
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "8",
+						"kinds": [
+							"healing"
+						],
+						"materials": [],
+						"type": "vitality"
+					}
+				},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "DKsQM7WbtcPBTDCg"
+				},
+				"counteraction": true,
+				"heightening": {
+					"damage": {
+						"0": "8"
+					},
+					"interval": 1,
+					"type": "interval"
+				}
+			},
+			"type": "spell",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.qJZZdYBdNaWRJFER",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743702389547,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "h5zeTxmMkwuPtSj9",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/spells/wind-jump.webp",
+			"name": "Wind Jump",
+			"sort": 600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You gain a fly Speed equal to your Speed. You must end your turn on solid ground, or you fall.</p><hr /><p><strong>Heightened (6th)</strong> At the end of your turn, you can attempt a @Check[acrobatics|dc:30] check to find purchase in midair. If you succeed, you don't fall.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.5MI2c9IgxfSeGZQo]{Spell Effect: Wind Jump}</p>"
+				},
+				"rules": [],
+				"slug": "wind-jump",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"air",
+						"concentrate",
+						"focus",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 5
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "1 minute",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "DKsQM7WbtcPBTDCg"
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.kRxlkPPe6Gr7Du59",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743702387525,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "N6ip6th1wPv7yJdg",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/spells/ki-strike.webp",
+			"name": "Inner Upheaval",
+			"sort": 700000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You focus your qi into devastating magical attacks. Make an unarmed Strike or @UUID[Compendium.pf2e.classfeatures.Item.NLHHHiAcdnZ5ohc2]{Flurry of Blows} (this doesn't change the limit on using only one flourish per turn). You gain a +1 status bonus to your attack rolls with the Strikes, and the Strikes deal 1d6 extra damage. This damage can be any of the following types of your choice, chosen each time you Strike: force, spirit, vitality, or void.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.8olfnTmWh0GGPDqX]{Spell Effect: Inner Upheaval}</p><hr /><p><strong>Heightened (+4)</strong> The extra damage increases by 1d6</p>"
+				},
+				"rules": [],
+				"slug": "inner-upheaval",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "1d6",
+						"kinds": [
+							"damage"
+						],
+						"materials": [],
+						"type": "untyped"
+					}
+				},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "DKsQM7WbtcPBTDCg"
+				},
+				"counteraction": false,
+				"heightening": {
+					"damage": {
+						"0": "1d6"
+					},
+					"interval": 4,
+					"type": "interval"
+				}
+			},
+			"type": "spell",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.ZL8NTvB22NeEWhVG",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743702386569,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "tutlJRRTYAJq99k3",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/bo-staff.webp",
+			"name": "Bo Staff",
+			"sort": 800000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This strong but slender staff is tapered at the ends and well balanced. It's designed to be an offensive and defensive weapon.</p>"
+				},
+				"rules": [],
+				"slug": "bo-staff",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"monk",
+						"parry",
+						"reach",
+						"trip"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "bo-staff",
+				"bulk": {
+					"value": 2
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"sp": 2
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-two-hands"
+				},
+				"category": "martial",
+				"group": "club",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d8",
+					"damageType": "bludgeoning",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"striking": 1,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.hMYdSFmMWzidzHih",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "JGzZGsu00o1zU8p2",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/dart.webp",
+			"name": "Dart",
+			"sort": 900000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This thrown weapon is larger than an arrow but shorter than a javelin. It typically has a short shaft of wood ending in a metal tip and is sometimes stabilized by feathers or fur.</p>"
+				},
+				"rules": [],
+				"slug": "dart",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"thrown"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 3,
+				"baseItem": "dart",
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"cp": 1
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "simple",
+				"group": "dart",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "piercing",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": 20,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": "-"
+				},
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"striking": 1,
+					"property": [
+						"returning"
+					]
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.Tt4Qw64fwrxhr5gT",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "zK94vPAf7gYeOalQ",
+			"flags": {
+				"core": {}
+			},
+			"img": "icons/equipment/hand/gauntlet-simple-leather-brown-gold.webp",
+			"name": "+1 Striking Handwraps of Mighty Blows",
+			"sort": 1000000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>As you invest these embroidered strips of cloth, you must meditate and slowly wrap them around your hands. These handwraps have weapon runes etched into them to give your unarmed attacks the benefits of those runes, making your unarmed attacks work like magic weapons. For example, <em>+1 striking handwraps of mighty blows</em> would give you a +1 item bonus to attack rolls with your unarmed attacks and increase the damage of your unarmed attacks from one weapon die to two (normally 2d4 instead of 1d4, but if your fists have a different weapon damage die or you have other unarmed attacks, use two of that die size instead).</p>\n<p>You can upgrade, add, and transfer runes to and from the handwraps just as you would for a weapon, and you can attach talismans to the handwraps. Treat the handwraps as melee weapons of the brawling group with light Bulk for these purposes. Property runes apply only when they would be applicable to the unarmed attack you're using. For example, a property that must be applied to a slashing weapon wouldn't function when you attacked with a fist, but you would gain its benefits if you attacked with a claw or some other slashing unarmed attack.</p>"
+				},
+				"rules": [],
+				"slug": "handwraps-of-mighty-blows",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"agile",
+						"finesse",
+						"invested",
+						"magical",
+						"nonlethal",
+						"unarmed"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 2
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 35
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0,
+					"inSlot": false
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "worngloves"
+				},
+				"category": "unarmed",
+				"group": "brawling",
+				"bonus": {
+					"value": 1
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d4",
+					"damageType": "bludgeoning",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": null
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 1,
+					"striking": 1,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				},
+				"property1": {
+					"value": "",
+					"dice": 0,
+					"die": "",
+					"damageType": "",
+					"critDice": 0,
+					"critDie": "",
+					"critDamage": "",
+					"critDamageType": ""
+				}
+			},
+			"type": "weapon",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.FNDq4NFSN0g2HKWO",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "SDc0i4HEPHX9vIGF",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/bracers-of-armor.webp",
+			"name": "Bands of Force",
+			"sort": 1100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Decorated with clear gemstones, these thick metal bands spread an inflexible layer of force over your body. The force grants you a +1 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5 as armor. You can affix talismans to the bands as though they were light armor.</p>\n<p><strong>Activate—Return Force</strong> <span class=\"action-glyph\">R</span> (force, manipulate)</p>\n<p><strong>Trigger</strong> A creature critically misses you with a melee Strike</p>\n<hr />\n<p><strong>Effect</strong> You Shove the creature using the bands' Athletics modifier of [[/r d20+14]]{+14}.</p>"
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"selector": [
+							"ac",
+							"saving-throw"
+						],
+						"slug": "bands-of-force",
+						"type": "item",
+						"value": 1
+					},
+					{
+						"key": "DexterityModifierCap",
+						"value": 5
+					}
+				],
+				"slug": "bands-of-force",
+				"_migration": {
+					"version": 0.953,
+					"lastMigration": null,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"force",
+						"invested",
+						"magical"
+					],
+					"rarity": "common"
+				},
+				"publication": {
+					"title": "Pathfinder GM Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 8
+				},
+				"quantity": 1,
+				"baseItem": null,
+				"bulk": {
+					"value": 0.1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 500
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": false,
+					"inSlot": false,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/bracers-of-armor.webp",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					},
+					"misidentified": {}
+				},
+				"usage": {
+					"value": "wornbracers"
+				},
+				"subitems": []
+			},
+			"type": "equipment",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.02q8s6sSicMkhs1l",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": null,
+				"modifiedTime": 1743702385244,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "JaJJTCW8WSMz6nFc",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Flurry of Blows",
+			"sort": 1500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The ki adept makes two Strikes with his fist or with a monk weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.</p>"
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"flourish"
+					]
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "action"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": 1
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "WsYJheMbLRrldd9p",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Knocking Sweep",
+			"sort": 1600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The ki adept swings their weapon with a sweeping spin. They attempt separate Athletics check to @UUID[Compendium.pf2e.actionspf2e.Item.ge56Lu1xXVFYUnLP]{Trip} any number of creatures within their reach. Each attempt counts toward the ki adept's multiple attack penalty, but the multiple attack penalty doesn't increase until after they makes all the attacks.</p>"
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"flourish"
+					]
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "action"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": 2
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "R18obny87brojB7E",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Powerful Fists",
+			"sort": 1700000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The ki adept's fist Strikes are treated as cold iron and silver and don't take penalties when making lethal attacks.</p>"
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "passive"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "aQaobvM2ryEesCVX",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Punch Down",
+			"sort": 1800000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The ki adept deals an extra 2d10 damage to @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone} creatures.</p>"
+				},
+				"rules": [
+					{
+						"diceNumber": 2,
+						"dieSize": "d10",
+						"key": "DamageDice",
+						"predicate": [
+							"target:condition:prone"
+						],
+						"selector": "strike-damage"
+					}
+				],
+				"slug": null,
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "passive"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ZxPtq2Nl3SOEsWwX",
+			"flags": {
+				"core": {}
+			},
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Knockdown",
+			"sort": 1900000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+				},
+				"rules": [],
+				"slug": "knockdown",
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"publication": {
+					"title": "Pathfinder Bestiary",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"actionType": {
+					"value": "action"
+				},
+				"category": "offensive",
+				"actions": {
+					"value": 1
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.BCLvAx4Pz4MLa2pu",
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Channel Element",
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"description": {
+					"value": "<p>Manyala and Rijana can draw upon the power in their bodies to temporarily channel energy. The next unarmed attack that they make deals @Damage[1d8] additional damage. This damage type is fire for Manyala and cold for Rijana.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"critical": true,
+						"key": "DamageDice",
+						"selector": "strike-damage",
+						"diceNumber": 1,
+						"dieSize": "d8",
+						"damageType": "cold",
+						"predicate": [
+							"unarmed"
+						],
+						"label": "Channel Element"
+					},
+					{
+						"domain": "all",
+						"key": "RollOption",
+						"option": "channel-element",
+						"toggleable": true,
+						"label": "Channel Element"
+					}
+				],
+				"slug": "channel-element",
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate"
+					]
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "bN64GnpTz3D4i240",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "324debbb55d0e281378464deb30009257d1de8eb"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"type": "action",
+			"name": "Entwined Energy Qi",
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"description": {
+					"value": "<p>Manyala and Rijana can infuse energy into their qi blasts, allowing them to change the damage the spell deals. Manyala can choose to deal fire damage instead of force damage and Rijana can choose to deal cold damage instead of force damage.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"key": "DamageDice",
+						"override": {
+							"damageType": "cold"
+						},
+						"predicate": [
+							"item:qi-blast",
+							"entwined-energy"
+						],
+						"selector": "spell-damage"
+					},
+					{
+						"key": "RollOption",
+						"domain": "all",
+						"toggleable": true,
+						"option": "entwined-energy",
+						"value": false
+					}
+				],
+				"slug": "entwined-energy-ki",
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"actions": {
+					"value": null
+				},
+				"category": null,
+				"deathNote": false
+			},
+			"effects": [],
+			"_id": "2gOMkMbIBacHHREr",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": null,
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "8e64e0470bf8a8f899fe69a89c642ac33596dc1d"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.12.1",
+				"createdTime": null,
+				"modifiedTime": 1746585123946,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "tutlJRRTYAJq99k3"
+				},
+				"scene-packer": {
+					"hash": "2609569128041e639bdcbfc473d72c8d96aab838"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Bo Staff",
+			"sort": 1200000,
+			"system": {
+				"attackEffects": {
+					"value": [
+						"knockdown"
+					]
+				},
+				"bonus": {
+					"value": 27
+				},
+				"damageRolls": {
+					"j2dd7nrb3obyklo7v9ma": {
+						"damage": "3d8+14",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"magical",
+						"parry",
+						"reach",
+						"trip"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": "Actor.oni8x4HQKuVUKv0J.Item.TwyDnVHbjPm7365q",
+				"duplicateSource": "Actor.oni8x4HQKuVUKv0J.Item.TwyDnVHbjPm7365q",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"_id": "jyLNo1gOxtO0DJkZ",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "JGzZGsu00o1zU8p2"
+				},
+				"scene-packer": {
+					"hash": "fbc6561d93736c3219ad41b14b218810a161a83f"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Dart",
+			"sort": 1400000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 24
+				},
+				"damageRolls": {
+					"his3f5atmjcoaxkmg242": {
+						"damage": "3d6+11",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "dart",
+				"traits": {
+					"value": [
+						"agile",
+						"magical",
+						"thrown-20"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": "Actor.oni8x4HQKuVUKv0J.Item.XbUbNlmwW7qrp1Mh",
+				"duplicateSource": "Actor.oni8x4HQKuVUKv0J.Item.XbUbNlmwW7qrp1Mh",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"_id": "XRVkJdv6gGW1AXwo",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Fist",
+			"sort": 1300000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 27
+				},
+				"damageRolls": {
+					"adivb8mn1i8r96b6n33i": {
+						"damage": "3d8+11",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"cold-iron",
+						"finesse",
+						"magical",
+						"nonlethal",
+						"silver",
+						"unarmed"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"action": "strike",
+				"area": null,
+				"range": null
+			},
+			"type": "melee",
+			"_stats": {
+				"compendiumSource": "Actor.oni8x4HQKuVUKv0J.Item.xYgeYqc3OddCmnPf",
+				"duplicateSource": "Actor.oni8x4HQKuVUKv0J.Item.xYgeYqc3OddCmnPf",
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.10.2",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {
+				"scene-packer": {
+					"hash": "46533a980b780db2ba1ac2b1c3e70124f918ddb5"
+				}
+			},
+			"_id": "DmOsEAz1DHWs5uGT",
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"type": "action",
+			"system": {
+				"description": {
+					"value": "<p>Granted by @UUID[Actor.GdO3z0dY89CQHz91.Item.SDc0i4HEPHX9vIGF]{Bands of Force}</p><p><strong>Activate—Return Force</strong> <span class=\"action-glyph\">R</span> (force, manipulate)</p>\n<p><strong>Trigger</strong> A creature critically misses you with a melee Strike</p>\n<hr />\n<p><strong>Effect</strong> You Shove the creature using the bands' Athletics modifier of [[/r d20+14]]{+14}.</p>",
+					"gm": ""
+				},
+				"traits": {
+					"value": [
+						"force",
+						"manipulate"
+					],
+					"otherTags": []
+				},
+				"actions": {
+					"value": null
+				},
+				"actionType": {
+					"value": "reaction"
+				},
+				"slug": "activation-return-force",
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [],
+				"_migration": {
+					"version": 0.953,
+					"previous": {
+						"schema": 0.952,
+						"foundry": "13.351",
+						"system": "7.7.4"
+					}
+				},
+				"category": null
+			},
+			"name": "Activation: Return Force",
+			"flags": {
+				"pf2e-item-activations": {
+					"grantedBy": {
+						"_id": "SDc0i4HEPHX9vIGF",
+						"flags": {
+							"core": {
+								"sourceId": "Compendium.pf2e.equipment-srd.Item.02q8s6sSicMkhs1l"
+							}
+						},
+						"img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/bracers-of-armor.webp",
+						"name": "Bands of Force",
+						"sort": 1100000,
+						"system": {
+							"description": {
+								"gm": "",
+								"value": "<p>Decorated with clear gemstones, these thick metal bands spread an inflexible layer of force over your body. The force grants you a +1 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5 as armor. You can affix talismans to the bands as though they were light armor.</p>\n<p><strong>Activate—Return Force</strong> <span class=\"action-glyph\">R</span> (force, manipulate)</p>\n<p><strong>Trigger</strong> A creature critically misses you with a melee Strike</p>\n<hr />\n<p><strong>Effect</strong> You Shove the creature using the bands' Athletics modifier of [[/r d20+14]]{+14}.</p>"
+							},
+							"rules": [
+								{
+									"key": "FlatModifier",
+									"selector": [
+										"ac",
+										"saving-throw"
+									],
+									"slug": "bands-of-force",
+									"type": "item",
+									"value": 1
+								},
+								{
+									"key": "DexterityModifierCap",
+									"value": 5
+								}
+							],
+							"slug": "bands-of-force",
+							"_migration": {
+								"version": 0.935,
+								"lastMigration": null,
+								"previous": null
+							},
+							"traits": {
+								"otherTags": [],
+								"value": [
+									"force",
+									"invested",
+									"magical"
+								],
+								"rarity": "common"
+							},
+							"publication": {
+								"title": "Pathfinder GM Core",
+								"authors": "",
+								"license": "ORC",
+								"remaster": true
+							},
+							"level": {
+								"value": 8
+							},
+							"quantity": 1,
+							"baseItem": null,
+							"bulk": {
+								"value": 0.1
+							},
+							"hp": {
+								"value": 0,
+								"max": 0
+							},
+							"hardness": 0,
+							"price": {
+								"value": {
+									"gp": 500
+								}
+							},
+							"equipped": {
+								"carryType": "worn",
+								"invested": false,
+								"inSlot": false,
+								"handsHeld": 0
+							},
+							"containerId": null,
+							"size": "med",
+							"material": {
+								"type": null,
+								"grade": null
+							},
+							"identification": {
+								"status": "identified",
+								"unidentified": {
+									"name": "",
+									"img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/bracers-of-armor.webp",
+									"data": {
+										"description": {
+											"value": ""
+										}
+									}
+								},
+								"misidentified": {}
+							},
+							"usage": {
+								"value": "wornbracers"
+							},
+							"subitems": []
+						},
+						"type": "equipment",
+						"_stats": {
+							"compendiumSource": "Compendium.pf2e.equipment-srd.Item.02q8s6sSicMkhs1l",
+							"duplicateSource": null,
+							"coreVersion": "12.331",
+							"systemId": "pf2e",
+							"systemVersion": "6.11.1",
+							"createdTime": null,
+							"modifiedTime": 1743702385244,
+							"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+						},
+						"effects": [],
+						"folder": null,
+						"ownership": {
+							"default": 0
+						}
+					}
+				},
+				"scene-packer": {
+					"hash": "80dbf00f3b548a63e298ac7d9e3832a26795d115"
+				}
+			},
+			"effects": [],
+			"_id": "O83kY8dsvX4Tb0l8",
+			"folder": null,
+			"sort": 0,
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"coreVersion": "14.360",
+				"systemId": "pf2e",
+				"systemVersion": "6.11.1",
+				"createdTime": 1743702385309,
+				"modifiedTime": 1743702385309,
+				"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+				"exportSource": null
+			},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Rijana Ahmoza",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 230,
+				"temp": 0,
+				"max": 230,
+				"details": ""
+			},
+			"ac": {
+				"value": 33,
+				"details": ""
+			},
+			"allSaves": {
+				"value": ""
+			},
+			"speed": {
+				"value": 30,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"taldane",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 13
+			},
+			"blurb": "",
+			"publicNotes": "<p>The ki adept is in tune with their own body and can manipulate the mystical energy that flows within them. Typically, the ki adept works to hamper as many foes as possible with their Knocking Sweep and follows up with a Flurry of Blows.</p>",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #166: Despair on Danger Island",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {
+			"focus": {
+				"max": 3,
+				"value": 3
+			}
+		},
+		"_migration": {
+			"version": 0.953,
+			"previous": {
+				"schema": 0.952,
+				"foundry": "13.351",
+				"system": "7.7.4"
+			}
+		},
+		"abilities": {
+			"str": {
+				"mod": 5
+			},
+			"dex": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 3
+			},
+			"cha": {
+				"mod": 0
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 23,
+			"senses": [],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 23,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 23,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 23,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 26
+			},
+			"athletics": {
+				"base": 26
+			},
+			"occultism": {
+				"base": 23
+			}
+		},
+		"traits": {
+			"value": [
+				"human",
+				"humanoid"
+			],
+			"rarity": "uncommon",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.o8UMCrKWf89xNvSE",
+		"duplicateSource": "Actor.wl297xWM9YZYuUM9",
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1741786673915,
+		"modifiedTime": 1764619830295,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"flags": {
+		"core": {},
+		"scene-packer": {
+			"hash": "08164464607c9cfebd92e1b8f66030b57244dc22"
+		},
+		"pf2e-graphics": {
+			"effectiveSize": {
+				"enabled": false,
+				"size": 1
+			}
+		},
+		"pf2e-rpg-numbers": {
+			"version": "13.2.2",
+			"critical": {
+				"success": {
+					"default": {
+						"enabled": "default",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1,
+						"art": "",
+						"type": "default"
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				},
+				"failure": {
+					"default": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"checks": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"saves": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					},
+					"strikes": {
+						"enabled": "default",
+						"type": "default",
+						"art": "",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"rotation": 0,
+						"sfx": "",
+						"volume": 100,
+						"scale": 1
+					}
+				}
+			},
+			"token": {
+				"rotation": {
+					"offset": 0
+				}
+			}
+		},
+		"pf2e": {
+			"rollOptions": {
+				"all": {
+					"self:type:npc": true,
+					"self:signature:7d32eadd-e76d-567f-b929-c538ea6d820b": true,
+					"self:creature": true,
+					"self:level:13": true,
+					"self:caster": true,
+					"self:caster:tradition:arcane": true,
+					"self:mode:living": true,
+					"self:trait:human": true,
+					"self:trait:humanoid": true,
+					"self:armored": false,
+					"self:size:2": true,
+					"self:size:medium": true,
+					"hp-remaining:230": true,
+					"hp-percent:100": true,
+					"speed:land": true
+				}
+			},
+			"trackedItems": {},
+			"lootable": false
+		}
+	},
+	"effects": [],
+	"folder": "4gBvctDw1t8tQCvN",
+	"sort": 0,
+	"_id": "GdO3z0dY89CQHz91",
+	"ownership": {
+		"default": 0
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "FotRP: Addons",
+	"sorting": "a",
+	"folder": null,
+	"type": "Macro",
+	"_id": "0cOOiPOLNdEjwh1C",
+	"description": "",
+	"sort": 0,
+	"color": "#a91919",
+	"flags": {
+		"scene-packer": {
+			"hash": "3828e4df951543536f082f94e9965099300ad5f2"
+		}
+	},
+	"_stats": {
+		"compendiumSource": "Folder.0cOOiPOLNdEjwh1C",
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"exportSource": null
+	}
+}

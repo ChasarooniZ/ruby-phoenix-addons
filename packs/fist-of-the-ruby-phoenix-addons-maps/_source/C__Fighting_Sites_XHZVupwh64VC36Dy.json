@@ -1,0 +1,27 @@
+{
+	"name": "C. Fighting Sites",
+	"sorting": "a",
+	"folder": "JaOoGudpfOHnYsba",
+	"type": "Scene",
+	"_id": "XHZVupwh64VC36Dy",
+	"description": "",
+	"sort": 0,
+	"color": null,
+	"flags": {
+		"scene-packer": {
+			"hash": "d67617d30180820a68ce2d0aa063343e7fcb225e"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": 1783535072295,
+		"modifiedTime": 1783535072295,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	},
+	"_key": "!folders!XHZVupwh64VC36Dy"
+}

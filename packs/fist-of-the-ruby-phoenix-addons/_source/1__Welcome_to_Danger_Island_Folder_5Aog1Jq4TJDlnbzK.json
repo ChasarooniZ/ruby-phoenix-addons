@@ -1,0 +1,26 @@
+{
+	"name": "1. Welcome to Danger Island",
+	"sorting": "a",
+	"folder": "ybgUqF4nqK4bxKjW",
+	"type": "Actor",
+	"_id": "5Aog1Jq4TJDlnbzK",
+	"description": "",
+	"sort": 100000,
+	"color": "#226d27",
+	"flags": {
+		"scene-packer": {
+			"hash": "f0a9704536cdd395dd52b9bfcabb9f23823f39ce"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"coreVersion": "14.360",
+		"systemId": "pf2e",
+		"systemVersion": "6.10.2",
+		"createdTime": 1741754528355,
+		"modifiedTime": 1761544812857,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
+	}
+}
