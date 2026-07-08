@@ -7,6 +7,10 @@
       - **Seven Dragons Bridge** - Includes fire and portal fx (Jb2a Patreon), embers and shaking on roar/stomp (FXMaster), civillian swarms (Swarms), and obstacles
       - **Goka Docks - Razu** - Adds creatures + the fire floating down (FXMaster)
 
+## 1.3.2
+
+- Second Fix
+
 ## 1.3.1
 
 - **Updated**
