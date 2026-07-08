@@ -15,12 +15,13 @@
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
-		"coreVersion": "12.331",
+		"coreVersion": "14.364",
 		"systemId": "pf2e",
-		"systemVersion": "6.12.1",
-		"createdTime": null,
-		"modifiedTime": null,
-		"lastModifiedBy": null
+		"systemVersion": "8.3.0",
+		"createdTime": 1783535072295,
+		"modifiedTime": 1783535072295,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
 	},
 	"_key": "!folders!7PRiBQRRAO2uBoAK"
 }

@@ -1,5 +1,7 @@
 ## To be Added
 
+## 1.4.0
+
 - **New**
   - Added the following maps
     - `Kalnyx` - _Note. These require Kalnyx's fists of the ruby phoenix map remake_

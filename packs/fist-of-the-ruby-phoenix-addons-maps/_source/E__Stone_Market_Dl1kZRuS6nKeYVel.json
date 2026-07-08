@@ -509,21 +509,48 @@
 		"pf2e": {
 			"rulesBasedVision": null,
 			"hearingRange": null,
-			"environmentTypes": []
+			"environmentTypes": [],
+			"syncDarkness": "default"
 		},
 		"token-attacher": {},
 		"about-face": {
 			"sceneEnabled": true
+		},
+		"multi-token-edit": {
+			"blackBars": false
+		},
+		"calendaria": {
+			"darknessSync": "default",
+			"brightnessMultiplier": 1,
+			"darknessWeatherSync": "default",
+			"darknessMoonSync": "default",
+			"ambienceSync": "default",
+			"colorShiftSync": "default",
+			"climateZoneOverride": "",
+			"weatherFxOverride": "inherit",
+			"fxmasterTopDownOverride": "default",
+			"fxmasterSplashOverride": "default",
+			"weatherSoundDisabled": false,
+			"weatherFxLevels": [],
+			"hudHideForPlayers": false
+		},
+		"pf2e-hud": {
+			"visible": [
+				"persistent",
+				"token",
+				"tooltip",
+				"tracker"
+			]
 		}
 	},
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
-		"coreVersion": "14.360",
+		"coreVersion": "14.364",
 		"systemId": "pf2e",
-		"systemVersion": "6.12.1",
-		"createdTime": 1747524278759,
-		"modifiedTime": 1747524278910,
+		"systemVersion": "8.3.0",
+		"createdTime": 1783535072378,
+		"modifiedTime": 1783535072378,
 		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 		"exportSource": null
 	},
@@ -541,6 +568,6 @@
 		"duration": 1500,
 		"activeOnly": false
 	},
-	"templates": [],
-	"_key": "!scenes!Dl1kZRuS6nKeYVel"
+	"_key": "!scenes!Dl1kZRuS6nKeYVel",
+	"templates": []
 }

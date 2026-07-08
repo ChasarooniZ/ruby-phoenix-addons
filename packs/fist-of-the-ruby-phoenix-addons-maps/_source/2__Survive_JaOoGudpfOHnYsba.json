@@ -5,7 +5,7 @@
 	"type": "Scene",
 	"_id": "JaOoGudpfOHnYsba",
 	"description": "",
-	"sort": 0,
+	"sort": 100000,
 	"color": "#c7710f",
 	"flags": {
 		"scene-packer": {
@@ -15,12 +15,13 @@
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
-		"coreVersion": "12.331",
+		"coreVersion": "14.364",
 		"systemId": "pf2e",
-		"systemVersion": "6.12.1",
-		"createdTime": 1747523965782,
-		"modifiedTime": 1747524352282,
-		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+		"systemVersion": "8.3.0",
+		"createdTime": 1783535072295,
+		"modifiedTime": 1783535072498,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null
 	},
 	"_key": "!folders!JaOoGudpfOHnYsba"
 }

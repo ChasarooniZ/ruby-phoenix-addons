@@ -213,7 +213,18 @@
 						"choice": true,
 						"destinations": [
 							"Scene.TRlSye7ROWGIyYLS.Region.utLEouqCJfmcxvjt"
-						]
+						],
+						"placement": "random",
+						"snap": true,
+						"revealed": false,
+						"dialog": {
+							"revealed": null,
+							"unrevealed": null
+						},
+						"transition": {
+							"type": null,
+							"duration": 1500
+						}
 					},
 					"disabled": false,
 					"flags": {},
@@ -221,19 +232,23 @@
 						"compendiumSource": null,
 						"duplicateSource": null,
 						"exportSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "7.2.3",
-						"lastModifiedBy": null,
-						"createdTime": null,
-						"modifiedTime": null
+						"systemVersion": "8.3.0",
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+						"createdTime": 1783535072387,
+						"modifiedTime": 1783535072387
 					},
 					"_key": "!scenes.regions.behaviors!HleogSxDS6kxwsqK.4nEN135q9dAKObgm.fLuwN8bI62jxfkJ7"
 				}
 			],
 			"visibility": 0,
 			"locked": false,
-			"flags": {},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				}
+			},
 			"levels": [],
 			"restriction": {
 				"enabled": false,
@@ -284,7 +299,18 @@
 						"choice": true,
 						"destinations": [
 							"Scene.TRlSye7ROWGIyYLS.Region.4nEN135q9dAKObgm"
-						]
+						],
+						"placement": "random",
+						"snap": true,
+						"revealed": false,
+						"dialog": {
+							"revealed": null,
+							"unrevealed": null
+						},
+						"transition": {
+							"type": null,
+							"duration": 1500
+						}
 					},
 					"disabled": false,
 					"flags": {},
@@ -292,19 +318,23 @@
 						"compendiumSource": null,
 						"duplicateSource": null,
 						"exportSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "7.2.3",
-						"lastModifiedBy": null,
-						"createdTime": null,
-						"modifiedTime": null
+						"systemVersion": "8.3.0",
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+						"createdTime": 1783535072387,
+						"modifiedTime": 1783535072387
 					},
 					"_key": "!scenes.regions.behaviors!HleogSxDS6kxwsqK.utLEouqCJfmcxvjt.38chmttT8Hw8XXoS"
 				}
 			],
 			"visibility": 0,
 			"locked": false,
-			"flags": {},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				}
+			},
 			"levels": [],
 			"restriction": {
 				"enabled": false,
@@ -441,19 +471,23 @@
 						"compendiumSource": null,
 						"duplicateSource": null,
 						"exportSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "7.2.3",
-						"lastModifiedBy": null,
-						"createdTime": null,
-						"modifiedTime": null
+						"systemVersion": "8.3.0",
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+						"createdTime": 1783535072387,
+						"modifiedTime": 1783535072387
 					},
 					"_key": "!scenes.regions.behaviors!HleogSxDS6kxwsqK.vDf7nIaY14e2I22e.10mOb8Y03zeNhgUm"
 				}
 			],
 			"visibility": 0,
 			"locked": false,
-			"flags": {},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				}
+			},
 			"levels": [],
 			"restriction": {
 				"enabled": false,
@@ -504,7 +538,18 @@
 						"choice": true,
 						"destinations": [
 							"Scene.TRlSye7ROWGIyYLS.Region.o9z8PFlRo2CpyWi8"
-						]
+						],
+						"placement": "random",
+						"snap": true,
+						"revealed": false,
+						"dialog": {
+							"revealed": null,
+							"unrevealed": null
+						},
+						"transition": {
+							"type": null,
+							"duration": 1500
+						}
 					},
 					"disabled": false,
 					"flags": {},
@@ -512,19 +557,23 @@
 						"compendiumSource": null,
 						"duplicateSource": null,
 						"exportSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "7.2.3",
-						"lastModifiedBy": null,
-						"createdTime": null,
-						"modifiedTime": null
+						"systemVersion": "8.3.0",
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+						"createdTime": 1783535072387,
+						"modifiedTime": 1783535072387
 					},
 					"_key": "!scenes.regions.behaviors!HleogSxDS6kxwsqK.xFLPragMlPBYZnjM.S5mThVtxYzKzwnp2"
 				}
 			],
 			"visibility": 0,
 			"locked": false,
-			"flags": {},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				}
+			},
 			"levels": [],
 			"restriction": {
 				"enabled": false,
@@ -575,7 +624,18 @@
 						"choice": true,
 						"destinations": [
 							"Scene.TRlSye7ROWGIyYLS.Region.xFLPragMlPBYZnjM"
-						]
+						],
+						"placement": "random",
+						"snap": true,
+						"revealed": false,
+						"dialog": {
+							"revealed": null,
+							"unrevealed": null
+						},
+						"transition": {
+							"type": null,
+							"duration": 1500
+						}
 					},
 					"disabled": false,
 					"flags": {},
@@ -583,19 +643,23 @@
 						"compendiumSource": null,
 						"duplicateSource": null,
 						"exportSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "7.2.3",
-						"lastModifiedBy": null,
-						"createdTime": null,
-						"modifiedTime": null
+						"systemVersion": "8.3.0",
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+						"createdTime": 1783535072387,
+						"modifiedTime": 1783535072387
 					},
 					"_key": "!scenes.regions.behaviors!HleogSxDS6kxwsqK.o9z8PFlRo2CpyWi8.CzdYN24PmkSpCM1F"
 				}
 			],
 			"visibility": 0,
 			"locked": false,
-			"flags": {},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				}
+			},
 			"levels": [],
 			"restriction": {
 				"enabled": false,
@@ -646,7 +710,18 @@
 						"choice": true,
 						"destinations": [
 							"Scene.TRlSye7ROWGIyYLS.Region.SNRkcT9wKByZNVZP"
-						]
+						],
+						"placement": "random",
+						"snap": true,
+						"revealed": false,
+						"dialog": {
+							"revealed": null,
+							"unrevealed": null
+						},
+						"transition": {
+							"type": null,
+							"duration": 1500
+						}
 					},
 					"disabled": false,
 					"flags": {},
@@ -654,19 +729,23 @@
 						"compendiumSource": null,
 						"duplicateSource": null,
 						"exportSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "7.2.3",
-						"lastModifiedBy": null,
-						"createdTime": null,
-						"modifiedTime": null
+						"systemVersion": "8.3.0",
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+						"createdTime": 1783535072387,
+						"modifiedTime": 1783535072387
 					},
 					"_key": "!scenes.regions.behaviors!HleogSxDS6kxwsqK.oG6hnEi041UymZuo.rdBx13cG6pxNos0U"
 				}
 			],
 			"visibility": 0,
 			"locked": false,
-			"flags": {},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				}
+			},
 			"levels": [],
 			"restriction": {
 				"enabled": false,
@@ -717,7 +796,18 @@
 						"choice": true,
 						"destinations": [
 							"Scene.TRlSye7ROWGIyYLS.Region.oG6hnEi041UymZuo"
-						]
+						],
+						"placement": "random",
+						"snap": true,
+						"revealed": false,
+						"dialog": {
+							"revealed": null,
+							"unrevealed": null
+						},
+						"transition": {
+							"type": null,
+							"duration": 1500
+						}
 					},
 					"disabled": false,
 					"flags": {},
@@ -725,19 +815,23 @@
 						"compendiumSource": null,
 						"duplicateSource": null,
 						"exportSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "7.2.3",
-						"lastModifiedBy": null,
-						"createdTime": null,
-						"modifiedTime": null
+						"systemVersion": "8.3.0",
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+						"createdTime": 1783535072387,
+						"modifiedTime": 1783535072387
 					},
 					"_key": "!scenes.regions.behaviors!HleogSxDS6kxwsqK.SNRkcT9wKByZNVZP.wRnUwGxUkL82d8yk"
 				}
 			],
 			"visibility": 0,
 			"locked": false,
-			"flags": {},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				}
+			},
 			"levels": [],
 			"restriction": {
 				"enabled": false,
@@ -788,7 +882,18 @@
 						"choice": true,
 						"destinations": [
 							"Scene.TRlSye7ROWGIyYLS.Region.lTYUJQhpO6SEwoiX"
-						]
+						],
+						"placement": "random",
+						"snap": true,
+						"revealed": false,
+						"dialog": {
+							"revealed": null,
+							"unrevealed": null
+						},
+						"transition": {
+							"type": null,
+							"duration": 1500
+						}
 					},
 					"disabled": false,
 					"flags": {},
@@ -796,19 +901,23 @@
 						"compendiumSource": null,
 						"duplicateSource": null,
 						"exportSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "7.2.3",
-						"lastModifiedBy": null,
-						"createdTime": null,
-						"modifiedTime": null
+						"systemVersion": "8.3.0",
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+						"createdTime": 1783535072387,
+						"modifiedTime": 1783535072387
 					},
 					"_key": "!scenes.regions.behaviors!HleogSxDS6kxwsqK.T2vwYH6qlOhRWUcd.kCOPMWcOEhjN8en6"
 				}
 			],
 			"visibility": 0,
 			"locked": false,
-			"flags": {},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				}
+			},
 			"levels": [],
 			"restriction": {
 				"enabled": false,
@@ -859,7 +968,18 @@
 						"choice": true,
 						"destinations": [
 							"Scene.TRlSye7ROWGIyYLS.Region.T2vwYH6qlOhRWUcd"
-						]
+						],
+						"placement": "random",
+						"snap": true,
+						"revealed": false,
+						"dialog": {
+							"revealed": null,
+							"unrevealed": null
+						},
+						"transition": {
+							"type": null,
+							"duration": 1500
+						}
 					},
 					"disabled": false,
 					"flags": {},
@@ -867,19 +987,23 @@
 						"compendiumSource": null,
 						"duplicateSource": null,
 						"exportSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "7.2.3",
-						"lastModifiedBy": null,
-						"createdTime": null,
-						"modifiedTime": null
+						"systemVersion": "8.3.0",
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+						"createdTime": 1783535072387,
+						"modifiedTime": 1783535072387
 					},
 					"_key": "!scenes.regions.behaviors!HleogSxDS6kxwsqK.lTYUJQhpO6SEwoiX.XGYaz96ahcq7tPfQ"
 				}
 			],
 			"visibility": 0,
 			"locked": false,
-			"flags": {},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				}
+			},
 			"levels": [],
 			"restriction": {
 				"enabled": false,
@@ -3281,17 +3405,40 @@
 			"hearingRange": null,
 			"environmentTypes": [],
 			"syncDarkness": "default"
+		},
+		"calendaria": {
+			"darknessSync": "default",
+			"brightnessMultiplier": 1,
+			"darknessWeatherSync": "default",
+			"darknessMoonSync": "default",
+			"ambienceSync": "default",
+			"colorShiftSync": "default",
+			"climateZoneOverride": "",
+			"weatherFxOverride": "inherit",
+			"fxmasterTopDownOverride": "default",
+			"fxmasterSplashOverride": "default",
+			"weatherSoundDisabled": false,
+			"weatherFxLevels": [],
+			"hudHideForPlayers": false
+		},
+		"pf2e-hud": {
+			"visible": [
+				"persistent",
+				"token",
+				"tooltip",
+				"tracker"
+			]
 		}
 	},
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
 		"exportSource": null,
-		"coreVersion": "14.361",
+		"coreVersion": "14.364",
 		"systemId": "pf2e",
-		"systemVersion": "7.2.3",
-		"createdTime": 1752100600513,
-		"modifiedTime": 1752100603147,
+		"systemVersion": "8.3.0",
+		"createdTime": 1783535072387,
+		"modifiedTime": 1783535072387,
 		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
 	},
 	"navName": "",
@@ -3309,6 +3456,6 @@
 		"duration": 1500,
 		"activeOnly": false
 	},
-	"templates": [],
-	"_key": "!scenes!HleogSxDS6kxwsqK"
+	"_key": "!scenes!HleogSxDS6kxwsqK",
+	"templates": []
 }

@@ -197,12 +197,12 @@
 					"_stats": {
 						"compendiumSource": null,
 						"duplicateSource": null,
-						"coreVersion": "14.361",
+						"coreVersion": "14.364",
 						"systemId": "pf2e",
-						"systemVersion": "6.12.1",
-						"createdTime": null,
-						"modifiedTime": null,
-						"lastModifiedBy": null,
+						"systemVersion": "8.3.0",
+						"createdTime": 1783535072413,
+						"modifiedTime": 1783535072413,
+						"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 						"exportSource": null
 					},
 					"_key": "!scenes.regions.behaviors!ppDk4SFgoI13eXSP.lwz7GiAxBbIihyuo.4bPniEbijqRBHs7H"
@@ -211,7 +211,10 @@
 			"visibility": 0,
 			"locked": false,
 			"flags": {
-				"tagger": {}
+				"tagger": {},
+				"pf2e": {
+					"areaShape": null
+				}
 			},
 			"levels": [],
 			"restriction": {
@@ -1608,7 +1611,8 @@
 		"pf2e": {
 			"rulesBasedVision": null,
 			"hearingRange": null,
-			"environmentTypes": []
+			"environmentTypes": [],
+			"syncDarkness": "default"
 		},
 		"token-attacher": {},
 		"about-face": {
@@ -1626,16 +1630,42 @@
 			"gridRevealRadius": "0",
 			"opacityGM": 0.7,
 			"opacityPlayer": 1
+		},
+		"multi-token-edit": {
+			"blackBars": false
+		},
+		"calendaria": {
+			"darknessSync": "default",
+			"brightnessMultiplier": 1,
+			"darknessWeatherSync": "default",
+			"darknessMoonSync": "default",
+			"ambienceSync": "default",
+			"colorShiftSync": "default",
+			"climateZoneOverride": "",
+			"weatherFxOverride": "inherit",
+			"fxmasterTopDownOverride": "default",
+			"fxmasterSplashOverride": "default",
+			"weatherSoundDisabled": false,
+			"weatherFxLevels": [],
+			"hudHideForPlayers": false
+		},
+		"pf2e-hud": {
+			"visible": [
+				"persistent",
+				"token",
+				"tooltip",
+				"tracker"
+			]
 		}
 	},
 	"_stats": {
 		"compendiumSource": null,
 		"duplicateSource": null,
-		"coreVersion": "14.361",
+		"coreVersion": "14.364",
 		"systemId": "pf2e",
-		"systemVersion": "6.12.1",
-		"createdTime": 1747524276033,
-		"modifiedTime": 1747763826062,
+		"systemVersion": "8.3.0",
+		"createdTime": 1783535072413,
+		"modifiedTime": 1783535072413,
 		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 		"exportSource": null
 	},
@@ -1653,6 +1683,6 @@
 		"duration": 1500,
 		"activeOnly": false
 	},
-	"templates": [],
-	"_key": "!scenes!ppDk4SFgoI13eXSP"
+	"_key": "!scenes!ppDk4SFgoI13eXSP",
+	"templates": []
 }

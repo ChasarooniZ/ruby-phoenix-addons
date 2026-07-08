@@ -2,7 +2,6 @@
 	"folder": "X1TxW65GtkV5F8nl",
 	"name": "H3. Shrine of Jinya-Por",
 	"navigation": false,
-	"navOrder": 0,
 	"navName": "",
 	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/keeTAsAMwhNUbDjp-thumb.webp",
 	"width": 4000,
@@ -243,18 +242,7 @@
 			"hidden": false,
 			"sort": 0,
 			"_id": "gJereYpvgy6uw0C7",
-			"delta": {
-				"_id": "GV7SS8HGiaK36d1N",
-				"system": {},
-				"items": [],
-				"effects": [],
-				"flags": {},
-				"name": null,
-				"type": null,
-				"img": null,
-				"ownership": null,
-				"_key": "!scenes.tokens.delta!r3bb3z857L0ydAVO.gJereYpvgy6uw0C7.GV7SS8HGiaK36d1N"
-			},
+			"delta": null,
 			"x": 4276,
 			"y": 2258,
 			"elevation": 0,
@@ -701,10 +689,6 @@
 	"journal": null,
 	"journalEntryPage": null,
 	"weather": "",
-	"ownership": {
-		"default": 0,
-		"vj8VUT8j7Wtzy3Y2": 3
-	},
 	"flags": {
 		"scene-packer": {
 			"hash": "6f9b4fad1e98399ad5f776e62f6525ee36b62b54",
@@ -738,19 +722,17 @@
 		"token-attacher": {}
 	},
 	"_stats": {
-		"compendiumSource": null,
+		"compendiumSource": "Compendium.fist-of-the-ruby-phoenix-addons.fist-of-the-ruby-phoenix-addons-maps.Scene.r3bb3z857L0ydAVO",
 		"duplicateSource": null,
-		"coreVersion": "14.360",
+		"coreVersion": "14.364",
 		"systemId": "pf2e",
-		"systemVersion": "6.12.1",
-		"createdTime": 1747763854293,
-		"modifiedTime": 1747763854293,
+		"systemVersion": "8.3.0",
+		"createdTime": 1783535072419,
+		"modifiedTime": 1783535072419,
 		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
 		"exportSource": null
 	},
 	"_id": "r3bb3z857L0ydAVO",
-	"active": false,
-	"sort": 0,
 	"levels": [
 		"defaultLevel0000"
 	],
@@ -762,6 +744,13 @@
 		"duration": 1500,
 		"activeOnly": false
 	},
-	"templates": [],
-	"_key": "!scenes!r3bb3z857L0ydAVO"
+	"ownership": {
+		"default": 0,
+		"vj8VUT8j7Wtzy3Y2": 3
+	},
+	"active": false,
+	"navOrder": 0,
+	"sort": 0,
+	"_key": "!scenes!r3bb3z857L0ydAVO",
+	"templates": []
 }

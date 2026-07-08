@@ -2,7 +2,6 @@
 	"folder": "yUGTN7NHGyACl52h",
 	"name": "Ruby Palace Room",
 	"navigation": false,
-	"navOrder": 0,
 	"thumb": "worlds/fists-of-the-ruby-phoenix/assets/scenes/thumb-onG1E2eSiak0VZt6xWd46Q.webp",
 	"width": 4500,
 	"height": 3000,
@@ -207,18 +206,7 @@
 			"sort": 0,
 			"shape": 4,
 			"_id": "Vca5htYk7TO7sXaM",
-			"delta": {
-				"_id": "Vca5htYk7TO7sXaM",
-				"system": {},
-				"flags": {},
-				"name": null,
-				"type": null,
-				"img": null,
-				"items": [],
-				"effects": [],
-				"ownership": null,
-				"_key": "!scenes.tokens.delta!8AYc1Hooegvl6Jd6.Vca5htYk7TO7sXaM.Vca5htYk7TO7sXaM"
-			},
+			"delta": null,
 			"x": 4800,
 			"y": 1800,
 			"elevation": 0,
@@ -1343,23 +1331,44 @@
 					"coverByObserver": {}
 				}
 			}
+		},
+		"calendaria": {
+			"darknessSync": "default",
+			"brightnessMultiplier": 1,
+			"darknessWeatherSync": "default",
+			"darknessMoonSync": "default",
+			"ambienceSync": "default",
+			"colorShiftSync": "default",
+			"climateZoneOverride": "",
+			"weatherFxOverride": "inherit",
+			"fxmasterTopDownOverride": "default",
+			"fxmasterSplashOverride": "default",
+			"weatherSoundDisabled": false,
+			"weatherFxLevels": [],
+			"hudHideForPlayers": false
+		},
+		"pf2e-hud": {
+			"visible": [
+				"persistent",
+				"token",
+				"tooltip",
+				"tracker"
+			]
 		}
 	},
 	"_stats": {
-		"compendiumSource": null,
-		"duplicateSource": null,
-		"exportSource": null,
-		"coreVersion": "14.361",
+		"coreVersion": "14.364",
 		"systemId": "pf2e",
-		"systemVersion": "7.3.1",
-		"createdTime": 1755289963545,
-		"modifiedTime": 1778082497620,
-		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+		"systemVersion": "8.3.0",
+		"createdTime": 1783534786743,
+		"modifiedTime": 1783534786743,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null,
+		"compendiumSource": null,
+		"duplicateSource": null
 	},
 	"navName": "",
 	"_id": "8AYc1Hooegvl6Jd6",
-	"active": false,
-	"sort": 0,
 	"levels": [
 		"defaultLevel0000"
 	],
@@ -1371,6 +1380,9 @@
 		"duration": 1500,
 		"activeOnly": false
 	},
-	"templates": [],
-	"_key": "!scenes!8AYc1Hooegvl6Jd6"
+	"active": false,
+	"navOrder": 0,
+	"sort": 0,
+	"_key": "!scenes!8AYc1Hooegvl6Jd6",
+	"templates": []
 }

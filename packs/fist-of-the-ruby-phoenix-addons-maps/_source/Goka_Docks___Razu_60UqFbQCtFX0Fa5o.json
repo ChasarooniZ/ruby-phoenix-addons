@@ -1,0 +1,3629 @@
+{
+	"folder": "yq4KZ1sjYHClbs35",
+	"name": "Goka Docks - Razu",
+	"navigation": false,
+	"navName": "",
+	"thumb": "modules/fists-of-the-ruby-phoenix-map-remake-by-kalnix/assets/scenes/60UqFbQCtFX0Fa5o-thumb.webp",
+	"width": 4125,
+	"height": 5375,
+	"padding": 0.25,
+	"initial": {
+		"x": null,
+		"y": null,
+		"scale": null
+	},
+	"grid": {
+		"type": 1,
+		"size": 125,
+		"color": "#000000",
+		"alpha": 0.2,
+		"distance": 5,
+		"units": "ft",
+		"style": "solidLines",
+		"thickness": 1
+	},
+	"tokenVision": true,
+	"drawings": [],
+	"tokens": [
+		{
+			"name": "Shadow Yai",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 2,
+			"height": 2,
+			"texture": {
+				"src": "modules/pf2e-tokens-monster-core/assets/tokens/giant-shadow.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 3,
+				"scaleY": 3,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": true,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "resources.heroPoints"
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 3,
+					"texture": "modules/pf2e-tokens-monster-core/assets/subjects/giant-shadow.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"barbrawl": {
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 30,
+							"ownerVisibility": 30,
+							"gmVisibility": -1,
+							"hideFull": true,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "left-outer",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": 5,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						},
+						"bar2": {
+							"order": 1,
+							"id": "bar2",
+							"attribute": "resources.heroPoints",
+							"mincolor": "#000080",
+							"maxcolor": "#80B3FF",
+							"otherVisibility": 0,
+							"ownerVisibility": 35,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": 60,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": true,
+							"fgImage": "pics/icons/UI/stars-left-right.webp",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"depth": 2,
+			"actorId": "mrtcKbtRr3SGI35P",
+			"hidden": false,
+			"sort": 4,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "f4Kqq163PZr7VAAW",
+			"delta": null,
+			"x": 2750,
+			"y": 5000,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.f4Kqq163PZr7VAAW"
+		},
+		{
+			"name": "Shadow Yai",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 2,
+			"height": 2,
+			"texture": {
+				"src": "modules/pf2e-tokens-monster-core/assets/tokens/giant-shadow.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 3,
+				"scaleY": 3,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": true,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "resources.heroPoints"
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 3,
+					"texture": "modules/pf2e-tokens-monster-core/assets/subjects/giant-shadow.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"barbrawl": {
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 30,
+							"ownerVisibility": 30,
+							"gmVisibility": -1,
+							"hideFull": true,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "left-outer",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": 5,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						},
+						"bar2": {
+							"order": 1,
+							"id": "bar2",
+							"attribute": "resources.heroPoints",
+							"mincolor": "#000080",
+							"maxcolor": "#80B3FF",
+							"otherVisibility": 0,
+							"ownerVisibility": 35,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": 60,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": true,
+							"fgImage": "pics/icons/UI/stars-left-right.webp",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"depth": 2,
+			"actorId": "mrtcKbtRr3SGI35P",
+			"hidden": false,
+			"sort": 5,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "7JQMz0KZquaevjjH",
+			"delta": null,
+			"x": 1250,
+			"y": 4125,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.7JQMz0KZquaevjjH"
+		},
+		{
+			"name": "Rivka",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cockroach-giant.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": true,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "resources.heroPoints"
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/invertebrate/cockroach-giant.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"barbrawl": {
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 30,
+							"ownerVisibility": 30,
+							"gmVisibility": -1,
+							"hideFull": true,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "left-outer",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": 5,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						},
+						"bar2": {
+							"order": 1,
+							"id": "bar2",
+							"attribute": "resources.heroPoints",
+							"mincolor": "#000080",
+							"maxcolor": "#80B3FF",
+							"otherVisibility": 0,
+							"ownerVisibility": 35,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": 60,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": true,
+							"fgImage": "pics/icons/UI/stars-left-right.webp",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"depth": 1,
+			"actorId": "OceGpkfKQrG9zP04",
+			"hidden": false,
+			"sort": 6,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "YUGlVtKeCu9d6lop",
+			"delta": {
+				"_id": "YUGlVtKeCu9d6lop",
+				"name": "Rivka",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!60UqFbQCtFX0Fa5o.YUGlVtKeCu9d6lop.YUGlVtKeCu9d6lop"
+			},
+			"x": 2125,
+			"y": 3125,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.YUGlVtKeCu9d6lop"
+		},
+		{
+			"name": "Rivka",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cockroach-giant.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": true,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "resources.heroPoints"
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/invertebrate/cockroach-giant.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"barbrawl": {
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 30,
+							"ownerVisibility": 30,
+							"gmVisibility": -1,
+							"hideFull": true,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "left-outer",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": 5,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						},
+						"bar2": {
+							"order": 1,
+							"id": "bar2",
+							"attribute": "resources.heroPoints",
+							"mincolor": "#000080",
+							"maxcolor": "#80B3FF",
+							"otherVisibility": 0,
+							"ownerVisibility": 35,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": 60,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": true,
+							"fgImage": "pics/icons/UI/stars-left-right.webp",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"depth": 1,
+			"actorId": "OceGpkfKQrG9zP04",
+			"hidden": false,
+			"sort": 7,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "24g6Fx64tJE6N8HU",
+			"delta": {
+				"_id": "24g6Fx64tJE6N8HU",
+				"name": "Rivka",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!60UqFbQCtFX0Fa5o.24g6Fx64tJE6N8HU.24g6Fx64tJE6N8HU"
+			},
+			"x": 2000,
+			"y": 2500,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.24g6Fx64tJE6N8HU"
+		},
+		{
+			"name": "Rivka",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/invertebrate/cockroach-giant.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": true,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "resources.heroPoints"
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/invertebrate/cockroach-giant.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"barbrawl": {
+					"resourceBars": {
+						"bar1": {
+							"order": 0,
+							"id": "bar1",
+							"attribute": "attributes.hp",
+							"mincolor": "#FF0000",
+							"maxcolor": "#80FF00",
+							"otherVisibility": 30,
+							"ownerVisibility": 30,
+							"gmVisibility": -1,
+							"hideFull": true,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "left-outer",
+							"shareHeight": false,
+							"indentLeft": null,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": 5,
+							"subdivisionsOwner": false,
+							"invertDirection": false,
+							"fgImage": "",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						},
+						"bar2": {
+							"order": 1,
+							"id": "bar2",
+							"attribute": "resources.heroPoints",
+							"mincolor": "#000080",
+							"maxcolor": "#80B3FF",
+							"otherVisibility": 0,
+							"ownerVisibility": 35,
+							"gmVisibility": -1,
+							"hideFull": false,
+							"hideEmpty": false,
+							"hideCombat": false,
+							"hideNoCombat": false,
+							"hideHud": false,
+							"position": "bottom-inner",
+							"shareHeight": false,
+							"indentLeft": 60,
+							"indentRight": null,
+							"style": "none",
+							"label": "",
+							"invert": false,
+							"subdivisions": null,
+							"subdivisionsOwner": false,
+							"invertDirection": true,
+							"fgImage": "pics/icons/UI/stars-left-right.webp",
+							"bgImage": "",
+							"hideBg": false,
+							"opacity": null
+						}
+					}
+				}
+			},
+			"depth": 1,
+			"actorId": "OceGpkfKQrG9zP04",
+			"hidden": false,
+			"sort": 8,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "vuDvxNuAzuHB7NFR",
+			"delta": {
+				"_id": "vuDvxNuAzuHB7NFR",
+				"name": "Rivka",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!60UqFbQCtFX0Fa5o.vuDvxNuAzuHB7NFR.vuDvxNuAzuHB7NFR"
+			},
+			"x": 2625,
+			"y": 2125,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.vuDvxNuAzuHB7NFR"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				},
+				"pf2e-reactive-token-ring": {
+					"tokenHealthLevel": 0
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 9,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "egr0VZeeM76OLtfI",
+			"delta": {
+				"_id": "egr0VZeeM76OLtfI",
+				"name": null,
+				"type": null,
+				"img": null,
+				"system": {
+					"attributes": {
+						"hp": {
+							"value": 0
+						}
+					}
+				},
+				"items": [],
+				"effects": [
+					{
+						"name": "Dead",
+						"img": "pics/icons/ko_death_icon.webp",
+						"statuses": [
+							"dead"
+						],
+						"showIcon": 2,
+						"_id": "oShOZpokOuEzI4ZE",
+						"type": "base",
+						"system": {
+							"changes": []
+						},
+						"disabled": false,
+						"start": {
+							"time": 2424334,
+							"combat": null,
+							"combatant": null,
+							"initiative": null,
+							"round": null,
+							"turn": null
+						},
+						"duration": {
+							"value": null,
+							"units": "seconds",
+							"expiry": null,
+							"expired": false
+						},
+						"description": "",
+						"origin": null,
+						"tint": "#ffffff",
+						"transfer": false,
+						"folder": null,
+						"sort": 0,
+						"flags": {
+							"core": {
+								"overlay": true
+							}
+						},
+						"_stats": {
+							"coreVersion": "14.364",
+							"systemId": "pf2e",
+							"systemVersion": "8.3.0",
+							"createdTime": null,
+							"modifiedTime": null,
+							"lastModifiedBy": null,
+							"compendiumSource": null,
+							"duplicateSource": null,
+							"exportSource": null
+						},
+						"_key": "!scenes.tokens.delta.effects!60UqFbQCtFX0Fa5o.egr0VZeeM76OLtfI.egr0VZeeM76OLtfI.oShOZpokOuEzI4ZE"
+					}
+				],
+				"ownership": null,
+				"flags": {},
+				"_key": "!scenes.tokens.delta!60UqFbQCtFX0Fa5o.egr0VZeeM76OLtfI.egr0VZeeM76OLtfI"
+			},
+			"x": 2625,
+			"y": 4750,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.egr0VZeeM76OLtfI"
+		},
+		{
+			"name": "Commoner",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-characters/assets/tokens/gmg-commoner.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-commoner.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "APn9B54hhRtr0oCQ",
+			"hidden": false,
+			"sort": 10,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "BzIkZjwtZcbIg2L5",
+			"delta": null,
+			"x": 3375,
+			"y": 5000,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.BzIkZjwtZcbIg2L5"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 11,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "ecoWkKm0Oz5DCHRZ",
+			"delta": null,
+			"x": 3375,
+			"y": 5250,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.ecoWkKm0Oz5DCHRZ"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 13,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "tRSADCE52m6wCQP7",
+			"delta": null,
+			"x": 1375,
+			"y": 3875,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.tRSADCE52m6wCQP7"
+		},
+		{
+			"name": "Commoner",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-characters/assets/tokens/gmg-commoner.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-commoner.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "APn9B54hhRtr0oCQ",
+			"hidden": false,
+			"sort": 14,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "cDLcMSSdhzjZII3h",
+			"delta": null,
+			"x": 1375,
+			"y": 3500,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.cDLcMSSdhzjZII3h"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 15,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "FG6kV41f5AueYFdI",
+			"delta": null,
+			"x": 3000,
+			"y": 3375,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.FG6kV41f5AueYFdI"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 16,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "rF6iSn84o0l5mGlA",
+			"delta": null,
+			"x": 1375,
+			"y": 3000,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.rF6iSn84o0l5mGlA"
+		},
+		{
+			"name": "Commoner",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-characters/assets/tokens/gmg-commoner.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-commoner.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "APn9B54hhRtr0oCQ",
+			"hidden": false,
+			"sort": 17,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "AffUl5CXpibUQKWx",
+			"delta": null,
+			"x": 1250,
+			"y": 2375,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.AffUl5CXpibUQKWx"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 19,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "KCQJZhfuc2WdXUQH",
+			"delta": null,
+			"x": 3000,
+			"y": 1875,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.KCQJZhfuc2WdXUQH"
+		},
+		{
+			"name": "Commoner",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-characters/assets/tokens/gmg-commoner.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-commoner.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "APn9B54hhRtr0oCQ",
+			"hidden": false,
+			"sort": 20,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "i1MWLQDeNTcJ9oqb",
+			"delta": null,
+			"x": 3750,
+			"y": 1500,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.i1MWLQDeNTcJ9oqb"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 21,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "COTC8pclL1mAtkQ8",
+			"delta": null,
+			"x": 1625,
+			"y": 1625,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.COTC8pclL1mAtkQ8"
+		},
+		{
+			"name": "Commoner",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-characters/assets/tokens/gmg-commoner.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-commoner.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "APn9B54hhRtr0oCQ",
+			"hidden": false,
+			"sort": 22,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "XjTeFih0CEkGsd7B",
+			"delta": null,
+			"x": 3500,
+			"y": 2750,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.XjTeFih0CEkGsd7B"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 23,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "vNiBeZ9WSeXBnchF",
+			"delta": null,
+			"x": 4125,
+			"y": 3125,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.vNiBeZ9WSeXBnchF"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 24,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "WEK7XpSedjaXaqAt",
+			"delta": null,
+			"x": 3000,
+			"y": 3875,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.WEK7XpSedjaXaqAt"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 25,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "8K6OXT6T800opWB5",
+			"delta": {
+				"_id": "8K6OXT6T800opWB5",
+				"name": null,
+				"type": null,
+				"img": null,
+				"system": {},
+				"items": [],
+				"effects": [
+					{
+						"name": "Dead",
+						"img": "pics/icons/ko_death_icon.webp",
+						"statuses": [
+							"dead"
+						],
+						"showIcon": 2,
+						"_id": "piVKE1Zaq7Dwve1M",
+						"type": "base",
+						"system": {
+							"changes": []
+						},
+						"disabled": false,
+						"start": {
+							"time": 2424334,
+							"combat": null,
+							"combatant": null,
+							"initiative": null,
+							"round": null,
+							"turn": null
+						},
+						"duration": {
+							"value": null,
+							"units": "seconds",
+							"expiry": null,
+							"expired": false
+						},
+						"description": "",
+						"origin": null,
+						"tint": "#ffffff",
+						"transfer": false,
+						"folder": null,
+						"sort": 0,
+						"flags": {
+							"core": {
+								"overlay": true
+							}
+						},
+						"_stats": {
+							"coreVersion": "14.364",
+							"systemId": "pf2e",
+							"systemVersion": "8.3.0",
+							"createdTime": null,
+							"modifiedTime": null,
+							"lastModifiedBy": null,
+							"compendiumSource": null,
+							"duplicateSource": null,
+							"exportSource": null
+						},
+						"_key": "!scenes.tokens.delta.effects!60UqFbQCtFX0Fa5o.8K6OXT6T800opWB5.8K6OXT6T800opWB5.piVKE1Zaq7Dwve1M"
+					}
+				],
+				"ownership": null,
+				"flags": {},
+				"_key": "!scenes.tokens.delta!60UqFbQCtFX0Fa5o.8K6OXT6T800opWB5.8K6OXT6T800opWB5"
+			},
+			"x": 3500,
+			"y": 5500,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.8K6OXT6T800opWB5"
+		},
+		{
+			"name": "Commoner",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-characters/assets/tokens/gmg-commoner.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-commoner.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "APn9B54hhRtr0oCQ",
+			"hidden": false,
+			"sort": 26,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "J4ytpOcp3nGbVlKO",
+			"delta": {
+				"_id": "J4ytpOcp3nGbVlKO",
+				"name": null,
+				"type": null,
+				"img": null,
+				"system": {},
+				"items": [],
+				"effects": [
+					{
+						"name": "Dead",
+						"img": "pics/icons/ko_death_icon.webp",
+						"statuses": [
+							"dead"
+						],
+						"showIcon": 2,
+						"_id": "70ET5XTlIDgKXBc0",
+						"type": "base",
+						"system": {
+							"changes": []
+						},
+						"disabled": false,
+						"start": {
+							"time": 2424334,
+							"combat": null,
+							"combatant": null,
+							"initiative": null,
+							"round": null,
+							"turn": null
+						},
+						"duration": {
+							"value": null,
+							"units": "seconds",
+							"expiry": null,
+							"expired": false
+						},
+						"description": "",
+						"origin": null,
+						"tint": "#ffffff",
+						"transfer": false,
+						"folder": null,
+						"sort": 0,
+						"flags": {
+							"core": {
+								"overlay": true
+							}
+						},
+						"_stats": {
+							"coreVersion": "14.364",
+							"systemId": "pf2e",
+							"systemVersion": "8.3.0",
+							"createdTime": null,
+							"modifiedTime": null,
+							"lastModifiedBy": null,
+							"compendiumSource": null,
+							"duplicateSource": null,
+							"exportSource": null
+						},
+						"_key": "!scenes.tokens.delta.effects!60UqFbQCtFX0Fa5o.J4ytpOcp3nGbVlKO.J4ytpOcp3nGbVlKO.70ET5XTlIDgKXBc0"
+					}
+				],
+				"ownership": null,
+				"flags": {},
+				"_key": "!scenes.tokens.delta!60UqFbQCtFX0Fa5o.J4ytpOcp3nGbVlKO.J4ytpOcp3nGbVlKO"
+			},
+			"x": 3375,
+			"y": 4500,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.J4ytpOcp3nGbVlKO"
+		},
+		{
+			"name": "Fisher",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-npc-core/assets/tokens/fisherman.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-tokens-npc-core/assets/subjects/fisherman.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "LbSA6uGVafcosT0X",
+			"hidden": false,
+			"sort": 27,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "Yxu4B0PwEm2gjsvN",
+			"delta": {
+				"_id": "Yxu4B0PwEm2gjsvN",
+				"name": null,
+				"type": null,
+				"img": null,
+				"system": {},
+				"items": [],
+				"effects": [
+					{
+						"name": "Dead",
+						"img": "pics/icons/ko_death_icon.webp",
+						"statuses": [
+							"dead"
+						],
+						"showIcon": 2,
+						"_id": "449nHAxjHZpTAojm",
+						"type": "base",
+						"system": {
+							"changes": []
+						},
+						"disabled": false,
+						"start": {
+							"time": 2424334,
+							"combat": null,
+							"combatant": null,
+							"initiative": null,
+							"round": null,
+							"turn": null
+						},
+						"duration": {
+							"value": null,
+							"units": "seconds",
+							"expiry": null,
+							"expired": false
+						},
+						"description": "",
+						"origin": null,
+						"tint": "#ffffff",
+						"transfer": false,
+						"folder": null,
+						"sort": 0,
+						"flags": {
+							"core": {
+								"overlay": true
+							}
+						},
+						"_stats": {
+							"coreVersion": "14.364",
+							"systemId": "pf2e",
+							"systemVersion": "8.3.0",
+							"createdTime": null,
+							"modifiedTime": null,
+							"lastModifiedBy": null,
+							"compendiumSource": null,
+							"duplicateSource": null,
+							"exportSource": null
+						},
+						"_key": "!scenes.tokens.delta.effects!60UqFbQCtFX0Fa5o.Yxu4B0PwEm2gjsvN.Yxu4B0PwEm2gjsvN.449nHAxjHZpTAojm"
+					}
+				],
+				"ownership": null,
+				"flags": {},
+				"_key": "!scenes.tokens.delta!60UqFbQCtFX0Fa5o.Yxu4B0PwEm2gjsvN.Yxu4B0PwEm2gjsvN"
+			},
+			"x": 1625,
+			"y": 4250,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.Yxu4B0PwEm2gjsvN"
+		},
+		{
+			"name": "Commoner",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-characters/assets/tokens/gmg-commoner.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-commoner.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "APn9B54hhRtr0oCQ",
+			"hidden": false,
+			"sort": 28,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "J0JkqT4jw95cpsLP",
+			"delta": {
+				"_id": "J0JkqT4jw95cpsLP",
+				"name": null,
+				"type": null,
+				"img": null,
+				"system": {},
+				"items": [],
+				"effects": [
+					{
+						"name": "Dead",
+						"img": "pics/icons/ko_death_icon.webp",
+						"statuses": [
+							"dead"
+						],
+						"showIcon": 2,
+						"_id": "2re6d7c7XNUXxGva",
+						"type": "base",
+						"system": {
+							"changes": []
+						},
+						"disabled": false,
+						"start": {
+							"time": 2424334,
+							"combat": null,
+							"combatant": null,
+							"initiative": null,
+							"round": null,
+							"turn": null
+						},
+						"duration": {
+							"value": null,
+							"units": "seconds",
+							"expiry": null,
+							"expired": false
+						},
+						"description": "",
+						"origin": null,
+						"tint": "#ffffff",
+						"transfer": false,
+						"folder": null,
+						"sort": 0,
+						"flags": {
+							"core": {
+								"overlay": true
+							}
+						},
+						"_stats": {
+							"coreVersion": "14.364",
+							"systemId": "pf2e",
+							"systemVersion": "8.3.0",
+							"createdTime": null,
+							"modifiedTime": null,
+							"lastModifiedBy": null,
+							"compendiumSource": null,
+							"duplicateSource": null,
+							"exportSource": null
+						},
+						"_key": "!scenes.tokens.delta.effects!60UqFbQCtFX0Fa5o.J0JkqT4jw95cpsLP.J0JkqT4jw95cpsLP.2re6d7c7XNUXxGva"
+					}
+				],
+				"ownership": null,
+				"flags": {},
+				"_key": "!scenes.tokens.delta!60UqFbQCtFX0Fa5o.J0JkqT4jw95cpsLP.J0JkqT4jw95cpsLP"
+			},
+			"x": 3250,
+			"y": 2250,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.J0JkqT4jw95cpsLP"
+		},
+		{
+			"name": "Commoner",
+			"displayName": 30,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"texture": {
+				"src": "modules/pf2e-tokens-characters/assets/tokens/gmg-commoner.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": {},
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-commoner.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "APn9B54hhRtr0oCQ",
+			"hidden": false,
+			"sort": 29,
+			"shape": 4,
+			"level": "defaultLevel0000",
+			"_id": "po6EmJN2rwy5gs7Y",
+			"delta": {
+				"_id": "po6EmJN2rwy5gs7Y",
+				"name": null,
+				"type": null,
+				"img": null,
+				"system": {},
+				"items": [],
+				"effects": [
+					{
+						"name": "Dead",
+						"img": "pics/icons/ko_death_icon.webp",
+						"statuses": [
+							"dead"
+						],
+						"showIcon": 2,
+						"_id": "XBHgdtgYl7qywuUf",
+						"type": "base",
+						"system": {
+							"changes": []
+						},
+						"disabled": false,
+						"start": {
+							"time": 2424334,
+							"combat": null,
+							"combatant": null,
+							"initiative": null,
+							"round": null,
+							"turn": null
+						},
+						"duration": {
+							"value": null,
+							"units": "seconds",
+							"expiry": null,
+							"expired": false
+						},
+						"description": "",
+						"origin": null,
+						"tint": "#ffffff",
+						"transfer": false,
+						"folder": null,
+						"sort": 0,
+						"flags": {
+							"core": {
+								"overlay": true
+							}
+						},
+						"_stats": {
+							"coreVersion": "14.364",
+							"systemId": "pf2e",
+							"systemVersion": "8.3.0",
+							"createdTime": null,
+							"modifiedTime": null,
+							"lastModifiedBy": null,
+							"compendiumSource": null,
+							"duplicateSource": null,
+							"exportSource": null
+						},
+						"_key": "!scenes.tokens.delta.effects!60UqFbQCtFX0Fa5o.po6EmJN2rwy5gs7Y.po6EmJN2rwy5gs7Y.XBHgdtgYl7qywuUf"
+					}
+				],
+				"ownership": null,
+				"flags": {},
+				"_key": "!scenes.tokens.delta!60UqFbQCtFX0Fa5o.po6EmJN2rwy5gs7Y.po6EmJN2rwy5gs7Y"
+			},
+			"x": 2500,
+			"y": 3250,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!60UqFbQCtFX0Fa5o.po6EmJN2rwy5gs7Y"
+		}
+	],
+	"lights": [],
+	"notes": [],
+	"sounds": [],
+	"tiles": [],
+	"walls": [],
+	"playlist": null,
+	"playlistSound": null,
+	"journal": null,
+	"journalEntryPage": null,
+	"weather": "",
+	"ownership": {
+		"default": 0,
+		"vj8VUT8j7Wtzy3Y2": 3
+	},
+	"flags": {
+		"fxmaster": {
+			"parameterRangeMigrationVersion": 1,
+			"stack": [
+				{
+					"uid": "scene:particle:apiMacro_p1E7qVJnOHDYL223_p"
+				},
+				{
+					"uid": "scene:filter:apiMacro_xLzYjTt1Gv9Tt2OY_f"
+				}
+			],
+			"filters": {
+				"apiMacro_xLzYjTt1Gv9Tt2OY_f": {
+					"type": "screenShake",
+					"options": {
+						"belowTokens": false,
+						"belowTiles": false,
+						"belowForeground": false,
+						"soundFxEnabled": false,
+						"timed": true,
+						"strength": 0.28,
+						"blur": 0.12,
+						"duration": 3.2,
+						"speed": 0.55,
+						"smoothness": 0.45,
+						"decay": 0.8,
+						"axis": "both",
+						"edgeProtection": 0.6,
+						"audioAware": true,
+						"audioChannels": [
+							"environment"
+						],
+						"audioBassThreshold": 0.45,
+						"darknessActivationEnabled": false,
+						"darknessActivationRange": {
+							"min": 0,
+							"max": 1
+						}
+					},
+					"sourceName": "Filter Effect: Screen Shake"
+				}
+			},
+			"_apiEffectToggleGroups": {
+				"apiToggle_custom_0bqom171gicigp": {
+					"particles": [],
+					"filters": [
+						"apiMacro_xLzYjTt1Gv9Tt2OY_f"
+					]
+				},
+				"apiToggle_custom_1cw4myx048qggm": {
+					"particles": [
+						"apiMacro_p1E7qVJnOHDYL223_p"
+					],
+					"filters": []
+				}
+			},
+			"_apiEffectsUpdateOptions": {
+				"skipFading": false,
+				"nonce": "ePEC6zEPmbN0IREO"
+			},
+			"effects": {
+				"apiMacro_p1E7qVJnOHDYL223_p": {
+					"type": "embers",
+					"options": {
+						"belowTokens": false,
+						"belowTiles": false,
+						"belowForeground": false,
+						"soundFxEnabled": false,
+						"tint": {
+							"apply": false,
+							"value": "#f77300"
+						},
+						"topDown": true,
+						"orbit": false,
+						"orbitDistance": 0.5,
+						"scale": 1,
+						"speed": 0.27,
+						"lifetime": 0.27,
+						"density": 0.71,
+						"alpha": 1,
+						"darknessActivationEnabled": false,
+						"darknessActivationRange": {
+							"min": 0,
+							"max": 1
+						}
+					},
+					"sourceName": "Particle Effect: Embers"
+				}
+			}
+		},
+		"multi-token-edit": {
+			"blackBars": false
+		},
+		"calendaria": {
+			"darknessSync": "default",
+			"brightnessMultiplier": 1,
+			"darknessWeatherSync": "default",
+			"darknessMoonSync": "default",
+			"ambienceSync": "default",
+			"colorShiftSync": "default",
+			"climateZoneOverride": "",
+			"weatherFxOverride": "inherit",
+			"fxmasterTopDownOverride": "default",
+			"fxmasterSplashOverride": "default",
+			"weatherSoundDisabled": false,
+			"weatherFxLevels": [],
+			"hudHideForPlayers": false
+		},
+		"pf2e": {
+			"rulesBasedVision": null,
+			"hearingRange": null,
+			"environmentTypes": [],
+			"syncDarkness": "default"
+		},
+		"pf2e-hud": {
+			"visible": [
+				"persistent",
+				"token",
+				"tooltip",
+				"tracker"
+			]
+		}
+	},
+	"_stats": {
+		"coreVersion": "14.364",
+		"systemId": "pf2e",
+		"systemVersion": "8.3.0",
+		"createdTime": 1783535381516,
+		"modifiedTime": 1783535381516,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2",
+		"exportSource": null,
+		"compendiumSource": null,
+		"duplicateSource": null
+	},
+	"_id": "60UqFbQCtFX0Fa5o",
+	"environment": {
+		"globalLight": {
+			"luminosity": 0,
+			"enabled": false,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0
+		},
+		"darknessLevel": 0.2,
+		"darknessLock": false,
+		"cycle": true,
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"fog": {
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		},
+		"mode": 1
+	},
+	"regions": [
+		{
+			"color": "#28ccc9",
+			"elevation": {
+				"bottom": 0,
+				"top": 20,
+				"topInclusive": false
+			},
+			"levels": [
+				"defaultLevel0000"
+			],
+			"restriction": {
+				"enabled": false,
+				"type": "move",
+				"priority": 0
+			},
+			"attachment": {
+				"token": null
+			},
+			"visibility": 4,
+			"highlightMode": "shapes",
+			"displayMeasurements": false,
+			"hidden": false,
+			"name": "Region (2)",
+			"_id": "GJ8UmdqmefX9EdKM",
+			"shapes": [
+				{
+					"type": "polygon",
+					"points": [
+						2546.875,
+						4437.5,
+						2750,
+						4328.125,
+						2546.875,
+						3968.75,
+						3078.125,
+						3640.625,
+						3453.125,
+						4281.25,
+						2921.875,
+						4609.375,
+						2812.5,
+						4437.5,
+						2625,
+						4546.875
+					],
+					"hole": true,
+					"origin": null
+				}
+			],
+			"behaviors": [],
+			"locked": false,
+			"ownership": {
+				"default": 0,
+				"vj8VUT8j7Wtzy3Y2": 3
+			},
+			"flags": {
+				"pf2e": {
+					"areaShape": null
+				},
+				"tokenmagic": {
+					"regionData": {
+						"opacity": 1
+					},
+					"filters": null,
+					"options": null
+				}
+			},
+			"_shapeConstraints": null,
+			"_key": "!scenes.regions!60UqFbQCtFX0Fa5o.GJ8UmdqmefX9EdKM"
+		}
+	],
+	"levels": [
+		"defaultLevel0000"
+	],
+	"shiftX": 0,
+	"shiftY": 0,
+	"initialLevel": "defaultLevel0000",
+	"transition": {
+		"type": null,
+		"duration": 1500,
+		"activeOnly": false
+	},
+	"active": false,
+	"navOrder": 0,
+	"sort": 100000,
+	"_key": "!scenes!60UqFbQCtFX0Fa5o",
+	"templates": []
+}
