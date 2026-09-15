@@ -1,0 +1,1961 @@
+{
+	"_id": "UbXvVA3ZdSN6pj1j",
+	"folder": "PpkuZIyMYhm4eOuk",
+	"img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mythological/kirin.webp",
+	"items": [
+		{
+			"_id": "7BAOIxzz6HjTn8I0",
+			"img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+			"name": "Innate Divine Spells",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"ability": {
+					"value": "cha"
+				},
+				"spelldc": {
+					"value": 33,
+					"dc": 41,
+					"mod": 0
+				},
+				"tradition": {
+					"value": "divine"
+				},
+				"prepared": {
+					"value": "innate"
+				},
+				"showSlotlessLevels": {
+					"value": true
+				},
+				"proficiency": {
+					"value": 0
+				},
+				"slots": {
+					"slot0": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot1": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot2": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot3": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot4": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot5": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot6": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot7": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot8": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot9": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot10": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot11": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					}
+				},
+				"autoHeightenLevel": {
+					"value": null
+				}
+			},
+			"type": "spellcastingEntry",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "uq0h4m9aMeFmWhpc",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.b5sGjGlBf58f8jn0",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "icons/magic/water/wave-water-teal.webp",
+			"name": "Air Walk (Constant)",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>The target can walk on air as if it were solid ground. It can ascend and descend in this way at a maximum of a 45-degree angle.</p>"
+				},
+				"rules": [],
+				"slug": "air-walk",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"air",
+						"concentrate",
+						"manipulate"
+					],
+					"rarity": "common",
+					"traditions": [
+						"divine",
+						"primal"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Core Rulebook",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 4
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 creature"
+				},
+				"range": {
+					"value": "touch"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "5 minutes",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "7BAOIxzz6HjTn8I0"
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "lTBPSh5Tnj3JET1I",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.b515AZlB0sridKSq",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "icons/creatures/abilities/wolf-heads-swirl-purple.webp",
+			"name": "Calm (At Will)",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You forcibly calm creatures in the area, soothing them into a nonviolent state; each creature must attempt a Will save.</p>\n<hr>\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> Calming urges impose a -1 status penalty to the creature's attack rolls.</p>\n<p><strong>Failure</strong> Any emotion effects that would affect the creature are suppressed and the creature can't use hostile actions. If the target is subject to hostility from any other creature, it ceases to be affected by <em>calm</em>.</p>\n<p><strong>Critical Failure</strong> As failure, but hostility doesn't end the effect.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.Qr5rgoZvI4KmFY0N]{Spell Effect: Calm}</p>"
+				},
+				"rules": [],
+				"slug": "calm",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"emotion",
+						"incapacitation",
+						"manipulate",
+						"mental"
+					],
+					"rarity": "common",
+					"traditions": [
+						"divine",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 2
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": "120 feet"
+				},
+				"area": {
+					"type": "burst",
+					"value": 10
+				},
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "1 minute",
+					"sustained": true
+				},
+				"damage": {},
+				"defense": {
+					"save": {
+						"basic": false,
+						"statistic": "will"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "7BAOIxzz6HjTn8I0",
+					"heightenedLevel": 8
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "GyoT1tfHMw1TOcWC",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.g8QqHpv2CWDwmIm1",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/gust-of-wind.webp",
+			"name": "Gust of Wind",
+			"sort": 400000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>A violent wind issues forth from your palm, blowing from the point where you are when you Cast the Spell to the line's opposite end. The wind extinguishes small non-magical fires, disperses fog and mist, blows objects of light Bulk or less around, and pushes larger objects. Large or smaller creatures in the area must attempt a Fortitude save. Large or smaller creatures that later move into the gust must attempt the save on entering.</p>\n<hr>\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature can't move against the wind.</p>\n<p><strong>Failure</strong> The creature is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. If it was flying, it takes the effects of critical failure instead.</p>\n<p><strong>Critical Failure</strong> The creature is pushed 30 feet in the wind's direction, knocked prone, and takes 2d6 bludgeoning damage.</p>"
+				},
+				"rules": [],
+				"slug": "gust-of-wind",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"air",
+						"concentrate",
+						"manipulate"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"primal"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": {
+					"type": "line",
+					"value": 60
+				},
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "until the start of your next turn",
+					"sustained": false
+				},
+				"damage": {
+					"C34n7XTpCLCXJWwt": {
+						"applyMod": false,
+						"category": null,
+						"formula": "2d6",
+						"kinds": [
+							"damage"
+						],
+						"materials": [],
+						"type": "bludgeoning"
+					}
+				},
+				"defense": {
+					"save": {
+						"basic": false,
+						"statistic": "fortitude"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "7BAOIxzz6HjTn8I0",
+					"uses": {
+						"max": 3,
+						"value": 3
+					},
+					"heightenedLevel": 8
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Ar8t0tGmGn4H6JC8",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.wi405lBjPcbF1DeR",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "icons/magic/air/wind-tornado-funnel-blue-grey.webp",
+			"name": "Punishing Winds",
+			"sort": 500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p><strong>Area</strong> (continued) 30-foot-radius, 100-foot-tall cylinder</p><hr><p>Violent winds and a powerful downdraft fill the area, forming a cyclone. All flying creatures in the area descend 40 feet. The entire area is greater difficult terrain for Flying creatures, and difficult terrain for creatures on the ground or Climbing. Any creature that ends its turn Flying within the area descends 20 feet. Any creature pushed into a surface by this spell's winds takes bludgeoning damage as though it had fallen.</p>\n<p>The squares at the outside vertical edges of the cylinder prevent creatures from leaving. These squares are greater difficult terrain, and a creature attempting to push through must succeed at an Athletics check or Acrobatics check to Maneuver in Flight against your spell DC to get through. A creature that fails ends its current action but can try again.</p>"
+				},
+				"rules": [],
+				"slug": "punishing-winds",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"air",
+						"concentrate",
+						"manipulate"
+					],
+					"rarity": "common",
+					"traditions": [
+						"primal"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 8
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": "100 feet"
+				},
+				"area": {
+					"type": "cylinder",
+					"value": 30
+				},
+				"time": {
+					"value": "3"
+				},
+				"duration": {
+					"value": "1 minute",
+					"sustained": true
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "7BAOIxzz6HjTn8I0"
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "dzSE6CYv5BywrIRP",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.yHujiDQPdtXW797e",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "icons/magic/control/energy-stream-link-teal.webp",
+			"name": "Spirit Link (with Jin-Hae Only)",
+			"sort": 600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You form a spiritual link with another creature, taking in its pain. When you Cast this Spell and at the start of each of your turns, if the target is below maximum Hit Points, it regains 2 Hit Points (or the difference between its current and maximum Hit Points, if that's lower). You lose as many Hit Points as the target regained.</p>\n<p>This is a spiritual transfer, so no effects apply that would increase the Hit Points the target regains or decrease the Hit Points you lose. This transfer also ignores any temporary Hit Points you or the target have. Since this effect doesn't involve vitality or void energy, <em>spirit link</em> works even if you or the target is undead. While the duration persists, you gain no benefit from regeneration or fast healing. You can Dismiss this spell, and if you're ever at 0 Hit Points, <em>spirit link</em> ends automatically.</p>\n<hr>\n<p><strong>Heightened (+1)</strong> The number of Hit Points transferred each time increases by 2.</p>"
+				},
+				"rules": [],
+				"slug": "spirit-link",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"healing",
+						"manipulate",
+						"spirit"
+					],
+					"rarity": "common",
+					"traditions": [
+						"divine",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 willing creature"
+				},
+				"range": {
+					"value": "30 feet"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "10 minutes",
+					"sustained": false
+				},
+				"damage": {
+					"9k8ayqgvgultdghx": {
+						"applyMod": false,
+						"category": null,
+						"formula": "2",
+						"kinds": [
+							"healing"
+						],
+						"materials": [],
+						"type": "untyped"
+					}
+				},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "7BAOIxzz6HjTn8I0",
+					"heightenedLevel": 8
+				},
+				"counteraction": false,
+				"heightening": {
+					"damage": {
+						"9k8ayqgvgultdghx": "2"
+					},
+					"interval": 1,
+					"type": "interval"
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "JBymrntEIyRuIX91",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.QnTtGCAvdWRU4spv",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/detect-alignment.webp",
+			"name": "Detect Alignment (At Will)",
+			"sort": 700000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Your eyes glow as you sense aligned auras. Choose chaotic, evil, good, or lawful. You detect auras of that alignment. You receive no information beyond presence or absence. You can choose not to detect creatures or effects you're aware have that alignment.</p>\n<p>Only creatures of 6th level or higher-unless divine spellcasters, undead, or beings from the Outer Sphere-have alignment auras.</p>\n<hr>\n<p><strong>Heightened (2nd)</strong> You learn each aura's location and strength.</p>"
+				},
+				"rules": [],
+				"slug": "detect-alignment",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"detection",
+						"manipulate"
+					],
+					"rarity": "uncommon",
+					"traditions": [
+						"divine",
+						"occult"
+					]
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 2
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": {
+					"type": "emanation",
+					"value": 30
+				},
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "7BAOIxzz6HjTn8I0"
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "u6NcoIVfKrPmK5Du",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.rfZpqmj0AIIdkVIs",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "icons/magic/life/cross-worn-green.webp",
+			"name": "Heal",
+			"sort": 800000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You channel vital energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of vitality damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.</p>\n<p><span class=\"action-glyph\">1</span> The spell has a range of touch.</p>\n<p><span class=\"action-glyph\">2</span> (concentrate) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.</p>\n<p><span class=\"action-glyph\">3</span> (concentrate) You disperse vital energy in a @Template[emanation|distance:30]. This targets all living and undead creatures in the burst.</p>\n<hr>\n<p><strong>Heightened (+1)</strong> The amount of healing or damage increases by 1d8, and the extra healing for the 2-action version increases by 8.</p>"
+				},
+				"rules": [],
+				"slug": "heal",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"healing",
+						"manipulate",
+						"vitality"
+					],
+					"rarity": "common",
+					"traditions": [
+						"divine",
+						"primal"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": "1 willing living creature or 1 undead"
+				},
+				"range": {
+					"value": "varies"
+				},
+				"area": null,
+				"time": {
+					"value": "1 to 3"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "1d8",
+						"kinds": [
+							"damage",
+							"healing"
+						],
+						"materials": [],
+						"type": "vitality"
+					}
+				},
+				"defense": {
+					"save": {
+						"basic": true,
+						"statistic": "fortitude"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "7BAOIxzz6HjTn8I0",
+					"heightenedLevel": 8,
+					"uses": {
+						"max": 2,
+						"value": 2
+					}
+				},
+				"counteraction": false,
+				"heightening": {
+					"damage": {
+						"0": "1d8"
+					},
+					"interval": 1,
+					"type": "interval"
+				},
+				"overlays": {
+					"37gy7l19tik74o4s": {
+						"_id": "37gy7l19tik74o4s",
+						"name": "Heal (vs. Living)",
+						"overlayType": "override",
+						"sort": 2,
+						"system": {
+							"damage": {
+								"0": {
+									"formula": "1d8+8",
+									"kinds": [
+										"healing"
+									]
+								}
+							},
+							"defense": null,
+							"heightening": {
+								"damage": {
+									"0": "1d8+8"
+								}
+							},
+							"range": {
+								"value": "30 feet"
+							},
+							"time": {
+								"value": "2"
+							},
+							"traits": {
+								"value": [
+									"concentrate",
+									"healing",
+									"manipulate",
+									"vitality"
+								]
+							}
+						}
+					},
+					"7qdtetowq348s9oc": {
+						"_id": "7qdtetowq348s9oc",
+						"overlayType": "override",
+						"sort": 1,
+						"system": {
+							"range": {
+								"value": "touch"
+							},
+							"time": {
+								"value": "1"
+							}
+						}
+					},
+					"7vbvdrv2cl87sqta": {
+						"_id": "7vbvdrv2cl87sqta",
+						"overlayType": "override",
+						"sort": 4,
+						"system": {
+							"area": {
+								"type": "emanation",
+								"value": 30
+							},
+							"range": {
+								"value": ""
+							},
+							"target": {
+								"value": "all living and undead creatures"
+							},
+							"time": {
+								"value": "3"
+							},
+							"traits": {
+								"value": [
+									"concentrate",
+									"healing",
+									"manipulate",
+									"vitality"
+								]
+							}
+						}
+					},
+					"lfxcoz2d3f8j2zq1": {
+						"_id": "lfxcoz2d3f8j2zq1",
+						"name": "Heal (vs. Undead)",
+						"overlayType": "override",
+						"sort": 3,
+						"system": {
+							"damage": {
+								"0": {
+									"kinds": [
+										"damage"
+									]
+								}
+							},
+							"range": {
+								"value": "30 feet"
+							},
+							"target": {
+								"value": "1 undead"
+							},
+							"time": {
+								"value": "2"
+							},
+							"traits": {
+								"value": [
+									"concentrate",
+									"healing",
+									"manipulate",
+									"vitality"
+								]
+							}
+						}
+					}
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "dslbeBVK1asWHZkH",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.WBmvzNDfpwka3qT4",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/light.webp",
+			"name": "Light",
+			"sort": 900000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You create an orb of light that sheds bright light in a 20-foot radius (and dim light for the next 20 feet) in a color you choose. If you create the light in the same space as a willing creature, you can attach the light to the creature, causing it to float near that creature as it moves. You can Sustain the spell to move the light up to 60 feet; you can attach or detach it from a creature as part of this movement.</p>\n<p>You can Dismiss the spell. If you Cast the Spell while you already have four <em>light</em> spells active, you must choose one of the existing spells to end.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.cVVZXNbV0nElVOPZ]{Spell Effect: Light}</p>\n<hr>\n<p><strong>Heightened (4th)</strong> The orb sheds light in a 60-foot radius (and dim light for the next 60 feet).</p>"
+				},
+				"rules": [],
+				"slug": "light",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"cantrip",
+						"concentrate",
+						"light",
+						"manipulate"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"divine",
+						"occult",
+						"primal"
+					]
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": "120 feet"
+				},
+				"area": null,
+				"time": {
+					"value": "2"
+				},
+				"duration": {
+					"value": "until your next daily preparations",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "7BAOIxzz6HjTn8I0"
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "9L5mgOkf2d5MOUDu",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Phantom Hoof",
+			"sort": 1000000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 35
+				},
+				"damageRolls": {
+					"niovmh2t5vq1kry4yp8x": {
+						"damage": "4d10+15",
+						"damageType": "force",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"force",
+						"magical"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "TiUvmFYeNiH2iMiP",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Phantom Horn",
+			"sort": 1100000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 35
+				},
+				"damageRolls": {
+					"su4tcfow3xep9jh6z6jz": {
+						"damage": "4d8+15",
+						"damageType": "force",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"force",
+						"magical"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "22bQQFTutgQ4Lzfs",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.4Ho2xMPEC05aSxzr",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Greater Darkvision",
+			"sort": 1200000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "greater-darkvision",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "3J4Relkg61T0rQHh",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.kakyXBG5WA8c6Zfd",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Constant Spells",
+			"sort": 1300000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "constant-spells",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "P2qlThkgF3vcu6WY",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "-1 status penalty to all saves vs. death effects",
+			"sort": 1400000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"death"
+						],
+						"selector": "saving-throw",
+						"type": "status",
+						"value": -1
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ODKdeMrBIixZslBl",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Deflecting Gale",
+			"sort": 1500000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> The kirin is targeted with a ranged Strike</p>\n<hr>\n<p><strong>Effect</strong> The kirin intensifies the wind around themself, gaining a +4 circumstance bonus to AC against the triggering attack.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "RollOption",
+						"option": "deflecting-gale",
+						"toggleable": true
+					},
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"deflecting-gale"
+						],
+						"selector": "ac",
+						"type": "circumstance",
+						"value": 4
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "snlcqNZrBsBXRzfl",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Peaceful Aura",
+			"sort": 1600000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>60 feet. Creatures within Cloudsplitter's peaceful aura attempting to use a hostile action must first attempt a @Check[will|dc:39] save; on a failure, the hostile action is disrupted.</p>\n<p>If a creature in the aura successfully uses a hostile action, it's temporarily immune to peaceful aura for 24 hours, and while it's temporarily immune, other creatures in the Cloudsplitter's peaceful aura can perform hostile actions toward it without needing to attempt a Will save.</p>\n<p>Cloudsplitter can select creatures within their aura that can use hostile actions without needing to attempt a Will save.</p>\n<p>Cloudsplitter allows anyone involved in the player character's bout with Jin-Hae to use hostile actions without a Will save.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "Aura",
+						"radius": 60,
+						"slug": "peaceful-aura",
+						"traits": [
+							"divine",
+							"emotion",
+							"mental"
+						]
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [
+						"aura",
+						"divine",
+						"emotion",
+						"mental"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "jDpoqTSr86nC9yxa",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Susceptible to Death",
+			"sort": 1700000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>Though phantoms aren't alive, neither are they undead, and they are uniquely vulnerable to the effects of death.</p>\n<p>A phantom whose Hit Points are reduced to 0 as a result of a death effect (such as from a spell like @UUID[Compendium.pf2e.spells-srd.Item.Z9OrRXKgAPv6Hn5l]{Execute}) is immediately whisked away to the River of Souls, where their soul resumes the usual path to the afterlife.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "bhAx6MavTdZqYdPK",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Breath Weapon",
+			"sort": 1800000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Cloudsplitter breathes fire in a @Template[cone|distance:30], dealing @Damage[18d6[fire]|options:area-damage] damage (@Check[reflex|dc:40|basic|options:area-effect] save). Cloudsplitter can't use Breath Weapon again for [[/gmr 1d4 #Recharge Breath Weapon]]{1d4 rounds}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"divine",
+						"fire"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "uETiNlCErr5xSR48",
+			"img": "systems/pf2e/icons/actions/TwoActions.webp",
+			"name": "Rearing Thrust",
+			"sort": 1900000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 2
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>The Cloudsplitter rushes forward, rears up on their hind legs, and descends upon their target with their horn. Cloudsplitter Strides and makes a horn Strike. If this Strike hits, it deals an additional 2d8 damage, and the target is knocked @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "RollOption",
+						"option": "rearing-thrust",
+						"toggleable": true
+					},
+					{
+						"diceNumber": 2,
+						"dieSize": "d8",
+						"key": "DamageDice",
+						"predicate": [
+							"rearing-thrust"
+						],
+						"selector": "phantom-horn-damage"
+					},
+					{
+						"key": "Note",
+						"outcome": [
+							"criticalSuccess",
+							"success"
+						],
+						"predicate": [
+							"rearing-thrust"
+						],
+						"selector": "phantom-horn-attack",
+						"text": "PF2E.AttackEffects.KnockProne",
+						"title": "{item|name}",
+						"visibility": "owner"
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "46YTtTZStJ8YJ4JO",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.bestiary-ability-glossary-srd.Item.UNah0bxXxkcZjxO3",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/actions/ThreeActions.webp",
+			"name": "Trample",
+			"sort": 2000000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 3
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p>Medium or smaller, phantom hoof, @Check[reflex|dc:40|basic] save</p>\n<hr>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "Pathfinder Bestiary",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": "trample",
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Cloudsplitter",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 335,
+				"temp": 0,
+				"max": 335,
+				"details": ""
+			},
+			"ac": {
+				"value": 42,
+				"details": ""
+			},
+			"allSaves": {
+				"value": "-1 status penalty to all saves vs. death effects"
+			},
+			"speed": {
+				"value": 60,
+				"otherSpeeds": [],
+				"details": ""
+			},
+			"immunities": [
+				{
+					"type": "paralyzed"
+				},
+				{
+					"type": "fire"
+				},
+				{
+					"type": "poison"
+				},
+				{
+					"type": "precision"
+				},
+				{
+					"type": "disease"
+				}
+			]
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"draconic",
+					"empyrean",
+					"sussuran",
+					"tien"
+				],
+				"details": "telepathy 100 feet"
+			},
+			"level": {
+				"value": 18
+			},
+			"blurb": "Variant kirin",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #168: King of the Mountain",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {
+			"focus": {
+				"max": 1,
+				"value": 1
+			}
+		},
+		"_migration": {
+			"version": 0.959,
+			"previous": null
+		},
+		"abilities": {
+			"str": {
+				"mod": 7
+			},
+			"dex": {
+				"mod": 9
+			},
+			"con": {
+				"mod": 5
+			},
+			"int": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 6
+			},
+			"cha": {
+				"mod": 9
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 32,
+			"senses": [
+				{
+					"type": "greater-darkvision"
+				},
+				{
+					"acuity": "imprecise",
+					"range": 60,
+					"type": "scent"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 28,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 32,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 30,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 35
+			},
+			"diplomacy": {
+				"base": 37
+			},
+			"nature": {
+				"base": 30
+			},
+			"religion": {
+				"base": 30
+			},
+			"stealth": {
+				"base": 35
+			}
+		},
+		"traits": {
+			"value": [
+				"air",
+				"fire",
+				"good",
+				"lawful",
+				"phantom",
+				"spirit"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "lg"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "8.5.0",
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.UbXvVA3ZdSN6pj1j",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Cloudsplitter",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 2,
+		"height": 2,
+		"depth": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mythological/kirin.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1.5,
+			"scaleY": 1.5,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1.5,
+				"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/mythological/kirin.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false
+	},
+	"flags": {},
+	"ownership": {
+		"default": 0
+	},
+	"sort": 0
+}

@@ -462,3 +462,61 @@
     - Use the FotRP Expanded spell list
       - FotRP Expanded gives two spell lists, one completely combat-oriented and one with out-of-combat spells for narrative flair during the chase. The two lists are identical above 5th-rank so it shouldn't matter too much. I plan on using the first list.
       - Replace 7th-rank `Shadow Blast` with 7th-rank `Phantom Orchestra` because c'mon
+## 7. Race to the Peak
+Rai Sho Postulant
+Attributes: Str +9, Dex +6, Con +6, Int +5, Wis +6, Cha +5
+Saves: Fort +30, Ref +28, Will +28
+Strikes:
+Claw: 3d12+18 slashing
+Icicle: 2d10+15 piercing + 1d10 cold
+
+Rai Sho Disciple
+Strikes:
+Fist: 4d8+15 bludgeoning
+Sal Blossom: 4d10+15 negative
+Temple Bell: 4d10+9 sonic
+
+Abbot Tsujon & Leeyan
+Attributes: Str +9, Dex +10, Con +6, Int +5, Wis +6, Cha +5
+Skills: Acrobatics +38, Athletics +35
+AC 45
+Strikes:
+Sal Blossom: 4d10+17 negative
+Fist: 4d8+15 bludgeoning
+Khakkhara: 4d8+15 bludgeoning
+Temple Bell: 4d10+11 sonic
+Absorb Worldly Influence: no counteract modifier listed. I'll assume the khakkhara's to-hit modifier of +34, since the khakkhara is what's doing the counteracting.
+
+Jin-Hae
+Skills: Athletics +38
+holy fuck Wind-Fire Chariot and Wind-Fire Charge are the coolest shit
+
+Cloudsplitter
+perfectly fine as-is
+
+Flying Mountain Kaminari
+Attributes: Int +6, Wis +6, Cha +5
+Skills: Athletics +35
+Strikes:
+Storm Blast: +33 to hit
+Hurricane Bag: 9d6 to creatures entering, 12d10 if Thunder Drums hits.
+This seems to have been balanced as though it wasn't on a cooldown.
+Thunder Drums: 10d12 electric
+
+**Battle Echoes**
+Bamboo-Cutter's Burden
+As-is, this is roughly equivalent to an Elemental Breath: Air at 5th Rank
+Make it do 12d6 piercing + 2d6 persistent bleed
+Dream of Fireworks
+Perfectly fine. This is about on par with what would be the next rank up of Resist Energy if it went past Rank 7.
+Huli-Po, the Echoing Gourd
+This is just base Enthrall what the hell why does Paizo think Fascinated is a good condition
+Use the effects of Canticle of Everlasting Grief
+Kalikra, the Lancet
+Currently does the equivalent of a 6th-rank heal
+Make it do a 9th-rank heal: 9d8+72
+Nameless (No. 17)
+As-is, this is roughly equivalent to a 5th-rank Lightning Bolt
+Make it do a Beheading Buzz Saw upranked to 9
+The Wall of Heaven
+Perfectly fine, this is already doing an 8th-rank spell

@@ -1,0 +1,105 @@
+{
+	"_id": "ltundBNFAnP7bgPr",
+	"img": "icons/equipment/shield/pavise-wooden-wings-blue-white.webp",
+	"name": "The Wall of Heaven",
+	"system": {
+		"description": {
+			"gm": "",
+			"value": "<p>These massive shields can be used to provide cover to nearly the entire body. Due to their size, they are typically made of wood reinforced with metal. AC increases to +4 if you are using the @UUID[Compendium.pf2e.actionspf2e.Item.ust1jJSCZQUhBZIz]{Take Cover} action.</p><hr><p><strong>Activate—The Wall of Heaven</strong> <span class=\"action-glyph\">1</span> (interact)</p><p><strong>Frequency</strong> once</p><hr><p><strong>Effect</strong> When unsealed, it casts an 8th-level @UUID[Compendium.pf2e.spells-srd.7Iela4GgVeO3LfAo]{Wall of Force}, except that the resultant wall is not invisible, but rather shines with a faint, watercolor pattern of painted mountains and this item permanently dissipates into mist.</p>"
+		},
+		"rules": [],
+		"slug": "tower-shield",
+		"_migration": {
+			"version": 0.959,
+			"lastMigration": null,
+			"previous": null
+		},
+		"traits": {
+			"otherTags": [],
+			"value": [],
+			"rarity": "unique",
+			"integrated": null
+		},
+		"publication": {
+			"title": "Pathfinder Player Core",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"level": {
+			"value": 19
+		},
+		"quantity": 1,
+		"baseItem": "tower-shield",
+		"bulk": {
+			"value": 4
+		},
+		"hp": {
+			"value": 128,
+			"max": 20
+		},
+		"hardness": 5,
+		"price": {
+			"value": {
+				"gp": 10
+			}
+		},
+		"equipped": {
+			"carryType": "worn"
+		},
+		"containerId": null,
+		"size": "med",
+		"material": {
+			"type": null,
+			"grade": null
+		},
+		"identification": {
+			"status": "identified",
+			"unidentified": {
+				"name": "Unusual Tower Shield",
+				"img": "icons/equipment/shield/wardoor-wooden-boss-brown.webp",
+				"data": {
+					"description": {
+						"value": ""
+					}
+				}
+			}
+		},
+		"acBonus": 2,
+		"grade": null,
+		"runes": {
+			"reinforcing": 6
+		},
+		"specific": {
+			"material": {
+				"type": null,
+				"grade": null
+			},
+			"runes": {
+				"reinforcing": 6
+			},
+			"integrated": null
+		},
+		"speedPenalty": -5,
+		"subitems": []
+	},
+	"type": "shield",
+	"_stats": {
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "8.5.0",
+		"compendiumSource": "Compendium.pf2e.equipment-srd.Item.ltundBNFAnP7bgPr",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"folder": "nvGQPcu3xqvMofTe",
+	"flags": {},
+	"ownership": {
+		"default": 0
+	},
+	"sort": 125000
+}

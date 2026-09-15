@@ -1,0 +1,54 @@
+{
+	"name": "Book 3",
+	"img": null,
+	"caption": "Book 3",
+	"description": "<p>Book 3 stuff</p>",
+	"sort": 0,
+	"actors": [
+		"Abbot_Leeyan_Actor_vuInTPbOo6ndeSxK.json",
+		"Abbot_Tsujon_Actor_f0nafAQA1tSXLqwL.json",
+		"Cloudsplitter_Actor_UbXvVA3ZdSN6pj1j.json",
+		"Flying_Mountain_Kaminari_Actor_lqHn5wSzxvdllGgH.json",
+		"Jin_hae_Actor_HGtyyMucLkYlqZ8i.json",
+		"Rai_Sho_Disciple_Actor_Ezm1FlUk4JXeqPlC.json",
+		"Rai_Sho_Postulant_Actor_QhFUhlZl1bvUrtPs.json"
+	],
+	"combats": [],
+	"items": [
+		"Bamboo_cutter_s_Burden_Item_FVjTuBCIefAgloUU.json",
+		"Dream_of_Fireworks_Item_4Di2VTnJaU4JFQGa.json",
+		"Kalikra__the_Lancet_Item_zSAoyzcf3nSeZCiF.json",
+		"Huli_Po__the_Echoing_Gourd_Item_79krBL334Kp1RMNB.json",
+		"Nameless__No__17__Item_grmaV4GdoGD7sKbn.json",
+		"The_Wall_of_Heaven_Item_ltundBNFAnP7bgPr.json",
+		"Effect__Dream_of_Fireworks_Item_8w9PtQszUrdPQaXr.json"
+	],
+	"journal": [],
+	"scenes": [],
+	"tables": [],
+	"macros": [],
+	"cards": [],
+	"playlists": [],
+	"folders": [
+		"7__Race_to_the_Peak_Folder_gcsPJJqYIyXxXJJ0.json",
+		"Battle_Echoes_Folder_nvGQPcu3xqvMofTe.json",
+		"FotRP__Addons_Folder_Z5GNZV74pFBxbDWT.json",
+		"7__Race_to_the_Peak_Folder_PpkuZIyMYhm4eOuk.json",
+		"FotRP__Addons_Folder_ybgUqF4nqK4bxKjW.json"
+	],
+	"_id": "z3GYI07psMjahmLe",
+	"folder": null,
+	"flags": {},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "7.8.0",
+		"createdTime": 1764874195402,
+		"modifiedTime": 1789510336111,
+		"lastModifiedBy": "vj8VUT8j7Wtzy3Y2"
+	},
+	"_key": "!adventures!z3GYI07psMjahmLe"
+}

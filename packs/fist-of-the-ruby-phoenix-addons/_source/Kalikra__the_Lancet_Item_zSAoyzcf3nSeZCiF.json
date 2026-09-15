@@ -1,0 +1,137 @@
+{
+	"_id": "zSAoyzcf3nSeZCiF",
+	"img": "icons/weapons/sickles/scythe-bone-jagged.webp",
+	"name": "Kalikra, the Lancet",
+	"system": {
+		"description": {
+			"gm": "",
+			"value": "<p>Similar to a sickle and used in some regions to reap grain, a kama has a short, slightly curved blade and a wooden handle.</p><hr><p><strong>Activate—Kalikra, the Lancet</strong> <span class=\"action-glyph\">1</span> (interact)</p><p><strong>Frequency</strong> once</p><hr><p><strong>Effect</strong> When unsealed, Kalikra excises the wounds of a creature within 30 feet, restoring @Damage[(9d8+72)[healing]] Hit Points and this item permanently dissipates into mist.</p>"
+		},
+		"rules": [],
+		"slug": "kama",
+		"_migration": {
+			"version": 0.959,
+			"lastMigration": null,
+			"previous": null
+		},
+		"traits": {
+			"otherTags": [],
+			"value": [
+				"agile",
+				"monk",
+				"trip"
+			],
+			"rarity": "unique"
+		},
+		"publication": {
+			"title": "Pathfinder Player Core",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"level": {
+			"value": 19
+		},
+		"quantity": 1,
+		"baseItem": "kama",
+		"bulk": {
+			"value": 0.1
+		},
+		"hp": {
+			"value": 0,
+			"max": 0
+		},
+		"hardness": 0,
+		"price": {
+			"value": {
+				"gp": 1
+			}
+		},
+		"equipped": {
+			"carryType": "worn",
+			"invested": null,
+			"handsHeld": 0
+		},
+		"containerId": null,
+		"size": "med",
+		"material": {
+			"type": null,
+			"grade": null
+		},
+		"identification": {
+			"status": "identified",
+			"unidentified": {
+				"name": "Unusual Kama",
+				"img": "systems/pf2e/icons/equipment/weapons/kama.webp",
+				"data": {
+					"description": {
+						"value": ""
+					}
+				}
+			}
+		},
+		"usage": {
+			"value": "held-in-one-hand"
+		},
+		"category": "martial",
+		"group": "knife",
+		"bonus": {
+			"value": 0
+		},
+		"damage": {
+			"dice": 1,
+			"die": "d6",
+			"damageType": "slashing",
+			"persistent": null
+		},
+		"splashDamage": {
+			"value": 0
+		},
+		"range": null,
+		"expend": null,
+		"ammo": null,
+		"reload": {
+			"value": null
+		},
+		"grade": null,
+		"runes": {
+			"potency": 3,
+			"striking": 3,
+			"property": []
+		},
+		"specific": {
+			"material": {
+				"type": null,
+				"grade": null
+			},
+			"runes": {
+				"potency": 0,
+				"striking": 0,
+				"property": []
+			}
+		},
+		"subitems": [],
+		"bonusDamage": {
+			"value": 0
+		}
+	},
+	"type": "weapon",
+	"_stats": {
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "8.5.0",
+		"compendiumSource": "Compendium.pf2e.equipment-srd.Item.zSAoyzcf3nSeZCiF",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"folder": "nvGQPcu3xqvMofTe",
+	"flags": {},
+	"ownership": {
+		"default": 0
+	},
+	"sort": 400000
+}

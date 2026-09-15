@@ -1,14 +1,14 @@
-2026/07/08-15:12:18.087 1003c Recovering log #1771
-2026/07/08-15:12:18.197 1003c Delete type=0 #1771
-2026/07/08-15:12:18.197 1003c Delete type=3 #1769
-2026/07/08-15:12:18.251 fa14 Level-0 table #1777: started
-2026/07/08-15:12:18.353 fa14 Level-0 table #1777: 122916 bytes OK
-2026/07/08-15:12:18.428 fa14 Delete type=0 #1775
-2026/07/08-15:12:18.428 fa14 Manual compaction at level-0 from '!folders!0mTw3XUT46MfpqFg' @ 72057594037927935 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 7719 : 1
-2026/07/08-15:12:18.428 fa14 Compacting 1@0 + 1@1 files
-2026/07/08-15:12:18.464 fa14 Generated table #1778@0: 673 keys, 121888 bytes
-2026/07/08-15:12:18.464 fa14 Compacted 1@0 + 1@1 files => 121888 bytes
-2026/07/08-15:12:18.538 fa14 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/07/08-15:12:18.538 fa14 Delete type=2 #1773
-2026/07/08-15:12:18.539 fa14 Delete type=2 #1777
-2026/07/08-15:12:18.539 fa14 Manual compaction at level-0 from '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 7719 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at (end)
+2026/09/15-17:20:53.537 a2e4 Recovering log #2166
+2026/09/15-17:20:53.658 a2e4 Delete type=0 #2166
+2026/09/15-17:20:53.658 a2e4 Delete type=3 #2165
+2026/09/15-17:20:53.744 503c Level-0 table #2170: started
+2026/09/15-17:20:53.792 503c Level-0 table #2170: 121845 bytes OK
+2026/09/15-17:20:53.844 503c Delete type=0 #2168
+2026/09/15-17:20:53.844 503c Manual compaction at level-0 from '!folders!0mTw3XUT46MfpqFg' @ 72057594037927935 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 8393 : 1
+2026/09/15-17:20:53.844 503c Compacting 1@0 + 1@1 files
+2026/09/15-17:20:53.891 503c Generated table #2171@0: 673 keys, 121845 bytes
+2026/09/15-17:20:53.891 503c Compacted 1@0 + 1@1 files => 121845 bytes
+2026/09/15-17:20:53.966 503c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/15-17:20:53.966 503c Delete type=2 #1778
+2026/09/15-17:20:53.966 503c Delete type=2 #2170
+2026/09/15-17:20:53.966 503c Manual compaction at level-0 from '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 8393 : 1 .. '!scenes.walls!uQIrrJZmNMI3bIXX.zyut7SqMtLIH4Qip' @ 0 : 0; will stop at (end)

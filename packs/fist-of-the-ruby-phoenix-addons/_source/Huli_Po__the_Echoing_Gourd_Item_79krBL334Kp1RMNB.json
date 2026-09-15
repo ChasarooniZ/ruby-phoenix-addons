@@ -1,0 +1,155 @@
+{
+	"_id": "79krBL334Kp1RMNB",
+	"img": "icons/tools/instruments/rattle-gourd-glowing-teal.webp",
+	"name": "Huli-Po, the Echoing Gourd",
+	"system": {
+		"description": {
+			"gm": "",
+			"value": "<p>This reinforced gourd is suitable both for use as a handheld musical instrument and for bashing heads should a crowd turn sour. This adds its item bonus from weapon potency runes (if any) as an item bonus on Performance checks made while using it as an instrument.</p><hr><p><strong>Activate—Huli-Po, the Echoing Gourd</strong> <span class=\"action-glyph\">1</span> (interact)</p><p><strong>Frequency</strong> once</p><hr><p><strong>Effect</strong> When unsealed, Huli-Po releases a celestial song that has the effects of an 8th rank @UUID[Compendium.pf2e.spells-srd.qlxM7Ik3uUeUIOcv]{Canticle of Everlasting Grief} spell (@Damage[10d6[menta]]) with @Check[will|dc:41|basic|traits:mental,auditory,curse,fear,manipulate,emotion] and this item permanently dissipates into mist.</p>"
+		},
+		"rules": [
+			{
+				"domain": "performance",
+				"key": "RollOption",
+				"label": "PF2E.SpecificRule.PlayingItem",
+				"option": "playing",
+				"toggleable": true
+			},
+			{
+				"key": "FlatModifier",
+				"predicate": [
+					"playing"
+				],
+				"selector": [
+					"performance"
+				],
+				"type": "item",
+				"value": "@item.system.runes.potency"
+			}
+		],
+		"slug": "battle-lute",
+		"_migration": {
+			"version": 0.959,
+			"lastMigration": null,
+			"previous": null
+		},
+		"traits": {
+			"otherTags": [],
+			"value": [
+				"shove",
+				"two-hand-d8"
+			],
+			"rarity": "unique"
+		},
+		"publication": {
+			"title": "Pathfinder Battlecry!",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"level": {
+			"value": 19
+		},
+		"quantity": 1,
+		"baseItem": "battle-lute",
+		"bulk": {
+			"value": 1
+		},
+		"hp": {
+			"value": 0,
+			"max": 0
+		},
+		"hardness": 0,
+		"price": {
+			"value": {
+				"gp": 7
+			}
+		},
+		"equipped": {
+			"carryType": "worn",
+			"invested": null,
+			"handsHeld": 0
+		},
+		"containerId": null,
+		"size": "med",
+		"material": {
+			"type": null,
+			"grade": null
+		},
+		"identification": {
+			"status": "identified",
+			"unidentified": {
+				"name": "Unusual Battle Lute",
+				"img": "icons/tools/instruments/lute-gold-brown.webp",
+				"data": {
+					"description": {
+						"value": ""
+					}
+				}
+			}
+		},
+		"usage": {
+			"value": "held-in-one-hand"
+		},
+		"category": "simple",
+		"group": "club",
+		"bonus": {
+			"value": 0
+		},
+		"damage": {
+			"dice": 1,
+			"die": "d4",
+			"damageType": "bludgeoning",
+			"persistent": null
+		},
+		"splashDamage": {
+			"value": 0
+		},
+		"range": null,
+		"expend": null,
+		"ammo": null,
+		"reload": {
+			"value": null
+		},
+		"grade": null,
+		"runes": {
+			"potency": 3,
+			"striking": 3,
+			"property": []
+		},
+		"specific": {
+			"material": {
+				"type": null,
+				"grade": null
+			},
+			"runes": {
+				"potency": 3,
+				"striking": 3,
+				"property": []
+			}
+		},
+		"subitems": [],
+		"bonusDamage": {
+			"value": 0
+		}
+	},
+	"type": "weapon",
+	"_stats": {
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "8.5.0",
+		"compendiumSource": "Compendium.pf2e.equipment-srd.Item.79krBL334Kp1RMNB",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"folder": "nvGQPcu3xqvMofTe",
+	"flags": {},
+	"ownership": {
+		"default": 0
+	},
+	"sort": 300000
+}

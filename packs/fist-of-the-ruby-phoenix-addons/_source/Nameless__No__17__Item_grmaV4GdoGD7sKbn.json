@@ -1,0 +1,136 @@
+{
+	"_id": "grmaV4GdoGD7sKbn",
+	"img": "icons/weapons/swords/sword-guard-flanged-purple.webp",
+	"name": "Nameless (No. 17)",
+	"system": {
+		"description": {
+			"gm": "",
+			"value": "<p>This unnotable zhanmadao has a 17 etched in the base of the blade.</p><hr><p><strong>Activate—Nameless (No. 17)</strong> <span class=\"action-glyph\">1</span> (interact)</p><p><strong>Frequency</strong> once</p><hr><p><strong>Effect</strong> When unsealed, the sword does what all swords are meant to do—it cuts, with the effects of a 9th rank @UUID[Compendium.pf2e.spells-srd.dKWc83KKiXoIJkhp]{Beheading Buzz Saw} (@Damage[7d10[slashing]] + @Damage[6d6[bleed]]) (@Check[reflex|dc:41|traits:metal] save) and this item permanently dissipates into mist.</p>"
+		},
+		"rules": [],
+		"slug": "scimitar",
+		"_migration": {
+			"version": 0.959,
+			"lastMigration": null,
+			"previous": null
+		},
+		"traits": {
+			"otherTags": [],
+			"value": [
+				"forceful",
+				"sweep"
+			],
+			"rarity": "unique"
+		},
+		"publication": {
+			"title": "Pathfinder Player Core",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"level": {
+			"value": 19
+		},
+		"quantity": 1,
+		"baseItem": "scimitar",
+		"bulk": {
+			"value": 1
+		},
+		"hp": {
+			"value": 0,
+			"max": 0
+		},
+		"hardness": 0,
+		"price": {
+			"value": {
+				"gp": 1
+			}
+		},
+		"equipped": {
+			"carryType": "worn",
+			"invested": null,
+			"handsHeld": 0
+		},
+		"containerId": null,
+		"size": "med",
+		"material": {
+			"type": null,
+			"grade": null
+		},
+		"identification": {
+			"status": "identified",
+			"unidentified": {
+				"name": "Unusual Scimitar",
+				"img": "icons/weapons/swords/scimitar-worn-blue.webp",
+				"data": {
+					"description": {
+						"value": ""
+					}
+				}
+			}
+		},
+		"usage": {
+			"value": "held-in-one-hand"
+		},
+		"category": "martial",
+		"group": "sword",
+		"bonus": {
+			"value": 0
+		},
+		"damage": {
+			"dice": 1,
+			"die": "d6",
+			"damageType": "slashing",
+			"persistent": null
+		},
+		"splashDamage": {
+			"value": 0
+		},
+		"range": null,
+		"expend": null,
+		"ammo": null,
+		"reload": {
+			"value": null
+		},
+		"grade": null,
+		"runes": {
+			"potency": 3,
+			"striking": 3,
+			"property": []
+		},
+		"specific": {
+			"material": {
+				"type": null,
+				"grade": null
+			},
+			"runes": {
+				"potency": 3,
+				"striking": 3,
+				"property": []
+			}
+		},
+		"subitems": [],
+		"bonusDamage": {
+			"value": 0
+		}
+	},
+	"type": "weapon",
+	"_stats": {
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "8.5.0",
+		"compendiumSource": "Compendium.pf2e.equipment-srd.Item.grmaV4GdoGD7sKbn",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"folder": "nvGQPcu3xqvMofTe",
+	"flags": {},
+	"ownership": {
+		"default": 0
+	},
+	"sort": 150000
+}

@@ -1,0 +1,1841 @@
+{
+	"_id": "f0nafAQA1tSXLqwL",
+	"folder": "PpkuZIyMYhm4eOuk",
+	"img": "modules/pf2e-tokens-characters/assets/portraits/tian-zenwyn.webp",
+	"items": [
+		{
+			"_id": "oqDI13hy8hIqZVpR",
+			"img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+			"name": "Focus Spells",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"ability": {
+					"value": "cha"
+				},
+				"spelldc": {
+					"value": 32,
+					"dc": 40,
+					"mod": 0
+				},
+				"tradition": {
+					"value": "arcane"
+				},
+				"prepared": {
+					"value": "focus"
+				},
+				"showSlotlessLevels": {
+					"value": true
+				},
+				"proficiency": {
+					"value": 0
+				},
+				"slots": {
+					"slot0": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot1": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot2": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot3": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot4": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot5": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot6": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot7": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot8": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot9": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot10": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot11": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					}
+				},
+				"autoHeightenLevel": {
+					"value": null
+				}
+			},
+			"type": "spellcastingEntry",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "8TQL0QUF6tfmQP7b",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.oo7YcRC2gcez81PV",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/ki-blast.webp",
+			"name": "Qi Blast",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You unleash your qi as a powerful blast that deals 2d6 force damage. If you use 2 actions to cast <em>qi blast</em>, increase the size of the cone to 30 feet and the damage to 3d6. If you use 3 actions to cast <em>qi blast</em>, increase the cone to 60 feet and the damage to 4d6. Each creature in the area must attempt a Fortitude save.</p><hr><p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is pushed 5 feet.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is pushed 10 feet.</p><hr><p><strong>Heightened (+1)</strong> The damage increases by 1d6, or by 2d6 if you use 2 or 3 actions.</p>"
+				},
+				"rules": [
+					{
+						"key": "RollOption",
+						"label": "PF2E.SpecificRule.Monk.QiSpells.HeavensThunder.RollOptionLabel",
+						"option": "heavens-thunder",
+						"placement": "spellcasting",
+						"predicate": [
+							"self:effect:heavens-thunder"
+						],
+						"suboptions": [
+							{
+								"label": "PF2E.TraitElectricity",
+								"value": "electricity"
+							},
+							{
+								"label": "PF2E.TraitSonic",
+								"value": "sonic"
+							}
+						],
+						"toggleable": true
+					},
+					{
+						"key": "DamageAlteration",
+						"mode": "override",
+						"predicate": [
+							"heavens-thunder"
+						],
+						"property": "damage-type",
+						"selectors": [
+							"{item|id}-damage"
+						],
+						"value": "{item|flags.system.rulesSelections.heavensThunder}"
+					},
+					{
+						"itemId": "{item|id}",
+						"key": "ItemAlteration",
+						"mode": "remove",
+						"predicate": [
+							"heavens-thunder"
+						],
+						"property": "traits",
+						"value": "force"
+					},
+					{
+						"itemId": "{item|id}",
+						"key": "ItemAlteration",
+						"mode": "add",
+						"predicate": [
+							"heavens-thunder"
+						],
+						"property": "traits",
+						"value": "{item|flags.system.rulesSelections.heavensThunder}"
+					}
+				],
+				"slug": "qi-blast",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"force",
+						"manipulate",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 3
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": {
+					"type": "cone",
+					"value": 15
+				},
+				"time": {
+					"value": "1 to 3"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "2d6",
+						"kinds": [
+							"damage"
+						],
+						"materials": [],
+						"type": "force"
+					}
+				},
+				"defense": {
+					"save": {
+						"basic": false,
+						"statistic": "fortitude"
+					}
+				},
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "oqDI13hy8hIqZVpR"
+				},
+				"counteraction": false,
+				"heightening": {
+					"area": 0,
+					"damage": {
+						"0": "1d6"
+					},
+					"interval": 1,
+					"type": "interval"
+				},
+				"overlays": {
+					"6wf5l1kiwcdtnx6s": {
+						"overlayType": "override",
+						"sort": 3,
+						"system": {
+							"area": {
+								"value": 60
+							},
+							"damage": {
+								"0": {
+									"category": null,
+									"formula": "4d6"
+								}
+							},
+							"heightening": {
+								"damage": {
+									"0": "2d6"
+								}
+							},
+							"target": {
+								"value": "All creatures"
+							},
+							"time": {
+								"value": "3"
+							}
+						}
+					},
+					"ah0wlzxg5wb7q038": {
+						"overlayType": "override",
+						"sort": 2,
+						"system": {
+							"area": {
+								"value": 30
+							},
+							"damage": {
+								"0": {
+									"category": null,
+									"formula": "3d6"
+								}
+							},
+							"heightening": {
+								"damage": {
+									"0": "2d6"
+								}
+							},
+							"target": {
+								"value": "All creatures"
+							},
+							"time": {
+								"value": "2"
+							}
+						}
+					},
+					"weox8ze9kgj6nz0h": {
+						"_id": "weox8ze9kgj6nz0h",
+						"overlayType": "override",
+						"sort": 1,
+						"system": {
+							"target": {
+								"value": "All creatures"
+							},
+							"time": {
+								"value": "1"
+							}
+						}
+					}
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ULI4z0coBNlQWb0o",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.qJZZdYBdNaWRJFER",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/wholeness-of-body.webp",
+			"name": "Harmonize Self",
+			"sort": 300000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You heal yourself in one of the following ways, chosen by you when you cast the spell.</p>\n<ul>\n<li>You regain 8 Hit Points.</li>\n<li>You attempt to cure one poison or disease afflicting you; attempt to counteract the affliction.</li>\n</ul>\n<hr>\n<p><strong>Heightened (+1)</strong> If you choose to regain Hit Points, the Hit Points regained increase by 8.</p>"
+				},
+				"rules": [],
+				"slug": "harmonize-self",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"healing",
+						"monk",
+						"vitality"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 2
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "8",
+						"kinds": [
+							"healing"
+						],
+						"materials": [],
+						"type": "vitality"
+					}
+				},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "oqDI13hy8hIqZVpR"
+				},
+				"counteraction": true,
+				"heightening": {
+					"damage": {
+						"0": "8"
+					},
+					"interval": 1,
+					"type": "interval"
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "GidyGPn3Q6sLSSqr",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.ps0nmhclT6aIXgd8",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/ki-rush.webp",
+			"name": "Qi Rush",
+			"sort": 400000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>Accelerated by your qi, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order).</p>\n<p>You gain the @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} condition during this movement and until the start of your next turn.</p>"
+				},
+				"rules": [],
+				"slug": "qi-rush",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "oqDI13hy8hIqZVpR"
+				},
+				"counteraction": false,
+				"ritual": null
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "d90Hn32Yfy3iHnEY",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.ZL8NTvB22NeEWhVG",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/spells/ki-strike.webp",
+			"name": "Inner Upheaval",
+			"sort": 500000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You focus your qi into devastating magical attacks. Make an unarmed Strike or @UUID[Compendium.pf2e.classfeatures.Item.NLHHHiAcdnZ5ohc2]{Flurry of Blows} (this doesn't change the limit on using only one flourish per turn). You gain a +1 status bonus to your attack rolls with the Strikes, and the Strikes deal 1d6 extra damage. This damage can be any of the following types of your choice, chosen each time you Strike: force, spirit, vitality, or void.</p>\n<p>@UUID[Compendium.pf2e.spell-effects.Item.8olfnTmWh0GGPDqX]{Spell Effect: Inner Upheaval}</p><hr><p><strong>Heightened (+4)</strong> The extra damage increases by 1d6</p>"
+				},
+				"rules": [],
+				"slug": "inner-upheaval",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"focus",
+						"monk"
+					],
+					"rarity": "uncommon",
+					"traditions": []
+				},
+				"publication": {
+					"title": "Pathfinder Player Core 2",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 1
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": ""
+				},
+				"area": null,
+				"time": {
+					"value": "1"
+				},
+				"duration": {
+					"value": "",
+					"sustained": false
+				},
+				"damage": {
+					"0": {
+						"applyMod": false,
+						"category": null,
+						"formula": "1d6",
+						"kinds": [
+							"damage"
+						],
+						"materials": [],
+						"type": "untyped"
+					}
+				},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "oqDI13hy8hIqZVpR"
+				},
+				"counteraction": false,
+				"heightening": {
+					"damage": {
+						"0": "1d6"
+					},
+					"interval": 4,
+					"type": "interval"
+				}
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "HBJIWp86T9JHOxlo",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.equipment-srd.Item.KgKSX95uVSg8iBBA",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "systems/pf2e/icons/equipment/weapons/khakkhara.webp",
+			"name": "Khakkhara",
+			"sort": 600000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>This staff is topped by a pointed metal circle from which hang several smaller rings that jingle and clang noisily as the staff is moved, allowing you to announce your presence and scare off wild animals as you walk.</p>"
+				},
+				"rules": [],
+				"slug": "khakkhara",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"shove",
+						"two-hand-d10",
+						"versatile-p"
+					],
+					"rarity": "uncommon"
+				},
+				"publication": {
+					"title": "Pathfinder Player Core",
+					"authors": "",
+					"license": "ORC",
+					"remaster": true
+				},
+				"level": {
+					"value": 0
+				},
+				"quantity": 1,
+				"baseItem": "khakkhara",
+				"bulk": {
+					"value": 1
+				},
+				"hp": {
+					"value": 0,
+					"max": 0
+				},
+				"hardness": 0,
+				"price": {
+					"value": {
+						"gp": 2
+					}
+				},
+				"equipped": {
+					"carryType": "worn",
+					"invested": null,
+					"handsHeld": 0
+				},
+				"containerId": null,
+				"size": "med",
+				"material": {
+					"type": null,
+					"grade": null
+				},
+				"identification": {
+					"status": "identified",
+					"unidentified": {
+						"name": "",
+						"img": "",
+						"data": {
+							"description": {
+								"value": ""
+							}
+						}
+					}
+				},
+				"usage": {
+					"value": "held-in-one-hand"
+				},
+				"category": "martial",
+				"group": "club",
+				"bonus": {
+					"value": 0
+				},
+				"damage": {
+					"dice": 1,
+					"die": "d6",
+					"damageType": "bludgeoning",
+					"persistent": null
+				},
+				"splashDamage": {
+					"value": 0
+				},
+				"range": null,
+				"expend": null,
+				"ammo": null,
+				"reload": {
+					"value": null
+				},
+				"grade": null,
+				"runes": {
+					"potency": 3,
+					"striking": 3,
+					"property": []
+				},
+				"specific": null,
+				"subitems": [],
+				"bonusDamage": {
+					"value": 0
+				}
+			},
+			"type": "weapon",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Txyod4ZUNndlswmq",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Sal Blossom",
+			"sort": 700000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 36
+				},
+				"damageRolls": {
+					"5jmlog5wt3uuz05fiaux": {
+						"damage": "4d10+17",
+						"damageType": "void",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"deadly-d10",
+						"finesse",
+						"magical",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "qHYkseAWEoINO6gC",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Fist",
+			"sort": 800000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 36
+				},
+				"damageRolls": {
+					"dkqq4oz8kxbsnpldhdzv": {
+						"damage": "4d8+15",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"agile",
+						"finesse",
+						"magical",
+						"nonlethal",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "gOmkhosbUCsVEEhy",
+			"flags": {
+				"pf2e": {
+					"linkedWeapon": "HBJIWp86T9JHOxlo"
+				}
+			},
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Khakkhara",
+			"sort": 900000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 34
+				},
+				"damageRolls": {
+					"l8obisxc9li0q2gsj76l": {
+						"damage": "4d8+15",
+						"damageType": "bludgeoning",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [
+					{
+						"domain": "damage",
+						"key": "RollOption",
+						"label": "PF2E.SpecificRule.TwoHanded.Khakkhara",
+						"option": "two-handed",
+						"toggleable": true
+					},
+					{
+						"key": "DamageAlteration",
+						"mode": "upgrade",
+						"predicate": [
+							"two-handed"
+						],
+						"property": "dice-faces",
+						"selectors": [
+							"{item|_id}-damage"
+						],
+						"slug": "base",
+						"value": 10
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [
+						"magical",
+						"shove",
+						"two-hand-d10",
+						"versatile-p"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "DUzJlXmog6FErzPF",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Temple Bell",
+			"sort": 1000000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 36
+				},
+				"damageRolls": {
+					"das0wgl84m8vr76wamrn": {
+						"damage": "4d10+11",
+						"damageType": "sonic",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": {
+					"increment": 60,
+					"max": null
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"sonic"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "KxBL8fjnUIUlbkFU",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Absorb Worldly Influence",
+			"sort": 1100000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p><strong>Trigger</strong> Abbot Tsujon is within the emanation of a magical area effect as it's being created</p><p><strong>Requirements</strong> Abbot Tsujon is wielding a khakkhara</p><hr><p><strong>Effect</strong> Abbot Tsujon uses her khakkhara as a medium to absorb the incoming area effect into its central ring. She attempts to counteract the triggering effect [[/r 1d20+34 #Counteract]]. For 1 round after Absorbing Worldly Influence, a glowing orb floats within the khakkhara's central ring, allowing Tsujon to Release Worldly Passions</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"divine"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "5MmO9sdIuhc0PNeQ",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Crying Bell Stance",
+			"sort": 1200000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>Abbot Tsujon cups one hand and poses the other to strike it, like the Rai Sho Monastery's central bell. In this stance, they can make temple bell Strikes (see Strikes). While in this stance, she gains a +2 status bonus to AC against ranged attacks.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "RollOption",
+						"label": "Crying Bell Stance (vs. ranged attacks)",
+						"option": "crying-bell",
+						"toggleable": true
+					},
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"crying-bell"
+						],
+						"selector": "ac",
+						"type": "circumstance",
+						"value": 2
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [
+						"stance"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "c6ryL1TfwqlZnORG",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Falling Sal Stance",
+			"sort": 1300000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "interaction",
+				"description": {
+					"value": "<p>Abbot Tsujon joins their palms together in the shape of a sal flower, evoking the truth that all things eventually decay. In this stance, they can make sal blossom Strikes (see Strikes) and are @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened}, and can use the extra action only to cast Harmonize Self.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"stance"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Mj4l2nnjlPjOiOKH",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "+1 status to all saves vs. death effects",
+			"sort": 1400000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"death"
+						],
+						"selector": "saving-throw",
+						"type": "status",
+						"value": 1
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "loKLGM3cWGVj9Jq0",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "All This Has Happened Before",
+			"sort": 1500000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> Abbot Tsujon is about to roll initiative</p>\n<hr>\n<p><strong>Effect</strong> Abbot Tsujon experiences a flash of recognition from a previous existence, gaining a +4 circumstance bonus to the triggering roll.</p>\n<p>If this causes Abbot Tsujon to be the first creature to act, they also become @UUID[Compendium.pf2e.conditionitems.Item.nlCjDvLMf2EkV2dl]{Quickened} for 1 round, but they can use the extra action only to Recall Knowledge or Step.</p>",
+					"gm": ""
+				},
+				"frequency": {
+					"max": 1,
+					"per": "day",
+					"value": 1
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "RollOption",
+						"option": "happened-before",
+						"toggleable": true
+					},
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							"happened-before"
+						],
+						"selector": "initiative",
+						"type": "circumstance",
+						"value": 4
+					},
+					{
+						"key": "Note",
+						"selector": [
+							"initiative"
+						],
+						"title": "{item|name}",
+						"text": "{item|description}",
+						"visibility": "gm"
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [
+						"occult"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "zMwgYGhdMY4kqyCB",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "All This Will Happen Again",
+			"sort": 1600000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> Abbot Tsujon fails or critically fails a Will save against an emotion effect</p>\n<hr>\n<p><strong>Effect</strong> Even in the face of overwhelming tribulation, Abbot Tsujon finds solace in the notion that all things are merely part of a never-ending cycle. They reroll the saving throw with a +1 status bonus; they must use the second result.</p>",
+					"gm": ""
+				},
+				"frequency": {
+					"max": 1,
+					"per": "day",
+					"value": 1
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"emotion",
+						"fortune",
+						"mental"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"deathNote": false
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "g2tnOSA68AdQ1IwB",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Release Worldly Passions",
+			"sort": 1700000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Requirements</strong> Abbot Tsujon's khakkhara holds a glowing orb from Absorb Worldly Influence</p>\n<hr>\n<p><strong>Effect</strong> Abbot Tsujon strikes her prayer staff once upon the ground, releasing the energy she captured in it along with the jingling of its rings. She blasts a wave of force in a 30- foot emanation, dealing @Damage[2d6[force]] damage per level of the ability she counteracted (@Check[reflex|dc:40|basic] save). If the ability she counteracted usually deals energy damage, she can choose to deal this type of damage instead (for instance, if she used Absorb Worldly Influence to counteract a fireball, she could deal either fire or force damage).</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"divine",
+						"force",
+						"manipulate"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "fO1CGqdX7LmdEhYC",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Stunning Flurry",
+			"sort": 1800000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Frequency</strong> once per round</p><hr><p><strong>Effect</strong> Abbot Tsujon makes two Strikes, each of which must be an unarmed Strike or crying temple bell Strike. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. If either Strike hits and deals damage, the target must succeed at a @Check[fortitude|dc:39|options:inflicts:stunned|traits:incapacitation] save or be @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} (or @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 3} on a critical failure); this save has the incapacitation trait.</p>",
+					"gm": ""
+				},
+				"frequency": {
+					"max": 1,
+					"per": "round",
+					"value": 1
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Abbot Tsujon",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 350,
+				"temp": 0,
+				"max": 350,
+				"details": ""
+			},
+			"ac": {
+				"value": 45,
+				"details": ""
+			},
+			"allSaves": {
+				"value": "+1 status to all saves vs. death effects"
+			},
+			"speed": {
+				"value": 40,
+				"otherSpeeds": [],
+				"details": ""
+			}
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"empyrean",
+					"samsaran",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 18
+			},
+			"blurb": "Female samsaran abbott",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #168: King of the Mountain",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {
+			"focus": {
+				"max": 1,
+				"value": 1
+			}
+		},
+		"_migration": {
+			"version": 0.959,
+			"previous": null
+		},
+		"abilities": {
+			"str": {
+				"mod": 9
+			},
+			"dex": {
+				"mod": 10
+			},
+			"con": {
+				"mod": 6
+			},
+			"int": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 6
+			},
+			"cha": {
+				"mod": 5
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 33,
+			"senses": [
+				{
+					"type": "low-light-vision"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 33,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 36,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 34,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"acrobatics": {
+				"base": 38
+			},
+			"athletics": {
+				"base": 35
+			},
+			"deception": {
+				"base": 33,
+				"special": [
+					{
+						"base": 37,
+						"label": "to Impersonate a past self",
+						"predicate": [
+							"action:impersonate:past-self"
+						]
+					}
+				]
+			},
+			"diplomacy": {
+				"base": 31
+			},
+			"occultism": {
+				"base": 33
+			},
+			"religion": {
+				"base": 34
+			}
+		},
+		"traits": {
+			"value": [
+				"humanoid",
+				"lawful",
+				"samsaran"
+			],
+			"rarity": "unique",
+			"size": {
+				"value": "med"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "8.5.0",
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.f0nafAQA1tSXLqwL",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Abbot Tsujon",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 1,
+		"height": 1,
+		"depth": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-characters/assets/tokens/tian-zenwyn.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1,
+			"scaleY": 1,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1,
+				"texture": "modules/pf2e-tokens-characters/assets/subjects/tian-zenwyn.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false
+	},
+	"flags": {},
+	"ownership": {
+		"default": 0
+	},
+	"sort": 400000
+}

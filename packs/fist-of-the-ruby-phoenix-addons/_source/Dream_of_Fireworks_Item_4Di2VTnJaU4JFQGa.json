@@ -1,0 +1,139 @@
+{
+	"_id": "4Di2VTnJaU4JFQGa",
+	"img": "icons/magic/fire/explosion-fireball-small-orange.webp",
+	"name": "Dream of Fireworks",
+	"system": {
+		"description": {
+			"gm": "",
+			"value": "<p>This parasol has magnicent illustrations on it.</p><hr><p><strong>Activate—Dream of Fireworks</strong> <span class=\"action-glyph\">1</span> (interact)</p><p><strong>Frequency</strong> once</p><hr><p><strong>Effect</strong> When unsealed, Dream of Fireworks grants the user resistance 20 to fire damage for 1 minute and this item permanently dissipates into mist.</p><p>@UUID[Item.8w9PtQszUrdPQaXr]{Effect: Dream of Fireworks}</p>"
+		},
+		"rules": [],
+		"slug": "senseis-parasol",
+		"_migration": {
+			"version": 0.959,
+			"lastMigration": null,
+			"previous": null
+		},
+		"traits": {
+			"otherTags": [],
+			"value": [
+				"magical",
+				"monk",
+				"parry",
+				"reach",
+				"trip"
+			],
+			"rarity": "unique"
+		},
+		"publication": {
+			"title": "Pathfinder Season of Ghosts Hardcover Compilation",
+			"authors": "",
+			"license": "ORC",
+			"remaster": true
+		},
+		"level": {
+			"value": 19
+		},
+		"quantity": 1,
+		"baseItem": "bo-staff",
+		"bulk": {
+			"value": 2
+		},
+		"hp": {
+			"value": 0,
+			"max": 0
+		},
+		"hardness": 0,
+		"price": {
+			"value": {
+				"gp": 1400
+			}
+		},
+		"equipped": {
+			"carryType": "worn",
+			"invested": null,
+			"handsHeld": 0
+		},
+		"containerId": null,
+		"size": "med",
+		"material": {
+			"type": null,
+			"grade": null
+		},
+		"identification": {
+			"status": "identified",
+			"unidentified": {
+				"name": "Unusual Bo Staff",
+				"img": "icons/weapons/staves/staff-simple-gold.webp",
+				"data": {
+					"description": {
+						"value": ""
+					}
+				}
+			}
+		},
+		"usage": {
+			"value": "held-in-two-hands"
+		},
+		"category": "martial",
+		"group": "club",
+		"bonus": {
+			"value": 0
+		},
+		"damage": {
+			"dice": 1,
+			"die": "d8",
+			"damageType": "bludgeoning",
+			"persistent": null
+		},
+		"splashDamage": {
+			"value": 0
+		},
+		"range": null,
+		"expend": null,
+		"ammo": null,
+		"reload": {
+			"value": null
+		},
+		"grade": null,
+		"runes": {
+			"potency": 3,
+			"striking": 3,
+			"property": []
+		},
+		"specific": {
+			"material": {
+				"type": null,
+				"grade": null
+			},
+			"runes": {
+				"potency": 0,
+				"striking": 0,
+				"property": []
+			}
+		},
+		"subitems": [],
+		"bonusDamage": {
+			"value": 0
+		}
+	},
+	"type": "weapon",
+	"_stats": {
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "8.5.0",
+		"compendiumSource": "Compendium.pf2e.equipment-srd.Item.4Di2VTnJaU4JFQGa",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"folder": "nvGQPcu3xqvMofTe",
+	"flags": {},
+	"ownership": {
+		"default": 0
+	},
+	"sort": 200000
+}

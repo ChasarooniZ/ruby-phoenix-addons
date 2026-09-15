@@ -1,0 +1,72 @@
+{
+	"folder": "nvGQPcu3xqvMofTe",
+	"name": "Effect: Dream of Fireworks",
+	"type": "effect",
+	"effects": [],
+	"system": {
+		"_migration": {
+			"version": 0.959,
+			"previous": null
+		},
+		"description": {
+			"value": "<p>Granted by @UUID[Item.4Di2VTnJaU4JFQGa]{Dream of Fireworks}</p><p>Grants resistance 20 to fire damage for 1 minute.</p>",
+			"gm": ""
+		},
+		"publication": {
+			"title": "",
+			"authors": "",
+			"license": "OGL",
+			"remaster": false
+		},
+		"rules": [
+			{
+				"key": "Resistance",
+				"type": "fire",
+				"value": 20
+			}
+		],
+		"slug": "effect-dream-of-fireworks",
+		"traits": {
+			"otherTags": [],
+			"value": []
+		},
+		"level": {
+			"value": 1
+		},
+		"duration": {
+			"value": 1,
+			"unit": "minutes",
+			"expiry": "turn-start",
+			"sustained": false
+		},
+		"tokenIcon": {
+			"show": true
+		},
+		"unidentified": false,
+		"start": {
+			"value": 0,
+			"initiative": null
+		},
+		"badge": null,
+		"fromSpell": false,
+		"context": null
+	},
+	"_id": "8w9PtQszUrdPQaXr",
+	"img": "icons/magic/fire/explosion-fireball-small-orange.webp",
+	"sort": 0,
+	"ownership": {
+		"default": 0
+	},
+	"flags": {},
+	"_stats": {
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "8.5.0",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null
+	}
+}

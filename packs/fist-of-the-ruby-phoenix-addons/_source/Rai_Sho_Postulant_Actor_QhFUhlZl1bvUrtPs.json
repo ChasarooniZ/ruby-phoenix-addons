@@ -1,0 +1,1028 @@
+{
+	"_id": "QhFUhlZl1bvUrtPs",
+	"folder": "PpkuZIyMYhm4eOuk",
+	"img": "modules/pf2e-tokens-bestiaries/portraits/bestial/mammalian/yeti.webp",
+	"items": [
+		{
+			"_id": "IyfIBXs0GlLZH2wg",
+			"img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+			"name": "Innate Divine Spells",
+			"sort": 100000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": ""
+				},
+				"rules": [],
+				"slug": null,
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": []
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"ability": {
+					"value": "cha"
+				},
+				"spelldc": {
+					"value": 29,
+					"dc": 37,
+					"mod": 0
+				},
+				"tradition": {
+					"value": "divine"
+				},
+				"prepared": {
+					"value": "innate"
+				},
+				"showSlotlessLevels": {
+					"value": true
+				},
+				"proficiency": {
+					"value": 0
+				},
+				"slots": {
+					"slot0": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot1": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot2": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot3": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot4": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot5": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot6": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot7": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot8": {
+						"prepared": [],
+						"value": 1,
+						"max": 1
+					},
+					"slot9": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot10": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					},
+					"slot11": {
+						"prepared": [],
+						"value": 0,
+						"max": 0
+					}
+				},
+				"autoHeightenLevel": {
+					"value": null
+				}
+			},
+			"type": "spellcastingEntry",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Od2nKryvmTpshAaO",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": "Compendium.pf2e.spells-srd.Item.9XHmC2JgTUIQ1CCm",
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"img": "icons/magic/air/fog-gas-smoke-dense-white.webp",
+			"name": "Obscuring Mist (manifests snowfall instead of mist)",
+			"sort": 200000,
+			"system": {
+				"description": {
+					"gm": "",
+					"value": "<p>You call forth a cloud of mist. All creatures within the mist become @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed}, and all creatures outside the mist become Concealed to creatures within it. You can Dismiss the cloud.</p>"
+				},
+				"rules": [],
+				"slug": "obscuring-mist",
+				"_migration": {
+					"version": 0.959,
+					"lastMigration": null,
+					"previous": null
+				},
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"concentrate",
+						"manipulate",
+						"water"
+					],
+					"rarity": "common",
+					"traditions": [
+						"arcane",
+						"primal"
+					]
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"level": {
+					"value": 8
+				},
+				"requirements": "",
+				"target": {
+					"value": ""
+				},
+				"range": {
+					"value": "120 feet"
+				},
+				"area": {
+					"type": "burst",
+					"value": 20
+				},
+				"time": {
+					"value": "3"
+				},
+				"duration": {
+					"value": "1 minute",
+					"sustained": false
+				},
+				"damage": {},
+				"defense": null,
+				"cost": {
+					"value": ""
+				},
+				"location": {
+					"value": "IyfIBXs0GlLZH2wg"
+				},
+				"counteraction": false
+			},
+			"type": "spell",
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "l8YHnv7VcpPHvPDw",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Claw",
+			"sort": 300000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 33
+				},
+				"damageRolls": {
+					"a6eupoosh593wvbx7ryv": {
+						"damage": "3d12+18",
+						"damageType": "slashing",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": "claw",
+				"traits": {
+					"value": [
+						"magical",
+						"unarmed"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "aOvy9ly8vsvTiv5B",
+			"img": "systems/pf2e/icons/default-icons/melee.svg",
+			"name": "Icicle",
+			"sort": 400000,
+			"system": {
+				"attackEffects": {
+					"value": []
+				},
+				"bonus": {
+					"value": 31
+				},
+				"damageRolls": {
+					"4o8nt7qyeevnt8p645je": {
+						"damage": "2d10+15",
+						"damageType": "piercing",
+						"category": null
+					},
+					"c07rr6cideue72acso63": {
+						"damage": "1d10",
+						"damageType": "cold",
+						"category": null
+					}
+				},
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"range": null,
+				"rules": [],
+				"slug": "icicle",
+				"traits": {
+					"value": [
+						"cold",
+						"magical",
+						"thrown-20"
+					],
+					"otherTags": [],
+					"config": {}
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				},
+				"action": "strike",
+				"area": null,
+				"subjectToMAP": true
+			},
+			"type": "melee",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Cd2PHIVmnMWwpcKJ",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "+4 status to all saves vs. fear and dreams",
+			"sort": 500000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"predicate": [
+							{
+								"or": [
+									"fear",
+									"dreams"
+								]
+							}
+						],
+						"selector": "saving-throw",
+						"type": "status",
+						"value": 4
+					}
+				],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "19tf80NzWqYqHFGO",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Nightmare Guardian",
+			"sort": 600000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>Rai Sho Postulants gain a +4 status bonus to saves against fear and against spells and abilities that affect dreams. A Rai Sho Postulant that falls prey to a supernatural nightmare loses this ability and becomes permanently enraged, gaining a +1 status bonus to attack and damage status bonus to attack and damage rolls and a -1 status penalty to AC.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "ITxtfBFpkBuYfXOU",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Nine Seals Spellcasting",
+			"sort": 700000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>The Rai Sho postulants have learned a technique that allows them to cast their ki spells more effectively by way of specialized hand postures. They replace the normal somatic and verbal components of their spells with nine seals components; these require that the caster have a hand free, but don't add any traits to the Cast a Spell action (preventing the Rai Sho postulants from triggering certain reactions, such as Attack of Opportunity, when they Cast a Spell).</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "0IGVgg8sJ8sMu1Gn",
+			"img": "systems/pf2e/icons/actions/Passive.webp",
+			"name": "Snowblind",
+			"sort": 800000,
+			"system": {
+				"actionType": {
+					"value": "passive"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p>When Hiding, the yeti is @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} by any snowfall, even if it's not thick enough to make other creatures concealed.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "GEp2W3fYmMvUTocK",
+			"img": "systems/pf2e/icons/actions/Reaction.webp",
+			"name": "Vanish",
+			"sort": 900000,
+			"system": {
+				"actionType": {
+					"value": "reaction"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "defensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> The Rai Sho Postulant is hidden or undetected while not in combat, and a creature would observe it.</p><hr><p><strong>Effect</strong> The Rai Sho Postulant Strides or Climbs up to half its Speed to a location where it can Hide, then Hides. If its new Stealth check result meets or exceeds the triggering creature's Perception DC, the yeti remains hidden.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "3pBNAzEJqr1DhnDz",
+			"img": "systems/pf2e/icons/actions/OneAction.webp",
+			"name": "Frozen Flurry",
+			"sort": 1000000,
+			"system": {
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Frequency</strong> once per round</p><hr><p><strong>Effect</strong> The Rai Sho Postulant makes two Strikes, which can be any combination of claw or icicle Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. If either Strike hits and deals damage, the target must succeed at a @Check[fortitude|dc:37|traits:incapacitation] save or be @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 1} (or @UUID[Compendium.pf2e.conditionitems.Item.dfCMdR4wnpbYNTix]{Stunned 3} on a critical failure); this save has the incapacitation trait.</p>",
+					"gm": ""
+				},
+				"frequency": {
+					"max": 1,
+					"per": "round",
+					"value": 1
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"cold"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "Li90l3LLsFnLNHtw",
+			"img": "systems/pf2e/icons/actions/FreeAction.webp",
+			"name": "Grizzly Arrival",
+			"sort": 1100000,
+			"system": {
+				"actionType": {
+					"value": "free"
+				},
+				"actions": {
+					"value": null
+				},
+				"category": "offensive",
+				"description": {
+					"value": "<p><strong>Trigger</strong> The Rai Sho Postulant hits a creature in the first round of combat and the Rai Sho Postulant was @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC]{Hidden} from that creature at the start of combat.</p><hr><p><strong>Effect</strong> Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a @Check[will|dc:37] save. On a failure, the creature is @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 2}; on a critical failure, it's @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL]{Frightened 4}.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"license": "OGL",
+					"remaster": false,
+					"title": "",
+					"authors": ""
+				},
+				"rules": [],
+				"slug": null,
+				"traits": {
+					"value": [
+						"emotion",
+						"fear",
+						"mental"
+					],
+					"otherTags": []
+				},
+				"_migration": {
+					"version": 0.959,
+					"previous": null
+				}
+			},
+			"type": "action",
+			"_stats": {
+				"coreVersion": "14.367",
+				"systemId": "pf2e",
+				"systemVersion": "8.5.0",
+				"compendiumSource": null,
+				"createdTime": null,
+				"modifiedTime": null,
+				"lastModifiedBy": null,
+				"duplicateSource": null,
+				"exportSource": null
+			},
+			"effects": [],
+			"folder": null,
+			"flags": {},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"name": "Rai Sho Postulant",
+	"system": {
+		"attributes": {
+			"hp": {
+				"value": 360,
+				"temp": 0,
+				"max": 360,
+				"details": ""
+			},
+			"ac": {
+				"value": 39,
+				"details": ""
+			},
+			"allSaves": {
+				"value": "+4 status to all saves vs. fear and dreams"
+			},
+			"speed": {
+				"value": 60,
+				"otherSpeeds": [
+					{
+						"type": "climb",
+						"value": 20
+					}
+				],
+				"details": ""
+			},
+			"immunities": [
+				{
+					"type": "cold"
+				}
+			],
+			"weaknesses": [
+				{
+					"type": "fire",
+					"value": 10
+				}
+			]
+		},
+		"initiative": {
+			"statistic": "perception"
+		},
+		"details": {
+			"languages": {
+				"value": [
+					"aklo",
+					"taldane",
+					"tien"
+				],
+				"details": ""
+			},
+			"level": {
+				"value": 16
+			},
+			"blurb": "Yeti martial artist",
+			"publicNotes": "",
+			"privateNotes": "",
+			"publication": {
+				"title": "Pathfinder #168: King of the Mountain",
+				"authors": "",
+				"license": "OGL",
+				"remaster": false
+			}
+		},
+		"resources": {
+			"focus": {
+				"max": 1,
+				"value": 1
+			}
+		},
+		"_migration": {
+			"version": 0.959,
+			"previous": null
+		},
+		"abilities": {
+			"str": {
+				"mod": 9
+			},
+			"dex": {
+				"mod": 6
+			},
+			"con": {
+				"mod": 6
+			},
+			"int": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 6
+			},
+			"cha": {
+				"mod": 5
+			}
+		},
+		"perception": {
+			"details": "",
+			"mod": 30,
+			"senses": [
+				{
+					"type": "darkvision"
+				},
+				{
+					"acuity": "imprecise",
+					"range": 30,
+					"type": "scent"
+				}
+			],
+			"vision": true
+		},
+		"saves": {
+			"fortitude": {
+				"value": 30,
+				"saveDetail": ""
+			},
+			"reflex": {
+				"value": 28,
+				"saveDetail": ""
+			},
+			"will": {
+				"value": 28,
+				"saveDetail": ""
+			}
+		},
+		"skills": {
+			"athletics": {
+				"base": 33
+			},
+			"stealth": {
+				"base": 28,
+				"special": [
+					{
+						"base": 34,
+						"label": "in snow",
+						"predicate": [
+							"terrain:snow"
+						]
+					}
+				]
+			},
+			"survival": {
+				"base": 27
+			}
+		},
+		"traits": {
+			"value": [
+				"humanoid"
+			],
+			"rarity": "rare",
+			"size": {
+				"value": "lg"
+			}
+		}
+	},
+	"type": "npc",
+	"_stats": {
+		"coreVersion": "14.367",
+		"systemId": "pf2e",
+		"systemVersion": "8.5.0",
+		"compendiumSource": "Compendium.pf2e.fists-of-the-ruby-phoenix-bestiary.Actor.QhFUhlZl1bvUrtPs",
+		"createdTime": null,
+		"modifiedTime": null,
+		"lastModifiedBy": null,
+		"duplicateSource": null,
+		"exportSource": null
+	},
+	"effects": [],
+	"prototypeToken": {
+		"name": "Rai Sho Postulant",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 2,
+		"height": 2,
+		"depth": 1,
+		"texture": {
+			"src": "modules/pf2e-tokens-bestiaries/tokens/bestial/mammalian/yeti.webp",
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"scaleX": 1.5,
+			"scaleY": 1.5,
+			"tint": "#ffffff",
+			"alphaThreshold": 0.75
+		},
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"disposition": -1,
+		"displayBars": 20,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"light": {
+			"negative": false,
+			"priority": 0,
+			"alpha": 0.5,
+			"angle": 360,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"attenuation": 0.5,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"type": null,
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"sight": {
+			"enabled": false,
+			"range": 0,
+			"angle": 360,
+			"visionMode": "basic",
+			"color": null,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"saturation": 0,
+			"contrast": 0
+		},
+		"detectionModes": {},
+		"occludable": {
+			"radius": 0
+		},
+		"ring": {
+			"enabled": true,
+			"colors": {
+				"ring": null,
+				"background": null
+			},
+			"effects": 1,
+			"subject": {
+				"scale": 1.5,
+				"texture": "modules/pf2e-tokens-bestiaries/subjects/bestial/mammalian/yeti.webp"
+			}
+		},
+		"turnMarker": {
+			"mode": 1,
+			"animation": null,
+			"src": null,
+			"disposition": false
+		},
+		"movementAction": null,
+		"flags": {
+			"pf2e": {
+				"linkToActorSize": true,
+				"autoscale": false
+			}
+		},
+		"randomImg": false,
+		"appendNumber": false,
+		"prependAdjective": false
+	},
+	"flags": {},
+	"ownership": {
+		"default": 0
+	},
+	"sort": 100000
+}

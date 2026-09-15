@@ -1,5 +1,11 @@
 ## To be Added
 
+## 1.5.0
+
+- **New**
+  - Added Updated actors statblocks for Chapter 7. Race to the Peak (🧠 @ShyGuy32)
+  - Added battle echo form updates
+
 ## 1.4.0
 
 - **New**
