@@ -1,10 +1,14 @@
 ## To be Added
 
+## 1.5.1
+
+- Fixed issues with the abbot and initiate being swapped (🐛 @ShyGuy32)
+
 ## 1.5.0
 
 - **New**
   - Added Updated actors statblocks for Chapter 7. Race to the Peak (🧠 @ShyGuy32)
-  - Added battle echo form updates
+  - Added Battle Echo items, and rebalanced them (🧠 @ShyGuy32)
 
 ## 1.4.0
 
